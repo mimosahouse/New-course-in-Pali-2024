@@ -1,0 +1,635 @@
+{
+  "nodes": [
+    {
+      "id": "36a6276f16d98d0b",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "styleAttributes": {},
+      "x": 2080,
+      "y": 2993,
+      "width": 1364,
+      "height": 767,
+      "label": "No 5"
+    },
+    {
+      "id": "eace66d1d2ec033d",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "styleAttributes": {},
+      "x": 300,
+      "y": 3000,
+      "width": 1351,
+      "height": 760,
+      "label": "No 4"
+    },
+    {
+      "id": "77a334b0cc03a240",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "styleAttributes": {},
+      "x": 310,
+      "y": 4200,
+      "width": 1351,
+      "height": 760,
+      "label": "No 5"
+    },
+    {
+      "id": "3f19b71bd7607551",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "styleAttributes": {},
+      "x": 325,
+      "y": 5400,
+      "width": 1351,
+      "height": 760,
+      "label": "New Slide"
+    },
+    {
+      "id": "a493c63411589a91",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "styleAttributes": {},
+      "x": 280,
+      "y": 720,
+      "width": 1316,
+      "height": 740,
+      "label": "No2"
+    },
+    {
+      "id": "2ae03854e700966b",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "styleAttributes": {},
+      "x": 300,
+      "y": 1880,
+      "width": 1316,
+      "height": 740,
+      "label": "No 3"
+    },
+    {
+      "id": "26858494a40af148",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "isStartNode": true,
+      "styleAttributes": {},
+      "x": 280,
+      "y": -80,
+      "width": 1280,
+      "height": 720,
+      "label": "No 1"
+    },
+    {
+      "id": "e7ceed8c609baafa",
+      "type": "text",
+      "text": "# atthaṅgamāya\nmasc. (+gen) **disappearance (of); vanishing (of); settling down (of); subsiding (of); passing away (of)**; lit. going home [atthaṃ + gama] ✓\nGBC - Sự biến mất -> chỉ đích đến cho samvattati",
+      "styleAttributes": {},
+      "x": 1000,
+      "y": 3240,
+      "width": 480,
+      "height": 180,
+      "color": "4"
+    },
+    {
+      "id": "d6de947198d49354",
+      "type": "text",
+      "text": "# (Maggo)",
+      "styleAttributes": {},
+      "x": 340,
+      "y": 3300,
+      "width": 260,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "15bee32f0530a572",
+      "type": "text",
+      "text": "**Majjhima Nikāya 10**\n**Satipaṭṭhānasutta**\n\n1.1Evaṁ me sutaṁ—1.2ekaṁ samayaṁ bhagavā kurūsu viharati kammāsadhammaṁ nāma kurūnaṁ nigamo. 1.3Tatra kho bhagavā bhikkhū āmantesi: 1.4“bhikkhavo”ti.\n\n1.5“Bhadante”ti te bhikkhū bhagavato paccassosuṁ. 1.6Bhagavā etadavoca:\n\n2.1“Ekāyano ayaṁ, bhikkhave, maggo sattānaṁ visuddhiyā, sokaparidevānaṁ samatikkamāya, dukkhadomanassānaṁ atthaṅgamāya, ñāyassa adhigamāya, nibbānassa sacchikiriyāya, yadidaṁ cattāro satipaṭṭhānā.\n\n3.1Katame cattāro? 3.2Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; 3.3vedanāsu vedanānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; 3.4citte cittānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; 3.5dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.\n\n3.6Uddeso niṭṭhito.",
+      "styleAttributes": {},
+      "x": -600,
+      "y": -240,
+      "width": 680,
+      "height": 520
+    },
+    {
+      "id": "06e6ea82b747bada",
+      "type": "text",
+      "text": "## 2.1“Ekāyano ayaṁ, bhikkhave, maggo sattānaṁ visuddhiyā, sokaparidevānaṁ samatikkamāya, dukkhadomanassānaṁ atthaṅgamāya, ñāyassa adhigamāya, nibbānassa sacchikiriyāya, yadidaṁ cattāro satipaṭṭhānā.",
+      "styleAttributes": {},
+      "x": 310,
+      "y": -20,
+      "width": 720,
+      "height": 200
+    },
+    {
+      "id": "bf5bd8645db5ec19",
+      "type": "text",
+      "text": "# ayaṃ (pron.)\n**ayaṃ**: this, this person, this thing. ((nom. sing. of ima), m.; f.)",
+      "styleAttributes": {},
+      "x": 310,
+      "y": 280,
+      "width": 420,
+      "height": 160,
+      "color": "1"
+    },
+    {
+      "id": "8ec8c403d9c7e0c8",
+      "type": "text",
+      "text": "# Ekāyano\n**eka**: one, (only in the sing.). in plural it gives the meaning “some”. same; certain; unknown. (used for the indefinite article). (adj.)  \n**ayana**: path. (nt.)",
+      "styleAttributes": {},
+      "x": 1030,
+      "y": 225,
+      "width": 260,
+      "height": 270,
+      "color": "5"
+    },
+    {
+      "id": "b8c17496f75bde85",
+      "type": "text",
+      "text": "# Này các tì-khưu, Đây là con đường duy nhất",
+      "styleAttributes": {},
+      "x": 310,
+      "y": 560,
+      "width": 1230,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "33fe83dde70b1a7d",
+      "type": "text",
+      "text": "# dukkhadomanassānaṁ\n[domanassa](https://dpdict.net/?q=domanass%C4%81na%E1%B9%81#domanassa) nt. **(mental) suffering; distress; dissatisfaction; dejection; depression; unhappiness; grief; negative state of mind** [►](https://dpdict.net/?q=domanass%C4%81na%E1%B9%81#domanassa)\n(Dat, Gen)",
+      "styleAttributes": {},
+      "x": 1055,
+      "y": 3500,
+      "width": 425,
+      "height": 220,
+      "color": "5"
+    },
+    {
+      "id": "e3422b834769cad4",
+      "type": "text",
+      "text": "### Con đường Dẫn đến sự biến mất của Khổ và Ưu (Sự khó chịu của THÂN và sự khó chịu của TÂM)",
+      "styleAttributes": {},
+      "x": 340,
+      "y": 3580,
+      "width": 455,
+      "height": 140,
+      "color": "6"
+    },
+    {
+      "id": "96c0cf72f1b944d2",
+      "type": "text",
+      "text": "# sokaparidevānaṁ samatikkamāya",
+      "styleAttributes": {},
+      "x": 340,
+      "y": 1940,
+      "width": 715,
+      "height": 83
+    },
+    {
+      "id": "f48b07f53940fa43",
+      "type": "text",
+      "text": "# sokaparidevānaṁ\n**soka**: grief; sorrow. (m.)  Sầu\n**parideva**: wailing; lamentation. (m.) và Bi\n(Dat, Gen)",
+      "styleAttributes": {},
+      "x": 1100,
+      "y": 2400,
+      "width": 320,
+      "height": 145,
+      "color": "5"
+    },
+    {
+      "id": "6eb1b8b2fee0f1c1",
+      "type": "text",
+      "text": "# (maggo)",
+      "styleAttributes": {},
+      "x": 410,
+      "y": 2220,
+      "width": 260,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "aef4bc989c741795",
+      "type": "text",
+      "text": "# Con đường Dẫn tới sự vượt qua sầu và bi",
+      "styleAttributes": {},
+      "x": 360,
+      "y": 2490,
+      "width": 620,
+      "height": 110
+    },
+    {
+      "id": "bbb96f508fe64c2e",
+      "type": "text",
+      "text": "GBC chỉ mục đích / Nguyên nhân",
+      "styleAttributes": {},
+      "x": 1202,
+      "y": 1940,
+      "width": 338,
+      "height": 100
+    },
+    {
+      "id": "feea1f920829df43",
+      "type": "text",
+      "text": "# nibbānassa sacchikiriyāya",
+      "styleAttributes": {},
+      "x": 340,
+      "y": 4240,
+      "width": 562,
+      "height": 146,
+      "color": "6"
+    },
+    {
+      "id": "7ce40ffde461cd36",
+      "type": "text",
+      "text": "# sacchikiriyāya\nfem. (+gen) **personal experience (of); intimate experience (of); personal realization (of)**; lit. personally doing [sacchi + kiriyā] ✓\n\n---\n## Sự kinh nghiệm cái gì đó",
+      "styleAttributes": {},
+      "x": 1175,
+      "y": 4440,
+      "width": 445,
+      "height": 300,
+      "color": "4"
+    },
+    {
+      "id": "128f2e0f8ac9a90f",
+      "type": "text",
+      "text": "# samatikkamāya\n**samatikkama**: passing beyond; overcoming. (m.) Danh, Nam tính (Dat) GBC: \n### **Sự vượt qua**",
+      "styleAttributes": {},
+      "x": 910,
+      "y": 2180,
+      "width": 380,
+      "height": 140,
+      "color": "4"
+    },
+    {
+      "id": "59cab4c07a2987a4",
+      "type": "text",
+      "text": "# nibbānassa\nGEN, DAT",
+      "styleAttributes": {},
+      "x": 1360,
+      "y": 4800,
+      "width": 260,
+      "height": 140,
+      "color": "5"
+    },
+    {
+      "id": "16482cc9faf359f5",
+      "type": "text",
+      "text": "# (Maggo)",
+      "styleAttributes": {},
+      "x": 358,
+      "y": 4560,
+      "width": 260,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "98d0910010fa6024",
+      "type": "text",
+      "text": "# Con đường dẫn tới sự chứng nghiệm Nibbāna",
+      "styleAttributes": {},
+      "x": 358,
+      "y": 4870,
+      "width": 844,
+      "height": 70
+    },
+    {
+      "id": "5aa4ffeb968aae8c",
+      "type": "text",
+      "text": "# yadidaṁ cattāro satipaṭṭhānā.",
+      "styleAttributes": {},
+      "x": 358,
+      "y": 5440,
+      "width": 561,
+      "height": 97
+    },
+    {
+      "id": "a61b6a3f9959e19f",
+      "type": "text",
+      "text": "# Yad - idaṃ\nsandhi. **namely; that is**; lit. which this [yad + idaṃ] ✓",
+      "styleAttributes": {},
+      "x": 400,
+      "y": 5640,
+      "width": 260,
+      "height": 200,
+      "color": "1"
+    },
+    {
+      "id": "ce35fe8fabe09bae",
+      "type": "text",
+      "text": "# satipaṭṭhānā\n[satipaṭṭhāna 1](https://dpdict.net/?q=satipa%E1%B9%AD%E1%B9%ADh%C4%81n%C4%81#satipa%E1%B9%AD%E1%B9%ADh%C4%81na_1) masc. **attending mindfully; being present with mindfulness** [►](https://dpdict.net/?q=satipa%E1%B9%AD%E1%B9%ADh%C4%81n%C4%81#satipa%E1%B9%AD%E1%B9%ADh%C4%81na_1)",
+      "styleAttributes": {},
+      "x": 910,
+      "y": 5640,
+      "width": 358,
+      "height": 200,
+      "color": "4"
+    },
+    {
+      "id": "45ecd75e662e09e3",
+      "type": "text",
+      "text": "# cattāro\n4",
+      "styleAttributes": {},
+      "x": 1138,
+      "y": 5940,
+      "width": 260,
+      "height": 90,
+      "color": "5"
+    },
+    {
+      "id": "98779063e1cb7ae4",
+      "type": "text",
+      "text": "# Đó là bốn sự Thiết lập Niệm ()",
+      "styleAttributes": {},
+      "x": 410,
+      "y": 6030,
+      "width": 630,
+      "height": 90
+    },
+    {
+      "id": "ba52cdcea1f4ded8",
+      "type": "text",
+      "text": "# dukkhadomanassānaṁ atthaṅgamāya",
+      "styleAttributes": {},
+      "x": 340,
+      "y": 3037,
+      "width": 835,
+      "height": 103,
+      "color": "6"
+    },
+    {
+      "id": "3f391ca833a8fe40",
+      "type": "text",
+      "text": "# maggo",
+      "styleAttributes": {},
+      "x": 310,
+      "y": 800,
+      "width": 260,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "7d2b6cf86a6757e7",
+      "type": "text",
+      "text": "# visuddhiyā\n---\n[visuddhi 1.1](https://dpdict.net/?q=visuddhiy%C4%81#visuddhi_1_1) fem. **purity (of); purification (of); holiness** [►](https://dpdict.net/?q=visuddhiy%C4%81#visuddhi_1_1)\n(+Gen)\n= visuddhi + yā -> 4 cách: SHC, GBC, DCC, XXC, VTC của danh từ nữ tính Visuddhi",
+      "styleAttributes": {},
+      "x": 1055,
+      "y": 800,
+      "width": 470,
+      "height": 271,
+      "color": "4"
+    },
+    {
+      "id": "1958c07c5037a617",
+      "type": "text",
+      "text": "# sattānaṁ\n[satta 2.1](https://dpdict.net/?q=satta#satta_2_1) masc. **being; living being; creature** [►](https://dpdict.net/?q=satta#satta_2_1)\n(Gen) - SHC chỉ đối tượng sở hữu",
+      "styleAttributes": {},
+      "x": 1265,
+      "y": 1240,
+      "width": 260,
+      "height": 140,
+      "color": "5"
+    },
+    {
+      "id": "4fca4743e546dabe",
+      "type": "text",
+      "text": "# Con đường (lead to) thanh tịnh của chúng sinh",
+      "styleAttributes": {},
+      "x": 310,
+      "y": 1290,
+      "width": 850,
+      "height": 90,
+      "color": "6"
+    },
+    {
+      "id": "6ad0c3ae5099f849",
+      "type": "text",
+      "text": "# ñāyassa adhigamāya,",
+      "styleAttributes": {},
+      "x": 2140,
+      "y": 3037,
+      "width": 540,
+      "height": 120
+    },
+    {
+      "id": "db44cffc5955b9ac",
+      "type": "text",
+      "text": "# (Maggo)",
+      "styleAttributes": {},
+      "x": 2140,
+      "y": 3270,
+      "width": 260,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "1189b8815c8f01d8",
+      "type": "text",
+      "text": "# adhigamāya\nGBC\n[adhigama 2](https://dpdict.net/?q=adhigam%C4%81ya#adhigama_2) masc. **attainment (of); achievement (of)**; lit. arrival [►](https://dpdict.net/?q=adhigam%C4%81ya#adhigama_2)\n### Sự đạt được\nmasc. (+gen) **attainment (of); achievement (of)**; lit. arrival [adhi + √gam + a] ✓\n\n[grammar](https://dpdict.net/?q=masc.%20(%2Bgen)%20attainment%20(of)%3B%20achievement%20(of)%3B%20lit.%20arrival%20%5Badhi%20%2B%20%E2%88%9Agam%20%2B%20a%5D%20%E2%9C%93grammarexamplesdeclensionroot%20familycompound%20familyfrequencyfeedback#)[examples](https://dpdict.net/?q=masc.%20(%2Bgen)%20attainment%20(of)%3B%20achievement%20(of)%3B%20lit.%20arrival%20%5Badhi%20%2B%20%E2%88%9Agam%20%2B%20a%5D%20%E2%9C%93grammarexamplesdeclensionroot%20familycompound%20familyfrequencyfeedback#)[declension](https://dpdict.net/?q=masc.%20(%2Bgen)%20attainment%20(of)%3B%20achievement%20(of)%3B%20lit.%20arrival%20%5Badhi%20%2B%20%E2%88%9Agam%20%2B%20a%5D%20%E2%9C%93grammarexamplesdeclensionroot%20familycompound%20familyfrequencyfeedback#)[root family](https://dpdict.net/?q=masc.%20(%2Bgen)%20attainment%20(of)%3B%20achievement%20(of)%3B%20lit.%20arrival%20%5Badhi%20%2B%20%E2%88%9Agam%20%2B%20a%5D%20%E2%9C%93grammarexamplesdeclensionroot%20familycompound%20familyfrequencyfeedback#)[compound family](https://dpdict.net/?q=masc.%20(%2Bgen)%20attainment%20(of)%3B%20achievement%20(of)%3B%20lit.%20arrival%20%5Badhi%20%2B%20%E2%88%9Agam%20%2B%20a%5D%20%E2%9C%93grammarexamplesdeclensionroot%20familycompound%20familyfrequencyfeedback#)[frequency](https://dpdict.net/?q=masc.%20(%2Bgen)%20attainment%20(of)%3B%20achievement%20(of)%3B%20lit.%20arrival%20%5Badhi%20%2B%20%E2%88%9Agam%20%2B%20a%5D%20%E2%9C%93grammarexamplesdeclensionroot%20familycompound%20familyfrequencyfeedback#)[feedback](https://dpdict.net/?q=masc.%20(%2Bgen)%20attainment%20(of)%3B%20achievement%20(of)%3B%20lit.%20arrival%20%5Badhi%20%2B%20%E2%88%9Agam%20%2B%20a%5D%20%E2%9C%93grammarexamplesdeclensionroot%20familycompound%20familyfrequencyfeedback#)",
+      "styleAttributes": {},
+      "x": 2820,
+      "y": 3020,
+      "width": 580,
+      "height": 380,
+      "color": "4"
+    },
+    {
+      "id": "9e5accd52183a892",
+      "type": "text",
+      "text": "# ñāyassa\n[ñāya](https://dpdict.net/?q=%C3%B1%C4%81yassa#%C3%B1%C4%81ya) masc. **way; means; method; system** [►](https://dpdict.net/?q=%C3%B1%C4%81yassa#%C3%B1%C4%81ya)\nGen of ñāya - Phương pháp",
+      "styleAttributes": {},
+      "x": 3000,
+      "y": 3460,
+      "width": 400,
+      "height": 190,
+      "color": "5"
+    },
+    {
+      "id": "b7c10c13907797ed",
+      "type": "text",
+      "text": "# Con đường dẫn tới sự đạt được phương pháp",
+      "styleAttributes": {},
+      "x": 2140,
+      "y": 3610,
+      "width": 800,
+      "height": 100
+    }
+  ],
+  "edges": [
+    {
+      "id": "0de2f1d90cde9ca3",
+      "styleAttributes": {},
+      "fromNode": "bf5bd8645db5ec19",
+      "fromSide": "right",
+      "toNode": "8ec8c403d9c7e0c8",
+      "toSide": "left",
+      "label": "hoti"
+    },
+    {
+      "id": "b7d01bb7581b1acf",
+      "styleAttributes": {},
+      "fromNode": "3f391ca833a8fe40",
+      "fromSide": "bottom",
+      "toNode": "7d2b6cf86a6757e7",
+      "toSide": "left",
+      "color": "1",
+      "label": "hoti"
+    },
+    {
+      "id": "48a064edf777f6ce",
+      "styleAttributes": {},
+      "fromNode": "7d2b6cf86a6757e7",
+      "fromSide": "bottom",
+      "toNode": "1958c07c5037a617",
+      "toSide": "left",
+      "color": "4"
+    },
+    {
+      "id": "919879ac9b5b314c",
+      "styleAttributes": {},
+      "fromNode": "26858494a40af148",
+      "fromSide": "left",
+      "toNode": "a493c63411589a91",
+      "toSide": "left",
+      "label": "1"
+    },
+    {
+      "id": "b7a5a953e2e6f202",
+      "styleAttributes": {},
+      "fromNode": "128f2e0f8ac9a90f",
+      "fromSide": "bottom",
+      "toNode": "f48b07f53940fa43",
+      "toSide": "left",
+      "color": "4"
+    },
+    {
+      "id": "64eeaeb912b56b6f",
+      "styleAttributes": {},
+      "fromNode": "6eb1b8b2fee0f1c1",
+      "fromSide": "right",
+      "toNode": "128f2e0f8ac9a90f",
+      "toSide": "left",
+      "color": "1",
+      "label": "(samvattati)"
+    },
+    {
+      "id": "460243a7feae1463",
+      "styleAttributes": {},
+      "fromNode": "a493c63411589a91",
+      "fromSide": "right",
+      "toNode": "2ae03854e700966b",
+      "toSide": "right",
+      "label": "2"
+    },
+    {
+      "id": "34a2f8fce66e4782",
+      "styleAttributes": {},
+      "fromNode": "e7ceed8c609baafa",
+      "fromSide": "bottom",
+      "toNode": "33fe83dde70b1a7d",
+      "toSide": "left",
+      "color": "4"
+    },
+    {
+      "id": "ca172c98959bdc52",
+      "styleAttributes": {},
+      "fromNode": "d6de947198d49354",
+      "fromSide": "right",
+      "toNode": "e7ceed8c609baafa",
+      "toSide": "left",
+      "color": "1",
+      "label": "(samvattati)"
+    },
+    {
+      "id": "01d4e0546efd9a49",
+      "styleAttributes": {},
+      "fromNode": "7ce40ffde461cd36",
+      "fromSide": "bottom",
+      "toNode": "59cab4c07a2987a4",
+      "toSide": "left",
+      "color": "4"
+    },
+    {
+      "id": "3bfb8cdd0e7ce225",
+      "styleAttributes": {},
+      "fromNode": "16482cc9faf359f5",
+      "fromSide": "right",
+      "toNode": "7ce40ffde461cd36",
+      "toSide": "left",
+      "color": "1",
+      "label": "(Samvattati)"
+    },
+    {
+      "id": "07fcdd3e20c9f0a4",
+      "styleAttributes": {},
+      "fromNode": "2ae03854e700966b",
+      "fromSide": "left",
+      "toNode": "eace66d1d2ec033d",
+      "toSide": "left",
+      "label": "3"
+    },
+    {
+      "id": "90132ad7b1eb6fc4",
+      "fromNode": "db44cffc5955b9ac",
+      "fromSide": "bottom",
+      "toNode": "1189b8815c8f01d8",
+      "toSide": "left",
+      "color": "1",
+      "label": "samvattati"
+    },
+    {
+      "id": "ad2ad8a4cddc3472",
+      "styleAttributes": {},
+      "fromNode": "1189b8815c8f01d8",
+      "fromSide": "bottom",
+      "toNode": "9e5accd52183a892",
+      "toSide": "left"
+    },
+    {
+      "id": "340347629ba8c6e5",
+      "styleAttributes": {},
+      "fromNode": "eace66d1d2ec033d",
+      "fromSide": "right",
+      "toNode": "36a6276f16d98d0b",
+      "toSide": "left",
+      "label": "4"
+    },
+    {
+      "id": "ebf217189d6498df",
+      "styleAttributes": {},
+      "fromNode": "36a6276f16d98d0b",
+      "fromSide": "bottom",
+      "toNode": "77a334b0cc03a240",
+      "toSide": "right",
+      "label": "5"
+    },
+    {
+      "id": "f193098334f2352e",
+      "styleAttributes": {},
+      "fromNode": "77a334b0cc03a240",
+      "fromSide": "left",
+      "toNode": "3f19b71bd7607551",
+      "toSide": "left",
+      "label": "6"
+    },
+    {
+      "id": "3e517307ddfa9372",
+      "styleAttributes": {},
+      "fromNode": "ce35fe8fabe09bae",
+      "fromSide": "bottom",
+      "toNode": "45ecd75e662e09e3",
+      "toSide": "left",
+      "color": "4"
+    },
+    {
+      "id": "4849f0c4ec1b129a",
+      "styleAttributes": {},
+      "fromNode": "a61b6a3f9959e19f",
+      "fromSide": "right",
+      "toNode": "ce35fe8fabe09bae",
+      "toSide": "left",
+      "color": "1",
+      "label": "(hoti)"
+    }
+  ],
+  "metadata": {}
+}

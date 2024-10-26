@@ -1,0 +1,476 @@
+{
+  "nodes": [
+    {
+      "id": "9d0140acfdec35b1",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "styleAttributes": {},
+      "x": -2120,
+      "y": 1320,
+      "width": 1422,
+      "height": 800,
+      "label": "New Slide"
+    },
+    {
+      "id": "aab1a59444ddb3bb",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "isStartNode": true,
+      "styleAttributes": {},
+      "x": -560,
+      "y": -340,
+      "width": 1200,
+      "height": 675,
+      "label": "Start Slide"
+    },
+    {
+      "id": "1ccb7a526720a6f0",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 155,
+      "y": -135,
+      "width": 370,
+      "height": 335,
+      "label": "Mở rộng kiến thức"
+    },
+    {
+      "id": "dffd833e18370fa4",
+      "type": "text",
+      "text": "# Làm sao để học giỏi Pāḷi?",
+      "styleAttributes": {},
+      "x": -460,
+      "y": -320,
+      "width": 400,
+      "height": 100,
+      "color": "1"
+    },
+    {
+      "id": "02ad69d17adb14bc",
+      "type": "text",
+      "text": "# Phương pháp học",
+      "styleAttributes": {},
+      "x": 100,
+      "y": -320,
+      "width": 440,
+      "height": 100
+    },
+    {
+      "id": "925e73ec03dc3526",
+      "type": "text",
+      "text": "# Pāḷi",
+      "styleAttributes": {},
+      "x": -2000,
+      "y": 565,
+      "width": 170,
+      "height": 110,
+      "color": "6"
+    },
+    {
+      "id": "c4e71cf66720b3f2",
+      "type": "file",
+      "file": "Pali 2024 _ Wednessday/Bài 1 lớp Thứ 5/Học cách học.canvas",
+      "styleAttributes": {},
+      "x": -1420,
+      "y": 1420,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "ee51734658127ff8",
+      "type": "text",
+      "text": "# Làm sao để học giỏi Pāḷi?",
+      "styleAttributes": {},
+      "x": -2000,
+      "y": 1720,
+      "width": 400,
+      "height": 100,
+      "color": "1"
+    },
+    {
+      "id": "0f1ba60e2c7fa087",
+      "type": "text",
+      "text": "# Phương pháp",
+      "styleAttributes": {},
+      "x": -2760,
+      "y": 560,
+      "width": 260,
+      "height": 118,
+      "color": "1"
+    },
+    {
+      "id": "5f1e34a34cddfa40",
+      "type": "text",
+      "text": "# Học",
+      "styleAttributes": {},
+      "x": -2340,
+      "y": 575,
+      "width": 160,
+      "height": 89,
+      "color": "4"
+    },
+    {
+      "id": "c79a76f010fbb6d8",
+      "type": "text",
+      "text": "# What?",
+      "styleAttributes": {},
+      "x": -2630,
+      "y": 760,
+      "width": 180,
+      "height": 100,
+      "color": "1"
+    },
+    {
+      "id": "d6c869186c62d62a",
+      "type": "text",
+      "text": "# Giỏi",
+      "styleAttributes": {},
+      "x": -2180,
+      "y": 780,
+      "width": 140,
+      "height": 110,
+      "color": "5"
+    },
+    {
+      "id": "5a77a4cdea5eb06e",
+      "type": "text",
+      "text": "# Học tập là một quá trình từ tiếp nhận thông tin, xử lý, lưu trữ thông tin để giải quyết một vấn đề cụ thể ",
+      "styleAttributes": {},
+      "x": -560,
+      "y": 458,
+      "width": 750,
+      "height": 204
+    },
+    {
+      "id": "374e2e56fdccab55",
+      "type": "text",
+      "text": "# Đọc sách, tài liệu, xem video,...",
+      "styleAttributes": {},
+      "x": -445,
+      "y": 780,
+      "width": 445,
+      "height": 140,
+      "color": "1"
+    },
+    {
+      "id": "9a6c18656376ace6",
+      "type": "text",
+      "text": "# Mở mang kiến thức",
+      "styleAttributes": {},
+      "x": 175,
+      "y": 60,
+      "width": 330,
+      "height": 120,
+      "color": "4"
+    },
+    {
+      "id": "a8192f7b156c6036",
+      "type": "text",
+      "text": "# Hiểu  ",
+      "styleAttributes": {},
+      "x": -445,
+      "y": 1000,
+      "width": 445,
+      "height": 160,
+      "color": "1"
+    },
+    {
+      "id": "1f97843df3eb501e",
+      "type": "text",
+      "text": "# Nhớ",
+      "styleAttributes": {},
+      "x": -445,
+      "y": 1240,
+      "width": 445,
+      "height": 180,
+      "color": "1"
+    },
+    {
+      "id": "dfff83655b66652b",
+      "type": "text",
+      "text": "# Áp dụng kiến thức vào mục đích của mình",
+      "styleAttributes": {},
+      "x": 175,
+      "y": 240,
+      "width": 330,
+      "height": 160,
+      "color": "4"
+    },
+    {
+      "id": "974c64d1422067f2",
+      "type": "text",
+      "text": "# Pāli là gì?",
+      "styleAttributes": {},
+      "x": 680,
+      "y": -115,
+      "width": 260,
+      "height": 70
+    },
+    {
+      "id": "5a47490157ac381d",
+      "type": "text",
+      "text": "# hiểu kinh điển",
+      "styleAttributes": {},
+      "x": 680,
+      "y": 265,
+      "width": 320,
+      "height": 110
+    },
+    {
+      "id": "49ec2aac1b900311",
+      "type": "text",
+      "text": "# Active Recall",
+      "styleAttributes": {},
+      "x": 1288,
+      "y": -100,
+      "width": 730,
+      "height": 160
+    },
+    {
+      "id": "1d32eb5f0fe394a1",
+      "type": "text",
+      "text": "# sự hổi tưởng chủ động",
+      "styleAttributes": {},
+      "x": 1288,
+      "y": 145,
+      "width": 625,
+      "height": 120
+    },
+    {
+      "id": "a850856c97f6caf4",
+      "type": "text",
+      "text": "# Đặt câu hỏi và tự trả lời",
+      "styleAttributes": {},
+      "x": 1288,
+      "y": 345,
+      "width": 565,
+      "height": 110
+    },
+    {
+      "id": "56aa0d52364f75b6",
+      "type": "text",
+      "text": "# Dạy cho người khacs",
+      "styleAttributes": {},
+      "x": 1288,
+      "y": 502,
+      "width": 605,
+      "height": 160
+    },
+    {
+      "id": "85fb32382912ae81",
+      "type": "text",
+      "text": "# Học là gì?",
+      "styleAttributes": {},
+      "x": -370,
+      "y": -120,
+      "width": 370,
+      "height": 140,
+      "color": "1"
+    },
+    {
+      "id": "68a1e477c0bcf51a",
+      "type": "text",
+      "text": "# 1. Tìm hiều về bộ môn",
+      "styleAttributes": {},
+      "x": 175,
+      "y": -115,
+      "width": 330,
+      "height": 130,
+      "color": "4"
+    },
+    {
+      "id": "7ddef892d77b9fda",
+      "type": "text",
+      "text": "# Lặp lại ngắt quãng",
+      "styleAttributes": {},
+      "x": 550,
+      "y": 1590,
+      "width": 570,
+      "height": 110
+    },
+    {
+      "id": "fbdd5a7d9e5863ad",
+      "type": "text",
+      "text": "Đường cong lãng quên",
+      "styleAttributes": {},
+      "x": 1472,
+      "y": 1673,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "4fba67a8dbf59072",
+      "type": "file",
+      "file": "Pasted image 20241008125645.png",
+      "styleAttributes": {},
+      "x": 1500,
+      "y": 1995,
+      "width": 689,
+      "height": 459
+    },
+    {
+      "id": "234c977f7c4623f6",
+      "type": "text",
+      "text": "# Thay đổi cuộc sống",
+      "styleAttributes": {},
+      "x": 1120,
+      "y": 820,
+      "width": 260,
+      "height": 100
+    },
+    {
+      "id": "1fd3f888207f4391",
+      "type": "text",
+      "text": "# Thay đổi tư duy & Nhận thức",
+      "styleAttributes": {},
+      "x": 650,
+      "y": 820,
+      "width": 380,
+      "height": 100
+    }
+  ],
+  "edges": [
+    {
+      "id": "2d5d646a15c1a7ac",
+      "styleAttributes": {},
+      "fromNode": "aab1a59444ddb3bb",
+      "fromSide": "left",
+      "toNode": "9d0140acfdec35b1",
+      "toSide": "left"
+    },
+    {
+      "id": "77c744f49b6b4c1b",
+      "fromNode": "ee51734658127ff8",
+      "fromSide": "right",
+      "toNode": "c4e71cf66720b3f2",
+      "toSide": "left"
+    },
+    {
+      "id": "45f30f1035c8ae37",
+      "fromNode": "0f1ba60e2c7fa087",
+      "fromSide": "right",
+      "toNode": "5f1e34a34cddfa40",
+      "toSide": "left"
+    },
+    {
+      "id": "f743712bc6b45429",
+      "fromNode": "0f1ba60e2c7fa087",
+      "fromSide": "bottom",
+      "toNode": "c79a76f010fbb6d8",
+      "toSide": "left"
+    },
+    {
+      "id": "9a052568ed7af402",
+      "fromNode": "5f1e34a34cddfa40",
+      "fromSide": "bottom",
+      "toNode": "d6c869186c62d62a",
+      "toSide": "left"
+    },
+    {
+      "id": "c9a8a0b28f1db01c",
+      "fromNode": "5f1e34a34cddfa40",
+      "fromSide": "right",
+      "toNode": "925e73ec03dc3526",
+      "toSide": "left"
+    },
+    {
+      "id": "ce28017a74e20779",
+      "styleAttributes": {},
+      "fromNode": "85fb32382912ae81",
+      "fromSide": "right",
+      "toNode": "68a1e477c0bcf51a",
+      "toSide": "left"
+    },
+    {
+      "id": "584d1a8c87b915c1",
+      "styleAttributes": {},
+      "fromNode": "dfff83655b66652b",
+      "fromSide": "right",
+      "toNode": "5a47490157ac381d",
+      "toSide": "left",
+      "color": "4"
+    },
+    {
+      "id": "f897ed8aa6958977",
+      "styleAttributes": {},
+      "fromNode": "85fb32382912ae81",
+      "fromSide": "right",
+      "toNode": "9a6c18656376ace6",
+      "toSide": "left"
+    },
+    {
+      "id": "4df8e20f7a274d6c",
+      "styleAttributes": {},
+      "fromNode": "85fb32382912ae81",
+      "fromSide": "right",
+      "toNode": "dfff83655b66652b",
+      "toSide": "left"
+    },
+    {
+      "id": "235c2eccc6d5c2ad",
+      "styleAttributes": {},
+      "fromNode": "1ccb7a526720a6f0",
+      "fromSide": "right",
+      "toNode": "974c64d1422067f2",
+      "toSide": "left"
+    },
+    {
+      "id": "fe3ea9c029ce2ced",
+      "styleAttributes": {},
+      "fromNode": "1fd3f888207f4391",
+      "fromSide": "right",
+      "toNode": "234c977f7c4623f6",
+      "toSide": "left"
+    },
+    {
+      "id": "c681abf647383469",
+      "styleAttributes": {},
+      "fromNode": "dfff83655b66652b",
+      "fromSide": "right",
+      "toNode": "1fd3f888207f4391",
+      "toSide": "left"
+    },
+    {
+      "id": "0f771f889b2ace45",
+      "styleAttributes": {},
+      "fromNode": "85fb32382912ae81",
+      "fromSide": "bottom",
+      "toNode": "5a77a4cdea5eb06e",
+      "toSide": "top"
+    },
+    {
+      "id": "c72c78a1b8255cfb",
+      "styleAttributes": {},
+      "fromNode": "5a77a4cdea5eb06e",
+      "fromSide": "bottom",
+      "toNode": "374e2e56fdccab55",
+      "toSide": "top"
+    },
+    {
+      "id": "56b6f757db6cf0d6",
+      "styleAttributes": {},
+      "fromNode": "374e2e56fdccab55",
+      "fromSide": "bottom",
+      "toNode": "a8192f7b156c6036",
+      "toSide": "top",
+      "color": "1"
+    },
+    {
+      "id": "34f36c70e3b1a6d5",
+      "styleAttributes": {},
+      "fromNode": "a8192f7b156c6036",
+      "fromSide": "bottom",
+      "toNode": "1f97843df3eb501e",
+      "toSide": "top",
+      "color": "1"
+    },
+    {
+      "id": "8c2316edcfc1c454",
+      "styleAttributes": {},
+      "fromNode": "7ddef892d77b9fda",
+      "fromSide": "right",
+      "toNode": "fbdd5a7d9e5863ad",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {}
+}

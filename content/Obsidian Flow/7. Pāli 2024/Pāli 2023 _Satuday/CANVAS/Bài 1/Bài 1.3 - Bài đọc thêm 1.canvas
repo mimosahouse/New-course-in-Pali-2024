@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"8aa59380e85f643d","type":"text","text":"# [1] Bhaṇḍanaṃ nidānaṃ hoti, yena bhaṇḍanaṃ uppajjati. (Ngạn ngữ Latin)","x":-660,"y":-1180,"width":1500,"height":100,"color":"4"},
+		{"id":"9378002302231262","type":"text","text":"# etaṃ","x":-580,"y":100,"width":250,"height":60},
+		{"id":"769d3ecf64c30f93","type":"text","text":"# maṅgalamuttamaṃ","x":385,"y":100,"width":415,"height":60},
+		{"id":"3ec6ac79e92a44cd","type":"text","text":"# (Hoti)","x":-95,"y":100,"width":250,"height":60},
+		{"id":"186483e4a581c67e","type":"text","text":"# Đại từ có chức năng chủ từ\n## - These","x":-455,"y":240,"width":255,"height":200},
+		{"id":"3c1ec3083c315ecc","type":"text","text":"# Đồng vị - Eta.m đồng vị với 3 danh từ trên","x":-455,"y":500,"width":1235,"height":100},
+		{"id":"2884162b84c534ce","type":"text","text":"# Bhaṇḍanaṃ\n### Danh từ trung tính - sự tranh cãi\n### Chủ cách or Trực BC","x":-620,"y":-1014,"width":480,"height":194},
+		{"id":"83e9773a045392ac","type":"text","text":"# nidānaṃ\n#### Danh từ trung tính - Nguyên nhân - CC","x":540,"y":-1003,"width":310,"height":172},
+		{"id":"05648e0d21b4fdae","type":"text","text":"# (Hoti)","x":60,"y":-947,"width":250,"height":60},
+		{"id":"a3204fa5bba4d1a7","type":"text","text":"# bhaṇḍanaṃ","x":-620,"y":-700,"width":400,"height":140},
+		{"id":"6a883b681fda77aa","type":"text","text":"# A","x":-620,"y":-820,"width":250,"height":60},
+		{"id":"e37db4302a9f744f","type":"text","text":"# B","x":540,"y":-831,"width":250,"height":60},
+		{"id":"45dfcdb8a33966b7","type":"text","text":"# C","x":-620,"y":-560,"width":250,"height":60},
+		{"id":"788f19d5c5a9593c","type":"text","text":"# Sự tranh cãi là nguyên nhân, do bởi nguyên nhân ấy, sự tranh cãi sinh lên","x":-620,"y":-320,"width":1190,"height":120},
+		{"id":"04e23578bef15dfd","type":"text","text":"# Yena","x":600,"y":-560,"width":250,"height":175},
+		{"id":"f78517acab507efd","type":"text","text":"# uppajjati\nSinh lên","x":60,"y":-695,"width":300,"height":130},
+		{"id":"7b182acc087295cb","x":1040,"y":-300,"width":520,"height":540,"type":"file","file":"2024/Từ vựng/atthi.md"}
+	],
+	"edges":[
+		{"id":"fd5da81dbdd53a00","fromNode":"2884162b84c534ce","fromSide":"right","toNode":"83e9773a045392ac","toSide":"left"},
+		{"id":"317c6652a6cb7515","fromNode":"9378002302231262","fromSide":"right","toNode":"769d3ecf64c30f93","toSide":"left"},
+		{"id":"b5bf97208823b21f","fromNode":"9378002302231262","fromSide":"bottom","toNode":"186483e4a581c67e","toSide":"left"},
+		{"id":"bc185e867a263a7a","fromNode":"f78517acab507efd","fromSide":"bottom","toNode":"04e23578bef15dfd","toSide":"left"},
+		{"id":"f47c6d9b917394ed","fromNode":"a3204fa5bba4d1a7","fromSide":"right","toNode":"f78517acab507efd","toSide":"left"}
+	]
+}

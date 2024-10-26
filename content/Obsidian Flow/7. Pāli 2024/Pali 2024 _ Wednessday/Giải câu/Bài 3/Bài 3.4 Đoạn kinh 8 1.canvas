@@ -1,0 +1,955 @@
+{
+  "nodes": [
+    {
+      "id": "f3d4e6a83af0bdd1",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "styleAttributes": {},
+      "x": 4840,
+      "y": 880,
+      "width": 1200,
+      "height": 780,
+      "label": "New Slide"
+    },
+    {
+      "id": "26c94733fd1712ad",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "isStartNode": true,
+      "styleAttributes": {},
+      "x": 4840,
+      "y": -200,
+      "width": 1200,
+      "height": 675,
+      "label": "Start Slide"
+    },
+    {
+      "id": "a22dc02c98ee0853",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "styleAttributes": {},
+      "x": 4820,
+      "y": 2720,
+      "width": 1200,
+      "height": 675,
+      "label": "New Slide"
+    },
+    {
+      "id": "8f5926a0ce472df6",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "styleAttributes": {},
+      "x": 4840,
+      "y": 3685,
+      "width": 1200,
+      "height": 675,
+      "label": "New Slide"
+    },
+    {
+      "id": "02c9bc13c9e4b76f",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "styleAttributes": {},
+      "x": 4850,
+      "y": 5120,
+      "width": 1200,
+      "height": 675,
+      "label": "New Slide"
+    },
+    {
+      "id": "e7726823fc606508",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 4820,
+      "y": -1060,
+      "width": 1150,
+      "height": 580,
+      "label": "Câu 1 - 2 dòng đầu"
+    },
+    {
+      "id": "928667615e862fd3",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 10060,
+      "y": 1000,
+      "width": 1200,
+      "height": 540,
+      "label": "Thì người ta phải bảo vệ "
+    },
+    {
+      "id": "2fa4c5bbe50ca43c",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 10060,
+      "y": 540,
+      "width": 1200,
+      "height": 420,
+      "label": "Nếu người ta biết bản thân là đáng yêu"
+    },
+    {
+      "id": "3a4eeee3678f9220",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 4985,
+      "y": -780,
+      "width": 965,
+      "height": 280,
+      "color": "1",
+      "label": "Nội dung của Taṃ"
+    },
+    {
+      "id": "70d87567b1bcd3f6",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 5180,
+      "y": 925,
+      "width": 360,
+      "height": 330,
+      "label": "Đừng cho rằng"
+    },
+    {
+      "id": "43ae1e097987b147",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 4840,
+      "y": -980,
+      "width": 1110,
+      "height": 100,
+      "label": "Mệnh đề chính"
+    },
+    {
+      "id": "6fe294ef4ab29431",
+      "type": "text",
+      "text": "# no",
+      "styleAttributes": {},
+      "x": 5554,
+      "y": 1432,
+      "width": 113,
+      "height": 84,
+      "color": "5"
+    },
+    {
+      "id": "586899e9e05126ff",
+      "type": "text",
+      "text": "# (Các ông) Đừng xem rằng việc đó là do mình hay do người khác\"",
+      "styleAttributes": {},
+      "x": 4895,
+      "y": 1405,
+      "width": 526,
+      "height": 106,
+      "color": "6"
+    },
+    {
+      "id": "143eeddc21dc3224",
+      "type": "text",
+      "text": "# Attanaṃ\nBản thân, mình [trực bổ cách, số ít]",
+      "styleAttributes": {},
+      "x": 10875,
+      "y": 1070,
+      "width": 340,
+      "height": 140,
+      "color": "6"
+    },
+    {
+      "id": "26622d7b22a8d4ac",
+      "type": "text",
+      "text": "# naṃ = taṃ\nĐại từ nhân xưng/chỉ định ngôi 3\n\nNgười ấy, vật ấy [trực bổ cách, số ít, nam tính]\n",
+      "styleAttributes": {},
+      "x": 10980,
+      "y": 1320,
+      "width": 320,
+      "height": 180,
+      "color": "1"
+    },
+    {
+      "id": "d1dd23c949ca6086",
+      "type": "text",
+      "text": "# surakkhitaṃ\nTính\nĐược bảo vệ tốt, được phòng hộ tốt",
+      "styleAttributes": {},
+      "x": 10625,
+      "y": 1340,
+      "width": 250,
+      "height": 160
+    },
+    {
+      "id": "3b47d6743518d621",
+      "type": "text",
+      "text": "# bắng sự bảo vệ tốt đẹp",
+      "styleAttributes": {},
+      "x": 10640,
+      "y": 1600,
+      "width": 500,
+      "height": 140
+    },
+    {
+      "id": "639a1dd48bf37d22",
+      "type": "text",
+      "text": "# rakkheyya\nĐộng, chủ động, cầu khiến\n### Bảo vệ",
+      "styleAttributes": {},
+      "x": 10500,
+      "y": 1020,
+      "width": 250,
+      "height": 240,
+      "color": "4"
+    },
+    {
+      "id": "911f97e676124ce9",
+      "type": "text",
+      "text": "# (người ta / Người đó)\n# (satto)",
+      "styleAttributes": {},
+      "x": 10080,
+      "y": 1065,
+      "width": 250,
+      "height": 150,
+      "color": "1"
+    },
+    {
+      "id": "3039e3749c6fb587",
+      "type": "text",
+      "text": "# “Affected by pleasure and pain in the village or wilderness,\n# you should certainly not consider it as due to oneself or another.\n\n# “Contacts affect one with cleaving as condition,\n# How could contacts affect one without cleaving?”\n\n---\n# Ở làng hay ở rừng\n# kẻ tiếp xúc với lạc và khổ\n# Không nên xem do bản thân\n# Hay do người khác\n---\n# Những sự xúc chạm tác động tới người càn dính mắc\n# Làm sao nó có thể tác động người không còn dính mắc?\n",
+      "styleAttributes": {},
+      "x": 4895,
+      "y": 1760,
+      "width": 833,
+      "height": 720,
+      "color": "4"
+    },
+    {
+      "id": "a00b28764486f039",
+      "type": "text",
+      "text": "# Các tiếp xúc xảy ra do sự gắn bó; \n# làm sao các tiếp xúc có thể tác động đến người không còn gắn bó?”\n\n",
+      "styleAttributes": {},
+      "x": 5750,
+      "y": 1760,
+      "width": 570,
+      "height": 300,
+      "color": "6"
+    },
+    {
+      "id": "4e3006dcbb36e903",
+      "type": "text",
+      "text": "# (tumhe)",
+      "styleAttributes": {},
+      "x": 4880,
+      "y": 1005,
+      "width": 185,
+      "height": 85,
+      "color": "1"
+    },
+    {
+      "id": "0f66743066bb4f5a",
+      "type": "text",
+      "text": "# Attanaṃ\nBản thân, mình [trực bổ cách, số ít]",
+      "styleAttributes": {},
+      "x": 10900,
+      "y": 600,
+      "width": 340,
+      "height": 140,
+      "color": "6"
+    },
+    {
+      "id": "d9aacb56aa376eb9",
+      "type": "text",
+      "text": "# piyaṃ\nĐáng yêu",
+      "styleAttributes": {},
+      "x": 10625,
+      "y": 840,
+      "width": 250,
+      "height": 100,
+      "color": "6"
+    },
+    {
+      "id": "ff49de7da1aa6fbc",
+      "type": "text",
+      "text": "# [1] Attānañce piyaṃ jaññā rakkheyya naṃ surakkhitaṃ (Phật Ngôn)",
+      "styleAttributes": {},
+      "x": 10080,
+      "y": 200,
+      "width": 760,
+      "height": 211
+    },
+    {
+      "id": "a340a60d23617fe2",
+      "type": "text",
+      "text": "# para-to\n###  từ người khác\n### XXC chỉ nguyên nhân",
+      "styleAttributes": {},
+      "x": 5725,
+      "y": 1340,
+      "width": 295,
+      "height": 183,
+      "color": "4"
+    },
+    {
+      "id": "c0539a0077cbe169",
+      "type": "text",
+      "text": "# nevattato\n## na + eva + attato (XXC đuôi to)\n### Không từ chính mình\n## Chỉ nguyên nhân cho sự xúc chạm",
+      "styleAttributes": {},
+      "x": 5718,
+      "y": 978,
+      "width": 302,
+      "height": 320,
+      "color": "4"
+    },
+    {
+      "id": "4e4e76a07048663d",
+      "type": "text",
+      "text": "# jaññā\nĐộng, chủ động, cầu khiến\n### Biết",
+      "styleAttributes": {},
+      "x": 10500,
+      "y": 560,
+      "width": 250,
+      "height": 220,
+      "color": "4"
+    },
+    {
+      "id": "566cf0d515654f11",
+      "type": "text",
+      "text": "# gāme\n### Ở trong làng",
+      "styleAttributes": {},
+      "x": 5000,
+      "y": -179,
+      "width": 260,
+      "height": 118,
+      "color": "6"
+    },
+    {
+      "id": "d5b4f57d6e6b32ff",
+      "type": "text",
+      "text": "## gāme araññe sukhadukkhaphuṭṭho, \n## nevattato no parato dahetha. \n## phusanti phassā upadhiṃ paṭicca, \n## nirūpadhiṃ kena phuseyyu phassā",
+      "styleAttributes": {},
+      "x": 5480,
+      "y": -181,
+      "width": 540,
+      "height": 240
+    },
+    {
+      "id": "b8134b137e0f281f",
+      "type": "text",
+      "text": "# dahetha\nHT, CD, MLC ngôi 2 số nhiều\n### Hãy xem, cân nhắc",
+      "styleAttributes": {},
+      "x": 5200,
+      "y": 958,
+      "width": 320,
+      "height": 180,
+      "color": "4"
+    },
+    {
+      "id": "3dfb4e4106b2ecdd",
+      "type": "text",
+      "text": "# gāme araññe",
+      "styleAttributes": {},
+      "x": 5005,
+      "y": -590,
+      "width": 425,
+      "height": 60
+    },
+    {
+      "id": "90935ca3ad19b7cf",
+      "type": "text",
+      "text": "# ce\nNếu",
+      "styleAttributes": {},
+      "x": 10080,
+      "y": 560,
+      "width": 250,
+      "height": 110
+    },
+    {
+      "id": "aa86a4c488de5e12",
+      "type": "text",
+      "text": "# sukha-dukkha-phuṭṭho\nXúc chạm Lạc, Khổ - Chủ cách?",
+      "styleAttributes": {},
+      "x": 5750,
+      "y": 169,
+      "width": 270,
+      "height": 211,
+      "color": "6"
+    },
+    {
+      "id": "373d1324eb9b1cbb",
+      "type": "text",
+      "text": "# (người ta)",
+      "styleAttributes": {},
+      "x": 10080,
+      "y": 710,
+      "width": 250,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "7951bae50f7691db",
+      "type": "text",
+      "text": "# (taṃ)",
+      "styleAttributes": {},
+      "x": 5610,
+      "y": 898,
+      "width": 260,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "d04a2be4be2ef6ec",
+      "type": "text",
+      "text": "## [gāme araññe sukhadukkhaphuṭṭho, \n## nevattato no parato] dahetha. \n## phusanti phassā upadhiṃ paṭicca, \n## nirūpadhiṃ kena phuseyyu phassā",
+      "styleAttributes": {},
+      "x": 4860,
+      "y": -1380,
+      "width": 540,
+      "height": 240
+    },
+    {
+      "id": "5d7512f32e55e1ce",
+      "type": "text",
+      "text": "# Bhikkhū",
+      "styleAttributes": {},
+      "x": 5005,
+      "y": -760,
+      "width": 250,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "fb75815bbf6df9c9",
+      "type": "text",
+      "text": "# (Tvaṃ)",
+      "styleAttributes": {},
+      "x": 4860,
+      "y": -960,
+      "width": 250,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "b8c1f9eea4ca9f35",
+      "type": "text",
+      "text": "# sukkhadukkhaphuṭṭho",
+      "styleAttributes": {},
+      "x": 5430,
+      "y": -760,
+      "width": 390,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "94f00839de06c9bd",
+      "type": "text",
+      "text": "# (Tumhe)\n# (Bhikkhu)\n# (Người ta)",
+      "styleAttributes": {},
+      "x": 5350,
+      "y": 169,
+      "width": 260,
+      "height": 211,
+      "color": "1"
+    },
+    {
+      "id": "aedee5c62c3a4f05",
+      "type": "text",
+      "text": "# araññe\n### Ở trong rừng",
+      "styleAttributes": {},
+      "x": 5000,
+      "y": 0,
+      "width": 260,
+      "height": 130,
+      "color": "6"
+    },
+    {
+      "id": "1670ade61fe88b7f",
+      "type": "text",
+      "text": "# VTC chỉ phạm vi, vị trí",
+      "styleAttributes": {},
+      "x": 5000,
+      "y": 250,
+      "width": 260,
+      "height": 180,
+      "color": "6"
+    },
+    {
+      "id": "102682f6bc4cfb0a",
+      "type": "text",
+      "text": "# Do đâu những sự tiếp xúc có thể ảnh hưởng người không còn dính mắc",
+      "styleAttributes": {},
+      "x": 4880,
+      "y": 4160,
+      "width": 560,
+      "height": 118
+    },
+    {
+      "id": "5c034f454663b4ef",
+      "type": "text",
+      "text": "# nirūpadhiṃ\n[nirūpadhi 1](https://dpdict.net/?q=nir%C5%ABpadhi%E1%B9%83#nir%C5%ABpadhi_1) adj. **free from attachment;**",
+      "styleAttributes": {},
+      "x": 5460,
+      "y": 4440,
+      "width": 425,
+      "height": 220
+    },
+    {
+      "id": "71e6d86c5842a633",
+      "type": "text",
+      "text": "# WHAT IN IT FOR ME?\n",
+      "styleAttributes": {},
+      "x": 5025,
+      "y": 5200,
+      "width": 871,
+      "height": 80
+    },
+    {
+      "id": "f30cae6701246e12",
+      "type": "text",
+      "text": "# phassā\nDanh, Nam, CC - XXC số nhiều\n### Những sự tiếp xúc",
+      "styleAttributes": {},
+      "x": 4880,
+      "y": 3727,
+      "width": 260,
+      "height": 264,
+      "color": "1"
+    },
+    {
+      "id": "1d18f376f846c841",
+      "type": "text",
+      "text": "# phuseyyu\nCCK\n### Ảnh hưởng",
+      "styleAttributes": {},
+      "x": 5230,
+      "y": 3741,
+      "width": 260,
+      "height": 236,
+      "color": "4"
+    },
+    {
+      "id": "9299b7fec644c1c8",
+      "type": "text",
+      "text": "# dahetha",
+      "styleAttributes": {},
+      "x": 5275,
+      "y": -960,
+      "width": 250,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "a59396e630f85ca5",
+      "type": "text",
+      "text": "# (taṃ)",
+      "styleAttributes": {},
+      "x": 5680,
+      "y": -960,
+      "width": 250,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "666d738f769f8c49",
+      "type": "text",
+      "text": "# nevattato no parato",
+      "styleAttributes": {},
+      "x": 5560,
+      "y": -600,
+      "width": 370,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "ea3093a2766995fe",
+      "type": "text",
+      "text": "## phusanti phassā upadhiṃ paṭicca, \n## nirūpadhiṃ kena phuseyyu phassā",
+      "styleAttributes": {},
+      "x": 4850,
+      "y": 2737,
+      "width": 480,
+      "height": 163
+    },
+    {
+      "id": "b748f7f084173f71",
+      "type": "text",
+      "text": "# phassā\nDanh, Nam, CC - XXC số nhiều\n### Những sự xúc chạm / Sự liên kết / Sự tiếp xúc",
+      "styleAttributes": {},
+      "x": 4850,
+      "y": 2943,
+      "width": 410,
+      "height": 213,
+      "color": "1"
+    },
+    {
+      "id": "0ee7b3637f4fadf3",
+      "type": "text",
+      "text": "# upadhiṃ\nDanh, Nam TBC số ít - Chỉ phương thức\n### Sự dính mắc / ",
+      "styleAttributes": {},
+      "x": 5654,
+      "y": 3167,
+      "width": 335,
+      "height": 206,
+      "color": "6"
+    },
+    {
+      "id": "5c29272ff2220895",
+      "type": "text",
+      "text": "# paṭicca\nGiới từ + TBC\n### Do, bởi",
+      "styleAttributes": {},
+      "x": 5330,
+      "y": 3173,
+      "width": 260,
+      "height": 195,
+      "color": "4"
+    },
+    {
+      "id": "7444c1457647b368",
+      "type": "text",
+      "text": "# Sự tiếp xúc ảnh hưởng bởi sự dính mắc",
+      "styleAttributes": {},
+      "x": 4850,
+      "y": 3220,
+      "width": 410,
+      "height": 148,
+      "color": "6"
+    },
+    {
+      "id": "cf5532efff37fe44",
+      "type": "text",
+      "text": "In Buddhism, the concept of **experiences** can be understood through various lenses. One significant framework is the **Five Aggregates of Experience** (Pañcakkhandha in Pāli), which breaks down personal experience into five components:\n\n1. **Form (Rūpa)**: Physical aspects, including the body and external objects.\n2. **Feeling (Vedanā)**: Sensations that are pleasant, unpleasant, or neutral.\n3. **Perception (Saññā)**: Recognition and identification of objects.\n4. **Mental Formations (Saṅkhāra)**: Volitional activities and mental states.\n5. **Consciousness (Viññāṇa)**: Awareness of sensory and mental objects².\n\nUnderstanding these aggregates helps in realizing the impermanent and non-self nature of experiences, which is central to Buddhist teachings².\n\nIf you have any specific questions or need further details, feel free to ask!\n\nSource: Conversation with Copilot, 9/20/2024\n(1) Buddhism Basics: The Five Aggregates of Experience. https://buddhism.info/the-five-aggregates-of-experience/.\n(2) Personal Experiences | Soka Gakkai (global) - Soka Gakkai International. https://www.sokaglobal.org/practicing-buddhism/personal-experiences.html.\n(3) Letting Go of Spiritual Experience - Tricycle: The Buddhist Review. https://tricycle.org/magazine/letting-go-spiritual-experience/.\n(4) Buddhist Studies (Secondary) Experiencing Buddhism - BuddhaNet. http://buddhanet.net/e-learning/buddhism/bs-s07.htm.",
+      "styleAttributes": {},
+      "x": 6280,
+      "y": 2737,
+      "width": 600,
+      "height": 631
+    },
+    {
+      "id": "897bb56549337df4",
+      "type": "text",
+      "text": "# (Yaṃ)",
+      "styleAttributes": {},
+      "x": 5625,
+      "y": 3829,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "46deeba9739a5cec",
+      "type": "text",
+      "text": "# kena\nDCC chỉ nguyên nhân\n### Đại từ nghi vấn (ka)\n### Do đâu, vì đâu?",
+      "styleAttributes": {},
+      "x": 4560,
+      "y": 3850,
+      "width": 246,
+      "height": 281
+    },
+    {
+      "id": "e83dbcd56c003577",
+      "type": "text",
+      "text": "# nirūpadhiṃ\nTBC - Chỉ phương thức\n### Sự không dính mắc\nadj. **free from attachment; free from grasping**",
+      "styleAttributes": {},
+      "x": 5715,
+      "y": 3940,
+      "width": 286,
+      "height": 338
+    },
+    {
+      "id": "1e6b82ca25a0552e",
+      "type": "text",
+      "text": "# (Yaṃ)",
+      "styleAttributes": {},
+      "x": 5833,
+      "y": 2916,
+      "width": 156,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "b9129d3f718f29d9",
+      "type": "text",
+      "text": "# phusanti\nHT, CD, MTC - Ngôi 3  số nhiều\n### Xúc chạm / tiếp xúc / Ảnh hưởng / Tác động",
+      "styleAttributes": {},
+      "x": 5407,
+      "y": 2819,
+      "width": 308,
+      "height": 254,
+      "color": "4"
+    },
+    {
+      "id": "b0a3961a8c40adb6",
+      "type": "text",
+      "text": "# [4] Sahāyo kusalo, dūro vā antiko; antikataro hoti kusalataro (Ngạn ngữ Durham) \n",
+      "styleAttributes": {},
+      "x": 9400,
+      "y": 2549,
+      "width": 1150,
+      "height": 188
+    },
+    {
+      "id": "46ef4e3a8e007f27",
+      "type": "text",
+      "text": "# Sahāyo\nBạn bè,",
+      "styleAttributes": {},
+      "x": 9680,
+      "y": 2900,
+      "width": 260,
+      "height": 104
+    },
+    {
+      "id": "18a761504db7a55d",
+      "type": "text",
+      "text": "# kusalo",
+      "styleAttributes": {},
+      "x": 10160,
+      "y": 2922,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "a121ab338855e338",
+      "type": "text",
+      "text": "# Vào thời gian cần thiết, Người ta biết bằng hữu",
+      "styleAttributes": {},
+      "x": 9400,
+      "y": 3190,
+      "width": 1150,
+      "height": 205
+    }
+  ],
+  "edges": [
+    {
+      "id": "e06f07641ad3e495",
+      "styleAttributes": {},
+      "fromNode": "4e3006dcbb36e903",
+      "fromSide": "right",
+      "toNode": "b8134b137e0f281f",
+      "toSide": "left",
+      "color": "1"
+    },
+    {
+      "id": "7f9726961fb24ee1",
+      "styleAttributes": {},
+      "fromNode": "b748f7f084173f71",
+      "fromSide": "right",
+      "toNode": "b9129d3f718f29d9",
+      "toSide": "left"
+    },
+    {
+      "id": "12e85339f1c5b049",
+      "styleAttributes": {},
+      "fromNode": "5c29272ff2220895",
+      "fromSide": "right",
+      "toNode": "0ee7b3637f4fadf3",
+      "toSide": "left",
+      "color": "4"
+    },
+    {
+      "id": "aa82759b37f56c98",
+      "styleAttributes": {},
+      "fromNode": "f30cae6701246e12",
+      "fromSide": "right",
+      "toNode": "1d18f376f846c841",
+      "toSide": "left"
+    },
+    {
+      "id": "83e744b22901914c",
+      "styleAttributes": {},
+      "fromNode": "1d18f376f846c841",
+      "fromSide": "right",
+      "toNode": "897bb56549337df4",
+      "toSide": "left"
+    },
+    {
+      "id": "64d51eb1057b46c4",
+      "styleAttributes": {},
+      "fromNode": "566cf0d515654f11",
+      "fromSide": "left",
+      "toNode": "1670ade61fe88b7f",
+      "toSide": "left"
+    },
+    {
+      "id": "dc9accb8afed6aa1",
+      "styleAttributes": {},
+      "fromNode": "aedee5c62c3a4f05",
+      "fromSide": "left",
+      "toNode": "1670ade61fe88b7f",
+      "toSide": "left"
+    },
+    {
+      "id": "c162cbe9d4775e33",
+      "styleAttributes": {},
+      "fromNode": "94f00839de06c9bd",
+      "fromSide": "right",
+      "toNode": "aa86a4c488de5e12",
+      "toSide": "left",
+      "color": "1",
+      "label": "(hoti)"
+    },
+    {
+      "id": "0823df44ef6a0d2a",
+      "styleAttributes": {},
+      "fromNode": "70d87567b1bcd3f6",
+      "fromSide": "right",
+      "toNode": "7951bae50f7691db",
+      "toSide": "left"
+    },
+    {
+      "id": "2119ec04dd0e0777",
+      "styleAttributes": {},
+      "fromNode": "26c94733fd1712ad",
+      "fromSide": "right",
+      "toNode": "f3d4e6a83af0bdd1",
+      "toSide": "right"
+    },
+    {
+      "id": "5ccac68ab42ddc41",
+      "styleAttributes": {},
+      "fromNode": "f3d4e6a83af0bdd1",
+      "fromSide": "left",
+      "toNode": "a22dc02c98ee0853",
+      "toSide": "left"
+    },
+    {
+      "id": "726d767dfe3d79d8",
+      "styleAttributes": {},
+      "fromNode": "a22dc02c98ee0853",
+      "fromSide": "right",
+      "toNode": "8f5926a0ce472df6",
+      "toSide": "right"
+    },
+    {
+      "id": "cd32ddd3d85ecddb",
+      "styleAttributes": {},
+      "fromNode": "b9129d3f718f29d9",
+      "fromSide": "bottom",
+      "toNode": "5c29272ff2220895",
+      "toSide": "top"
+    },
+    {
+      "id": "7c29ffe5ce81c0a7",
+      "styleAttributes": {},
+      "fromNode": "897bb56549337df4",
+      "fromSide": "bottom",
+      "toNode": "e83dbcd56c003577",
+      "toSide": "left"
+    },
+    {
+      "id": "a133d704f332f6bb",
+      "styleAttributes": {},
+      "fromNode": "8f5926a0ce472df6",
+      "fromSide": "right",
+      "toNode": "02c9bc13c9e4b76f",
+      "toSide": "right"
+    },
+    {
+      "id": "7949b346c292e0f7",
+      "styleAttributes": {},
+      "fromNode": "b9129d3f718f29d9",
+      "fromSide": "right",
+      "toNode": "1e6b82ca25a0552e",
+      "toSide": "left"
+    },
+    {
+      "id": "e051116cd7fbcd63",
+      "fromNode": "4e4e76a07048663d",
+      "fromSide": "right",
+      "toNode": "0f66743066bb4f5a",
+      "toSide": "left"
+    },
+    {
+      "id": "798655354d5e4794",
+      "fromNode": "4e4e76a07048663d",
+      "fromSide": "bottom",
+      "toNode": "d9aacb56aa376eb9",
+      "toSide": "left"
+    },
+    {
+      "id": "726068fe567abae6",
+      "fromNode": "373d1324eb9b1cbb",
+      "fromSide": "right",
+      "toNode": "4e4e76a07048663d",
+      "toSide": "left"
+    },
+    {
+      "id": "b62cd3e294be85e2",
+      "fromNode": "639a1dd48bf37d22",
+      "fromSide": "right",
+      "toNode": "143eeddc21dc3224",
+      "toSide": "left"
+    },
+    {
+      "id": "f54b0fe8fe546416",
+      "fromNode": "639a1dd48bf37d22",
+      "fromSide": "bottom",
+      "toNode": "d1dd23c949ca6086",
+      "toSide": "left"
+    },
+    {
+      "id": "9db62485d34bd7cd",
+      "fromNode": "911f97e676124ce9",
+      "fromSide": "right",
+      "toNode": "639a1dd48bf37d22",
+      "toSide": "left"
+    },
+    {
+      "id": "d7ed5bcc2df47985",
+      "fromNode": "143eeddc21dc3224",
+      "fromSide": "bottom",
+      "toNode": "26622d7b22a8d4ac",
+      "toSide": "left"
+    },
+    {
+      "id": "1c6c9ef0d006a3fb",
+      "fromNode": "fb75815bbf6df9c9",
+      "fromSide": "right",
+      "toNode": "9299b7fec644c1c8",
+      "toSide": "left"
+    },
+    {
+      "id": "27ea6d93246899c6",
+      "fromNode": "9299b7fec644c1c8",
+      "fromSide": "right",
+      "toNode": "a59396e630f85ca5",
+      "toSide": "left"
+    },
+    {
+      "id": "ee2615fe6d2d9600",
+      "fromNode": "5d7512f32e55e1ce",
+      "fromSide": "right",
+      "toNode": "b8c1f9eea4ca9f35",
+      "toSide": "left"
+    },
+    {
+      "id": "18f608d281b25663",
+      "fromNode": "b8c1f9eea4ca9f35",
+      "fromSide": "bottom",
+      "toNode": "666d738f769f8c49",
+      "toSide": "left"
+    },
+    {
+      "id": "e88c3ad305ae08c8",
+      "fromNode": "43ae1e097987b147",
+      "fromSide": "left",
+      "toNode": "3a4eeee3678f9220",
+      "toSide": "left"
+    },
+    {
+      "id": "6a6839262a6935a4",
+      "fromNode": "a340a60d23617fe2",
+      "fromSide": "bottom",
+      "toNode": "6fe294ef4ab29431",
+      "toSide": "bottom"
+    },
+    {
+      "id": "8e5bd2ba9b34d3ce",
+      "fromNode": "70d87567b1bcd3f6",
+      "fromSide": "bottom",
+      "toNode": "a340a60d23617fe2",
+      "toSide": "left"
+    },
+    {
+      "id": "ab6c2674edf9f405",
+      "fromNode": "70d87567b1bcd3f6",
+      "fromSide": "bottom",
+      "toNode": "c0539a0077cbe169",
+      "toSide": "left"
+    },
+    {
+      "id": "70cec1b5dcc4bce3",
+      "styleAttributes": {},
+      "fromNode": "46ef4e3a8e007f27",
+      "fromSide": "right",
+      "toNode": "18a761504db7a55d",
+      "toSide": "bottom"
+    }
+  ],
+  "metadata": {}
+}

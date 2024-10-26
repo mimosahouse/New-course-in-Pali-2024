@@ -1,0 +1,126 @@
+{
+  "nodes": [
+    {
+      "id": "75c8f5267e41683f",
+      "type": "text",
+      "text": "# saṃ\nFully, completly",
+      "styleAttributes": {},
+      "x": -600,
+      "y": 1620,
+      "width": 360,
+      "height": 140
+    },
+    {
+      "id": "b384af4808f9310c",
+      "type": "text",
+      "text": "# Trí tuệ, sự hiểu biết đầy đủ, trọn vẹn",
+      "styleAttributes": {},
+      "x": 40,
+      "y": 1360,
+      "width": 260,
+      "height": 200,
+      "color": "1"
+    },
+    {
+      "id": "967b61ffcef01a45",
+      "type": "text",
+      "text": "Saṃ + (Kṛ) - Làm",
+      "styleAttributes": {},
+      "x": -600,
+      "y": 1880,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "0f6cc4dfd2943dee",
+      "type": "text",
+      "text": "# Bị động",
+      "styleAttributes": {},
+      "x": -220,
+      "y": 1820,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "eea9c2a4222bcdeb",
+      "type": "text",
+      "text": "# {Pháp hữu vi} ",
+      "styleAttributes": {},
+      "x": 100,
+      "y": 1820,
+      "width": 260,
+      "height": 90
+    },
+    {
+      "id": "7fc74f611b59e33b",
+      "type": "text",
+      "text": "# Chủ động",
+      "styleAttributes": {},
+      "x": -220,
+      "y": 2020,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "50645de44a9f73d2",
+      "type": "text",
+      "text": "# NGHIỆP",
+      "styleAttributes": {},
+      "x": 100,
+      "y": 2020,
+      "width": 260,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "067b6f7f4817fd1f",
+      "styleAttributes": {},
+      "fromNode": "75c8f5267e41683f",
+      "fromSide": "right",
+      "toNode": "b384af4808f9310c",
+      "toSide": "left"
+    },
+    {
+      "id": "c547ccbe953f54c3",
+      "styleAttributes": {},
+      "fromNode": "75c8f5267e41683f",
+      "fromSide": "bottom",
+      "toNode": "967b61ffcef01a45",
+      "toSide": "top"
+    },
+    {
+      "id": "8f8127b5823b73eb",
+      "styleAttributes": {},
+      "fromNode": "967b61ffcef01a45",
+      "fromSide": "right",
+      "toNode": "0f6cc4dfd2943dee",
+      "toSide": "left"
+    },
+    {
+      "id": "8b90e1db6bf66603",
+      "styleAttributes": {},
+      "fromNode": "967b61ffcef01a45",
+      "fromSide": "right",
+      "toNode": "7fc74f611b59e33b",
+      "toSide": "left"
+    },
+    {
+      "id": "05af41ea372d4099",
+      "styleAttributes": {},
+      "fromNode": "7fc74f611b59e33b",
+      "fromSide": "right",
+      "toNode": "50645de44a9f73d2",
+      "toSide": "left"
+    },
+    {
+      "id": "ef3f17adf273ec18",
+      "styleAttributes": {},
+      "fromNode": "0f6cc4dfd2943dee",
+      "fromSide": "right",
+      "toNode": "eea9c2a4222bcdeb",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {}
+}

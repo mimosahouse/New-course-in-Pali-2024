@@ -1,0 +1,26 @@
+{
+  "nodes": [
+    {
+      "id": "82c9d3edd7690faf",
+      "type": "text",
+      "text": "\tLinux command",
+      "styleAttributes": {},
+      "x": -200,
+      "y": -280,
+      "width": 240,
+      "height": 120
+    },
+    {
+      "id": "1614f397aded1ed9",
+      "type": "text",
+      "text": "CD/direct ",
+      "styleAttributes": {},
+      "x": 120,
+      "y": -250,
+      "width": 250,
+      "height": 230
+    }
+  ],
+  "edges": [],
+  "metadata": {}
+}
