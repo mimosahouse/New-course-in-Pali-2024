@@ -1,5 +1,6 @@
 ---
 title: Welcome to Mimosa House
+draft: false
 ---
 
 This is a blank Quartz installation.
