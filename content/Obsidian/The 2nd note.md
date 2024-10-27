@@ -21,7 +21,7 @@ tags:
 > Có rất nhiều hướng dẫn về ứng dụng này trên internet. Xin hãy tìm kiếm trên google hay yoủube để có thêm nhiều thông tin, hướng dẫn, chi tiết, cụ thể.
 > Ở đây, tôi chỉ tập trung vào những ứng dụng thực tế, chi tiết của Obsidian trong chính việc học Pāli của bản thân./
 
-
+---
 <iframe width="849" height="478" src="https://www.youtube.com/embed/xkewuy3R73c" title="Video giới thiệu về chương trinh Obsidian và một số chức năng mà mình hay sử dụng" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
@@ -33,6 +33,10 @@ tags:
 > Ứng dụng đầu tiên, có thể áp dụng ngay vào việc học, đó là take note trên các file video, online hay offline, các file bài giảng hàng tuần mà thầy gửi.
 
 
+---
 ### Watch on Youtube
 
 <iframe width="849" height="478" src="https://www.youtube.com/embed/T903PUhHa1g" title="Sử dụng media note trong Obsidian" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
