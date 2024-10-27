@@ -21,6 +21,10 @@ tags:
 > Có rất nhiều hướng dẫn về ứng dụng này trên internet. Xin hãy tìm kiếm trên google hay yoủube để có thêm nhiều thông tin, hướng dẫn, chi tiết, cụ thể.
 > Ở đây, tôi chỉ tập trung vào những ứng dụng thực tế, chi tiết của Obsidian trong chính việc học Pāli của bản thân./
 
+### Cài đặt và bước đầu sử dụng
+![](https://youtu.be/PA87HvkK1mA)
+
+---
 ---
 <iframe width="849" height="478" src="https://www.youtube.com/embed/xkewuy3R73c" title="Video giới thiệu về chương trinh Obsidian và một số chức năng mà mình hay sử dụng" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -40,3 +44,5 @@ tags:
 
 ---
 
+### Chia sẻ cách sử dụng Obsidian để giải câu pali
+![](https://youtu.be/lyVxqLZnRZE)
