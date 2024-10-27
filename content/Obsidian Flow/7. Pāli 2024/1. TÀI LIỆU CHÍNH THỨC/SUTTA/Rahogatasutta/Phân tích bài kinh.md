@@ -1,1 +1,0 @@
-“Sādhu sādhu, bhikkhu. Tisso imā, bhikkhu, vedanā vuttā mayā. Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā—imā tisso vedanā vuttā mayā.
