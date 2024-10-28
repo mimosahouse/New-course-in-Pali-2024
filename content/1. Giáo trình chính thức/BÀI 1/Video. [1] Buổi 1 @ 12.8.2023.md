@@ -28,18 +28,24 @@ draft: false
 Ngôn ngữ được sử dụng thông qua 2 kênh giao tiếp chính: Ngôn ngữ nói và ngôn ngữ viết. Số lương ngôn ngữ đang tồn tại là rất lớn, con số có thể lên tới vài ngàn (có nới nói số lượng đó từ 7-8 ngàn ngôn ngữ khác nhau)
 
 - **Phương ngữ** - Sự khác nhau của ngôn ngữ theo không gian
+
 Theo quy ước, đơn vị nhỏ nhất của ngôn ngữ là Phương ngữ - ngôn ngữ của một địa phương.
 Do đó, không có một thứ ngôn ngữ gọi là tiếng Việt. Mỗi nơi ở Việt Nan nói một thứ ngôn ngữ khác nhau, đó là các phương ngữ khác nhau.
-- *Phương ngữ Huế*
-- *Phương ngữ Hà Nội*
-- *Phương ngữ Sài Gòn*
-- *...*
 
+Ví dụ: phương ngữ Huế, phương ngữ Sài Gòn, phương ngữ Hà Nội, phương ngữ Quảng Trị,...
+
+- **Cổ ngữ** - Sự khác nhau của ngôn ngữ theo thời gian
 
 > [!NOTE] Cổ ngữ
-> - Quy luật của ngôn ngữ: Các ngôn ngữ đều thay đổi theo thời gian. Đến một lúc, một phương ngữ nào đó sẽ trở nên cổ xưa và người ta gọi đó là Cổ ngữ
+> - Quy luật của mọi ngôn ngữ: Các ngôn ngữ đều thay đổi theo thời gian. Đến một lúc, một phương ngữ nào đó sẽ trở nên cổ xưa và người ta gọi đó là Cổ ngữ
+
+Một cổ ngữ nếu không được bảo tồn, nó sẽ dần biến mất và khi đó nó trở thành Tử ngữ
 
 
+> [!NOTE] **Tử ngữ**
+> Cổ ngữ đã chết, không còn được bảo tồn và không còn ai hiểu biết về nó nữa./
+
+ 
 
 
 
@@ -59,31 +65,6 @@ Do đó, không có một thứ ngôn ngữ gọi là tiếng Việt. Mỗi nơi
 
 
 ---
-**Ngôn ngữ**
-[[../../../../8. Storage/Vault/Ngôn ngữ]]
-Tiếng nói dùng để giao tiếp, lưu giữ ý tưởng & dùng trong giao tiếp
-
-**Phương ngữ**
-[[../../../../8. Storage/Vault/Phương ngữ]]
-
-Ngôn ngữ điạ phương
-
----
-[17:21](https://www.youtube.com/watch?t=1041&v=7h-UMhD5kSY)
-**Cổ ngữ**
-[[../../../../8. Storage/Vault/Cổ Ngữ]]
-Ngôn ngữ luôn thay đổi, đến lúc nào đó nó trở thành cổ ngữ./
-
-
-**Tử ngữ**
- Cổ ngữ đã chết
-
----
-[09:57](https://www.youtube.com/watch?v=7h-UMhD5kSY&t=597)
-**Bài nền tảng**
-
-[20:09](https://www.youtube.com/watch?t=1209&v=7h-UMhD5kSY)
-Tại sao có **CỔ NGỮ** và **TỬ NGỮ**
 
 ---
 [30:57](https://www.youtube.com/watch?t=1857&v=7h-UMhD5kSY)
