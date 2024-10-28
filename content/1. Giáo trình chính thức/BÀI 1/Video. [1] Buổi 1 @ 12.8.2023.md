@@ -17,10 +17,10 @@ draft: false
 [10:00](https://www.youtube.com/watch?t=600&v=7h-UMhD5kSY)
 **Nền tảng về Ngôn ngữ và Cổ ngữ nói chung**
 
-1. **Giới thiệu cổ ngữ Pāḷi**
-**Ngôn ngữ:** là tiếng nói sử dụng trong giao tiếp
+## i. Giới thiệu cổ ngữ Pāḷi
+### **Ngôn ngữ:** là tiếng nói sử dụng trong giao tiếp
 
-
+Phương ngữ: 
 
 [26:37](https://www.youtube.com/watch?t=1597&v=7h-UMhD5kSY)
 **Cổ ngữ và Tử ngữ**
