@@ -6,10 +6,6 @@ draft: false
 #Video
 
 ---
-![](https://www.youtube.com/watch?v=7h-UMhD5kSY&t=4)
-
-
-
 > [!NOTE] Tóm tắt nội dung khóa học
 > **Trò chuyện về Pāḷi, giới thiệu về khóa học, chương trình học.** 
 > - Năm đầu: Sơ cấp - Cần dành thời gian chặt chẽ, nghiêm túc
@@ -82,3 +78,6 @@ Thử một chút về table trên Markdown nhé:
 Phân biệt bộ chữ và Ngôn ngữ
 
 Chữ NÔM và chữ QUỐC NGỮ để để ký âm tiếng VIỆT./
+
+---
+![](https://www.youtube.com/watch?v=7h-UMhD5kSY&t=4)
