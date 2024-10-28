@@ -45,7 +45,7 @@ Một cổ ngữ nếu không được bảo tồn, nó sẽ dần biến mất 
 > [!NOTE] **Tử ngữ**
 > Cổ ngữ đã chết, không còn được bảo tồn và không còn ai hiểu biết về nó nữa./
 
- 
+ - Phải có một thế lực nào đó làm chỗ dựa cho cổ ngữ thì nó mới có thể tiếp tục tồn tại. Nếu không có thế lực nào thì chắc chắn cổ ngữ đó sẽ trở thành tử ngữ. Hai thế lực chính có thể giữ cho một cổ ngữ còn sống, đó là tôn giáo và chính trị. 
 
 
 
@@ -58,6 +58,12 @@ Một cổ ngữ nếu không được bảo tồn, nó sẽ dần biến mất 
 ### 2.3 Các công cụ hỗ trợ
 
 
+---
+Thử một chút về table trên Markdown nhé:
+
+| Không ai   | Má đào |
+| ---------- | ------ |
+| Trang điểm |        |
 
 
 
