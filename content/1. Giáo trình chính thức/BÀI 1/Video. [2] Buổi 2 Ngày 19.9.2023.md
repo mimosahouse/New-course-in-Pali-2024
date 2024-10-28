@@ -1,7 +1,7 @@
 ---
 media_link: https://www.youtube.com/watch?v=kY2C5DtMBtQ&t=2
 title: Buổi 2 bài 1
-draft: false
+draft: true
 ---
 #Video
 
