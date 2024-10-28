@@ -7,7 +7,7 @@ tags:
 category: 
 blueprint:
   - "[[../../4. Blueprint/Ngữ Pháp Pāḷi|[hub-note] Ngữ pháp Pāḷi]]"
-  - "[[../../5. Storage/TÀI LIỆU 12 BÀI/BÀI 4/Video. Buổi 24 lớp chiều thứ 4 - 2024|Video. Buổi 24 lớp chiều thứ 4 - 2024]]"
+  - "[[Video. Buổi 24 lớp chiều thứ 4 - 2024|Video. Buổi 24 lớp chiều thứ 4 - 2024]]"
 ---
 ## Sơ bộ từ loại và chức năng của chúng
 
