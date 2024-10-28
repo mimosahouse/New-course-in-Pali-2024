@@ -5,10 +5,25 @@ draft: false
 ---
 #Video
 
+
+> [!NOTE] Tóm tắt nội dung khóa học
+> **Trò chuyện về Pāḷi, giới thiệu về khóa học, chương trình học.** 
+> - Năm đầu: Sơ cấp - Cần dành thời gian chặt chẽ, nghiêm túc
+> - Năm 2: Trung cấp - Có thể thư giãn hơn
+> - Mục tiêu khóa học: Đào tạo Dịch giả Pāḷi
+> - Cách học: Tự chủ
+
 ---
+[10:00](https://www.youtube.com/watch?t=600&v=7h-UMhD5kSY)
+**Nền tảng về Ngôn ngữ và Cổ ngữ nói chung**
+
+1. **Giới thiệu cổ ngữ Pāḷi**
+**Ngôn ngữ:** là tiếng nói sử dụng trong giao tiếp
+
+
+
 [26:37](https://www.youtube.com/watch?t=1597&v=7h-UMhD5kSY)
 **Cổ ngữ và Tử ngữ**
-
 
 
 
