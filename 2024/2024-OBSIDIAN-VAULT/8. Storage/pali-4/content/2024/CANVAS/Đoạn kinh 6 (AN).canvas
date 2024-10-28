@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"01b0502ab829d8ee","type":"text","text":"# Nâhaṃ, bhikkhave, aññaṃ ekarūpaṃ pi samanupassāmi, yaṃ evaṃ purisassa cittaṃ pariyādāya tiṭṭhati, yathayidaṃ, bhikkhave, itthirūpaṃ. \n# Itthirūpaṃ, bhikkhave, purisassa cittaṃ pariyādāya tiṭṭhatîti.","x":-420,"y":-220,"width":1380,"height":146,"color":"6"},
+		{"id":"7c8891e227f3ea44","type":"text","text":"# Nâhaṃ, bhikkhave, aññaṃ ekarūpaṃ pi samanupassāmi,","x":-420,"y":0,"width":1220,"height":60,"color":"5"},
+		{"id":"6d77e58abba141a5","type":"text","text":"# ahaṃ","x":-380,"y":120,"width":250,"height":90},
+		{"id":"4c9b26ff4be2f4a8","type":"text","text":"Đại từ nhân xưng\nTa","x":-255,"y":320,"width":185,"height":60},
+		{"id":"af08335c2af02d6d","type":"text","text":"# yaṃ evaṃ purisassa cittaṃ pariyādāya tiṭṭhati, yathayidaṃ, bhikkhave, itthirūpaṃ. ","x":-420,"y":460,"width":1220,"height":60,"color":"3"},
+		{"id":"009cdf1ae078c122","type":"text","text":"# yaṃ","x":-380,"y":580,"width":120,"height":60},
+		{"id":"62ef7de38cc827d2","type":"text","text":"# purisassa\n(n) SHC or GBC","x":360,"y":660,"width":250,"height":100},
+		{"id":"66f9de7efc07f85d","type":"text","text":"SHC chỉ sự sở hữu","x":420,"y":780,"width":250,"height":60},
+		{"id":"7ebc93f2b477921c","type":"text","text":"# samanupassāmi (na)\n(v)","x":-70,"y":120,"width":340,"height":89},
+		{"id":"1776806aa5ce19ef","type":"text","text":"# ekarūpaṃ\n(n) CC or TBC","x":375,"y":120,"width":250,"height":89},
+		{"id":"f5add7116477f08d","type":"text","text":"TBC, bổ nghĩa trực tiếp cho sammanupassami","x":425,"y":247,"width":250,"height":60},
+		{"id":"a89a7cf7621d678b","type":"text","text":"## aññaṃ","x":425,"y":350,"width":250,"height":60},
+		{"id":"949f9ecec6fd188a","type":"text","text":"Không có chức năng gì cho ekarupam ở Chủ cách cả, vì đã có aham làm chủ từ, và nếu ekarupam ở chủ cách sẽ là đồng vị với aham, như vậy ta với 1 sắc là 1?","x":700,"y":120,"width":200,"height":290},
+		{"id":"f411dc66881e908c","type":"text","text":"# tiṭṭhati\n(v) Đứng lại, lưu lại","x":-155,"y":560,"width":210,"height":100},
+		{"id":"1eadda842bdaadf4","type":"text","text":"# cittaṃ","x":180,"y":580,"width":250,"height":60},
+		{"id":"9c1621bc2badd745","type":"text","text":"# pariyādāya\nNó diễn tả 1 hành động đi trước hành động được diễn tả trong động từ chính\n- pariyādāya：[abs．of pariyādāti] having exhausted； having taken up in a excessive degree．","x":-20,"y":690,"width":250,"height":390},
+		{"id":"5f06351482b896ec","x":230,"y":870,"width":250,"height":330,"type":"text","text":"pariyādāya：adv．[pariyādāti 的 ger．] 遍取（taking all round），佔據佔領（久坐不去，賴著不走，taking hold of）．[（譯者補充） cittaṃ pariyādāya 盤據心上不去（taking hold of the mind）]．"},
+		{"id":"e8c8bf595fb2ecd8","x":-270,"y":920,"width":250,"height":325,"type":"text","text":"1. không phải động từ chính\n2. Không biến đuôi theo ngôi, số\n3. Diễn ra trước hành động của động từ chính\n4. Có thể có nhiều động từ bất biến liên tiếp nhau theo thứ tự diễn tiến"}
+	],
+	"edges":[
+		{"id":"3201cc24c67519a0","fromNode":"6d77e58abba141a5","fromSide":"bottom","toNode":"4c9b26ff4be2f4a8","toSide":"left"},
+		{"id":"4a102411977432d5","fromNode":"6d77e58abba141a5","fromSide":"right","toNode":"7ebc93f2b477921c","toSide":"left"},
+		{"id":"e47ed708c80b14c5","fromNode":"7ebc93f2b477921c","fromSide":"right","toNode":"1776806aa5ce19ef","toSide":"left"},
+		{"id":"7e3159d7e85fc1ee","fromNode":"1776806aa5ce19ef","fromSide":"bottom","toNode":"a89a7cf7621d678b","toSide":"left"},
+		{"id":"2ddd69159183e09b","fromNode":"1eadda842bdaadf4","fromSide":"bottom","toNode":"62ef7de38cc827d2","toSide":"left"},
+		{"id":"b3eb4a7295b09c72","fromNode":"009cdf1ae078c122","fromSide":"right","toNode":"f411dc66881e908c","toSide":"left"},
+		{"id":"f9cc2a33ea0b7821","fromNode":"f411dc66881e908c","fromSide":"right","toNode":"1eadda842bdaadf4","toSide":"left"},
+		{"id":"93da14410c6615f9","fromNode":"f411dc66881e908c","fromSide":"bottom","toNode":"9c1621bc2badd745","toSide":"left"}
+	]
+}

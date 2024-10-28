@@ -1,0 +1,26 @@
+{
+  "nodes": [
+    {
+      "id": "f9a4482bddc15707",
+      "type": "text",
+      "text": "The 37 Factors of Enlightenment",
+      "styleAttributes": {},
+      "x": -520,
+      "y": -200,
+      "width": 760,
+      "height": 260
+    },
+    {
+      "id": "599566a3dd950810",
+      "type": "file",
+      "file": "6. Vault/attachments/Pasted image 20241023201802.png",
+      "styleAttributes": {},
+      "x": 300,
+      "y": -200,
+      "width": 680,
+      "height": 493
+    }
+  ],
+  "edges": [],
+  "metadata": {}
+}

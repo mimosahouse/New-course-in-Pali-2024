@@ -1,0 +1,961 @@
+{
+  "nodes": [
+    {
+      "id": "1efd40824ca81982",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 2167,
+      "y": 120,
+      "width": 1513,
+      "height": 1060,
+      "label": "2"
+    },
+    {
+      "id": "9e0b9e7982d4210a",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 810,
+      "y": 1300,
+      "width": 1547,
+      "height": 1003,
+      "label": "Luận GIẢI"
+    },
+    {
+      "id": "a8de90cba777b1ea",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 600,
+      "y": 120,
+      "width": 1420,
+      "height": 1060,
+      "label": "1"
+    },
+    {
+      "id": "afc00aa70e63a400",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 4860,
+      "y": 240,
+      "width": 1420,
+      "height": 940,
+      "label": "1"
+    },
+    {
+      "id": "13ce7ef6d355de0e",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -880,
+      "y": 21,
+      "width": 1315,
+      "height": 739,
+      "color": "6",
+      "label": "Câu 1"
+    },
+    {
+      "id": "e5e4101a4151a5e3",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -880,
+      "y": 1120,
+      "width": 1315,
+      "height": 739,
+      "color": "6",
+      "label": "Câu 2"
+    },
+    {
+      "id": "60ee91994e4fde73",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 910,
+      "y": 210,
+      "width": 1090,
+      "height": 310,
+      "label": "Bạn cư xử với các vị trời"
+    },
+    {
+      "id": "73d79bcf58a12cf4",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 2187,
+      "y": 210,
+      "width": 1090,
+      "height": 310,
+      "label": "Bạn cư xử với mọi người"
+    },
+    {
+      "id": "f4442b6a650c4b97",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -820,
+      "y": 1176,
+      "width": 520,
+      "height": 603,
+      "label": "Người chăn bò đếm bò nguời khác"
+    },
+    {
+      "id": "92af637ec803d151",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 910,
+      "y": 680,
+      "width": 1090,
+      "height": 280,
+      "label": "Tất cả mọi người có thể nghe bạn"
+    },
+    {
+      "id": "3d2558d339d8d9c0",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 2187,
+      "y": 680,
+      "width": 1090,
+      "height": 280,
+      "label": "Các vị trời có thể thấy bạn"
+    },
+    {
+      "id": "be88685558568ccb",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 4880,
+      "y": 314,
+      "width": 430,
+      "height": 686,
+      "color": "1",
+      "label": "Untitled group"
+    },
+    {
+      "id": "ad554bd193e0c8b5",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -820,
+      "y": 77,
+      "width": 520,
+      "height": 430,
+      "label": "Người nói nhiều kinh điển"
+    },
+    {
+      "id": "7818ae9fc31d1baf",
+      "type": "text",
+      "text": "# Ce\nNếu",
+      "styleAttributes": {},
+      "x": -755,
+      "y": 340,
+      "width": 120,
+      "height": 137
+    },
+    {
+      "id": "e0e511f969c1d84d",
+      "type": "text",
+      "text": "# Naro - Pamatto\nNgười dễ duôi",
+      "styleAttributes": {},
+      "x": 90,
+      "y": 97,
+      "width": 310,
+      "height": 165,
+      "color": "6"
+    },
+    {
+      "id": "72dc39415d3aa26a",
+      "type": "text",
+      "text": "# sahitaṃ \nKinh điển",
+      "styleAttributes": {},
+      "x": -570,
+      "y": 204,
+      "width": 250,
+      "height": 116,
+      "color": "1"
+    },
+    {
+      "id": "39d81bfd6fb5270c",
+      "type": "text",
+      "text": "# bahuṃ \nnhiều",
+      "styleAttributes": {},
+      "x": -570,
+      "y": 361,
+      "width": 250,
+      "height": 116,
+      "color": "1"
+    },
+    {
+      "id": "0e45356b8543b29e",
+      "type": "text",
+      "text": "#  [Người NẾU nói kinh điển nhiều mà không làm theo sự hướng dẫn đó]\n# là người dễ duôi",
+      "styleAttributes": {},
+      "x": -190,
+      "y": 361,
+      "width": 590,
+      "height": 319,
+      "color": "5"
+    },
+    {
+      "id": "51328848ff0ece0e",
+      "type": "text",
+      "text": "# hoti",
+      "styleAttributes": {},
+      "x": -190,
+      "y": 204,
+      "width": 130,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "6b28db846a0f25f5",
+      "type": "text",
+      "text": "# Gopo\n",
+      "styleAttributes": {},
+      "x": -695,
+      "y": 1196,
+      "width": 250,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "e45961d45ff38896",
+      "type": "text",
+      "text": "# na",
+      "styleAttributes": {},
+      "x": -110,
+      "y": 1458,
+      "width": 100,
+      "height": 60
+    },
+    {
+      "id": "9da01b056966d08f",
+      "type": "text",
+      "text": "## **Đoạn kinh 3.4-3.5 (Dhp)**\n\n  \n\n## bahuṃ pi ce sahitaṃ bhāsamāno, na takkaro hoti naro pamatto.\n\n## gopova gāvo gaṇayaṃ paresaṃ, na bhāgavā sāmaññassa hoti.\n\n  \n\n## appampi ce sahitaṃ bhāsamāno, dhammassa hoti anudhammacārī.\n\n## rāgañca dosañca pahāya mohaṃ, sammappajāno suvimuttacitto.\n\n## anupādiyāno idha vā huraṃ vā, sa bhāgavā sāmaññassa hoti.",
+      "styleAttributes": {},
+      "x": -695,
+      "y": -480,
+      "width": 915,
+      "height": 400
+    },
+    {
+      "id": "3b7e0219667f54b9",
+      "type": "text",
+      "text": "# bhāsamāno\n",
+      "styleAttributes": {},
+      "x": -695,
+      "y": 97,
+      "width": 250,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "b5a13a5508cf65a1",
+      "type": "text",
+      "text": "## [takkara 1](https://dpdict.net/?q=takkaro#takkara_1) adj. **who does that; doing that; acting accordingly** [►](https://dpdict.net/?q=takkaro#takkara_1)\nna takkaro: (adj) - Mà không làm việc đó (theo Kinh điển)",
+      "styleAttributes": {},
+      "x": -800,
+      "y": 540,
+      "width": 510,
+      "height": 140
+    },
+    {
+      "id": "f23595f505592f38",
+      "type": "text",
+      "text": "# Gaṇayaṃ \nCC số ít - Đếm",
+      "styleAttributes": {},
+      "x": -570,
+      "y": 1303,
+      "width": 250,
+      "height": 116,
+      "color": "1"
+    },
+    {
+      "id": "17264629528e1406",
+      "type": "text",
+      "text": "# Gāvo \nTBC - Bò",
+      "styleAttributes": {},
+      "x": -570,
+      "y": 1460,
+      "width": 250,
+      "height": 116,
+      "color": "1"
+    },
+    {
+      "id": "7badb3920ea11a92",
+      "type": "text",
+      "text": "# paresaṃ \nCủa người khác (Gen PL)",
+      "styleAttributes": {},
+      "x": -570,
+      "y": 1620,
+      "width": 250,
+      "height": 116,
+      "color": "1"
+    },
+    {
+      "id": "ad261c276e784b1b",
+      "type": "text",
+      "text": "# hoti",
+      "styleAttributes": {},
+      "x": -190,
+      "y": 1303,
+      "width": 130,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "4434778ad14dfecc",
+      "type": "text",
+      "text": "# na bhāgavā sāmaññassa hoti. ",
+      "styleAttributes": {},
+      "x": -65,
+      "y": 1620,
+      "width": 465,
+      "height": 116
+    },
+    {
+      "id": "1deaa9c8336304fa",
+      "type": "text",
+      "text": "# bhāgavā - sāmaññassa\nNgười dự phần Trạng thái Sa-môn",
+      "styleAttributes": {},
+      "x": 60,
+      "y": 1196,
+      "width": 340,
+      "height": 204,
+      "color": "6"
+    },
+    {
+      "id": "8a8bb4b4dd79d00a",
+      "type": "text",
+      "text": "# Iva\n",
+      "styleAttributes": {},
+      "x": -1240,
+      "y": 920,
+      "width": 260,
+      "height": 80
+    },
+    {
+      "id": "42618e8e2f3625c5",
+      "type": "text",
+      "text": "# gopesi\nĐộng từ, CĐ, Ngôi 2 số ít\nBạn - Bảo vệ",
+      "styleAttributes": {},
+      "x": 5457,
+      "y": 334,
+      "width": 260,
+      "height": 226,
+      "color": "5"
+    },
+    {
+      "id": "35a25b9e7e8443cb",
+      "type": "text",
+      "text": "# bhussamāno\nHTPT\nSủa",
+      "styleAttributes": {},
+      "x": 5030,
+      "y": 514,
+      "width": 260,
+      "height": 173
+    },
+    {
+      "id": "2bc79ecbce46d522",
+      "type": "text",
+      "text": "# sayaṃ\nTrạng từ\nTự mình",
+      "styleAttributes": {},
+      "x": 5030,
+      "y": 760,
+      "width": 260,
+      "height": 220
+    },
+    {
+      "id": "5835364cd7352e39",
+      "type": "text",
+      "text": "# suvānaṃ\nTBC, Con chó",
+      "styleAttributes": {},
+      "x": 6000,
+      "y": 334,
+      "width": 260,
+      "height": 221,
+      "color": "6"
+    },
+    {
+      "id": "68b16248931cfb73",
+      "type": "text",
+      "text": "# Kasmā\nTrạng từ\nTại sao?",
+      "styleAttributes": {},
+      "x": 5560,
+      "y": 660,
+      "width": 260,
+      "height": 140
+    },
+    {
+      "id": "ac5a7e23a0d7877b",
+      "type": "text",
+      "text": "# Trong khi tự mình sủa TẠI SAO bạn bảo vệ con chó?",
+      "styleAttributes": {},
+      "x": 5030,
+      "y": 1040,
+      "width": 970,
+      "height": 120
+    },
+    {
+      "id": "0a73114279c3d36e",
+      "type": "text",
+      "text": "\n\n# [4] Kasmā gopesi suvānaṃ bhussamāno sayaṃ? (Ngạn ngữ Anh)  ",
+      "styleAttributes": {},
+      "x": 4900,
+      "y": 0,
+      "width": 1360,
+      "height": 113
+    },
+    {
+      "id": "502ee4030e6ee9c1",
+      "type": "text",
+      "text": "# Tại sao bạn phải làm việc của con chó??\n# Câu hỏi tu từ - Nhấn mạnh ý của người nói",
+      "styleAttributes": {},
+      "x": 5030,
+      "y": 1280,
+      "width": 1230,
+      "height": 160
+    },
+    {
+      "id": "6af222de2d15d252",
+      "type": "text",
+      "text": "# narehi\nDCC số nhiều\nVới mọi  người",
+      "styleAttributes": {},
+      "x": 2997,
+      "y": 300,
+      "width": 260,
+      "height": 200
+    },
+    {
+      "id": "0ef0382fb3b7f5f3",
+      "type": "text",
+      "text": "# yathā\nGiống như",
+      "styleAttributes": {},
+      "x": 3520,
+      "y": 520,
+      "width": 140,
+      "height": 140,
+      "color": "1"
+    },
+    {
+      "id": "8379d13049bc0115",
+      "type": "text",
+      "text": "# Luận giải: Chư thiên - những người có địa vị\n## Cư xử với họ theo cách ",
+      "styleAttributes": {},
+      "x": 830,
+      "y": 1840,
+      "width": 1070,
+      "height": 182
+    },
+    {
+      "id": "d27dd61c174119f0",
+      "type": "text",
+      "text": "# Luận giải: Chư thiên - những người có địa vị\n## Cư xử với họ theo cách  ",
+      "styleAttributes": {},
+      "x": 830,
+      "y": 2101,
+      "width": 1070,
+      "height": 182
+    },
+    {
+      "id": "f6596737e9487f8f",
+      "type": "text",
+      "text": "# Liêm chính, nhất quán trong hành vi. Khi tương tác với ai, luôn hành động một cách cẩn trọng",
+      "styleAttributes": {},
+      "x": 930,
+      "y": 1320,
+      "width": 1407,
+      "height": 120,
+      "color": "1"
+    },
+    {
+      "id": "9adc005ed31535f1",
+      "type": "text",
+      "text": "# Làm sao thì nói vậy, nói sao thì làm vậy\n# Dù nơi nhiều người hay không có người",
+      "styleAttributes": {},
+      "x": 930,
+      "y": 1560,
+      "width": 1407,
+      "height": 176
+    },
+    {
+      "id": "25e90239b27eb8b8",
+      "type": "text",
+      "text": "# Không biết tính gì\n---\n## Tvaṃ có thể có 2 tính",
+      "styleAttributes": {},
+      "x": 4440,
+      "y": 514,
+      "width": 260,
+      "height": 466
+    },
+    {
+      "id": "421fd7a92c643aa1",
+      "type": "text",
+      "text": "# ācareyyāsi ca narehi yathā devatā passeyyuṃ tuvaṃ (Song cú Latin)",
+      "styleAttributes": {},
+      "x": 2207,
+      "y": -70,
+      "width": 1087,
+      "height": 110
+    },
+    {
+      "id": "983cff57ddc62e38",
+      "type": "text",
+      "text": "# Bạn nên cư xử với mọi người giống như các vị trời có thể thấy bạn.",
+      "styleAttributes": {},
+      "x": 2207,
+      "y": 1080,
+      "width": 1050,
+      "height": 80
+    },
+    {
+      "id": "b1d18df1442c83a3",
+      "type": "text",
+      "text": "# devatā\nCác vị trời",
+      "styleAttributes": {},
+      "x": 2207,
+      "y": 740,
+      "width": 260,
+      "height": 200
+    },
+    {
+      "id": "51136d1ac7de48b2",
+      "type": "text",
+      "text": "# tuvaṃ\nTBC, số ít\nBạn",
+      "styleAttributes": {},
+      "x": 2997,
+      "y": 760,
+      "width": 260,
+      "height": 160
+    },
+    {
+      "id": "b57d705a2a4a64b4",
+      "type": "text",
+      "text": "# passeyyuṃ\nThấy\nCó thể thấy\n",
+      "styleAttributes": {},
+      "x": 2577,
+      "y": 755,
+      "width": 260,
+      "height": 170
+    },
+    {
+      "id": "3eb45f071b09500b",
+      "type": "file",
+      "file": "6. Vault/attachments/Pasted image 20241023130005.png",
+      "styleAttributes": {},
+      "x": 2467,
+      "y": 1943,
+      "width": 711,
+      "height": 340
+    },
+    {
+      "id": "93331638b549b07c",
+      "type": "text",
+      "text": "# Tvaṃ",
+      "styleAttributes": {},
+      "x": 4900,
+      "y": 331,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "22d87e32d66113ee",
+      "type": "text",
+      "text": "# Ācareyya",
+      "styleAttributes": {},
+      "x": 1300,
+      "y": 230,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "b6bd16c112d23f09",
+      "type": "text",
+      "text": "# Ācareyyāsi\nV, CKC, Ngôi 2 số ít - Bạn cư xử",
+      "styleAttributes": {},
+      "x": 2577,
+      "y": 330,
+      "width": 260,
+      "height": 140
+    },
+    {
+      "id": "d50138d6ddebf81d",
+      "type": "text",
+      "text": "# (Bạn)",
+      "styleAttributes": {},
+      "x": 2207,
+      "y": 410,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "5f2de64203181b9a",
+      "type": "text",
+      "text": "# [3] Ācareyyāsi ca devatāhi yathā sabbe purisā suṇeyyuṃ tuvaṃ; \n# ācareyyāsi ca narehi yathā devatā passeyyuṃ tuvaṃ (Song cú Latin)",
+      "styleAttributes": {},
+      "x": 980,
+      "y": -180,
+      "width": 800,
+      "height": 220
+    },
+    {
+      "id": "aab40997b9a64126",
+      "type": "text",
+      "text": "# ca",
+      "styleAttributes": {},
+      "x": 2207,
+      "y": 240,
+      "width": 130,
+      "height": 60
+    },
+    {
+      "id": "249bc8c85abd9f7c",
+      "type": "text",
+      "text": "# sabbe purisā \nTất cả mọi người",
+      "styleAttributes": {},
+      "x": 930,
+      "y": 740,
+      "width": 260,
+      "height": 200
+    },
+    {
+      "id": "862688a8059b9f7d",
+      "type": "text",
+      "text": "# tuvaṃ\nTBC, số ít\nBạn",
+      "styleAttributes": {},
+      "x": 1720,
+      "y": 760,
+      "width": 260,
+      "height": 160
+    },
+    {
+      "id": "a7c18521345a250c",
+      "type": "text",
+      "text": "# suṇeyyuṃ\n**Suṇeyya** Nghe\nHọ nghe\nCó thể nge ",
+      "styleAttributes": {},
+      "x": 1300,
+      "y": 755,
+      "width": 260,
+      "height": 170
+    },
+    {
+      "id": "48d29135d06bdacf",
+      "type": "text",
+      "text": "# devatāhi\nDCC số nhiều\nVới những vị trời",
+      "styleAttributes": {},
+      "x": 1720,
+      "y": 300,
+      "width": 260,
+      "height": 200
+    },
+    {
+      "id": "627c2e62c8af1233",
+      "type": "text",
+      "text": "# Ācareyyāsi\nV, CKC, Ngôi 2 số ít - Bạn cư xử",
+      "styleAttributes": {},
+      "x": 1300,
+      "y": 330,
+      "width": 260,
+      "height": 140
+    },
+    {
+      "id": "ad22d9f4bde09f13",
+      "type": "text",
+      "text": "# (Bạn)",
+      "styleAttributes": {},
+      "x": 930,
+      "y": 410,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "5d9c3141fb6f1d8d",
+      "type": "text",
+      "text": "# Nên",
+      "styleAttributes": {},
+      "x": 620,
+      "y": 230,
+      "width": 140,
+      "height": 100
+    },
+    {
+      "id": "c89022c94427cc4e",
+      "type": "text",
+      "text": "# yathā\nGiống như",
+      "styleAttributes": {},
+      "x": 690,
+      "y": 520,
+      "width": 140,
+      "height": 140,
+      "color": "1"
+    },
+    {
+      "id": "ed1fec4ea807e994",
+      "type": "text",
+      "text": "# Bạn nên cư xử với các vị trời giống như mọi người có thể nghe bạn.",
+      "styleAttributes": {},
+      "x": 930,
+      "y": 1080,
+      "width": 1050,
+      "height": 80
+    }
+  ],
+  "edges": [
+    {
+      "id": "cba8bd7c3a13e345",
+      "fromNode": "3b7e0219667f54b9",
+      "fromSide": "bottom",
+      "toNode": "72dc39415d3aa26a",
+      "toSide": "left"
+    },
+    {
+      "id": "88de4d4caebd1fdf",
+      "styleAttributes": {},
+      "fromNode": "3b7e0219667f54b9",
+      "fromSide": "bottom",
+      "toNode": "39d81bfd6fb5270c",
+      "toSide": "left"
+    },
+    {
+      "id": "1c3d45dccce62877",
+      "styleAttributes": {},
+      "fromNode": "ad554bd193e0c8b5",
+      "fromSide": "bottom",
+      "toNode": "b5a13a5508cf65a1",
+      "toSide": "left"
+    },
+    {
+      "id": "d5db068a35aa0cf6",
+      "styleAttributes": {},
+      "fromNode": "ad554bd193e0c8b5",
+      "fromSide": "right",
+      "toNode": "51328848ff0ece0e",
+      "toSide": "left"
+    },
+    {
+      "id": "6bda246e06c730cd",
+      "styleAttributes": {},
+      "fromNode": "51328848ff0ece0e",
+      "fromSide": "right",
+      "toNode": "e0e511f969c1d84d",
+      "toSide": "left",
+      "color": "2"
+    },
+    {
+      "id": "75b6d944087743c7",
+      "styleAttributes": {},
+      "fromNode": "3b7e0219667f54b9",
+      "fromSide": "bottom",
+      "toNode": "7818ae9fc31d1baf",
+      "toSide": "left"
+    },
+    {
+      "id": "10fa5520101c6ec7",
+      "styleAttributes": {},
+      "fromNode": "f4442b6a650c4b97",
+      "fromSide": "right",
+      "toNode": "ad261c276e784b1b",
+      "toSide": "left"
+    },
+    {
+      "id": "9f9202815e094881",
+      "fromNode": "6b28db846a0f25f5",
+      "fromSide": "bottom",
+      "toNode": "f23595f505592f38",
+      "toSide": "left"
+    },
+    {
+      "id": "a94356fd4ca2eeda",
+      "styleAttributes": {},
+      "fromNode": "ad261c276e784b1b",
+      "fromSide": "right",
+      "toNode": "1deaa9c8336304fa",
+      "toSide": "left",
+      "color": "2"
+    },
+    {
+      "id": "6fbcd6cb9c09154f",
+      "styleAttributes": {},
+      "fromNode": "13ce7ef6d355de0e",
+      "fromSide": "left",
+      "toNode": "8a8bb4b4dd79d00a",
+      "toSide": "top"
+    },
+    {
+      "id": "1001ce2a9a43fb20",
+      "styleAttributes": {},
+      "fromNode": "8a8bb4b4dd79d00a",
+      "fromSide": "bottom",
+      "toNode": "e5e4101a4151a5e3",
+      "toSide": "left"
+    },
+    {
+      "id": "36a60123fd7161f9",
+      "styleAttributes": {},
+      "fromNode": "f23595f505592f38",
+      "fromSide": "bottom",
+      "toNode": "17264629528e1406",
+      "toSide": "left"
+    },
+    {
+      "id": "3685d0ce527e7e1b",
+      "styleAttributes": {},
+      "fromNode": "17264629528e1406",
+      "fromSide": "bottom",
+      "toNode": "7badb3920ea11a92",
+      "toSide": "left"
+    },
+    {
+      "id": "f04e7b93a1b796c3",
+      "styleAttributes": {},
+      "fromNode": "1deaa9c8336304fa",
+      "fromSide": "bottom",
+      "toNode": "e45961d45ff38896",
+      "toSide": "left"
+    },
+    {
+      "id": "2a4813cc23894817",
+      "styleAttributes": {},
+      "fromNode": "627c2e62c8af1233",
+      "fromSide": "right",
+      "toNode": "48d29135d06bdacf",
+      "toSide": "left"
+    },
+    {
+      "id": "a4eca469511ee581",
+      "styleAttributes": {},
+      "fromNode": "ad22d9f4bde09f13",
+      "fromSide": "right",
+      "toNode": "627c2e62c8af1233",
+      "toSide": "left"
+    },
+    {
+      "id": "e139ea3ef5860c0e",
+      "styleAttributes": {},
+      "fromNode": "249bc8c85abd9f7c",
+      "fromSide": "right",
+      "toNode": "a7c18521345a250c",
+      "toSide": "left"
+    },
+    {
+      "id": "8dc9d5df59beea26",
+      "styleAttributes": {},
+      "fromNode": "a7c18521345a250c",
+      "fromSide": "right",
+      "toNode": "862688a8059b9f7d",
+      "toSide": "left"
+    },
+    {
+      "id": "92e470f17a32c8a5",
+      "styleAttributes": {},
+      "fromNode": "60ee91994e4fde73",
+      "fromSide": "left",
+      "toNode": "c89022c94427cc4e",
+      "toSide": "top",
+      "toEnd": "none",
+      "color": "1"
+    },
+    {
+      "id": "5855b7e9e5ef2ed8",
+      "styleAttributes": {},
+      "fromNode": "c89022c94427cc4e",
+      "fromSide": "bottom",
+      "toNode": "92af637ec803d151",
+      "toSide": "left",
+      "color": "1"
+    },
+    {
+      "id": "f3dd50147f817fef",
+      "styleAttributes": {},
+      "fromNode": "b6bd16c112d23f09",
+      "fromSide": "right",
+      "toNode": "6af222de2d15d252",
+      "toSide": "left"
+    },
+    {
+      "id": "62cdd7d63113a0be",
+      "styleAttributes": {},
+      "fromNode": "d50138d6ddebf81d",
+      "fromSide": "right",
+      "toNode": "b6bd16c112d23f09",
+      "toSide": "left"
+    },
+    {
+      "id": "11997cb0ecea5690",
+      "styleAttributes": {},
+      "fromNode": "b1d18df1442c83a3",
+      "fromSide": "right",
+      "toNode": "b57d705a2a4a64b4",
+      "toSide": "left"
+    },
+    {
+      "id": "b64c77a6d8a73de5",
+      "styleAttributes": {},
+      "fromNode": "b57d705a2a4a64b4",
+      "fromSide": "right",
+      "toNode": "51136d1ac7de48b2",
+      "toSide": "left"
+    },
+    {
+      "id": "1c8bf71cc47613d1",
+      "styleAttributes": {},
+      "fromNode": "73d79bcf58a12cf4",
+      "fromSide": "right",
+      "toNode": "0ef0382fb3b7f5f3",
+      "toSide": "top",
+      "toEnd": "none",
+      "color": "1"
+    },
+    {
+      "id": "7464dac62376f1b9",
+      "styleAttributes": {},
+      "fromNode": "0ef0382fb3b7f5f3",
+      "fromSide": "bottom",
+      "toNode": "3d2558d339d8d9c0",
+      "toSide": "right",
+      "color": "1"
+    },
+    {
+      "id": "547ce83401b402dd",
+      "styleAttributes": {},
+      "fromNode": "42618e8e2f3625c5",
+      "fromSide": "bottom",
+      "toNode": "68b16248931cfb73",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "94c5e366f335184b",
+      "styleAttributes": {},
+      "fromNode": "93331638b549b07c",
+      "fromSide": "bottom",
+      "toNode": "35a25b9e7e8443cb",
+      "toSide": "left"
+    },
+    {
+      "id": "70b10e866ffe7b3d",
+      "styleAttributes": {},
+      "fromNode": "35a25b9e7e8443cb",
+      "fromSide": "bottom",
+      "toNode": "2bc79ecbce46d522",
+      "toSide": "left"
+    },
+    {
+      "id": "9fc7989444346986",
+      "styleAttributes": {},
+      "fromNode": "42618e8e2f3625c5",
+      "fromSide": "right",
+      "toNode": "5835364cd7352e39",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "175a084aa813227a",
+      "styleAttributes": {},
+      "fromNode": "be88685558568ccb",
+      "fromSide": "right",
+      "toNode": "42618e8e2f3625c5",
+      "toSide": "left"
+    },
+    {
+      "id": "d44139fb891a02e5",
+      "styleAttributes": {},
+      "fromNode": "25e90239b27eb8b8",
+      "fromSide": "right",
+      "toNode": "93331638b549b07c",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {}
+}

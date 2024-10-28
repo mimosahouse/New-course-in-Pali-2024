@@ -1,0 +1,38 @@
+{
+	"nodes":[
+		{"id":"8aa59380e85f643d","type":"text","text":"# Nâhaṃ, bhikkhave, aññaṃ ekadhammaṃ pi samanupassāmi, yaṃ evaṃ adantaṃ aguttaṃ arakkhitaṃ asaṃvutaṃ mahato anatthāya saṃvattatīti, yathayidaṃ, bhikkhave, cittaṃ\n# cittaṃ, bhikkhave, adantaṃ aguttaṃ arakkhitaṃ asaṃvutaṃ mahato anatthāya saṃvattatīti.","x":-660,"y":-460,"width":1320,"height":146},
+		{"id":"537842c34f2509ed","type":"text","text":"# Nâhaṃ, bhikkhave, aññaṃ ekadhammaṃ pi samanupassāmi,","x":-660,"y":-180,"width":1320,"height":90,"color":"4"},
+		{"id":"4ac621808814b94b","type":"text","text":"# yaṃ evaṃ adantaṃ aguttaṃ arakkhitaṃ asaṃvutaṃ mahato anatthāya saṃvattatīti, yathayidaṃ, bhikkhave, cittaṃ","x":-660,"y":480,"width":1320,"height":120,"color":"5"},
+		{"id":"86e95138c5bc1b04","type":"text","text":"# (Na)samanupassāmi","x":-200,"y":-40,"width":330,"height":80},
+		{"id":"cb295ef79466cd25","type":"text","text":"# ekadhammaṃ","x":280,"y":-40,"width":280,"height":80},
+		{"id":"fc1dfa261dda506b","type":"text","text":"# aññaṃ","x":560,"y":140,"width":250,"height":60},
+		{"id":"adee210841ce672c","type":"text","text":"### TBC Túc từ trực tiếp cho động từ samanupassāmi\n","x":560,"y":220,"width":320,"height":140},
+		{"id":"471cd2b4b77bc0b0","type":"text","text":"# ahaṃ","x":-660,"y":-40,"width":250,"height":80},
+		{"id":"23a4572e243db2c9","type":"text","text":"# yaṃ","x":-660,"y":660,"width":250,"height":60},
+		{"id":"e139ac3af9facb36","type":"text","text":"# saṃvattatīti","x":-260,"y":660,"width":250,"height":60},
+		{"id":"3adb6065a46d31ce","type":"text","text":"# purisassa","x":120,"y":1600,"width":250,"height":60},
+		{"id":"4c9b26ff4be2f4a8","type":"text","text":"NOM or ACC","x":120,"y":1800,"width":250,"height":60},
+		{"id":"4ae91e5f2d6ccbe5","type":"text","text":"GEN or DAT","x":155,"y":1680,"width":250,"height":60},
+		{"id":"6d77e58abba141a5","type":"text","text":"# cittaṃ","x":495,"y":1480,"width":250,"height":60},
+		{"id":"88a245495387b2f3","type":"text","text":"# cittaṃ, bhikkhave, adantaṃ aguttaṃ arakkhitaṃ asaṃvutaṃ mahato anatthāya saṃvattatīti.","x":-620,"y":1300,"width":1320,"height":115,"color":"6"},
+		{"id":"3b209f620aaef6cd","type":"text","text":"# anatthāya","x":160,"y":660,"width":250,"height":60},
+		{"id":"3fc7a27ba0c2ba4b","type":"text","text":"# mahato","x":360,"y":965,"width":250,"height":60},
+		{"id":"e9084218a07d9ff7","type":"text","text":"# adantaṃ aguttaṃ arakkhitaṃ asaṃvutaṃ","x":-620,"y":856,"width":230,"height":169},
+		{"id":"7347a4e7a889821e","type":"text","text":"### Động từ, chủ động, ngôi 3 số ít","x":-90,"y":908,"width":250,"height":117},
+		{"id":"f79011516cf9d176","type":"text","text":"### GBC, chỉ phương hướng cho động từ","x":410,"y":736,"width":250,"height":120}
+	],
+	"edges":[
+		{"id":"8eed358c013eeae3","fromNode":"6d77e58abba141a5","fromSide":"bottom","toNode":"3adb6065a46d31ce","toSide":"left"},
+		{"id":"9460ac2f6789c20f","fromNode":"cb295ef79466cd25","fromSide":"bottom","toNode":"adee210841ce672c","toSide":"left"},
+		{"id":"3201cc24c67519a0","fromNode":"6d77e58abba141a5","fromSide":"bottom","toNode":"4c9b26ff4be2f4a8","toSide":"left"},
+		{"id":"44cd6b00bfd7dd25","fromNode":"cb295ef79466cd25","fromSide":"bottom","toNode":"fc1dfa261dda506b","toSide":"left"},
+		{"id":"05eb394be849ad12","fromNode":"471cd2b4b77bc0b0","fromSide":"right","toNode":"86e95138c5bc1b04","toSide":"left"},
+		{"id":"8534861fd2eb8247","fromNode":"86e95138c5bc1b04","fromSide":"right","toNode":"cb295ef79466cd25","toSide":"left"},
+		{"id":"5325092cff256119","fromNode":"e139ac3af9facb36","fromSide":"right","toNode":"3b209f620aaef6cd","toSide":"left"},
+		{"id":"de61b1dd59f8b3b2","fromNode":"3b209f620aaef6cd","fromSide":"bottom","toNode":"3fc7a27ba0c2ba4b","toSide":"left","label":"Bổ nghĩa trực tiếp"},
+		{"id":"c5856dde27b616ee","fromNode":"3b209f620aaef6cd","fromSide":"bottom","toNode":"f79011516cf9d176","toSide":"left"},
+		{"id":"04f3a2152029e87a","fromNode":"23a4572e243db2c9","fromSide":"right","toNode":"e139ac3af9facb36","toSide":"left"},
+		{"id":"de802d7853e34a17","fromNode":"23a4572e243db2c9","fromSide":"right","toNode":"e9084218a07d9ff7","toSide":"left","label":"Bổ nghĩa trực tiếp"},
+		{"id":"91c4f9e1befaea8f","fromNode":"e139ac3af9facb36","fromSide":"bottom","toNode":"7347a4e7a889821e","toSide":"top"}
+	]
+}
