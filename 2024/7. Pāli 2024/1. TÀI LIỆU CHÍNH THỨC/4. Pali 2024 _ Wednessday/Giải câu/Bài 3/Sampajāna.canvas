@@ -1,0 +1,82 @@
+{
+  "nodes": [
+    {
+      "id": "1a1328a148a7210f",
+      "type": "text",
+      "text": "# [sampajāna 1](https://dpdict.net/?q=sampaj%C4%81na#sampaj%C4%81na_1) adj. **clearly aware; fully knowing; completely comprehending** [►](https://dpdict.net/?q=sampaj%C4%81na#sampaj%C4%81na_1)",
+      "styleAttributes": {},
+      "x": -600,
+      "y": 1120,
+      "width": 525,
+      "height": 200
+    },
+    {
+      "id": "c8f5febc75f4d989",
+      "type": "text",
+      "text": "## pañña adj. wise; intelligent; learned; knowledgeable; skilled ►",
+      "styleAttributes": {},
+      "x": -600,
+      "y": 1360,
+      "width": 525,
+      "height": 160
+    },
+    {
+      "id": "75c8f5267e41683f",
+      "type": "text",
+      "text": "# saṃ\nFully, completly",
+      "styleAttributes": {},
+      "x": -600,
+      "y": 1620,
+      "width": 360,
+      "height": 140
+    },
+    {
+      "id": "b384af4808f9310c",
+      "type": "text",
+      "text": "# Trí tuệ, sự hiểu biết đầy đủ, trọn vẹn",
+      "styleAttributes": {},
+      "x": 40,
+      "y": 1360,
+      "width": 260,
+      "height": 200,
+      "color": "1"
+    },
+    {
+      "id": "938805f8a6bd912b",
+      "type": "text",
+      "text": "sampajānāti pr. is aware (of); is alert (to); knows; perceives ►",
+      "styleAttributes": {},
+      "x": -600,
+      "y": 1840,
+      "width": 419,
+      "height": 168
+    }
+  ],
+  "edges": [
+    {
+      "id": "b0d7c90d16da4c23",
+      "styleAttributes": {},
+      "fromNode": "1a1328a148a7210f",
+      "fromSide": "right",
+      "toNode": "b384af4808f9310c",
+      "toSide": "left"
+    },
+    {
+      "id": "bb2a6b63b45d2d8c",
+      "styleAttributes": {},
+      "fromNode": "c8f5febc75f4d989",
+      "fromSide": "right",
+      "toNode": "b384af4808f9310c",
+      "toSide": "left"
+    },
+    {
+      "id": "067b6f7f4817fd1f",
+      "styleAttributes": {},
+      "fromNode": "75c8f5267e41683f",
+      "fromSide": "right",
+      "toNode": "b384af4808f9310c",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {}
+}

@@ -1,0 +1,144 @@
+{
+  "nodes": [
+    {
+      "id": "6fd44cf5b543789f",
+      "type": "text",
+      "text": "## katamañca = katamaṃ + ca \n**katama**: which; what; which of the many. (adj.)\n## Cái gì là sự thật thánh thiện về khổ?",
+      "styleAttributes": {},
+      "x": 620,
+      "y": -30,
+      "width": 480,
+      "height": 190
+    },
+    {
+      "id": "f6d0aef2bacf1d7a",
+      "type": "text",
+      "text": "# soka-parideva-dukkha-domanassa-upāyāsa-api\n**soka**: grief; sorrow. (m.)  \n**parideva**: wailing; lamentation. (m.)  \n**dukkha**: suffering; pain; misery; agony; discomfort. (nt.)  \n**domanassa**: displeasure; melancholy; grief. (nt.)  \n**upāyāsa**: tribulation; grief. (m.)  \n**api**: and; even; and then. (ind.)",
+      "styleAttributes": {},
+      "x": 620,
+      "y": 220,
+      "width": 480,
+      "height": 300
+    },
+    {
+      "id": "5e268affea237cdd",
+      "type": "text",
+      "text": "## 18.3Katamā ca, bhikkhave, jāti?\nVà Này các tì-khưu, cái gì là SINH?",
+      "styleAttributes": {},
+      "x": 620,
+      "y": 580,
+      "width": 480,
+      "height": 140
+    },
+    {
+      "id": "2bc94a76511760e7",
+      "type": "text",
+      "text": "18.3Katamā ca, bhikkhave, jāti? \n## 18.4 Yā tesaṁ tesaṁ sattānaṁ tamhi tamhi sattanikāye jāti sañjāti okkanti abhinibbatti khandhānaṁ pātubhāvo āyatanānaṁ paṭilābho, \n\nAnd what is rebirth? The rebirth, inception, conception, reincarnation, manifestation of the sets of phenomena, and acquisition of the sense fields of the various sentient beings in the various orders of sentient beings. \n### 18.5 ayaṁ vuccati, bhikkhave, jāti.\nNhững cái đó được gọi là SINH",
+      "styleAttributes": {},
+      "x": 620,
+      "y": 795,
+      "width": 480,
+      "height": 485
+    },
+    {
+      "id": "cd0fbd3e78adf112",
+      "type": "file",
+      "file": "warehouse/Old age elephant.png",
+      "styleAttributes": {},
+      "x": 555,
+      "y": 2550,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "6aaffe26418a0e3b",
+      "type": "file",
+      "file": "Giải câu/The truth of sufering.md",
+      "styleAttributes": {},
+      "x": -600,
+      "y": 1880,
+      "width": 995,
+      "height": 4240
+    },
+    {
+      "id": "95cce553722c023b",
+      "type": "file",
+      "file": "warehouse/Old age.png",
+      "styleAttributes": {},
+      "x": 555,
+      "y": 1880,
+      "width": 400,
+      "height": 259
+    },
+    {
+      "id": "7a5e3e7322c60208",
+      "type": "file",
+      "file": "warehouse/Old age Lion.png",
+      "styleAttributes": {},
+      "x": 555,
+      "y": 2210,
+      "width": 400,
+      "height": 267
+    },
+    {
+      "id": "fac71bac4340d9f8",
+      "type": "text",
+      "text": "## Yā tesaṃ sattānaṃ \n",
+      "styleAttributes": {},
+      "x": 1140,
+      "y": 795,
+      "width": 440,
+      "height": 105
+    },
+    {
+      "id": "5b040cc97183a9fb",
+      "type": "text",
+      "text": "# Sattānaṃ = satta ->dat GBC, gen SHC",
+      "styleAttributes": {},
+      "x": 1140,
+      "y": 978,
+      "width": 440,
+      "height": 122
+    },
+    {
+      "id": "9b1fecafc67cc09f",
+      "type": "text",
+      "text": "# tesaṃ",
+      "styleAttributes": {},
+      "x": 1330,
+      "y": 1160,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "6553f83862f31463",
+      "type": "file",
+      "file": "Giải câu/Dukkhasaccaniddesa.md",
+      "styleAttributes": {},
+      "x": -1280,
+      "y": 1880,
+      "width": 605,
+      "height": 4240
+    },
+    {
+      "id": "a8cd6120b488f080",
+      "type": "text",
+      "text": "# [niddesa 1](https://dpdict.net/?q=niddesa#niddesa_1) masc. **analytical description; detailed analysis**; lit. pointing out [►](https://dpdict.net/?q=niddesa#niddesa_1)\n\n## Sự phân tích chi tiết",
+      "styleAttributes": {},
+      "x": 555,
+      "y": 2920,
+      "width": 760,
+      "height": 300
+    }
+  ],
+  "edges": [
+    {
+      "id": "66407e3322ca69d5",
+      "fromNode": "5b040cc97183a9fb",
+      "fromSide": "bottom",
+      "toNode": "9b1fecafc67cc09f",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {}
+}
