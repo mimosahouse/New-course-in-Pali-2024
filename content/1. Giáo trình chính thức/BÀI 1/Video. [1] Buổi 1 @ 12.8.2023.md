@@ -5,6 +5,10 @@ draft: false
 ---
 #Video
 
+---
+![](https://www.youtube.com/watch?v=7h-UMhD5kSY&t=4)
+
+
 
 > [!NOTE] Tóm tắt nội dung khóa học
 > **Trò chuyện về Pāḷi, giới thiệu về khóa học, chương trình học.** 
@@ -47,6 +51,7 @@ Một cổ ngữ nếu không được bảo tồn, nó sẽ dần biến mất 
 
  - Phải có một thế lực nào đó làm chỗ dựa cho cổ ngữ thì nó mới có thể tiếp tục tồn tại. Nếu không có thế lực nào thì chắc chắn cổ ngữ đó sẽ trở thành tử ngữ. Hai thế lực chính có thể giữ cho một cổ ngữ còn sống, đó là tôn giáo và chính trị. 
 
+[20:14](https://www.youtube.com/watch?t=1214&v=7h-UMhD5kSY)
 
 
 
