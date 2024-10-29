@@ -14,6 +14,7 @@ category:
   - Bodhipakkhiya
 summary: những Yếu Tố Cần Thiết cho sự Giác Ngộ [1]
 title: Những Yếu tố cần thiết cho sự Giác Ngộ
+draft: false
 ---
 
 > [!SUMMARY] 
@@ -46,7 +47,7 @@ the Noble Eight-Fold Path.
 ---
 [The 37 Factors of Enlightenment](3.%20Project/The%2037%20Factors%20of%20Enlightenment.md)
 
-![](../6.%20Vault/attachments/Pasted%20image%2020241024073758.png)
+![](6.%20Vault/attachments/Pasted%20image%2020241024073758.png)
 
 
 ---
