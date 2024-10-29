@@ -37,7 +37,7 @@ Ví dụ: phương ngữ Huế, phương ngữ Sài Gòn, phương ngữ Hà N�
 - **Cổ ngữ** - Sự khác nhau của ngôn ngữ theo thời gian
 
 > [!NOTE] Cổ ngữ
-> - Quy luật của mọi ngôn ngữ: Các ngôn ngữ đều thay đổi theo thời gian. Đến một lúc, một phương ngữ nào đó sẽ trở nên cổ xưa và người ta gọi đó là Cổ ngữ
+> Quy luật của mọi ngôn ngữ: Các ngôn ngữ đều thay đổi theo thời gian. Đến một lúc, một phương ngữ nào đó sẽ trở nên cổ xưa và người ta gọi đó là Cổ ngữ
 
 Một cổ ngữ nếu không được bảo tồn, nó sẽ dần biến mất và khi đó nó trở thành Tử ngữ
 
@@ -57,18 +57,6 @@ Một cổ ngữ nếu không được bảo tồn, nó sẽ dần biến mất 
 ### 2.2 Phương pháp học Pāḷi
 
 ### 2.3 Các công cụ hỗ trợ
-
-
----
-Thử một chút về table trên Markdown nhé:
-
-| Không ai   | Má đào |
-| ---------- | ------ |
-| Trang điểm |        |
-
-
-
-
 
 
 ---
