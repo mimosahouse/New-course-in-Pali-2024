@@ -12,8 +12,10 @@ category:
 ---
 
 
->   [!NOTE] Tính từ
-> *Tính từ là từ chỉ tính chất, đặc điểm, đặc tính  hoặc hành động*
+> [!NOTE]
+> Tính từ
+> > *Định nghĩa, Thuộc tính, và cách dùng của Tính từ*
+> 
 
 ---
 ## **Tính-từ [Adjective] chỉ:** 

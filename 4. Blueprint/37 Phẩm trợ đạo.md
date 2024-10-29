@@ -1,12 +1,10 @@
 ---
 aliases:
   - "[Hub-note] 37 Phẩm trợ đạo"
-  - The Requisites of Enlightenment
 created: 2024-10-23 17:20
 progress: raw
 blueprint:
   - Bodhipakkhiya dhamma
-  - những Yếu Tố Cần Thiết cho sự Giác Ngộ
 impact: 
 urgency: 
 tags:
@@ -15,7 +13,12 @@ category:
   - Research
   - Bodhipakkhiya
 summary: những Yếu Tố Cần Thiết cho sự Giác Ngộ [1]
+title: Những Yếu tố cần thiết cho sự Giác Ngộ
 ---
+
+> [!SUMMARY] 
+> Xây dựng một Bản Đồ hướng dẫn, để Hành Giả có thể đi theo Con Đường
+
 ## Yếu tố cần thiết cho sự Giác Ngộ là gì??
 Pháp _Bodhipakkhiya dhamma_, Phẩm Trợ Ðạo, gồm bảy nhóm là:
 
@@ -41,7 +44,7 @@ the Seven Factors of Awakening,
 the Noble Eight-Fold Path.
 
 ---
-[The 37 Factors of Enlightenment](The%2037%20Factors%20of%20Enlightenment.md)
+[The 37 Factors of Enlightenment](3.%20Project/The%2037%20Factors%20of%20Enlightenment.md)
 
 ![](../6.%20Vault/attachments/Pasted%20image%2020241024073758.png)
 

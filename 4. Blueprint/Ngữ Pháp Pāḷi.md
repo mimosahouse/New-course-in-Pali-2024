@@ -14,7 +14,7 @@ summary:
 > Trong văn viết, với hầu hết các trường-hợp, người ta biểu-đạt trọn vẹn một ý-tưởng bằng câu [Sentence].
 
 #### **Các loại câu trong Pāḷi:**
-1. Câu hoti - [Câu đẳng lập](../3.%20Forge/Buổi%20ôn%20tuần%202/Câu%20đẳng%20lập.md)
+1. Câu hoti - [Câu đẳng lập](Câu%20đẳng%20lập.md)
 2. Câu đơn với 1 động từ chính - [[Câu đơn]]
 3. Câu phức - [[Câu phức]]
 4. Câu ghép [[Câu ghép]]
@@ -41,7 +41,7 @@ Mệnh-đề [Clause] là câu [Sentence].
 #### **Từ loại trong Pāḷi:**
 1. Danh từ [Danh từ](../8.%20Storage/pali-4/content/2024/Pāli%20-%20Bài%201/Danh%20từ.md)
 2. Động từ [Động từ Pāḷi](../1.%20Capture/2.%20References/Động%20từ%20Pāḷi.md)
-3. Tính từ [Tính từ](../3.%20Forge/Buổi%20ôn%20tuần%204/Tính%20từ.md)
+3. Tính từ [Tính từ](Tính%20từ.md)
 4. Và một số loại khác nữa
 
 

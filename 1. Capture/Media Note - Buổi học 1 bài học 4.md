@@ -29,6 +29,7 @@ Câu 3 là bối cảnh, nội dung
 ---
 - [48:13](file:///home/viriya/viriya/2.%20Ghi%20%C3%A2m%20bu%E1%BB%95i%20h%E1%BB%8Dc%20-%20L%E1%BB%9Bp%20th%E1%BB%A9%207/4.%20B%C3%80I%204/1.%20PALI%20CHIEU%20T7%202-3-24/video1042721236.mp4#t=48:13.53) 
 **Giải câu đọc thêm:**
+- [42:09](file:///home/viriya/viriya/2.%20Ghi%20%C3%A2m%20bu%E1%BB%95i%20h%E1%BB%8Dc%20-%20L%E1%BB%9Bp%20th%E1%BB%A9%207/4.%20B%C3%80I%204/1.%20PALI%20CHIEU%20T7%202-3-24/video1042721236.mp4#t=42:09.27) 
 
 Phật Ngôn:
 **Attānañce piyaṃ jaññā rakkheyya naṃ surakkhitaṃ**

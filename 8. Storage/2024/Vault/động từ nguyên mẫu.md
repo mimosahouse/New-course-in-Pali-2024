@@ -18,4 +18,4 @@ Pānaṇiko abhabbo anadhigataṃ bhogaṃ adhigantuṃ - Vị thương gia khô
 4. Động từ nguyên mẫu diễn tả một hành động xảy ra trước động từ chính, và có sắc thái (mood) giống với sắc thái của động từ chính.
 
 ---
-[Động từ level 1](../../../3.%20Forge/Buổi%20ôn%20tuần%203/Động%20từ%20level%201.md)
+[Động từ level 1](Động%20từ%20level%201.md)

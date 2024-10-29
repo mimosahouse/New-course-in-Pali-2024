@@ -19,4 +19,4 @@ Thì B ở biến cách và chức năng chung cho cả từ ghép này trong c�
 Buổi ôn [[2024-10-07]]
 Video [[Video. [22] Buổi 22 Bài 3.4 lớp 2024]]
 Liên quan [[../pali-4/content/2024/Pāli - Bài 1/Danh từ]]         
-[[../../3. Forge/Buổi ôn tuần 4/Tính từ]]
+[[Tính từ]]

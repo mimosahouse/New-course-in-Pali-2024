@@ -426,7 +426,7 @@ attānaṃ upamaṃ katvā, na haneyya na ghātaye.
 ### 3. [[../1. Capture/7. Ngữ Pháp Pāli/Cầu khiến cách đuôi -e]]
 
 ---
-[Bài 4.2 đoạn kinh 3.2 Pháp cú](../3.%20Forge/Buổi%20học%2025/Bài%204.2%20đoạn%20kinh%203.2%20Pháp%20cú.canvas)
+[Bài 4.2 đoạn kinh 3.2 Pháp cú](Bài%204.2%20đoạn%20kinh%203.2%20Pháp%20cú.canvas)
 
 
 ---
@@ -453,7 +453,7 @@ anupādiyāno idha vā huraṃ vā, sa bhāgavā sāmaññassa hoti.
 
 # Ngữ pháp bài 4.2
 ### 1. Hiện tại phân từ
-[Hiện tại phân từ](../3.%20Forge/Hiện%20tại%20phân%20từ.md)
+[Hiện tại phân từ](Hiện%20tại%20phân%20từ.md)
 
 ### 2. Cầu khiến cách
 [Cầu khiến cách](../1.%20Capture/7.%20Ngữ%20Pháp%20Pāli/Cầu%20khiến%20cách.md)

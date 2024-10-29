@@ -21,7 +21,7 @@ Danh từ có hình thức khác nhau dựa trên các Chức năng của nó tr
 ## II. Động từ
 
 ### 0. File tổng hợp nội dung Động từ
-[[../../3. Forge/Buổi ôn tuần 3/Động từ level 1]]
+[[Động từ level 1]]
 
 ### 1. Căn động từ
 

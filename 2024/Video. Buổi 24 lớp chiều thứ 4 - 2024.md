@@ -78,7 +78,7 @@ Go - con bò
 ---
 [2:31:37](https://www.youtube.com/watch?t=9097&v=GvvfZfOiack)
 HTPT có thể có đuôi -āna
-[Hiện tại phân từ](../../../3.%20Forge/Hiện%20tại%20phân%20từ.md)
+[Hiện tại phân từ](Hiện%20tại%20phân%20từ.md)
 
 e có khi đổi sang aya
 dese -> desaya + hậu tố => desayanta

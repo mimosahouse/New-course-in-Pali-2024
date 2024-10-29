@@ -45,10 +45,34 @@ Một cổ ngữ nếu không được bảo tồn, nó sẽ dần biến mất 
 > [!NOTE] **Tử ngữ**
 > Cổ ngữ đã chết, không còn được bảo tồn và không còn ai hiểu biết về nó nữa./
 
- - Phải có một thế lực nào đó làm chỗ dựa cho cổ ngữ thì nó mới có thể tiếp tục tồn tại. Nếu không có thế lực nào thì chắc chắn cổ ngữ đó sẽ trở thành tử ngữ. Hai thế lực chính có thể giữ cho một cổ ngữ còn sống, đó là tôn giáo và chính trị. 
+ [20:14](https://www.youtube.com/watch?t=1214&v=7h-UMhD5kSY)
+ **Thế lực chống lưng cho một cổ ngữ tồn tại** 
+ 
+- Phải có một thế lực nào đó làm chỗ dựa cho cổ ngữ thì nó mới có thể tiếp tục tồn tại. Nếu không có thế lực nào thì chắc chắn cổ ngữ đó sẽ trở thành tử ngữ. Hai thế lực chính có thể giữ cho một cổ ngữ còn sống, đó là **tôn giáo và chính trị**. 
+- Ngay cả khi có một thế lực làm chỗ dựa, cũng chưa chắc một cổ ngữ có thể tồn tại lâu dài được.
 
-[20:14](https://www.youtube.com/watch?t=1214&v=7h-UMhD5kSY)
+[53:29](https://www.youtube.com/watch?t=3209&v=7h-UMhD5kSY)
+**Kết thúc bài nền tảng**
 
+---
+[54:47](https://www.youtube.com/watch?t=3287&v=7h-UMhD5kSY)
+**Các học**
+
+> [!NOTE] Cấu trúc bài học
+>  **1. Đoạn kinh Pāli**
+>  Đây là một đoạn kinh thực sự trong kinh điển, không phải đoạn kinh đặt ra cho mục đích học tập hay nghiên cứu đơn thuần.
+**2. Từ vựng đoạn kinh**
+Các từ xuất hiện trong đoạn kinh, ghi theo trật tự thời gian và theo nguyên tắc: 
+	- Danh từ - Ghi theo Chủ cách số ít. 
+	- Động từ - Chủ động ngôi 3 số ít
+	- Tính từ - nguyên mẫu
+
+**Ghi chú**: học kiến thức ngữ pháp và lượng từ vựng vừa đủ để giải đoạn kinh. Không học nhồi nhét ngữ pháp vào một lần hay chỉ học ngữ pháp mà không giải đoạn kinh
+
+Cũng không học ngữ pháp theo những câu văn nhân tạo, tự đặt ra chỉ vì mục đích học tập./
+
+Từ loại cơ bản:
+- Danh từ pali
 
 
 ---
@@ -68,4 +92,4 @@ Phân biệt bộ chữ và Ngôn ngữ
 Chữ NÔM và chữ QUỐC NGỮ để để ký âm tiếng VIỆT./
 
 ---
-![](https://www.youtube.com/watch?v=7h-UMhD5kSY&t=4)
+

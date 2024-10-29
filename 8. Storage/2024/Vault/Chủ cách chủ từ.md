@@ -7,4 +7,4 @@ trong đó A Chủ ngữ - Chủ từ- là danh từ chủ cách làm chủ từ
 	- Hay trạng từ
 Liên động từ HOTI khẳng định A là B (cùng một đối tượng)
 
-[[../../../3. Forge/Buổi ôn tuần 2/Câu đẳng lập]]
+[[Câu đẳng lập]]

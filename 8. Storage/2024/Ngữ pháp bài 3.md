@@ -36,7 +36,7 @@ journal-section: day
 
 ## VI. Hiện tại phân từ
 ### 0. File tổng hợp hiện tại phân từ
-[[../../3. Forge/Hiện tại phân từ]]
+[[Hiện tại phân từ]]
 ### 1. Cách hình thành hiện tại phân từ
 #### a. thêm -nt
 #### b. thêm -mān
