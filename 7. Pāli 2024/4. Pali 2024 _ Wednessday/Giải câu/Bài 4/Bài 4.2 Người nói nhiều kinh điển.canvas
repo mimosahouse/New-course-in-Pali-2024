@@ -1,0 +1,1415 @@
+{
+  "nodes": [
+    {
+      "id": "fc3e08a40c865280",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -6320,
+      "y": -1125,
+      "width": 1800,
+      "height": 1715,
+      "label": "Untitled group"
+    },
+    {
+      "id": "87be53a58d79916c",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "styleAttributes": {},
+      "x": -3253,
+      "y": 3150,
+      "width": 1964,
+      "height": 1105,
+      "label": "New Slide"
+    },
+    {
+      "id": "4627c55717249286",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "styleAttributes": {},
+      "x": -3209,
+      "y": 4610,
+      "width": 1902,
+      "height": 1070,
+      "label": "New Slide"
+    },
+    {
+      "id": "0a18a6151e3c8a35",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "styleAttributes": {},
+      "x": -3260,
+      "y": 2080,
+      "width": 1636,
+      "height": 920,
+      "label": "New Slide"
+    },
+    {
+      "id": "867f8d4e359cfbe4",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "styleAttributes": {},
+      "x": -3260,
+      "y": 590,
+      "width": 1500,
+      "height": 844,
+      "label": "New Slide"
+    },
+    {
+      "id": "e329c1acbaaed32f",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "styleAttributes": {},
+      "x": -340,
+      "y": -880,
+      "width": 1280,
+      "height": 720,
+      "label": "New Slide"
+    },
+    {
+      "id": "6c85cec5adbc19df",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "styleAttributes": {},
+      "x": -328,
+      "y": 253,
+      "width": 1200,
+      "height": 675,
+      "label": "New Slide"
+    },
+    {
+      "id": "3dc79242d3ac5ea5",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "isStartNode": true,
+      "styleAttributes": {},
+      "x": -315,
+      "y": -2235,
+      "width": 1200,
+      "height": 675,
+      "label": "Start Slide"
+    },
+    {
+      "id": "da9e34aed26832e7",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -5615,
+      "y": 832,
+      "width": 1095,
+      "height": 360,
+      "label": "Nội-Dung"
+    },
+    {
+      "id": "7c23549563223c24",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -2926,
+      "y": 3640,
+      "width": 655,
+      "height": 580,
+      "color": "2",
+      "label": "Sau-khi từ bỏ Tham-Sân-Si"
+    },
+    {
+      "id": "b973ee4e429019bc",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -2020,
+      "y": 3340,
+      "width": 600,
+      "height": 390,
+      "color": "6",
+      "label": "Đồng-vị"
+    },
+    {
+      "id": "70e3dffba268dfca",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -2941,
+      "y": -672,
+      "width": 360,
+      "height": 437,
+      "label": "Không làm theo..."
+    },
+    {
+      "id": "cebf1ea842579573",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -5900,
+      "y": 55,
+      "width": 360,
+      "height": 437,
+      "label": "Không làm theo..."
+    },
+    {
+      "id": "69c0f808fdb25fc2",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -2521,
+      "y": -770,
+      "width": 465,
+      "height": 335,
+      "color": "2",
+      "label": "Túc từ "
+    },
+    {
+      "id": "0d78570c143f11fd",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -5880,
+      "y": -602,
+      "width": 465,
+      "height": 335,
+      "color": "2",
+      "label": "Túc từ "
+    },
+    {
+      "id": "6e0621409bb4c8d9",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -172,
+      "y": -520,
+      "width": 465,
+      "height": 335,
+      "color": "2",
+      "label": "Túc từ "
+    },
+    {
+      "id": "cbdd4c590dc9dcde",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -1941,
+      "y": -980,
+      "width": 460,
+      "height": 328,
+      "color": "5",
+      "label": "Người dễ duôi"
+    },
+    {
+      "id": "48858f4694f9da39",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -5340,
+      "y": 164,
+      "width": 460,
+      "height": 328,
+      "color": "5",
+      "label": "Người dễ duôi"
+    },
+    {
+      "id": "daf6706aea180015",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 380,
+      "y": 351,
+      "width": 460,
+      "height": 328,
+      "color": "5",
+      "label": "Người dễ duôi"
+    },
+    {
+      "id": "34366cb111445ee4",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -2301,
+      "y": 645,
+      "width": 493,
+      "height": 299,
+      "label": "Người dự phần sa-môn"
+    },
+    {
+      "id": "24ec43aa983cd615",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -2760,
+      "y": 2380,
+      "width": 351,
+      "height": 352,
+      "color": "2",
+      "label": " ít-kinh-điển"
+    },
+    {
+      "id": "2aab61168085e43a",
+      "type": "text",
+      "text": "# Mệnh đề tiền đề:",
+      "styleAttributes": {},
+      "x": -5595,
+      "y": 852,
+      "width": 260,
+      "height": 120
+    },
+    {
+      "id": "d50c7713e0ba7428",
+      "type": "text",
+      "text": "# Mệnh đề kết quả:",
+      "styleAttributes": {},
+      "x": -5595,
+      "y": 1052,
+      "width": 260,
+      "height": 120
+    },
+    {
+      "id": "29c4b83a68d10d2c",
+      "type": "text",
+      "text": "# Người đó không đạt được trạng thái Sa Môn",
+      "styleAttributes": {},
+      "x": -5295,
+      "y": 1052,
+      "width": 755,
+      "height": 120
+    },
+    {
+      "id": "16e932c8c548d06b",
+      "type": "text",
+      "text": "# Vị tì khưu nói giỏi, mà không thực hành",
+      "styleAttributes": {},
+      "x": -5295,
+      "y": 852,
+      "width": 755,
+      "height": 80
+    },
+    {
+      "id": "623b6c53c0478695",
+      "type": "text",
+      "text": "# bhāgavā\nn, m, cc, ít/VN CĐL/người dự phần",
+      "styleAttributes": {},
+      "x": -2280,
+      "y": 663,
+      "width": 250,
+      "height": 125,
+      "color": "5"
+    },
+    {
+      "id": "707b7bf4e78eab85",
+      "type": "text",
+      "text": "## SHC như túc từ\n## SHC tổng thể",
+      "styleAttributes": {},
+      "x": -2120,
+      "y": 1150,
+      "width": 312,
+      "height": 190
+    },
+    {
+      "id": "ba959c783df5ad1f",
+      "type": "text",
+      "text": "# paresaṃ\nn, m, shc, nhiều/SHC chỉ đối tượng SH/những người khác",
+      "styleAttributes": {},
+      "x": -2523,
+      "y": 1150,
+      "width": 285,
+      "height": 160
+    },
+    {
+      "id": "780874a4217fc623",
+      "type": "text",
+      "text": "# sāmaññassa\nn, nt, shc, ít/SHC tổng thể/trạng thái Sa Môn",
+      "styleAttributes": {},
+      "x": -2079,
+      "y": 805,
+      "width": 251,
+      "height": 119
+    },
+    {
+      "id": "cf31edd3138330cf",
+      "type": "text",
+      "text": "# hoti",
+      "styleAttributes": {},
+      "x": -5390,
+      "y": -733,
+      "width": 130,
+      "height": 50
+    },
+    {
+      "id": "4a59d6b0bcf96b7c",
+      "type": "text",
+      "text": "# bhāsamāno\nHTPT, dùng như noun, m, cc, ít/chủ từ/người nói",
+      "styleAttributes": {},
+      "x": -2791,
+      "y": -956,
+      "width": 300,
+      "height": 125
+    },
+    {
+      "id": "77ec78340eeb209a",
+      "type": "text",
+      "text": "# Câu 1: bahuṃ pi ce sahitaṃ bhāsamāno, na takkaro hoti naro pamatto (Câu đẳng lập)",
+      "styleAttributes": {},
+      "x": -3121,
+      "y": -1090,
+      "width": 883,
+      "height": 84
+    },
+    {
+      "id": "941a18d1de87b03d",
+      "type": "text",
+      "text": "# ce\nphụ từ/thường đi với từ đầu tiên trong câu/nếu",
+      "styleAttributes": {},
+      "x": -3121,
+      "y": -956,
+      "width": 280,
+      "height": 125
+    },
+    {
+      "id": "e263d301ef230eb0",
+      "type": "text",
+      "text": "# sahitaṃ\nn, nt, TBC, ít/TTTT cho HTPT bhāsamāno/kinh điển",
+      "styleAttributes": {},
+      "x": -2501,
+      "y": -750,
+      "width": 270,
+      "height": 155
+    },
+    {
+      "id": "51ad5918f85dbbf6",
+      "type": "text",
+      "text": "# na\nphụ từ/phủ định cho karo/không",
+      "styleAttributes": {},
+      "x": -2793,
+      "y": -375,
+      "width": 192,
+      "height": 120
+    },
+    {
+      "id": "ac1b2350810de258",
+      "type": "text",
+      "text": "# takkaro\n(= Tad + karo)\nn, m, cc, ít/ĐVN/Người làm việc đó\n[takkara 1](https://dpdict.net/?q=takkaro#takkara_1) adj. **who does that; doing that; acting accordingly** [►](https://dpdict.net/?q=takkaro#takkara_1)",
+      "styleAttributes": {},
+      "x": -2921,
+      "y": -635,
+      "width": 320,
+      "height": 240
+    },
+    {
+      "id": "4ae40217de98d488",
+      "type": "text",
+      "text": "# na\nphụ từ/phủ định cho karo/không",
+      "styleAttributes": {},
+      "x": -5752,
+      "y": 352,
+      "width": 192,
+      "height": 120
+    },
+    {
+      "id": "74928e9017f0bcba",
+      "type": "text",
+      "text": "# naro\nn, m, cc, ít/VN CĐL/người",
+      "styleAttributes": {},
+      "x": -5320,
+      "y": 184,
+      "width": 263,
+      "height": 135
+    },
+    {
+      "id": "1d262ad49ae68e5c",
+      "type": "text",
+      "text": "# hoti",
+      "styleAttributes": {},
+      "x": -2538,
+      "y": 700,
+      "width": 130,
+      "height": 50,
+      "color": "3"
+    },
+    {
+      "id": "0c9b18812c4ffccd",
+      "type": "text",
+      "text": "# iva: \nphụ từ/so sánh đối tượng với đối tượng khác/giống như",
+      "styleAttributes": {},
+      "x": -3220,
+      "y": 645,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "id": "e091893352537d1f",
+      "type": "text",
+      "text": "# gaṇayaṃ\n(sắc thái: )\nHTPT, dùng như adj, m, cc, ít/BNTT cho gopo/đếm",
+      "styleAttributes": {},
+      "x": -2828,
+      "y": 955,
+      "width": 351,
+      "height": 160
+    },
+    {
+      "id": "0b8b8ec071d1982f",
+      "type": "text",
+      "text": "# gāvo\nn, m, tbc, nhiều/TTTT gaṇayaṃ/những con bò",
+      "styleAttributes": {},
+      "x": -2828,
+      "y": 1150,
+      "width": 277,
+      "height": 160
+    },
+    {
+      "id": "d5d65fb65c4bcdaf",
+      "type": "text",
+      "text": "# gopo\n(gopova = gopo + iva)\nn, m, cc, ít/chủ từ/người chăn bò",
+      "styleAttributes": {},
+      "x": -2920,
+      "y": 645,
+      "width": 267,
+      "height": 160,
+      "color": "1"
+    },
+    {
+      "id": "1af44bd87a2cceba",
+      "type": "text",
+      "text": "# na\nphụ từ/phủ định cho karo/không",
+      "styleAttributes": {},
+      "x": -2538,
+      "y": 785,
+      "width": 192,
+      "height": 120
+    },
+    {
+      "id": "cd0070b2585398f5",
+      "type": "text",
+      "text": "# sahitaṃ\nn, nt, TBC, ít/TTTT cho HTPT bhāsamāno/kinh điển",
+      "styleAttributes": {},
+      "x": -5860,
+      "y": -582,
+      "width": 270,
+      "height": 155
+    },
+    {
+      "id": "5ffc5c2a9cafc16e",
+      "type": "text",
+      "text": "# pamatto\nadj, m, cc, ít/BNTT cho naro/dễ duôi",
+      "styleAttributes": {},
+      "x": -5157,
+      "y": 334,
+      "width": 257,
+      "height": 138
+    },
+    {
+      "id": "aca003ff8b6dea9f",
+      "type": "text",
+      "text": "# takkaro\n(= Tad + karo)\nn, m, cc, ít/ĐVN/Người làm việc đó\n[takkara 1](https://dpdict.net/?q=takkaro#takkara_1) adj. **who does that; doing that; acting accordingly** [►](https://dpdict.net/?q=takkaro#takkara_1)",
+      "styleAttributes": {},
+      "x": -5880,
+      "y": 92,
+      "width": 320,
+      "height": 240
+    },
+    {
+      "id": "c1885d6231982e99",
+      "type": "text",
+      "text": "# nếu [người nói nhiều kinh điển mà không làm theo] thì là [người dễ duôi]",
+      "styleAttributes": {},
+      "x": -5543,
+      "y": -162,
+      "width": 883,
+      "height": 119
+    },
+    {
+      "id": "54e71a78d3e4fe3a",
+      "type": "text",
+      "text": "# bahuṃ\nadi, nt, TBC, ít/BNTT cho sahitaṃ/nhiều",
+      "styleAttributes": {},
+      "x": -5690,
+      "y": -407,
+      "width": 255,
+      "height": 120
+    },
+    {
+      "id": "ae506cd814272ca1",
+      "type": "text",
+      "text": "# Câu 1: bahuṃ pi ce sahitaṃ bhāsamāno, na takkaro hoti naro pamatto (Câu đẳng lập)",
+      "styleAttributes": {},
+      "x": -6280,
+      "y": -905,
+      "width": 883,
+      "height": 84
+    },
+    {
+      "id": "3a1e3172fa1ae907",
+      "type": "text",
+      "text": "# ce\nphụ từ/thường đi với từ đầu tiên trong câu/nếu",
+      "styleAttributes": {},
+      "x": -6280,
+      "y": -771,
+      "width": 280,
+      "height": 125
+    },
+    {
+      "id": "11ecc1761d121522",
+      "type": "text",
+      "text": "# Hoti -> Ý niệm tồn tại - ít khi sử dụng\n# - Mở đầu\n# - Đặc thù",
+      "styleAttributes": {},
+      "x": -3220,
+      "y": 80,
+      "width": 1640,
+      "height": 280
+    },
+    {
+      "id": "383fa649a3c53013",
+      "type": "text",
+      "text": "# bhāsamāno\nHTPT, dùng như noun, m, cc, ít/chủ từ/người nói",
+      "styleAttributes": {},
+      "x": -5950,
+      "y": -771,
+      "width": 300,
+      "height": 125
+    },
+    {
+      "id": "5e721c7e621fedb1",
+      "type": "text",
+      "text": "# sahitaṃ\nn, nt, TBC, ít/TTTT cho HTPT bhāsamāno/kinh điển",
+      "styleAttributes": {},
+      "x": -2740,
+      "y": 2400,
+      "width": 311,
+      "height": 119
+    },
+    {
+      "id": "34d7435b2769418f",
+      "type": "text",
+      "text": "# appaṃ\n(appampi = appaṃ +pi)\nadi, nt, TBC, ít/BNTT cho sahitaṃ/ít",
+      "styleAttributes": {},
+      "x": -2740,
+      "y": 2552,
+      "width": 311,
+      "height": 160
+    },
+    {
+      "id": "d9e5d0926b034f1d",
+      "type": "text",
+      "text": "# suvimuttacitto\nn, m, cc, ít/ĐVN với sammappajāno/người có tâm giải thoát",
+      "styleAttributes": {},
+      "x": -1808,
+      "y": 3550,
+      "width": 330,
+      "height": 160
+    },
+    {
+      "id": "db9da094ea1e39ac",
+      "type": "text",
+      "text": "# sammappajāno \nn, m, cc, ít/VN CĐL/người tỉnh giác",
+      "styleAttributes": {},
+      "x": -1913,
+      "y": 3360,
+      "width": 310,
+      "height": 130
+    },
+    {
+      "id": "86366457971b9e37",
+      "type": "text",
+      "text": "# Dịch: sau khi từ bỏ tham, sân, si, vị ấy là người tỉnh giác - người có tâm giải thoát",
+      "styleAttributes": {},
+      "x": -960,
+      "y": 3100,
+      "width": 1000,
+      "height": 100
+    },
+    {
+      "id": "09c0255661b5dc9a",
+      "type": "text",
+      "text": "# hoti",
+      "styleAttributes": {},
+      "x": -2559,
+      "y": 2222,
+      "width": 130,
+      "height": 50
+    },
+    {
+      "id": "4ba61eda221e4779",
+      "type": "text",
+      "text": "# dhammassa\nn, m, shc, ít/danh từ ở SHC đi kèm danh từ có ý niệm hành động/giáo pháp",
+      "styleAttributes": {},
+      "x": -2087,
+      "y": 2535,
+      "width": 260,
+      "height": 194
+    },
+    {
+      "id": "25bcba4eb894b08e",
+      "type": "text",
+      "text": "# SHC - như túc từ\nPhương thức cho hành pháp (Hành đúng hay sai)",
+      "styleAttributes": {},
+      "x": -2280,
+      "y": 2832,
+      "width": 453,
+      "height": 108
+    },
+    {
+      "id": "c9576d62fb4d69e6",
+      "type": "text",
+      "text": "# rāgaṃ\n(rāgañca = rāgaṃ + ca )\nn, m, tbc, ít/TTTT cho pahāya/tham",
+      "styleAttributes": {},
+      "x": -2571,
+      "y": 3655,
+      "width": 280,
+      "height": 160
+    },
+    {
+      "id": "3a79cf7ef5dff734",
+      "type": "text",
+      "text": "# so\n(thay thế cho bhāsamāno)\nĐTNX, m, ngôi 3, ít/chủ từ/Vị ấy",
+      "styleAttributes": {},
+      "x": -3080,
+      "y": 3335,
+      "width": 300,
+      "height": 190,
+      "color": "1"
+    },
+    {
+      "id": "72f4a1407efbf9c3",
+      "type": "text",
+      "text": "# Câu 4: rāgañca dosañca pahāya mohaṃ, sammappajāno suvimuttacitto.",
+      "styleAttributes": {},
+      "x": -3209,
+      "y": 3200,
+      "width": 1000,
+      "height": 120
+    },
+    {
+      "id": "f4c7bb4316ecff5c",
+      "type": "text",
+      "text": "# hoti\ntrở thành",
+      "styleAttributes": {},
+      "x": -2624,
+      "y": 3365,
+      "width": 250,
+      "height": 125
+    },
+    {
+      "id": "ebb6215f8ff6be1d",
+      "type": "text",
+      "text": "# naro\nn, m, cc, ít/VN CĐL/người",
+      "styleAttributes": {},
+      "x": 400,
+      "y": 371,
+      "width": 263,
+      "height": 135
+    },
+    {
+      "id": "e8413099c6fdc615",
+      "type": "text",
+      "text": "# (So)",
+      "styleAttributes": {},
+      "x": -230,
+      "y": 409,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "e0e3a23682173159",
+      "type": "text",
+      "text": "# pamatto\nadj, m, cc, ít/BNTT cho naro/dễ duôi",
+      "styleAttributes": {},
+      "x": 563,
+      "y": 521,
+      "width": 257,
+      "height": 138
+    },
+    {
+      "id": "1bc0ea0b2365d48d",
+      "type": "text",
+      "text": "# (Và) ngườii ấy là người dễ duôi",
+      "styleAttributes": {},
+      "x": -230,
+      "y": 659,
+      "width": 450,
+      "height": 118
+    },
+    {
+      "id": "b76c63a287a7e330",
+      "type": "text",
+      "text": "# hoti",
+      "styleAttributes": {},
+      "x": -2231,
+      "y": -918,
+      "width": 130,
+      "height": 50
+    },
+    {
+      "id": "b60a7bb73a19c4d3",
+      "type": "text",
+      "text": "# naro\nn, m, cc, ít/VN CĐL/người",
+      "styleAttributes": {},
+      "x": -1921,
+      "y": -960,
+      "width": 263,
+      "height": 135
+    },
+    {
+      "id": "0f76f2d2d02ed030",
+      "type": "text",
+      "text": "# pamatto\nadj, m, cc, ít/BNTT cho naro/dễ duôi",
+      "styleAttributes": {},
+      "x": -1758,
+      "y": -810,
+      "width": 257,
+      "height": 138
+    },
+    {
+      "id": "260e8478b32cf5b9",
+      "type": "text",
+      "text": "# nếu [người nói nhiều kinh điển mà không làm theo] thì là [người dễ duôi]",
+      "styleAttributes": {},
+      "x": -2384,
+      "y": -347,
+      "width": 883,
+      "height": 119
+    },
+    {
+      "id": "d6b087ddc525b925",
+      "type": "text",
+      "text": "# bahuṃ\nadi, nt, TBC, ít/BNTT cho sahitaṃ/nhiều",
+      "styleAttributes": {},
+      "x": -2331,
+      "y": -575,
+      "width": 255,
+      "height": 120
+    },
+    {
+      "id": "210fa895d337fd09",
+      "type": "text",
+      "text": "# ce\nphụ từ/thường đi với từ đầu tiên trong câu/nếu",
+      "styleAttributes": {},
+      "x": -660,
+      "y": -808,
+      "width": 280,
+      "height": 125
+    },
+    {
+      "id": "0bc9db5eaf8252ac",
+      "type": "text",
+      "text": "# Đoạn kinh 3.4-3.5 (Dhp)**\n\n|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||\n\n# bahuṃ pi ce sahitaṃ bhāsamāno, na takkaro hoti naro pamatto.\n\n# gopova gāvo gaṇayaṃ paresaṃ, na bhāgavā sāmaññassa hoti.\n\n# appampi ce sahitaṃ bhāsamāno, dhammassa hoti anudhammacārī.\n\n# rāgañca dosañca pahāya mohaṃ, sammappajāno suvimuttacitto.\n\n# anupādiyāno idha vā huraṃ vā, sa bhāgavā sāmaññassa hoti.",
+      "styleAttributes": {},
+      "x": -230,
+      "y": -2120,
+      "width": 1060,
+      "height": 480
+    },
+    {
+      "id": "23871e89a7515dc9",
+      "type": "text",
+      "text": "# sa: \nĐTNC/CĐ, dùng như tính từ, m, cc, ít/ BNTT cho anupādiyāno/người ấy, người đó",
+      "styleAttributes": {},
+      "x": -2900,
+      "y": 5070,
+      "width": 260,
+      "height": 190
+    },
+    {
+      "id": "2e90f0ab96698755",
+      "type": "text",
+      "text": "# sāmaññassa\nn, m, shc, ít/SHC tổng thể/trạng thái Sa Môn",
+      "styleAttributes": {},
+      "x": -1920,
+      "y": 5095,
+      "width": 300,
+      "height": 140
+    },
+    {
+      "id": "df984aa3066f5293",
+      "type": "text",
+      "text": "# bhāgavā\nn, m, cc, ít/VN CĐL/người dự phần",
+      "styleAttributes": {},
+      "x": -2189,
+      "y": 4810,
+      "width": 340,
+      "height": 110
+    },
+    {
+      "id": "918262ef3cf1e0e9",
+      "type": "text",
+      "text": " # dosaṃ\n(dosañca = dosaṃ + ca )\nn, m, tbc, ít/TTTT cho pahāya/sân",
+      "styleAttributes": {},
+      "x": -2571,
+      "y": 3840,
+      "width": 280,
+      "height": 160
+    },
+    {
+      "id": "3e78f7a73d6b6a71",
+      "type": "text",
+      "text": " # mohaṃ\nn, m, tbc, ít/TTTT cho pahāya/si",
+      "styleAttributes": {},
+      "x": -2571,
+      "y": 4040,
+      "width": 280,
+      "height": 160
+    },
+    {
+      "id": "80c851173aa22d3f",
+      "type": "text",
+      "text": "# pahāya\nĐTBB/diễn tả hành động xảy ra trước hành động của chủ từ/sau khi từ bỏ\n",
+      "styleAttributes": {},
+      "x": -2906,
+      "y": 3660,
+      "width": 280,
+      "height": 150
+    },
+    {
+      "id": "97b7ce1781ba46ea",
+      "type": "text",
+      "text": "# Câu 5: anupādiyāno idha vā huraṃ vā, sa bhāgavā sāmaññassa hoti.",
+      "styleAttributes": {},
+      "x": -935,
+      "y": 4020,
+      "width": 1035,
+      "height": 80
+    },
+    {
+      "id": "0d0321b9ec825be7",
+      "type": "text",
+      "text": "# Dịch: kiếp này và kiếp sau, người không dính mắc ấy là người dự phân trạng thái Sa Môn.",
+      "styleAttributes": {},
+      "x": -935,
+      "y": 4140,
+      "width": 1035,
+      "height": 140
+    },
+    {
+      "id": "41aacc047a7b9c82",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {},
+      "x": -815,
+      "y": -1400,
+      "width": 200,
+      "height": 100
+    },
+    {
+      "id": "04fd6094143a4f3c",
+      "type": "text",
+      "text": "# huraṃ\nadv, BN cho động từ hoti/kiếp sau",
+      "styleAttributes": {},
+      "x": -2420,
+      "y": 5105,
+      "width": 260,
+      "height": 130
+    },
+    {
+      "id": "3aa12189614f22b6",
+      "type": "text",
+      "text": "# hoti",
+      "styleAttributes": {},
+      "x": -2574,
+      "y": 4835,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "5efa64d58e698e43",
+      "type": "text",
+      "text": "# idha\nadv/BN cho động từ hoti/kiếp này\n",
+      "styleAttributes": {},
+      "x": -3200,
+      "y": 4620,
+      "width": 260,
+      "height": 140
+    },
+    {
+      "id": "8774804e0ec9264a",
+      "type": "text",
+      "text": "# anupādiyāno\nHTPT, dùng như noun, m, cc, ít/chủ từ/ Người không dính mắc",
+      "styleAttributes": {},
+      "x": -2980,
+      "y": 4785,
+      "width": 280,
+      "height": 160
+    },
+    {
+      "id": "29157f45cd0c7f60",
+      "type": "text",
+      "text": "# takkaro\n(= Tad + karo)\nn, m, cc, ít/ĐVN/Người làm việc đó",
+      "styleAttributes": {},
+      "x": -3154,
+      "y": 2740,
+      "width": 320,
+      "height": 152
+    },
+    {
+      "id": "6b1154e6f6754ab7",
+      "type": "text",
+      "text": "# bhāsamāno\nHTPT, dùng như noun, m, cc, ít/chủ từ/người nói",
+      "styleAttributes": {},
+      "x": -2979,
+      "y": 2180,
+      "width": 300,
+      "height": 133
+    },
+    {
+      "id": "c43e258d630203f4",
+      "type": "text",
+      "text": "# ce\nphụ từ/thường đi với từ đầu tiên trong câu/nếu",
+      "styleAttributes": {},
+      "x": -3220,
+      "y": 2180,
+      "width": 200,
+      "height": 212
+    },
+    {
+      "id": "6155b74a7c524805",
+      "type": "text",
+      "text": "# anudhammacārī.\nn, m, cc, ít/VN CĐL/ người hành theo pháp\n[anudhammacārī](https://dpdict.net/?q=anudhammac%C4%81r%C4%AB#anudhammac%C4%81r%C4%AB) adj. **living according to the Dhamma;**",
+      "styleAttributes": {},
+      "x": -2193,
+      "y": 2147,
+      "width": 366,
+      "height": 200
+    },
+    {
+      "id": "dd57b6662f965c2a",
+      "type": "text",
+      "text": "# hoti",
+      "styleAttributes": {},
+      "x": 208,
+      "y": -708,
+      "width": 130,
+      "height": 50
+    },
+    {
+      "id": "bc97dcdb2bee5c3a",
+      "type": "text",
+      "text": "# bahuṃ\nadi, nt, TBC, ít/BNTT cho sahitaṃ/nhiều",
+      "styleAttributes": {},
+      "x": 18,
+      "y": -325,
+      "width": 255,
+      "height": 120
+    },
+    {
+      "id": "20978b7633bcfb47",
+      "type": "text",
+      "text": "## Người nói nhiều kinh điển mà không làm theo",
+      "styleAttributes": {},
+      "x": 338,
+      "y": -325,
+      "width": 522,
+      "height": 140
+    },
+    {
+      "id": "eaa965bead299c43",
+      "type": "text",
+      "text": "# bhāsamāno\nHTPT, dùng như noun, m, cc, ít/chủ từ/người nói",
+      "styleAttributes": {},
+      "x": -322,
+      "y": -746,
+      "width": 300,
+      "height": 125
+    },
+    {
+      "id": "a41c425f408911c7",
+      "type": "text",
+      "text": "# sahitaṃ\nn, nt, TBC, ít/TTTT cho HTPT bhāsamāno/kinh điển",
+      "styleAttributes": {},
+      "x": -152,
+      "y": -500,
+      "width": 270,
+      "height": 155
+    },
+    {
+      "id": "f88a5af40de9503d",
+      "type": "text",
+      "text": "# bahuṃ pi ce sahitaṃ bhāsamāno, na takkaro hoti naro pamatto.",
+      "styleAttributes": {},
+      "x": -322,
+      "y": -851,
+      "width": 1182,
+      "height": 87
+    },
+    {
+      "id": "c389cac458a609a3",
+      "type": "text",
+      "text": "# na\nphụ từ/phủ định cho karo/không",
+      "styleAttributes": {},
+      "x": 668,
+      "y": -482,
+      "width": 192,
+      "height": 120
+    },
+    {
+      "id": "c1f8d38542bed394",
+      "type": "text",
+      "text": "# takkaro\n(= Tad + karo)\nn, m, cc, ít/ĐVN/Người làm việc đó\n[takkara 1](https://dpdict.net/?q=takkaro#takkara_1) adj. **who does that; doing that; acting accordingly** [►](https://dpdict.net/?q=takkaro#takkara_1)",
+      "styleAttributes": {},
+      "x": 540,
+      "y": -745,
+      "width": 320,
+      "height": 238
+    }
+  ],
+  "edges": [
+    {
+      "id": "69856b45aa0e0326",
+      "fromNode": "4a59d6b0bcf96b7c",
+      "fromSide": "bottom",
+      "toNode": "e263d301ef230eb0",
+      "toSide": "left"
+    },
+    {
+      "id": "8e3f946583849df3",
+      "fromNode": "e263d301ef230eb0",
+      "fromSide": "bottom",
+      "toNode": "d6b087ddc525b925",
+      "toSide": "left"
+    },
+    {
+      "id": "ff7edf7041dc68d0",
+      "fromNode": "4a59d6b0bcf96b7c",
+      "fromSide": "bottom",
+      "toNode": "ac1b2350810de258",
+      "toSide": "left"
+    },
+    {
+      "id": "be74cebead9e014d",
+      "fromNode": "ac1b2350810de258",
+      "fromSide": "bottom",
+      "toNode": "51ad5918f85dbbf6",
+      "toSide": "left"
+    },
+    {
+      "id": "98246dafcab970a8",
+      "fromNode": "4a59d6b0bcf96b7c",
+      "fromSide": "right",
+      "toNode": "b76c63a287a7e330",
+      "toSide": "left",
+      "toEnd": "none"
+    },
+    {
+      "id": "e9620a1e806365e9",
+      "fromNode": "b76c63a287a7e330",
+      "fromSide": "right",
+      "toNode": "b60a7bb73a19c4d3",
+      "toSide": "left"
+    },
+    {
+      "id": "76fa8befd43cd1ca",
+      "fromNode": "b60a7bb73a19c4d3",
+      "fromSide": "bottom",
+      "toNode": "0f76f2d2d02ed030",
+      "toSide": "left"
+    },
+    {
+      "id": "ee03a22d4ac376c2",
+      "fromNode": "d5d65fb65c4bcdaf",
+      "fromSide": "right",
+      "toNode": "1d262ad49ae68e5c",
+      "toSide": "left",
+      "toEnd": "none"
+    },
+    {
+      "id": "e5aa8cf7af6459ad",
+      "fromNode": "1d262ad49ae68e5c",
+      "fromSide": "right",
+      "toNode": "623b6c53c0478695",
+      "toSide": "left"
+    },
+    {
+      "id": "8deade294a46ca7b",
+      "fromNode": "623b6c53c0478695",
+      "fromSide": "bottom",
+      "toNode": "780874a4217fc623",
+      "toSide": "left"
+    },
+    {
+      "id": "428e152e1010518f",
+      "fromNode": "d5d65fb65c4bcdaf",
+      "fromSide": "bottom",
+      "toNode": "e091893352537d1f",
+      "toSide": "left"
+    },
+    {
+      "id": "092f105e67e3957b",
+      "fromNode": "e091893352537d1f",
+      "fromSide": "bottom",
+      "toNode": "0b8b8ec071d1982f",
+      "toSide": "left"
+    },
+    {
+      "id": "298836d10589761b",
+      "fromNode": "0b8b8ec071d1982f",
+      "fromSide": "bottom",
+      "toNode": "ba959c783df5ad1f",
+      "toSide": "left"
+    },
+    {
+      "id": "4f3072ed81a7ad53",
+      "fromNode": "6155b74a7c524805",
+      "fromSide": "bottom",
+      "toNode": "4ba61eda221e4779",
+      "toSide": "left"
+    },
+    {
+      "id": "859172d7943a71cf",
+      "fromNode": "5e721c7e621fedb1",
+      "fromSide": "bottom",
+      "toNode": "34d7435b2769418f",
+      "toSide": "left"
+    },
+    {
+      "id": "e4f9c4a7be35ed3c",
+      "fromNode": "6b1154e6f6754ab7",
+      "fromSide": "bottom",
+      "toNode": "5e721c7e621fedb1",
+      "toSide": "left"
+    },
+    {
+      "id": "6ac073e24ac4edf5",
+      "fromNode": "6b1154e6f6754ab7",
+      "fromSide": "right",
+      "toNode": "09c0255661b5dc9a",
+      "toSide": "left",
+      "toEnd": "none"
+    },
+    {
+      "id": "aed3ba96f472be62",
+      "fromNode": "09c0255661b5dc9a",
+      "fromSide": "right",
+      "toNode": "6155b74a7c524805",
+      "toSide": "left"
+    },
+    {
+      "id": "ffb4959b09e1891b",
+      "fromNode": "6b1154e6f6754ab7",
+      "fromSide": "bottom",
+      "toNode": "29157f45cd0c7f60",
+      "toSide": "left"
+    },
+    {
+      "id": "c8d2dd9db64592a7",
+      "fromNode": "3a79cf7ef5dff734",
+      "fromSide": "right",
+      "toNode": "f4c7bb4316ecff5c",
+      "toSide": "left",
+      "toEnd": "none"
+    },
+    {
+      "id": "f81b2a49a82a63c0",
+      "fromNode": "f4c7bb4316ecff5c",
+      "fromSide": "right",
+      "toNode": "db9da094ea1e39ac",
+      "toSide": "left"
+    },
+    {
+      "id": "fd88ee5157b6cf3b",
+      "fromNode": "db9da094ea1e39ac",
+      "fromSide": "bottom",
+      "toNode": "d9e5d0926b034f1d",
+      "toSide": "left"
+    },
+    {
+      "id": "69f39409c741c742",
+      "fromNode": "3a79cf7ef5dff734",
+      "fromSide": "bottom",
+      "toNode": "80c851173aa22d3f",
+      "toSide": "left"
+    },
+    {
+      "id": "feee67b2830fe214",
+      "fromNode": "80c851173aa22d3f",
+      "fromSide": "right",
+      "toNode": "c9576d62fb4d69e6",
+      "toSide": "left"
+    },
+    {
+      "id": "fe4402d51863fb03",
+      "fromNode": "80c851173aa22d3f",
+      "fromSide": "bottom",
+      "toNode": "918262ef3cf1e0e9",
+      "toSide": "left"
+    },
+    {
+      "id": "c495ed3b2ec4db0e",
+      "fromNode": "80c851173aa22d3f",
+      "fromSide": "bottom",
+      "toNode": "3e78f7a73d6b6a71",
+      "toSide": "left"
+    },
+    {
+      "id": "0ded23bb3a797ad9",
+      "fromNode": "df984aa3066f5293",
+      "fromSide": "bottom",
+      "toNode": "2e90f0ab96698755",
+      "toSide": "left"
+    },
+    {
+      "id": "56cc6cd56865e944",
+      "fromNode": "8774804e0ec9264a",
+      "fromSide": "right",
+      "toNode": "3aa12189614f22b6",
+      "toSide": "left",
+      "toEnd": "none"
+    },
+    {
+      "id": "dcaaac872382b65d",
+      "fromNode": "3aa12189614f22b6",
+      "fromSide": "right",
+      "toNode": "df984aa3066f5293",
+      "toSide": "left"
+    },
+    {
+      "id": "5dc0b9e0a2e81f22",
+      "fromNode": "8774804e0ec9264a",
+      "fromSide": "bottom",
+      "toNode": "23871e89a7515dc9",
+      "toSide": "left"
+    },
+    {
+      "id": "3fff0ee2c11eb39b",
+      "styleAttributes": {},
+      "fromNode": "1d262ad49ae68e5c",
+      "fromSide": "bottom",
+      "toNode": "1af44bd87a2cceba",
+      "toSide": "left"
+    },
+    {
+      "id": "7f30329ff76af2c2",
+      "styleAttributes": {},
+      "fromNode": "867f8d4e359cfbe4",
+      "fromSide": "left",
+      "toNode": "0a18a6151e3c8a35",
+      "toSide": "left"
+    },
+    {
+      "id": "f8b94ffe33c4e50f",
+      "styleAttributes": {},
+      "fromNode": "0a18a6151e3c8a35",
+      "fromSide": "left",
+      "toNode": "87be53a58d79916c",
+      "toSide": "left"
+    },
+    {
+      "id": "104afe20b39029cc",
+      "styleAttributes": {},
+      "fromNode": "87be53a58d79916c",
+      "fromSide": "left",
+      "toNode": "4627c55717249286",
+      "toSide": "left"
+    },
+    {
+      "id": "4f50142eba7ccd2a",
+      "fromNode": "383fa649a3c53013",
+      "fromSide": "right",
+      "toNode": "cf31edd3138330cf",
+      "toSide": "left",
+      "toEnd": "none"
+    },
+    {
+      "id": "845aafd4d5346d2a",
+      "fromNode": "74928e9017f0bcba",
+      "fromSide": "bottom",
+      "toNode": "5ffc5c2a9cafc16e",
+      "toSide": "left"
+    },
+    {
+      "id": "a90865bfada35306",
+      "fromNode": "cd0070b2585398f5",
+      "fromSide": "bottom",
+      "toNode": "54e71a78d3e4fe3a",
+      "toSide": "left"
+    },
+    {
+      "id": "52e72bd9c6ff9094",
+      "fromNode": "383fa649a3c53013",
+      "fromSide": "bottom",
+      "toNode": "cd0070b2585398f5",
+      "toSide": "left"
+    },
+    {
+      "id": "7ad73b7bfc9a1488",
+      "fromNode": "aca003ff8b6dea9f",
+      "fromSide": "bottom",
+      "toNode": "4ae40217de98d488",
+      "toSide": "left"
+    },
+    {
+      "id": "b96591810937fc67",
+      "styleAttributes": {},
+      "fromNode": "cebf1ea842579573",
+      "fromSide": "right",
+      "toNode": "48858f4694f9da39",
+      "toSide": "left",
+      "label": "hoti"
+    },
+    {
+      "id": "eb0a0254e71e109c",
+      "fromNode": "ebb6215f8ff6be1d",
+      "fromSide": "bottom",
+      "toNode": "e0e3a23682173159",
+      "toSide": "left"
+    },
+    {
+      "id": "2ca14abb88341769",
+      "styleAttributes": {},
+      "fromNode": "e8413099c6fdc615",
+      "fromSide": "right",
+      "toNode": "ebb6215f8ff6be1d",
+      "toSide": "left",
+      "label": "hoti"
+    },
+    {
+      "id": "d4c259d34be208fb",
+      "fromNode": "eaa965bead299c43",
+      "fromSide": "right",
+      "toNode": "dd57b6662f965c2a",
+      "toSide": "left",
+      "toEnd": "none"
+    },
+    {
+      "id": "32cae3c058dbcdd6",
+      "fromNode": "a41c425f408911c7",
+      "fromSide": "bottom",
+      "toNode": "bc97dcdb2bee5c3a",
+      "toSide": "left"
+    },
+    {
+      "id": "778a06b6cfb56a8a",
+      "fromNode": "eaa965bead299c43",
+      "fromSide": "bottom",
+      "toNode": "a41c425f408911c7",
+      "toSide": "left"
+    },
+    {
+      "id": "f5be6373098f4978",
+      "fromNode": "dd57b6662f965c2a",
+      "fromSide": "bottom",
+      "toNode": "c389cac458a609a3",
+      "toSide": "left"
+    },
+    {
+      "id": "ec5d725dd5be9fa0",
+      "fromNode": "dd57b6662f965c2a",
+      "fromSide": "right",
+      "toNode": "c1f8d38542bed394",
+      "toSide": "left"
+    },
+    {
+      "id": "cc0b292caef9b2d8",
+      "styleAttributes": {},
+      "fromNode": "e329c1acbaaed32f",
+      "fromSide": "left",
+      "toNode": "6c85cec5adbc19df",
+      "toSide": "left",
+      "toEnd": "none",
+      "label": "Và\n(Ca)"
+    },
+    {
+      "id": "59b187e605810049",
+      "styleAttributes": {},
+      "fromNode": "6c85cec5adbc19df",
+      "fromSide": "bottom",
+      "toNode": "867f8d4e359cfbe4",
+      "toSide": "right"
+    },
+    {
+      "id": "2909d2c0ab6856e0",
+      "styleAttributes": {},
+      "fromNode": "3dc79242d3ac5ea5",
+      "fromSide": "right",
+      "toNode": "e329c1acbaaed32f",
+      "toSide": "right"
+    },
+    {
+      "id": "276d611c9227b484",
+      "fromNode": "3dc79242d3ac5ea5",
+      "fromSide": "bottom",
+      "toNode": "41aacc047a7b9c82",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {}
+}

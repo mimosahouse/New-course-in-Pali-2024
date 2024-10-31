@@ -45,7 +45,7 @@ the Seven Factors of Awakening,
 the Noble Eight-Fold Path.
 
 ---
-[The 37 Factors of Enlightenment](3.%20Project/The%2037%20Factors%20of%20Enlightenment.md)
+[The 37 Factors of Enlightenment](4.%20Blueprint/The%2037%20Factors%20of%20Enlightenment.md)
 
 ![](6.%20Vault/attachments/Pasted%20image%2020241024073758.png)
 

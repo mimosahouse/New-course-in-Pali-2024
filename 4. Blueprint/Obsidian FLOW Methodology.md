@@ -28,3 +28,4 @@ FROM -"6. Vault"
 WHERE contains(string(join(blueprint, "  ")), this.file.name) AND number(impact) >= number(this.min-impact) AND progress = "done"
 SORT created DESC
 ```
+Phần này là DATAVIEW - Một ứng dụng (Plugin) quan trọng mà những Content-Creater đều nhắc tới./

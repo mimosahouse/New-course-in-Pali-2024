@@ -1,0 +1,16 @@
+{
+  "nodes": [
+    {
+      "id": "7abece5e6f4d9f31",
+      "type": "text",
+      "text": "# đi chăn bò",
+      "styleAttributes": {},
+      "x": -60,
+      "y": -100,
+      "width": 260,
+      "height": 60
+    }
+  ],
+  "edges": [],
+  "metadata": {}
+}
