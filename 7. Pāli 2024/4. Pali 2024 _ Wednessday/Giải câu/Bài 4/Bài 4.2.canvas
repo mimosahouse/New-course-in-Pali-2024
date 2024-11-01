@@ -1,3031 +1,806 @@
 {
-  "nodes": [
-    {
-      "id": "9d457685f937985d",
-      "type": "group",
-      "sideRatio": 1.7777777777777777,
-      "styleAttributes": {},
-      "x": 5611,
-      "y": 6991,
-      "width": 2078,
-      "height": 1169,
-      "label": "New Slide"
-    },
-    {
-      "id": "fb212061c0ed3611",
-      "type": "group",
-      "sideRatio": 1.7777777777777777,
-      "styleAttributes": {},
-      "x": 2255,
-      "y": 12924,
-      "width": 2060,
-      "height": 1159,
-      "label": "New Slide"
-    },
-    {
-      "id": "59a99fa7d22f6991",
-      "type": "group",
-      "styleAttributes": {},
-      "x": 2280,
-      "y": 14469,
-      "width": 2035,
-      "height": 1062,
-      "label": "Câu "
-    },
-    {
-      "id": "6feafdc8264ce3c2",
-      "type": "group",
-      "styleAttributes": {},
-      "x": 2247,
-      "y": 15840,
-      "width": 2035,
-      "height": 1062,
-      "label": "Câu "
-    },
-    {
-      "id": "3f6a20e0db5c2325",
-      "type": "group",
-      "sideRatio": 1.7777777777777777,
-      "isStartNode": true,
-      "styleAttributes": {},
-      "x": 426,
-      "y": 5400,
-      "width": 1849,
-      "height": 1040,
-      "label": "Start Slide"
-    },
-    {
-      "id": "cefe90f47e1c7156",
-      "type": "group",
-      "sideRatio": 1.7777777777777777,
-      "styleAttributes": {},
-      "x": 3340,
-      "y": 7028,
-      "width": 1692,
-      "height": 952,
-      "label": "New Slide"
-    },
-    {
-      "id": "76fffbff0a093d04",
-      "type": "group",
-      "styleAttributes": {},
-      "x": 1640,
-      "y": 7040,
-      "width": 1490,
-      "height": 940,
-      "label": "Dùng như tính từ"
-    },
-    {
-      "id": "58553f9d11b947e5",
-      "type": "group",
-      "styleAttributes": {},
-      "x": 5640,
-      "y": 7028,
-      "width": 1128,
-      "height": 1040,
-      "label": "Câu ghép gồm 4 câu đơn"
-    },
-    {
-      "id": "381cf5da758b44af",
-      "type": "group",
-      "sideRatio": 1.7777777777777777,
-      "styleAttributes": {},
-      "x": 3750,
-      "y": 10113,
-      "width": 1410,
-      "height": 793,
-      "label": "New Slide"
-    },
-    {
-      "id": "34bdbe62aa959b82",
-      "type": "group",
-      "sideRatio": 1.7777777777777777,
-      "styleAttributes": {},
-      "x": 3740,
-      "y": 8200,
-      "width": 1405,
-      "height": 790,
-      "label": "New Slide"
-    },
-    {
-      "id": "31007f1888a02d55",
-      "type": "group",
-      "sideRatio": 1.7777777777777777,
-      "styleAttributes": {},
-      "x": 3760,
-      "y": 11360,
-      "width": 1401,
-      "height": 788,
-      "label": "New Slide"
-    },
-    {
-      "id": "9e69b6aa640dc116",
-      "type": "group",
-      "sideRatio": 1.7777777777777777,
-      "styleAttributes": {},
-      "x": 3735,
-      "y": 9220,
-      "width": 1390,
-      "height": 782,
-      "label": "New Slide"
-    },
-    {
-      "id": "c83054c8e48a4532",
-      "type": "group",
-      "sideRatio": 1.7777777777777777,
-      "styleAttributes": {},
-      "x": 1625,
-      "y": 4153,
-      "width": 1200,
-      "height": 675,
-      "label": "New Slide"
-    },
-    {
-      "id": "9b474ad3e6d3ffee",
-      "type": "group",
-      "styleAttributes": {},
-      "x": 4680,
-      "y": 12924,
-      "width": 890,
-      "height": 440,
-      "label": "Sở hữu cách tổng thể"
-    },
-    {
-      "id": "bd6f15e1adb86d9b",
-      "type": "group",
-      "styleAttributes": {},
-      "x": 3720,
-      "y": 13660,
-      "width": 575,
-      "height": 371,
-      "color": "1",
-      "label": "Tuổi thọ cõi người"
-    },
-    {
-      "id": "80f6f2bda1b4034a",
-      "type": "group",
-      "styleAttributes": {},
-      "x": 3720,
-      "y": 15044,
-      "width": 575,
-      "height": 371,
-      "color": "1",
-      "label": "Tuổi thọ cõi người"
-    },
-    {
-      "id": "52d597b475ea2bc4",
-      "type": "group",
-      "styleAttributes": {},
-      "x": 3720,
-      "y": 13340,
-      "width": 575,
-      "height": 243,
-      "color": "1",
-      "label": "Tuổi thọ cõi trời"
-    },
-    {
-      "id": "7156ec5fcbd55fc2",
-      "type": "group",
-      "styleAttributes": {},
-      "x": 3720,
-      "y": 14604,
-      "width": 540,
-      "height": 258,
-      "color": "1",
-      "label": "Tuổi thọ cõi trời"
-    },
-    {
-      "id": "09a69e01dd2a30bc",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -3260,
-      "y": -620,
-      "width": 1150,
-      "height": 1400,
-      "color": "5",
-      "label": "Câu 2"
-    },
-    {
-      "id": "14103f8594a44c6f",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -4500,
-      "y": -620,
-      "width": 1150,
-      "height": 1280,
-      "color": "6",
-      "label": "Câu 1"
-    },
-    {
-      "id": "674335f3cfdd8bc0",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -3260,
-      "y": -2380,
-      "width": 1135,
-      "height": 980,
-      "color": "6",
-      "label": "Câu 1"
-    },
-    {
-      "id": "ca3abafe9caca8b5",
-      "type": "group",
-      "styleAttributes": {},
-      "x": 2258,
-      "y": 17080,
-      "width": 2035,
-      "height": 1062,
-      "label": "Câu "
-    },
-    {
-      "id": "fbb8f5c3d6995b75",
-      "type": "group",
-      "styleAttributes": {},
-      "x": 2467,
-      "y": 19200,
-      "width": 1490,
-      "height": 940,
-      "label": "Untitled group"
-    },
-    {
-      "id": "f0a9c577f72e9002",
-      "type": "group",
-      "styleAttributes": {},
-      "x": 3687,
-      "y": 16415,
-      "width": 575,
-      "height": 371,
-      "color": "1",
-      "label": "Tuổi thọ cõi người"
-    },
-    {
-      "id": "80b5e846f68729d8",
-      "type": "group",
-      "styleAttributes": {},
-      "x": 3698,
-      "y": 17655,
-      "width": 575,
-      "height": 371,
-      "color": "1",
-      "label": "Tuổi thọ cõi người"
-    },
-    {
-      "id": "871661efd11b9a25",
-      "type": "group",
-      "styleAttributes": {},
-      "x": 3687,
-      "y": 15975,
-      "width": 540,
-      "height": 258,
-      "color": "1",
-      "label": "Tuổi thọ cõi trời"
-    },
-    {
-      "id": "b3664d55a895c41b",
-      "type": "group",
-      "styleAttributes": {},
-      "x": 3698,
-      "y": 17215,
-      "width": 540,
-      "height": 258,
-      "color": "1",
-      "label": "Tuổi thọ cõi trời"
-    },
-    {
-      "id": "2437567f9ab7393b",
-      "type": "text",
-      "text": "# sukhaṃ - sự lạc\nDanh trung, TBC",
-      "styleAttributes": {},
-      "x": 3187,
-      "y": 16467,
-      "width": 380,
-      "height": 120,
-      "color": "6"
-    },
-    {
-      "id": "4045569916ae6f5b",
-      "type": "text",
-      "text": "# āyussa\nTrung tính SHC số ít\nTuổi thọ",
-      "styleAttributes": {},
-      "x": 3722,
-      "y": 16467,
-      "width": 250,
-      "height": 124
-    },
-    {
-      "id": "cfc95944742af353",
-      "type": "text",
-      "text": "# mānusassa\nSHC tổng thê\n## Thuộc cõi người",
-      "styleAttributes": {},
-      "x": 3987,
-      "y": 16535,
-      "width": 253,
-      "height": 227
-    },
-    {
-      "id": "8e18385e356489ca",
-      "type": "text",
-      "text": "# Vị thánh nữ đệ tử sau khi cho sự lạc  trở thành người dự phần trong tuổi thọ thuộc cõi Trời hoặc thuộc cõi Người",
-      "styleAttributes": {},
-      "x": 2317,
-      "y": 16642,
-      "width": 1195,
-      "height": 240,
-      "color": "6"
-    },
-    {
-      "id": "8621e0015aad355c",
-      "type": "text",
-      "text": "#  kho pana    hoti  vā  vā. ",
-      "styleAttributes": {},
-      "x": 2278,
-      "y": 17100,
-      "width": 820,
-      "height": 95
-    },
-    {
-      "id": "3ed50275694fcd4e",
-      "type": "text",
-      "text": "# ariya-sāvikā\nDanh nữ ghép, CC số ít\n### Nữ thánh đệ tử\n# (sā)",
-      "styleAttributes": {},
-      "x": 2328,
-      "y": 17247,
-      "width": 320,
-      "height": 260,
-      "color": "1"
-    },
-    {
-      "id": "dbab5f56f212d758",
-      "type": "text",
-      "text": "# bhāginī\nDanh, nữ, CC số ít\n## Người dự phần ",
-      "styleAttributes": {},
-      "x": 3198,
-      "y": 17247,
-      "width": 250,
-      "height": 188,
-      "color": "1"
-    },
-    {
-      "id": "245f62aa260a301c",
-      "type": "text",
-      "text": "# āyussa\nTrung tính SHC số ít\nTuổi thọ",
-      "styleAttributes": {},
-      "x": 3718,
-      "y": 17257,
-      "width": 250,
-      "height": 120
-    },
-    {
-      "id": "6a799af254e28835",
-      "type": "text",
-      "text": "# hoti",
-      "styleAttributes": {},
-      "x": 2848,
-      "y": 17294,
-      "width": 250,
-      "height": 94,
-      "color": "3"
-    },
-    {
-      "id": "f58d826098380e18",
-      "type": "text",
-      "text": "# dibbassa\n## Thuộc cõi trời",
-      "styleAttributes": {},
-      "x": 4028,
-      "y": 17309,
-      "width": 190,
-      "height": 144
-    },
-    {
-      "id": "73590a54ba4e0f39",
-      "type": "text",
-      "text": "# datvā\nĐặc trưng ĐTBB là xảy ra trước động từ chính\n# sau khi Cho",
-      "styleAttributes": {},
-      "x": 2848,
-      "y": 17555,
-      "width": 300,
-      "height": 236
-    },
-    {
-      "id": "4c07d00a22fa39f4",
-      "type": "text",
-      "text": "# balaṃ - Sức lực\nDanh trung tính",
-      "styleAttributes": {},
-      "x": 3198,
-      "y": 17681,
-      "width": 380,
-      "height": 150,
-      "color": "6"
-    },
-    {
-      "id": "dc2c4c27b33f0900",
-      "type": "text",
-      "text": "# āyussa\nTrung tính SHC số ít\nTuổi thọ",
-      "styleAttributes": {},
-      "x": 3733,
-      "y": 17707,
-      "width": 250,
-      "height": 124
-    },
-    {
-      "id": "43caaa9993dd781d",
-      "type": "text",
-      "text": "# mānusassa\nSHC tổng thê\n## Thuộc cõi người",
-      "styleAttributes": {},
-      "x": 3998,
-      "y": 17775,
-      "width": 253,
-      "height": 227
-    },
-    {
-      "id": "fa5a99a7880aa72e",
-      "type": "text",
-      "text": "# Vị thánh nữ đệ tử sau khi cho sức lực  trở thành người dự phần trong tuổi thọ thuộc cõi Trời hoặc thuộc cõi Người",
-      "styleAttributes": {},
-      "x": 2328,
-      "y": 17882,
-      "width": 1195,
-      "height": 240,
-      "color": "6"
-    },
-    {
-      "id": "69fe0b5d361e8d3c",
-      "type": "file",
-      "file": "2024/Vault/sabbesaṃ.png",
-      "styleAttributes": {},
-      "x": -1440,
-      "y": -1040,
-      "width": 1027,
-      "height": 360
-    },
-    {
-      "id": "68c9e5d7a0788a95",
-      "type": "text",
-      "text": "\npurisa: a male; a man. (m.)\nadhama: mean; low; ignoble. (adj.\n**Adhama** (adj.) [_Vedic adhama = Lat. infimus, superl. of adho, q. v._] the lowest (lit. & fig.), the vilest, worst Sn 246 ;**(narâdhama)**, 135 (vasalâdhama); Dh 78 (purisa˚) J iii.151 (miga˚); v.394 (uttamâdhama), 437 (id.), 397 Sdhp 387\n\n## **the lowest of the low**\n\nidiom\n\n[people](https://dictionary.cambridge.org/dictionary/english/people \"people\") who have no [moral](https://dictionary.cambridge.org/dictionary/english/moral \"moral\") [standards](https://dictionary.cambridge.org/dictionary/english/standard \"standards\") and no [personal](https://dictionary.cambridge.org/dictionary/english/personal \"personal\") [qualities](https://dictionary.cambridge.org/dictionary/english/quality \"qualities\")\n\nNgười không có giới & không có phẩm chất con người \n- Tầng lớp hạ tiện \n- Người hạ cấp ",
-      "styleAttributes": {},
-      "x": -1940,
-      "y": -1710,
-      "width": 540,
-      "height": 530
-    },
-    {
-      "id": "c7a14605df255b45",
-      "type": "text",
-      "text": "## bhajati -> bhaja (gốc hiện tại) \n## - bhaja + e -> bhajae (nguời bản ngữ  không chấp nhận)\n# bhajae -> bhaje (Cầu khiến cách)",
-      "styleAttributes": {},
-      "x": -1500,
-      "y": -2060,
-      "width": 814,
-      "height": 230
-    },
-    {
-      "id": "757ec9c8c66f153e",
-      "type": "text",
-      "text": "# **Bhajati**\n- Liên hệ, kết giao\n-**bhajati**: associates with; keeps company. (bhaj + a)",
-      "styleAttributes": {},
-      "x": -1940,
-      "y": -2060,
-      "width": 380,
-      "height": 230
-    },
-    {
-      "id": "70f34d4e57c3650b",
-      "type": "file",
-      "file": "2024/Vault/cầu khiến cách đuôi -e.png",
-      "styleAttributes": {},
-      "x": -1940,
-      "y": -2540,
-      "width": 1254,
-      "height": 420
-    },
-    {
-      "id": "ce851bdb219f90ff",
-      "type": "text",
-      "text": "# bhojanaṃ, suppavāse, dentī ariyasāvikā paṭiggāhakānaṃ imāni cattāri ṭhānāni detīti",
-      "styleAttributes": {},
-      "x": 2487,
-      "y": 18920,
-      "width": 1464,
-      "height": 160
-    },
-    {
-      "id": "5d6a5a1e5cbd510f",
-      "type": "text",
-      "text": "## ṭhānāni\nDanh Trung TBC số nhiều\n### Các điều kiện",
-      "styleAttributes": {},
-      "x": 3527,
-      "y": 19220,
-      "width": 250,
-      "height": 220,
-      "color": "6"
-    },
-    {
-      "id": "e966f72a1fc0feeb",
-      "type": "text",
-      "text": "# deti\nĐộng từ HT, CĐ ngôi 3 số ít\n### Cho",
-      "styleAttributes": {},
-      "x": 3047,
-      "y": 19240,
-      "width": 280,
-      "height": 180,
-      "color": "4"
-    },
-    {
-      "id": "7cfbb32c2668efec",
-      "type": "text",
-      "text": "# cattāri\nTính từ Trung tính TBC số nhiều\n### 4",
-      "styleAttributes": {},
-      "x": 3687,
-      "y": 19460,
-      "width": 250,
-      "height": 209,
-      "color": "6"
-    },
-    {
-      "id": "7ead46acd608ec2f",
-      "type": "text",
-      "text": "# paṭiggāhakānaṃ\nDanh Nam, GBC, số nhiều\nGBC-Thụ hưởng \n### Người thọ thí",
-      "styleAttributes": {},
-      "x": 3207,
-      "y": 19525,
-      "width": 300,
-      "height": 215
-    },
-    {
-      "id": "4a2b34541deda998",
-      "type": "text",
-      "text": "# ariya-sāvikā\nDanh nữ ghép, CC số ít\n### Nữ thánh đệ tử",
-      "styleAttributes": {},
-      "x": 2487,
-      "y": 19240,
-      "width": 320,
-      "height": 180,
-      "color": "1"
-    },
-    {
-      "id": "dafec10348d66e90",
-      "type": "text",
-      "text": "# dentī\nHTPT, nữ tính CC số ít\n### bố thí\n(Sắc thái bối cảnh cho động từ chính)",
-      "styleAttributes": {},
-      "x": 2607,
-      "y": 19460,
-      "width": 250,
-      "height": 280,
-      "color": "1"
-    },
-    {
-      "id": "fad31e73cf809d2b",
-      "type": "text",
-      "text": "# bhojanaṃ\nDanh, Trung TBC\n### Thực phẩm",
-      "styleAttributes": {},
-      "x": 2787,
-      "y": 19760,
-      "width": 250,
-      "height": 160,
-      "color": "6"
-    },
-    {
-      "id": "909d1d572b0bcab7",
-      "type": "text",
-      "text": "# imāni\nĐTCĐ dùng như tính từ, trung tính, TBC số nhiều\nTHese / Những cái đó Cái ",
-      "styleAttributes": {},
-      "x": 3701,
-      "y": 19710,
-      "width": 236,
-      "height": 250
-    },
-    {
-      "id": "1021cac6bb091857",
-      "type": "text",
-      "text": "# Người nữ thánh đệ tử khi  bố thí thực phẩm thì bố thí 4 điều kiện đó cho những người thọ thí",
-      "styleAttributes": {},
-      "x": 2637,
-      "y": 20000,
-      "width": 1230,
-      "height": 120
-    },
-    {
-      "id": "fb9700c9eb3b7cd6",
-      "type": "text",
-      "text": "# āyussa\nTrung tính SHC số ít\nTuổi thọ",
-      "styleAttributes": {},
-      "x": 3707,
-      "y": 16017,
-      "width": 250,
-      "height": 120
-    },
-    {
-      "id": "6bbd6023cc22f958",
-      "type": "text",
-      "text": "# ariya-sāvikā\nDanh nữ ghép, CC số ít\n### Nữ thánh đệ tử\n# (sā)",
-      "styleAttributes": {},
-      "x": 2317,
-      "y": 16007,
-      "width": 320,
-      "height": 260,
-      "color": "1"
-    },
-    {
-      "id": "2f70a2a1afdfc209",
-      "type": "text",
-      "text": "# hoti",
-      "styleAttributes": {},
-      "x": 2837,
-      "y": 16054,
-      "width": 250,
-      "height": 94,
-      "color": "3"
-    },
-    {
-      "id": "296a36cdbe7ee47c",
-      "type": "text",
-      "text": "# datvā\nĐặc trưng ĐTBB là xảy ra trước động từ chính\n# sau khi Cho",
-      "styleAttributes": {},
-      "x": 2837,
-      "y": 16315,
-      "width": 300,
-      "height": 236
-    },
-    {
-      "id": "fd25475a38f71782",
-      "type": "text",
-      "text": "# dibbassa\n## Thuộc cõi trời",
-      "styleAttributes": {},
-      "x": 4017,
-      "y": 16069,
-      "width": 190,
-      "height": 144
-    },
-    {
-      "id": "bfd88b29a8728a52",
-      "type": "text",
-      "text": "# bhāginī\nDanh, nữ, CC số ít\n## Người dự phần ",
-      "styleAttributes": {},
-      "x": 3187,
-      "y": 16007,
-      "width": 250,
-      "height": 188,
-      "color": "1"
-    },
-    {
-      "id": "cbcf7f52c25921c5",
-      "type": "text",
-      "text": "### Sau khi lấy mình làm ví dụ, người ta không nên giết , không nên xui khiến giết ",
-      "styleAttributes": {},
-      "x": -3240,
-      "y": 480,
-      "width": 750,
-      "height": 260
-    },
-    {
-      "id": "79e51ad13ae66021",
-      "type": "text",
-      "text": "Gốc karoti, có thể lấy 2 túc từ - Túc từ kép \nlàm cho A có đặc tính B ",
-      "styleAttributes": {},
-      "x": -3620,
-      "y": 510,
-      "width": 250,
-      "height": 130,
-      "color": "5"
-    },
-    {
-      "id": "3af5cee75d1b38f1",
-      "type": "text",
-      "text": "# attānaṃ",
-      "styleAttributes": {},
-      "x": -3620,
-      "y": 280,
-      "width": 250,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "7428ec8ea6c48271",
-      "type": "text",
-      "text": "# uppanaṃ",
-      "styleAttributes": {},
-      "x": -3620,
-      "y": 420,
-      "width": 250,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "1f9a2c605dbb8a38",
-      "type": "text",
-      "text": "#  na ghātaye",
-      "styleAttributes": {},
-      "x": -3980,
-      "y": -100,
-      "width": 250,
-      "height": 60,
-      "color": "3"
-    },
-    {
-      "id": "519019866dbc58b2",
-      "type": "text",
-      "text": "# Sabbe ",
-      "styleAttributes": {},
-      "x": -4355,
-      "y": -220,
-      "width": 250,
-      "height": 60,
-      "color": "1"
-    },
-    {
-      "id": "f776f85d4c3cdd35",
-      "type": "text",
-      "text": "# daṇḍassa",
-      "styleAttributes": {},
-      "x": -3620,
-      "y": -600,
-      "width": 250,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "2e7cb641ba9dad70",
-      "type": "text",
-      "text": "# tasanti",
-      "styleAttributes": {},
-      "x": -3980,
-      "y": -600,
-      "width": 250,
-      "height": 60,
-      "color": "3"
-    },
-    {
-      "id": "e5af7da965a7cb73",
-      "type": "text",
-      "text": "# maccuno",
-      "styleAttributes": {},
-      "x": -3620,
-      "y": -340,
-      "width": 250,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "597443b4276ad913",
-      "type": "text",
-      "text": "# bhāyanti",
-      "styleAttributes": {},
-      "x": -3980,
-      "y": -340,
-      "width": 250,
-      "height": 60,
-      "color": "3"
-    },
-    {
-      "id": "e9d3d8c92e499524",
-      "type": "text",
-      "text": "### Sau khi lấy mình làm ví dụ, người ta không nên giết , không nên xui khiến giết ",
-      "styleAttributes": {},
-      "x": -4480,
-      "y": 480,
-      "width": 750,
-      "height": 160
-    },
-    {
-      "id": "c87978b3475af1a4",
-      "type": "text",
-      "text": "# katvā",
-      "styleAttributes": {},
-      "x": -2740,
-      "y": 280,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "229b342fee8f05a1",
-      "type": "text",
-      "text": "# attānaṃ",
-      "styleAttributes": {},
-      "x": -2380,
-      "y": 280,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "4b9cff7616f0c8d3",
-      "type": "text",
-      "text": "# katvā",
-      "styleAttributes": {},
-      "x": -3980,
-      "y": 280,
-      "width": 250,
-      "height": 60,
-      "color": "3"
-    },
-    {
-      "id": "ae0d79cf07a352ed",
-      "type": "text",
-      "text": "# na haneyya",
-      "styleAttributes": {},
-      "x": -3980,
-      "y": 60,
-      "width": 300,
-      "height": 80,
-      "color": "3"
-    },
-    {
-      "id": "7d59f650e34c2cac",
-      "type": "text",
-      "text": "# satto\n",
-      "styleAttributes": {},
-      "x": -4480,
-      "y": -600,
-      "width": 250,
-      "height": 60,
-      "color": "1"
-    },
-    {
-      "id": "001df5f793214c19",
-      "type": "text",
-      "text": "# Sabbe ",
-      "styleAttributes": {},
-      "x": -4355,
-      "y": -480,
-      "width": 250,
-      "height": 60,
-      "color": "1"
-    },
-    {
-      "id": "9aff1dc18c9f6170",
-      "type": "text",
-      "text": "# satto\n",
-      "styleAttributes": {},
-      "x": -4480,
-      "y": -340,
-      "width": 250,
-      "height": 60,
-      "color": "1"
-    },
-    {
-      "id": "4f43ef2273671cf4",
-      "type": "text",
-      "text": "# Chủ từ ngôi 3 số ít\n- Chúng sinh\n- Nguời ta ",
-      "styleAttributes": {},
-      "x": -4480,
-      "y": 70,
-      "width": 250,
-      "height": 170,
-      "color": "1"
-    },
-    {
-      "id": "629fe761afed5777",
-      "type": "text",
-      "text": "Gốc karoti, có thể lấy 2 túc từ - Túc từ kép \n- làm cho A có đặc tính B \n- Lấy A làm B",
-      "styleAttributes": {},
-      "x": -2380,
-      "y": 510,
-      "width": 250,
-      "height": 230
-    },
-    {
-      "id": "3a81b3008f199825",
-      "type": "text",
-      "text": "# uppanaṃ",
-      "styleAttributes": {},
-      "x": -2380,
-      "y": 420,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "f8b5c091cce718f6",
-      "type": "text",
-      "text": "# sabbesaṃ ",
-      "styleAttributes": {},
-      "x": -3115,
-      "y": -220,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "80f0625bbe7d651a",
-      "type": "text",
-      "text": "# satto\n",
-      "styleAttributes": {},
-      "x": -3240,
-      "y": -340,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "9b03c3d40604e5a1",
-      "type": "text",
-      "text": "# Chủ từ ngôi 3 số ít\n- Chúng sinh\n- Nguời ta ",
-      "styleAttributes": {},
-      "x": -3240,
-      "y": 70,
-      "width": 250,
-      "height": 170
-    },
-    {
-      "id": "fae45ad8b30825ab",
-      "type": "text",
-      "text": "# GBC - thụ hưởng : Đối với tất cả chúng sinh\n## Sở hữu cách\n",
-      "styleAttributes": {},
-      "x": -3115,
-      "y": -100,
-      "width": 985,
-      "height": 120
-    },
-    {
-      "id": "9f585ebfac00e2c5",
-      "type": "text",
-      "text": "# Sabbe ",
-      "styleAttributes": {},
-      "x": -3115,
-      "y": -480,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "b9eda7c053edd6af",
-      "type": "text",
-      "text": "# satto\n",
-      "styleAttributes": {},
-      "x": -3240,
-      "y": -600,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "8819d263cc5187ef",
-      "type": "text",
-      "text": "# **Đoạn kinh 3.2-3.3 (Dhp)**\n\n  \n# sabbe tasanti daṇḍassa, sabbe bhāyanti maccuno.\n\n# attānaṃ upamaṃ katvā, na haneyya na ghātaye.\n\n  \n\n# sabbe tasanti daṇḍassa, sabbesaṃ jīvitaṃ piyaṃ.\n\n# attānaṃ upamaṃ katvā, na haneyya na ghātaye.",
-      "styleAttributes": {},
-      "x": -3240,
-      "y": -1040,
-      "width": 1095,
-      "height": 320,
-      "color": "6"
-    },
-    {
-      "id": "a9655a4291e7131c",
-      "type": "text",
-      "text": "# na haneyya",
-      "styleAttributes": {},
-      "x": -2740,
-      "y": 60,
-      "width": 300,
-      "height": 80
-    },
-    {
-      "id": "62eccf30a34849d2",
-      "type": "text",
-      "text": "# piyaṃ",
-      "styleAttributes": {},
-      "x": -2590,
-      "y": -220,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "94c2bb0ecde0b34e",
-      "type": "text",
-      "text": "# jīvitaṃ",
-      "styleAttributes": {},
-      "x": -2740,
-      "y": -340,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "aff1d0ec6b99c930",
-      "type": "file",
-      "file": "2024/Vault/Biến cách atta.png",
-      "styleAttributes": {},
-      "x": -2080,
-      "y": -600,
-      "width": 625,
-      "height": 500
-    },
-    {
-      "id": "10617929c5d8b372",
-      "type": "file",
-      "file": "2024/Vault/Cầu khiến cách đuôi -eyya.png",
-      "styleAttributes": {},
-      "x": -2080,
-      "y": 4,
-      "width": 624,
-      "height": 212
-    },
-    {
-      "id": "2d58ae9ff8fb5206",
-      "type": "text",
-      "text": "# tasanti",
-      "styleAttributes": {},
-      "x": -2740,
-      "y": -600,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "196cb14115835817",
-      "type": "text",
-      "text": "# daṇḍassa",
-      "styleAttributes": {},
-      "x": -2380,
-      "y": -600,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "cb8fb34474acc032",
-      "type": "file",
-      "file": "2024/Vault/Biến cách sabba.png",
-      "styleAttributes": {},
-      "x": -2080,
-      "y": -1040,
-      "width": 625,
-      "height": 360
-    },
-    {
-      "id": "548a0eb9dee77910",
-      "type": "text",
-      "text": "# purisuttame\n- purisa + uttama = puisuttama\n- purisuttame\n- ",
-      "styleAttributes": {},
-      "x": -2520,
-      "y": -1600,
-      "width": 375,
-      "height": 180,
-      "color": "5"
-    },
-    {
-      "id": "389b4f94e905e46e",
-      "type": "text",
-      "text": "# tvaṃ\n\n# Chủ từ ngôi 3 số ít\n## (they)\n",
-      "styleAttributes": {},
-      "x": -3240,
-      "y": -2360,
-      "width": 250,
-      "height": 940,
-      "color": "1"
-    },
-    {
-      "id": "d080847d08c7c08e",
-      "type": "text",
-      "text": "# bhajetha",
-      "styleAttributes": {},
-      "x": -2860,
-      "y": -1600,
-      "width": 250,
-      "height": 60,
-      "color": "3"
-    },
-    {
-      "id": "c82608786d1fbc89",
-      "type": "text",
-      "text": "# kalyāṇe",
-      "styleAttributes": {},
-      "x": -2395,
-      "y": -1740,
-      "width": 250,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "be66617eade46a82",
-      "type": "text",
-      "text": "# bhajetha",
-      "styleAttributes": {},
-      "x": -2860,
-      "y": -1860,
-      "width": 250,
-      "height": 60,
-      "color": "3"
-    },
-    {
-      "id": "c3c9a419ccee78e9",
-      "type": "text",
-      "text": "# mitte",
-      "styleAttributes": {},
-      "x": -2520,
-      "y": -1860,
-      "width": 250,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "a9f4bfdae396428b",
-      "type": "text",
-      "text": "# na bhaje",
-      "styleAttributes": {},
-      "x": -2860,
-      "y": -2075,
-      "width": 250,
-      "height": 60,
-      "color": "3"
-    },
-    {
-      "id": "b7bf17f83d6779d3",
-      "type": "text",
-      "text": "# purisādhame\n= purisa + ahame",
-      "styleAttributes": {},
-      "x": -2520,
-      "y": -2075,
-      "width": 320,
-      "height": 115,
-      "color": "5"
-    },
-    {
-      "id": "448831dc677488e2",
-      "type": "text",
-      "text": "# na bhaje pāpake mitte, na bhaje purisādhame.\n\n# bhajetha mitte kalyāṇe, bhajetha purisuttame.",
-      "styleAttributes": {},
-      "x": -3240,
-      "y": -2660,
-      "width": 970,
-      "height": 160,
-      "color": "2"
-    },
-    {
-      "id": "a3d98bdbe5bcd035",
-      "type": "text",
-      "text": "# na bhaje",
-      "styleAttributes": {},
-      "x": -2860,
-      "y": -2360,
-      "width": 250,
-      "height": 60,
-      "color": "3"
-    },
-    {
-      "id": "84967b95eb3d5dc4",
-      "type": "text",
-      "text": "# pāpake",
-      "styleAttributes": {},
-      "x": -2420,
-      "y": -2260,
-      "width": 250,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "6aa866f2797913b5",
-      "type": "text",
-      "text": "# mitte",
-      "styleAttributes": {},
-      "x": -2520,
-      "y": -2360,
-      "width": 250,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "6d0f0b156741bb9d",
-      "type": "text",
-      "text": "# āyussa\nTrung tính SHC số ít\nTuổi thọ",
-      "styleAttributes": {},
-      "x": 3740,
-      "y": 13367,
-      "width": 250,
-      "height": 120
-    },
-    {
-      "id": "f21c6b1957935ea3",
-      "type": "text",
-      "text": "# dibbassa\n## Thuộc cõi trời",
-      "styleAttributes": {},
-      "x": 4020,
-      "y": 13367,
-      "width": 220,
-      "height": 196
-    },
-    {
-      "id": "20a4e172bd00d0ef",
-      "type": "text",
-      "text": "# Tôi",
-      "styleAttributes": {},
-      "x": 4700,
-      "y": 12944,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "dec89b6e973cd5de",
-      "type": "text",
-      "text": "# hoti",
-      "styleAttributes": {},
-      "x": 2870,
-      "y": 13214,
-      "width": 250,
-      "height": 94,
-      "color": "3"
-    },
-    {
-      "id": "a2ce9bc6ac6ec51c",
-      "type": "text",
-      "text": "# bhāginī\nDanh, nữ, CC số ít\n## Người dự phần ",
-      "styleAttributes": {},
-      "x": 3220,
-      "y": 13167,
-      "width": 250,
-      "height": 188,
-      "color": "1"
-    },
-    {
-      "id": "7f9de783f895c381",
-      "type": "text",
-      "text": "# āyuṃ\n",
-      "styleAttributes": {},
-      "x": 2870,
-      "y": 13527,
-      "width": 250,
-      "height": 154
-    },
-    {
-      "id": "bb0bee0515c14154",
-      "type": "text",
-      "text": "# āyussa\nTrung tính SHC số ít\nTuổi thọ",
-      "styleAttributes": {},
-      "x": 3755,
-      "y": 13712,
-      "width": 250,
-      "height": 124
-    },
-    {
-      "id": "16c8c7cb6ec7b3e2",
-      "type": "text",
-      "text": "# Của lớp này\nTôi là thành viên của lớp\nnày. Của lớp này trong\nPali sẽ được biểu đạt bằng\nsở hữu cách",
-      "styleAttributes": {},
-      "x": 5300,
-      "y": 13064,
-      "width": 250,
-      "height": 280
-    },
-    {
-      "id": "d25f9facb6eff6cb",
-      "type": "text",
-      "text": "# Thành viên",
-      "styleAttributes": {},
-      "x": 5160,
-      "y": 12944,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "42a909e0d6b963f1",
-      "type": "text",
-      "text": "## āyuṃ kho pana datvā āyussa bhāginī hoti dibbassa vā mānusassa vā. \n## vaṇṇaṃ datvā vaṇṇassa bhāginī hoti dibbassa vā mānusassa vā. \n##  sukhaṃ datvā sukhassa bhāginī hoti dibbassa vā mānusassa vā. \n## balaṃ datvā balassa bhāginī hoti dibbassa vā mānusassa\n",
-      "styleAttributes": {},
-      "x": 2280,
-      "y": 12440,
-      "width": 860,
-      "height": 320
-    },
-    {
-      "id": "015e04709a775af4",
-      "type": "text",
-      "text": "#  kho pana    hoti  vā  vā. ",
-      "styleAttributes": {},
-      "x": 2300,
-      "y": 13020,
-      "width": 820,
-      "height": 95
-    },
-    {
-      "id": "f0c7684e6eb35df5",
-      "type": "text",
-      "text": "# ariya-sāvikā\nDanh nữ ghép, CC số ít\n### Nữ thánh đệ tử\n# (sā)",
-      "styleAttributes": {},
-      "x": 2350,
-      "y": 13131,
-      "width": 320,
-      "height": 260,
-      "color": "1"
-    },
-    {
-      "id": "f8c289f1e53baabc",
-      "type": "text",
-      "text": "# Vị thánh nữ đệ tử sau khi cho tuổi thọ  trở thành người dự phần trong tuổi thọ thuộc cõi Trời hoặc thuộc cõi Người",
-      "styleAttributes": {},
-      "x": 2350,
-      "y": 13802,
-      "width": 1195,
-      "height": 240,
-      "color": "6"
-    },
-    {
-      "id": "24790f2a8c08e7a8",
-      "type": "file",
-      "file": "Pasted image 20241016140745.png",
-      "styleAttributes": {},
-      "x": 4700,
-      "y": 13469,
-      "width": 1912,
-      "height": 1076
-    },
-    {
-      "id": "c7bf17c5c4566c21",
-      "type": "text",
-      "text": "# datvā\nĐặc trưng ĐTBB là xảy ra trước động từ chính\n# sau khi Cho",
-      "styleAttributes": {},
-      "x": 2440,
-      "y": 13445,
-      "width": 300,
-      "height": 236
-    },
-    {
-      "id": "dfef66cadedbfc76",
-      "type": "text",
-      "text": "# mānusassa\nSHC tổng thê\n## Thuộc cõi người",
-      "styleAttributes": {},
-      "x": 4020,
-      "y": 13719,
-      "width": 253,
-      "height": 288
-    },
-    {
-      "id": "aa0fc9d20d8455f3",
-      "type": "text",
-      "text": "# ariya-sāvikā\nDanh nữ ghép, CC số ít\n### Nữ thánh đệ tử\n# (sā)",
-      "styleAttributes": {},
-      "x": 3780,
-      "y": 10240,
-      "width": 320,
-      "height": 260,
-      "color": "1"
-    },
-    {
-      "id": "bf02e33f4eedcdf7",
-      "type": "text",
-      "text": "# balaṃ - Sức lực\nDanh trung tính",
-      "styleAttributes": {},
-      "x": 4770,
-      "y": 11420,
-      "width": 380,
-      "height": 150,
-      "color": "6"
-    },
-    {
-      "id": "232e8864a3ddf73e",
-      "type": "text",
-      "text": "# dentī\nHTPT, nữ tính CC số ít\n### bố thí\n(Sắc thái bối cảnh cho động từ chính)",
-      "styleAttributes": {},
-      "x": 3975,
-      "y": 10518,
-      "width": 250,
-      "height": 265,
-      "color": "1"
-    },
-    {
-      "id": "77ded951e4142b79",
-      "type": "text",
-      "text": "# bhojanaṃ\nDanh, Trung TBC\n### Thực phẩm",
-      "styleAttributes": {},
-      "x": 4315,
-      "y": 10603,
-      "width": 250,
-      "height": 180,
-      "color": "6"
-    },
-    {
-      "id": "1fbe3f9e4659a92c",
-      "type": "text",
-      "text": "# dentī\nHTPT, nữ tính CC số ít\n### bố thí\n(Sắc thái bối cảnh cho động từ chính)",
-      "styleAttributes": {},
-      "x": 3985,
-      "y": 11755,
-      "width": 250,
-      "height": 280,
-      "color": "1"
-    },
-    {
-      "id": "7bad5779ef009bec",
-      "type": "text",
-      "text": "# bhojanaṃ\nDanh, Trung TBC\n### Thực phẩm",
-      "styleAttributes": {},
-      "x": 4250,
-      "y": 11855,
-      "width": 250,
-      "height": 180,
-      "color": "6"
-    },
-    {
-      "id": "a1245892f062c2ab",
-      "type": "text",
-      "text": "# ariya-sāvikā\nDanh nữ ghép, CC số ít\n### Nữ thánh đệ tử\n# (sā)",
-      "styleAttributes": {},
-      "x": 3810,
-      "y": 11470,
-      "width": 320,
-      "height": 260,
-      "color": "1"
-    },
-    {
-      "id": "1c2ee402a50ea3fb",
-      "type": "text",
-      "text": "# deti",
-      "styleAttributes": {},
-      "x": 4345,
-      "y": 11470,
-      "width": 140,
-      "height": 100,
-      "color": "4"
-    },
-    {
-      "id": "43bfa7977c1f948c",
-      "type": "text",
-      "text": "# sukhaṃ - sự lạc\nDanh trung, TBC",
-      "styleAttributes": {},
-      "x": 4740,
-      "y": 10330,
-      "width": 380,
-      "height": 120,
-      "color": "6"
-    },
-    {
-      "id": "153b74a7f93eee57",
-      "type": "text",
-      "text": "# deti",
-      "styleAttributes": {},
-      "x": 4330,
-      "y": 10330,
-      "width": 140,
-      "height": 100,
-      "color": "4"
-    },
-    {
-      "id": "8aae7fc7131b0650",
-      "type": "text",
-      "text": "# āyuṃ - Tuổi thọ\nDanh Trung, TBC",
-      "styleAttributes": {},
-      "x": 6355,
-      "y": 7198,
-      "width": 380,
-      "height": 120,
-      "color": "6"
-    },
-    {
-      "id": "786d12a3b308626b",
-      "type": "text",
-      "text": "# vaṇṇaṃ - sắc đẹp\nDanh, Nam, TBC số ít",
-      "styleAttributes": {},
-      "x": 6355,
-      "y": 7328,
-      "width": 380,
-      "height": 120,
-      "color": "6"
-    },
-    {
-      "id": "91d15586893a1530",
-      "type": "text",
-      "text": "# sukhaṃ - sự lạc\nDanh trung, TBC",
-      "styleAttributes": {},
-      "x": 6355,
-      "y": 7458,
-      "width": 380,
-      "height": 120,
-      "color": "6"
-    },
-    {
-      "id": "a60095a621e85cb1",
-      "type": "text",
-      "text": "# balaṃ - Sức lực\nDanh trung tính",
-      "styleAttributes": {},
-      "x": 6355,
-      "y": 7618,
-      "width": 380,
-      "height": 150,
-      "color": "6"
-    },
-    {
-      "id": "96b1bcbe84d3b3ee",
-      "type": "text",
-      "text": "# ariya-sāvikā\nDanh nữ ghép, CC số ít\n### Nữ thánh đệ tử\n# (sā)",
-      "styleAttributes": {},
-      "x": 5660,
-      "y": 7268,
-      "width": 320,
-      "height": 260,
-      "color": "1"
-    },
-    {
-      "id": "a3ee6307339d052c",
-      "type": "text",
-      "text": "#  ,  deti,  deti,  deti.\n",
-      "styleAttributes": {},
-      "x": 5660,
-      "y": 7048,
-      "width": 820,
-      "height": 101
-    },
-    {
-      "id": "b7770d77ef0820c2",
-      "type": "text",
-      "text": "# āyuṃ - Tuổi thọ\nDanh Trung, TBC",
-      "styleAttributes": {},
-      "x": 4660,
-      "y": 8267,
-      "width": 380,
-      "height": 120,
-      "color": "6"
-    },
-    {
-      "id": "90b24ed076c55f4d",
-      "type": "text",
-      "text": "# ariya-sāvikā\nDanh nữ ghép, CC số ít\n### Nữ thánh đệ tử\n# (sā)",
-      "styleAttributes": {},
-      "x": 3805,
-      "y": 8277,
-      "width": 320,
-      "height": 260,
-      "color": "1"
-    },
-    {
-      "id": "372671f5716587c4",
-      "type": "text",
-      "text": "# deti",
-      "styleAttributes": {},
-      "x": 4340,
-      "y": 8277,
-      "width": 140,
-      "height": 100,
-      "color": "4"
-    },
-    {
-      "id": "eaf298290a1a6ebb",
-      "type": "text",
-      "text": "# Vị thánh nữ đệ tử ẩy khi cho thực phẩm thì cho tuổi thọ, sắc đẹp, sự lac, sức lực",
-      "styleAttributes": {},
-      "x": 5673,
-      "y": 7928,
-      "width": 1075,
-      "height": 120
-    },
-    {
-      "id": "1ded6c9eb1d88273",
-      "type": "text",
-      "text": "# dentī\nHTPT, nữ tính CC số ít\n### bố thí\n(Sắc thái bối cảnh cho động từ chính)",
-      "styleAttributes": {},
-      "x": 3980,
-      "y": 8572,
-      "width": 250,
-      "height": 280,
-      "color": "1"
-    },
-    {
-      "id": "708a345f9dd5fb5f",
-      "type": "text",
-      "text": "# bhojanaṃ\nDanh, Trung TBC\n### Thực phẩm",
-      "styleAttributes": {},
-      "x": 4280,
-      "y": 8800,
-      "width": 250,
-      "height": 180,
-      "color": "6"
-    },
-    {
-      "id": "e9053385aaa8a255",
-      "type": "text",
-      "text": "# dentī\nHTPT, nữ tính CC số ít\n### bố thí\n(Sắc thái bối cảnh cho động từ chính)",
-      "styleAttributes": {},
-      "x": 5730,
-      "y": 7553,
-      "width": 250,
-      "height": 280,
-      "color": "1"
-    },
-    {
-      "id": "95a7e62ec0a7fae9",
-      "type": "text",
-      "text": "# deti",
-      "styleAttributes": {},
-      "x": 6070,
-      "y": 7348,
-      "width": 140,
-      "height": 100,
-      "color": "4"
-    },
-    {
-      "id": "cf8e79e395056c3e",
-      "type": "text",
-      "text": "# bhojanaṃ\nDanh, Trung TBC\n### Thực phẩm",
-      "styleAttributes": {},
-      "x": 6015,
-      "y": 7653,
-      "width": 250,
-      "height": 180,
-      "color": "6"
-    },
-    {
-      "id": "008a43cd4e7bd55b",
-      "type": "text",
-      "text": "# ariya-sāvikā\nDanh nữ ghép, CC số ít\n### Nữ thánh đệ tử\n# (sā)",
-      "styleAttributes": {},
-      "x": 3805,
-      "y": 9290,
-      "width": 320,
-      "height": 260,
-      "color": "1"
-    },
-    {
-      "id": "8d98c8c4f147459d",
-      "type": "text",
-      "text": "# deti",
-      "styleAttributes": {},
-      "x": 4340,
-      "y": 9370,
-      "width": 140,
-      "height": 100,
-      "color": "4"
-    },
-    {
-      "id": "4fdc06d6d786bb1a",
-      "type": "text",
-      "text": "# bhojanaṃ\nDanh, Trung TBC\n### Thực phẩm",
-      "styleAttributes": {},
-      "x": 4285,
-      "y": 9715,
-      "width": 250,
-      "height": 180,
-      "color": "6"
-    },
-    {
-      "id": "5a7df265991f95c1",
-      "type": "text",
-      "text": "# dentī\nHTPT, nữ tính CC số ít\n### bố thí\n(Sắc thái bối cảnh cho động từ chính)",
-      "styleAttributes": {},
-      "x": 3945,
-      "y": 9615,
-      "width": 250,
-      "height": 280,
-      "color": "1"
-    },
-    {
-      "id": "d9cf2a256b09f750",
-      "type": "text",
-      "text": "# vaṇṇaṃ - sắc đẹp\nDanh, Nam, TBC số ít",
-      "styleAttributes": {},
-      "x": 4685,
-      "y": 9360,
-      "width": 380,
-      "height": 120,
-      "color": "6"
-    },
-    {
-      "id": "0aafca901dd258e2",
-      "type": "text",
-      "text": "# bhojanaṃ\nDanh, Trung TBC\n### Thực phẩm",
-      "styleAttributes": {},
-      "x": 3680,
-      "y": 7600,
-      "width": 250,
-      "height": 180,
-      "color": "6"
-    },
-    {
-      "id": "2e102c9f17bed7e0",
-      "type": "text",
-      "text": "# cattāri\nTính từ Trung tính TBC số nhiều\n### 4",
-      "styleAttributes": {},
-      "x": 4540,
-      "y": 7365,
-      "width": 250,
-      "height": 209,
-      "color": "6"
-    },
-    {
-      "id": "80b587281b6daec6",
-      "type": "text",
-      "text": "# Người nữ thánh đệ tử khi  bố thí thực phẩm thì bố thí 4 cái gì cho những người thọ thí?",
-      "styleAttributes": {},
-      "x": 3530,
-      "y": 7840,
-      "width": 1230,
-      "height": 120
-    },
-    {
-      "id": "f3cdfe0ef12b0c41",
-      "type": "text",
-      "text": "# paṭiggāhakānaṃ\nDanh Nam, GBC, số nhiều\nGBC-Thụ hưởng \n### Người thọ thí",
-      "styleAttributes": {},
-      "x": 4100,
-      "y": 7365,
-      "width": 300,
-      "height": 215
-    },
-    {
-      "id": "9f459c4dd633f442",
-      "type": "text",
-      "text": "# katamāni\nWhat?\nCái gì?\nĐại từ Nghi vấn dùng như tính từ",
-      "styleAttributes": {},
-      "x": 4460,
-      "y": 7061,
-      "width": 263,
-      "height": 218
-    },
-    {
-      "id": "001d05c885a95b01",
-      "type": "text",
-      "text": "# dentī\nHTPT, nữ tính CC số ít\n### bố thí\n(Sắc thái bối cảnh cho động từ chính)",
-      "styleAttributes": {},
-      "x": 3500,
-      "y": 7300,
-      "width": 250,
-      "height": 280,
-      "color": "1"
-    },
-    {
-      "id": "a0f29bb78336a4ac",
-      "type": "text",
-      "text": "# deti\nĐộng từ HT, CĐ ngôi 3 số ít\n### Cho",
-      "styleAttributes": {},
-      "x": 3940,
-      "y": 7080,
-      "width": 280,
-      "height": 180,
-      "color": "4"
-    },
-    {
-      "id": "675bad985ec0f6a3",
-      "type": "text",
-      "text": "# ariya-sāvikā\nDanh nữ ghép, CC số ít\n### Nữ thánh đệ tử",
-      "styleAttributes": {},
-      "x": 3380,
-      "y": 7080,
-      "width": 320,
-      "height": 180,
-      "color": "1"
-    },
-    {
-      "id": "5746f04c7dafa21a",
-      "type": "text",
-      "text": "# Dentī",
-      "styleAttributes": {},
-      "x": -1840,
-      "y": 3820,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "68af00a7aff6cc5f",
-      "type": "text",
-      "text": "# deti => De\n# De + nt ->Gốc HTPT\nKhi biến cách theo nữ tính\n# Dent+ ī -> Dentī",
-      "styleAttributes": {},
-      "x": -1840,
-      "y": 3960,
-      "width": 560,
-      "height": 280,
-      "color": "1"
-    },
-    {
-      "id": "b073f4e4deb74f82",
-      "type": "text",
-      "text": "# karoti -> karo = Gốc động từ HT\n# karo + nt = karont (Gốc HTPT)\nNếu bổ nghĩa cho danh từ nữ tính\n# -> karont + ī = karontī \n## Người nữ làm",
-      "styleAttributes": {},
-      "x": -1840,
-      "y": 4283,
-      "width": 560,
-      "height": 340,
-      "color": "4"
-    },
-    {
-      "id": "0309c5b170f2b2b8",
-      "type": "text",
-      "text": "# Danh từ Nam tính hoặc trung tính\n## =>Gốc HTPT + a\n## HTPT nguyên mẫu māna",
-      "styleAttributes": {},
-      "x": -1140,
-      "y": 3380,
-      "width": 560,
-      "height": 180
-    },
-    {
-      "id": "5cad2c1753e9d7c9",
-      "type": "text",
-      "text": "# Gốc HTT + Mān => gốc HTPT",
-      "styleAttributes": {},
-      "x": -1840,
-      "y": 3440,
-      "width": 540,
-      "height": 120,
-      "color": "1"
-    },
-    {
-      "id": "d0dca843307e8fb6",
-      "type": "text",
-      "text": "# Khi bổ nghĩa Danh từ nữ tính\n## => Gốc HTPT + ī \n# Nguyên mẫu HTPT -mānī -> Biến cách theo bảng biến cách của Nadī",
-      "styleAttributes": {},
-      "x": -1140,
-      "y": 3680,
-      "width": 560,
-      "height": 260
-    },
-    {
-      "id": "e215eae591ffee4a",
-      "type": "text",
-      "text": "# ariya-sāvikā\nDanh nữ ghép, CC số ít\n### Nữ thánh đệ tử",
-      "styleAttributes": {},
-      "x": 476,
-      "y": 5540,
-      "width": 320,
-      "height": 180,
-      "color": "1"
-    },
-    {
-      "id": "eab116cb60bdbb78",
-      "type": "text",
-      "text": "# Câu đơn. Động từ chính deti",
-      "styleAttributes": {},
-      "x": 476,
-      "y": 5420,
-      "width": 1290,
-      "height": 80
-    },
-    {
-      "id": "a8b32e753c28f43d",
-      "type": "text",
-      "text": "# dentī\nHTPT, nữ tính CC số ít\n### bố thí\n(Sắc thái bối cảnh cho động từ chính)",
-      "styleAttributes": {},
-      "x": 636,
-      "y": 5774,
-      "width": 364,
-      "height": 228,
-      "color": "1"
-    },
-    {
-      "id": "70e3d452d8021a7f",
-      "type": "text",
-      "text": "## ṭhānāni\nDanh Trung TBC số nhiều\n### Các điều kiện",
-      "styleAttributes": {},
-      "x": 1516,
-      "y": 5520,
-      "width": 250,
-      "height": 220,
-      "color": "6"
-    },
-    {
-      "id": "18b6ae2dfb27bcc3",
-      "type": "text",
-      "text": "## Đoạn kinh 2 (AN)\n## bhojanaṃ, suppavāse, dentī ariyasāvikā paṭiggāhakānaṃ cattāri ṭhānāni deti.\n## katamāni cattāri?\n## āyuṃ deti, vaṇṇaṃ deti, sukhaṃ deti, balaṃ deti.\n## āyuṃ kho pana datvā āyussa bhāginī hoti dibbassa vā mānusassa vā. vaṇṇaṃ datvā\n## vaṇṇassa bhāginī hoti dibbassa vā mānusassa vā. sukhaṃ datvā sukhassa bhāginī hoti\n## dibbassa vā mānusassa vā. balaṃ datvā balassa bhāginī hoti dibbassa vā mānusassa\n## vā.\n## bhojanaṃ, suppavāse, dentī ariyasāvikā paṭiggāhakānaṃ imāni cattāri ṭhānāni detīti",
-      "styleAttributes": {},
-      "x": 1640,
-      "y": 4240,
-      "width": 1160,
-      "height": 500,
-      "color": "6"
-    },
-    {
-      "id": "2edcb69c20baeb60",
-      "type": "text",
-      "text": "# deti\nĐộng từ HT, CĐ ngôi 3 số ít\n### Cho",
-      "styleAttributes": {},
-      "x": 1036,
-      "y": 5540,
-      "width": 280,
-      "height": 180,
-      "color": "4"
-    },
-    {
-      "id": "bde0b48744346c71",
-      "type": "text",
-      "text": "# suppavāse\n# Hô cách của suppavāsā",
-      "styleAttributes": {},
-      "x": 1640,
-      "y": 5100,
-      "width": 500,
-      "height": 140
-    },
-    {
-      "id": "48d7a2cbb8b4241a",
-      "type": "text",
-      "text": "# cattāri\nTính từ Trung tính TBC số nhiều\n### 4",
-      "styleAttributes": {},
-      "x": 2790,
-      "y": 7551,
-      "width": 250,
-      "height": 209,
-      "color": "6"
-    },
-    {
-      "id": "5e6baf59af40698f",
-      "type": "text",
-      "text": "# dentī\nHTPT, nữ tính CC số ít\n### bố thí\n(Sắc thái bối cảnh cho động từ chính)",
-      "styleAttributes": {},
-      "x": 1780,
-      "y": 7300,
-      "width": 250,
-      "height": 280,
-      "color": "1"
-    },
-    {
-      "id": "7e9bc51c4bfe518c",
-      "type": "text",
-      "text": "# bhojanaṃ\nDanh, Trung TBC\n### Thực phẩm",
-      "styleAttributes": {},
-      "x": 1960,
-      "y": 7600,
-      "width": 250,
-      "height": 180,
-      "color": "6"
-    },
-    {
-      "id": "f88fc66e6de87632",
-      "type": "text",
-      "text": "# ariya-sāvikā\nDanh nữ ghép, CC số ít\n### Nữ thánh đệ tử",
-      "styleAttributes": {},
-      "x": 1660,
-      "y": 7080,
-      "width": 320,
-      "height": 180,
-      "color": "1"
-    },
-    {
-      "id": "22c14abbb4a9e440",
-      "type": "text",
-      "text": "# deti\nĐộng từ HT, CĐ ngôi 3 số ít\n### Cho",
-      "styleAttributes": {},
-      "x": 2220,
-      "y": 7080,
-      "width": 280,
-      "height": 180,
-      "color": "4"
-    },
-    {
-      "id": "a7727c8c32578b2a",
-      "type": "text",
-      "text": "## ṭhānāni\nDanh Trung TBC số nhiều\n### Các điều kiện",
-      "styleAttributes": {},
-      "x": 2700,
-      "y": 7060,
-      "width": 250,
-      "height": 220,
-      "color": "6"
-    },
-    {
-      "id": "1c553bc923bab3f8",
-      "type": "text",
-      "text": "# katamāni\nWhat?\nCái gì?\nĐại từ Nghi vấn dùng như tính từ",
-      "styleAttributes": {},
-      "x": 2777,
-      "y": 7300,
-      "width": 263,
-      "height": 218,
-      "color": "1"
-    },
-    {
-      "id": "2875ed153936de88",
-      "type": "text",
-      "text": "# cattāri",
-      "styleAttributes": {},
-      "x": 2260,
-      "y": 6800,
-      "width": 300,
-      "height": 140
-    },
-    {
-      "id": "60501628d6377e27",
-      "type": "text",
-      "text": "# katamāni cattāri?",
-      "styleAttributes": {},
-      "x": 1877,
-      "y": 6580,
-      "width": 666,
-      "height": 122
-    },
-    {
-      "id": "156a8c69ad97fb2c",
-      "type": "text",
-      "text": "# Người nữ thánh đệ tử khi  bố thí thực phẩm thì bố thí 4 điều kiện gì cho những người thọ thí?",
-      "styleAttributes": {},
-      "x": 1810,
-      "y": 7840,
-      "width": 1230,
-      "height": 120
-    },
-    {
-      "id": "b21738f4e137129c",
-      "type": "text",
-      "text": "# paṭiggāhakānaṃ\nDanh Nam, GBC, số nhiều\nGBC-Thụ hưởng \n### Người thọ thí",
-      "styleAttributes": {},
-      "x": 2380,
-      "y": 7365,
-      "width": 300,
-      "height": 215
-    },
-    {
-      "id": "4fd0b847d14edb4d",
-      "type": "text",
-      "text": "# bhojanaṃ\nDanh, Trung TBC\n### Thực phẩm",
-      "styleAttributes": {},
-      "x": 818,
-      "y": 6060,
-      "width": 303,
-      "height": 179,
-      "color": "6"
-    },
-    {
-      "id": "fe48be22e9fceb62",
-      "type": "text",
-      "text": "# Người nữ thánh đệ tử khi  bố thí thực phẩm thì bố thí 4 điều kiện (thứ) cho những người thọ thí",
-      "styleAttributes": {},
-      "x": 476,
-      "y": 6320,
-      "width": 1415,
-      "height": 80,
-      "color": "4"
-    },
-    {
-      "id": "1598f0739c4e4268",
-      "type": "text",
-      "text": "# cattāri\nTính từ Trung tính TBC số nhiều\n### 4",
-      "styleAttributes": {},
-      "x": 1641,
-      "y": 5793,
-      "width": 250,
-      "height": 209,
-      "color": "6"
-    },
-    {
-      "id": "14e159074d163f9d",
-      "type": "text",
-      "text": "# paṭiggāhakānaṃ\nDanh Nam, GBC, số nhiều\nGBC-Thụ hưởng \n### Người thọ thí",
-      "styleAttributes": {},
-      "x": 1176,
-      "y": 5793,
-      "width": 300,
-      "height": 215
-    },
-    {
-      "id": "27728763631e8b99",
-      "type": "text",
-      "text": "# dibbassa\n## Thuộc cõi trời",
-      "styleAttributes": {},
-      "x": 4050,
-      "y": 14698,
-      "width": 190,
-      "height": 144
-    },
-    {
-      "id": "2efc23d544e2821f",
-      "type": "text",
-      "text": "# āyussa\nTrung tính SHC số ít\nTuổi thọ",
-      "styleAttributes": {},
-      "x": 3740,
-      "y": 14646,
-      "width": 250,
-      "height": 120
-    },
-    {
-      "id": "2bd24af6126fd7f7",
-      "type": "text",
-      "text": "# vaṇṇaṃ\nSắc đẹp",
-      "styleAttributes": {},
-      "x": 3205,
-      "y": 15026,
-      "width": 250,
-      "height": 154
-    },
-    {
-      "id": "cd1d96145edf981e",
-      "type": "text",
-      "text": "# bhāginī\nDanh, nữ, CC số ít\n## Người dự phần ",
-      "styleAttributes": {},
-      "x": 3220,
-      "y": 14636,
-      "width": 250,
-      "height": 188,
-      "color": "1"
-    },
-    {
-      "id": "5c4a63478e8fcb96",
-      "type": "text",
-      "text": "#  kho pana    hoti  vā  vā. ",
-      "styleAttributes": {},
-      "x": 2300,
-      "y": 14489,
-      "width": 820,
-      "height": 95
-    },
-    {
-      "id": "a597d980ce1a0893",
-      "type": "text",
-      "text": "# hoti",
-      "styleAttributes": {},
-      "x": 2870,
-      "y": 14683,
-      "width": 250,
-      "height": 94,
-      "color": "3"
-    },
-    {
-      "id": "29d3c3a72939622b",
-      "type": "text",
-      "text": "# datvā\nĐặc trưng ĐTBB là xảy ra trước động từ chính\n# sau khi Cho",
-      "styleAttributes": {},
-      "x": 2870,
-      "y": 14944,
-      "width": 300,
-      "height": 236
-    },
-    {
-      "id": "00e5c19c7c0aa009",
-      "type": "text",
-      "text": "# ariya-sāvikā\nDanh nữ ghép, CC số ít\n### Nữ thánh đệ tử\n# (sā)",
-      "styleAttributes": {},
-      "x": 2350,
-      "y": 14636,
-      "width": 320,
-      "height": 260,
-      "color": "1"
-    },
-    {
-      "id": "cff59247ca575531",
-      "type": "text",
-      "text": "# āyussa\nTrung tính SHC số ít\nTuổi thọ",
-      "styleAttributes": {},
-      "x": 3755,
-      "y": 15096,
-      "width": 250,
-      "height": 124
-    },
-    {
-      "id": "08f2f653d7bc8a6c",
-      "type": "text",
-      "text": "# Vị thánh nữ đệ tử sau khi cho Sắc đẹp  trở thành người dự phần trong tuổi thọ thuộc cõi Trời hoặc thuộc cõi Người",
-      "styleAttributes": {},
-      "x": 2350,
-      "y": 15271,
-      "width": 1195,
-      "height": 240,
-      "color": "6"
-    },
-    {
-      "id": "d0cdd4628b944ee8",
-      "type": "text",
-      "text": "# mānusassa\nSHC tổng thê\n## Thuộc cõi người",
-      "styleAttributes": {},
-      "x": 4020,
-      "y": 15164,
-      "width": 253,
-      "height": 227
-    },
-    {
-      "id": "840409a6b31f87ea",
-      "type": "text",
-      "text": "#  kho pana    hoti  vā  vā. ",
-      "styleAttributes": {},
-      "x": 2267,
-      "y": 15860,
-      "width": 820,
-      "height": 95
-    }
-  ],
-  "edges": [
-    {
-      "id": "5efa3ba9e28f628b",
-      "fromNode": "389b4f94e905e46e",
-      "fromSide": "right",
-      "toNode": "a9f4bfdae396428b",
-      "toSide": "left"
-    },
-    {
-      "id": "46c5ffdfbb097081",
-      "fromNode": "389b4f94e905e46e",
-      "fromSide": "right",
-      "toNode": "a3d98bdbe5bcd035",
-      "toSide": "left"
-    },
-    {
-      "id": "ce40dbc7b66edce3",
-      "fromNode": "389b4f94e905e46e",
-      "fromSide": "right",
-      "toNode": "be66617eade46a82",
-      "toSide": "left"
-    },
-    {
-      "id": "48f161700e3e6f96",
-      "fromNode": "389b4f94e905e46e",
-      "fromSide": "right",
-      "toNode": "d080847d08c7c08e",
-      "toSide": "left"
-    },
-    {
-      "id": "b44bfd72406ffb4b",
-      "fromNode": "b9eda7c053edd6af",
-      "fromSide": "bottom",
-      "toNode": "9f585ebfac00e2c5",
-      "toSide": "left"
-    },
-    {
-      "id": "2ee4c881dd8aa21d",
-      "fromNode": "b9eda7c053edd6af",
-      "fromSide": "right",
-      "toNode": "2d58ae9ff8fb5206",
-      "toSide": "left"
-    },
-    {
-      "id": "5fd4cbe18f291ec3",
-      "fromNode": "2d58ae9ff8fb5206",
-      "fromSide": "right",
-      "toNode": "196cb14115835817",
-      "toSide": "left"
-    },
-    {
-      "id": "af6177004738a7d2",
-      "fromNode": "80f0625bbe7d651a",
-      "fromSide": "bottom",
-      "toNode": "f8b5c091cce718f6",
-      "toSide": "left"
-    },
-    {
-      "id": "1d3a6cbbb2e9ac9a",
-      "fromNode": "80f0625bbe7d651a",
-      "fromSide": "right",
-      "toNode": "94c2bb0ecde0b34e",
-      "toSide": "left",
-      "label": "honti"
-    },
-    {
-      "id": "e669b00b17b5658e",
-      "fromNode": "9b03c3d40604e5a1",
-      "fromSide": "right",
-      "toNode": "a9655a4291e7131c",
-      "toSide": "left"
-    },
-    {
-      "id": "e7d54742e478c44c",
-      "fromNode": "c87978b3475af1a4",
-      "fromSide": "right",
-      "toNode": "229b342fee8f05a1",
-      "toSide": "left"
-    },
-    {
-      "id": "6d697e7c553b0feb",
-      "fromNode": "c87978b3475af1a4",
-      "fromSide": "right",
-      "toNode": "3a81b3008f199825",
-      "toSide": "left"
-    },
-    {
-      "id": "2dd7fab8afd61458",
-      "fromNode": "9aff1dc18c9f6170",
-      "fromSide": "bottom",
-      "toNode": "519019866dbc58b2",
-      "toSide": "left"
-    },
-    {
-      "id": "22ed69a857d834f9",
-      "fromNode": "9aff1dc18c9f6170",
-      "fromSide": "right",
-      "toNode": "597443b4276ad913",
-      "toSide": "left"
-    },
-    {
-      "id": "6020afc8b0728c56",
-      "fromNode": "4f43ef2273671cf4",
-      "fromSide": "right",
-      "toNode": "ae0d79cf07a352ed",
-      "toSide": "left"
-    },
-    {
-      "id": "a9ae5dfbbe48347e",
-      "fromNode": "7d59f650e34c2cac",
-      "fromSide": "bottom",
-      "toNode": "001df5f793214c19",
-      "toSide": "left"
-    },
-    {
-      "id": "fcc2d3d97d205a8b",
-      "fromNode": "597443b4276ad913",
-      "fromSide": "right",
-      "toNode": "e5af7da965a7cb73",
-      "toSide": "left"
-    },
-    {
-      "id": "fcff7a9405829f12",
-      "fromNode": "4b9cff7616f0c8d3",
-      "fromSide": "right",
-      "toNode": "3af5cee75d1b38f1",
-      "toSide": "left"
-    },
-    {
-      "id": "36cb9279cd42ac89",
-      "fromNode": "4b9cff7616f0c8d3",
-      "fromSide": "right",
-      "toNode": "7428ec8ea6c48271",
-      "toSide": "left"
-    },
-    {
-      "id": "c069d90463d8ca83",
-      "fromNode": "7d59f650e34c2cac",
-      "fromSide": "right",
-      "toNode": "2e7cb641ba9dad70",
-      "toSide": "left"
-    },
-    {
-      "id": "cc8fedef325f9ee8",
-      "fromNode": "2e7cb641ba9dad70",
-      "fromSide": "right",
-      "toNode": "f776f85d4c3cdd35",
-      "toSide": "left"
-    },
-    {
-      "id": "f4fa54bd12a0ffe9",
-      "fromNode": "94c2bb0ecde0b34e",
-      "fromSide": "bottom",
-      "toNode": "62eccf30a34849d2",
-      "toSide": "left"
-    },
-    {
-      "id": "4bb00b4f42c5bf59",
-      "fromNode": "4f43ef2273671cf4",
-      "fromSide": "right",
-      "toNode": "1f9a2c605dbb8a38",
-      "toSide": "left"
-    },
-    {
-      "id": "b3468bb269767107",
-      "fromNode": "4f43ef2273671cf4",
-      "fromSide": "right",
-      "toNode": "4b9cff7616f0c8d3",
-      "toSide": "left"
-    },
-    {
-      "id": "195dfb8f4d2f4671",
-      "fromNode": "a3d98bdbe5bcd035",
-      "fromSide": "right",
-      "toNode": "6aa866f2797913b5",
-      "toSide": "left"
-    },
-    {
-      "id": "b81c4e1febbbedf9",
-      "fromNode": "a9f4bfdae396428b",
-      "fromSide": "right",
-      "toNode": "b7bf17f83d6779d3",
-      "toSide": "left"
-    },
-    {
-      "id": "17cbcd02051f4a70",
-      "fromNode": "be66617eade46a82",
-      "fromSide": "right",
-      "toNode": "c3c9a419ccee78e9",
-      "toSide": "left"
-    },
-    {
-      "id": "c4c8f6ffd7269d65",
-      "fromNode": "d080847d08c7c08e",
-      "fromSide": "right",
-      "toNode": "548a0eb9dee77910",
-      "toSide": "left"
-    },
-    {
-      "id": "c86eafd1e0346d2d",
-      "fromNode": "6aa866f2797913b5",
-      "fromSide": "bottom",
-      "toNode": "84967b95eb3d5dc4",
-      "toSide": "left"
-    },
-    {
-      "id": "0046c6705ca67eb2",
-      "fromNode": "68c9e5d7a0788a95",
-      "fromSide": "left",
-      "toNode": "b7bf17f83d6779d3",
-      "toSide": "right"
-    },
-    {
-      "id": "4ff8d7c5e1dafaba",
-      "fromNode": "c3c9a419ccee78e9",
-      "fromSide": "bottom",
-      "toNode": "c82608786d1fbc89",
-      "toSide": "left"
-    },
-    {
-      "id": "a3e14df2cce0a13f",
-      "fromNode": "5cad2c1753e9d7c9",
-      "fromSide": "right",
-      "toNode": "0309c5b170f2b2b8",
-      "toSide": "left"
-    },
-    {
-      "id": "5c7ea521e204a2f2",
-      "fromNode": "5cad2c1753e9d7c9",
-      "fromSide": "right",
-      "toNode": "d0dca843307e8fb6",
-      "toSide": "left"
-    },
-    {
-      "id": "a47c6e2f4bdcd8ec",
-      "fromNode": "e215eae591ffee4a",
-      "fromSide": "right",
-      "toNode": "2edcb69c20baeb60",
-      "toSide": "left"
-    },
-    {
-      "id": "2ceb23704120c4bd",
-      "fromNode": "e215eae591ffee4a",
-      "fromSide": "bottom",
-      "toNode": "a8b32e753c28f43d",
-      "toSide": "left"
-    },
-    {
-      "id": "793192eb9a337002",
-      "fromNode": "a8b32e753c28f43d",
-      "fromSide": "bottom",
-      "toNode": "4fd0b847d14edb4d",
-      "toSide": "left"
-    },
-    {
-      "id": "c2da203b0e74baf4",
-      "fromNode": "70e3d452d8021a7f",
-      "fromSide": "bottom",
-      "toNode": "1598f0739c4e4268",
-      "toSide": "left"
-    },
-    {
-      "id": "df8d14dedf1a183a",
-      "fromNode": "2edcb69c20baeb60",
-      "fromSide": "bottom",
-      "toNode": "14e159074d163f9d",
-      "toSide": "left"
-    },
-    {
-      "id": "56ddcded7cf851e1",
-      "fromNode": "2edcb69c20baeb60",
-      "fromSide": "right",
-      "toNode": "70e3d452d8021a7f",
-      "toSide": "left"
-    },
-    {
-      "id": "9cd6026723751c26",
-      "fromNode": "22c14abbb4a9e440",
-      "fromSide": "bottom",
-      "toNode": "b21738f4e137129c",
-      "toSide": "left"
-    },
-    {
-      "id": "237eba43d0243742",
-      "fromNode": "22c14abbb4a9e440",
-      "fromSide": "right",
-      "toNode": "a7727c8c32578b2a",
-      "toSide": "left"
-    },
-    {
-      "id": "199f0d9f75678e25",
-      "fromNode": "f88fc66e6de87632",
-      "fromSide": "right",
-      "toNode": "22c14abbb4a9e440",
-      "toSide": "left"
-    },
-    {
-      "id": "3673dbdcb3557f1b",
-      "fromNode": "1c553bc923bab3f8",
-      "fromSide": "bottom",
-      "toNode": "48d7a2cbb8b4241a",
-      "toSide": "left",
-      "color": "1"
-    },
-    {
-      "id": "01a144e4ef831733",
-      "fromNode": "f88fc66e6de87632",
-      "fromSide": "bottom",
-      "toNode": "5e6baf59af40698f",
-      "toSide": "left"
-    },
-    {
-      "id": "6db4b4b4be9aa1d6",
-      "fromNode": "5e6baf59af40698f",
-      "fromSide": "bottom",
-      "toNode": "7e9bc51c4bfe518c",
-      "toSide": "left"
-    },
-    {
-      "id": "fe772ed973a6b2a9",
-      "fromNode": "a7727c8c32578b2a",
-      "fromSide": "bottom",
-      "toNode": "1c553bc923bab3f8",
-      "toSide": "left"
-    },
-    {
-      "id": "7d873889d1c6225b",
-      "fromNode": "a0f29bb78336a4ac",
-      "fromSide": "bottom",
-      "toNode": "f3cdfe0ef12b0c41",
-      "toSide": "left"
-    },
-    {
-      "id": "b948536b0142b021",
-      "fromNode": "675bad985ec0f6a3",
-      "fromSide": "right",
-      "toNode": "a0f29bb78336a4ac",
-      "toSide": "left"
-    },
-    {
-      "id": "8a4062b42d3eef89",
-      "fromNode": "675bad985ec0f6a3",
-      "fromSide": "bottom",
-      "toNode": "001d05c885a95b01",
-      "toSide": "left"
-    },
-    {
-      "id": "b07a6da9db3fc7b4",
-      "fromNode": "001d05c885a95b01",
-      "fromSide": "bottom",
-      "toNode": "0aafca901dd258e2",
-      "toSide": "left"
-    },
-    {
-      "id": "707d1614257fc780",
-      "fromNode": "9f459c4dd633f442",
-      "fromSide": "bottom",
-      "toNode": "2e102c9f17bed7e0",
-      "toSide": "left"
-    },
-    {
-      "id": "75b4bafa3420b194",
-      "fromNode": "a0f29bb78336a4ac",
-      "fromSide": "right",
-      "toNode": "9f459c4dd633f442",
-      "toSide": "left"
-    },
-    {
-      "id": "1ca04a0138cb6c21",
-      "fromNode": "95a7e62ec0a7fae9",
-      "fromSide": "right",
-      "toNode": "786d12a3b308626b",
-      "toSide": "left"
-    },
-    {
-      "id": "5e37632545a5e304",
-      "fromNode": "95a7e62ec0a7fae9",
-      "fromSide": "right",
-      "toNode": "91d15586893a1530",
-      "toSide": "left"
-    },
-    {
-      "id": "77ffb2469a78d199",
-      "fromNode": "95a7e62ec0a7fae9",
-      "fromSide": "right",
-      "toNode": "8aae7fc7131b0650",
-      "toSide": "left"
-    },
-    {
-      "id": "f0d8ef932449b025",
-      "fromNode": "96b1bcbe84d3b3ee",
-      "fromSide": "right",
-      "toNode": "95a7e62ec0a7fae9",
-      "toSide": "left"
-    },
-    {
-      "id": "4b0a6f137864ca4f",
-      "fromNode": "e9053385aaa8a255",
-      "fromSide": "bottom",
-      "toNode": "cf8e79e395056c3e",
-      "toSide": "left"
-    },
-    {
-      "id": "599cbf395e079954",
-      "fromNode": "96b1bcbe84d3b3ee",
-      "fromSide": "bottom",
-      "toNode": "e9053385aaa8a255",
-      "toSide": "left"
-    },
-    {
-      "id": "eac3775b11ee3820",
-      "fromNode": "372671f5716587c4",
-      "fromSide": "right",
-      "toNode": "b7770d77ef0820c2",
-      "toSide": "left"
-    },
-    {
-      "id": "caa9c1a151499209",
-      "fromNode": "90b24ed076c55f4d",
-      "fromSide": "right",
-      "toNode": "372671f5716587c4",
-      "toSide": "left"
-    },
-    {
-      "id": "754821fe29996bb9",
-      "fromNode": "90b24ed076c55f4d",
-      "fromSide": "bottom",
-      "toNode": "1ded6c9eb1d88273",
-      "toSide": "left"
-    },
-    {
-      "id": "77904a6ac5ec77ed",
-      "fromNode": "1ded6c9eb1d88273",
-      "fromSide": "bottom",
-      "toNode": "708a345f9dd5fb5f",
-      "toSide": "left"
-    },
-    {
-      "id": "bb6a4acb5b8ba3f8",
-      "fromNode": "5a7df265991f95c1",
-      "fromSide": "bottom",
-      "toNode": "4fdc06d6d786bb1a",
-      "toSide": "left"
-    },
-    {
-      "id": "d9a7fd3f314e2b9e",
-      "fromNode": "008a43cd4e7bd55b",
-      "fromSide": "bottom",
-      "toNode": "5a7df265991f95c1",
-      "toSide": "left"
-    },
-    {
-      "id": "c9e651ed4e431ddc",
-      "fromNode": "008a43cd4e7bd55b",
-      "fromSide": "right",
-      "toNode": "8d98c8c4f147459d",
-      "toSide": "left"
-    },
-    {
-      "id": "9cb778cdb71d77a3",
-      "fromNode": "8d98c8c4f147459d",
-      "fromSide": "right",
-      "toNode": "d9cf2a256b09f750",
-      "toSide": "left"
-    },
-    {
-      "id": "c5df197bebdcc8d1",
-      "fromNode": "aa0fc9d20d8455f3",
-      "fromSide": "bottom",
-      "toNode": "232e8864a3ddf73e",
-      "toSide": "left"
-    },
-    {
-      "id": "765c2b62c32f0948",
-      "fromNode": "aa0fc9d20d8455f3",
-      "fromSide": "right",
-      "toNode": "153b74a7f93eee57",
-      "toSide": "left"
-    },
-    {
-      "id": "31d427e547fcb1c8",
-      "fromNode": "232e8864a3ddf73e",
-      "fromSide": "bottom",
-      "toNode": "77ded951e4142b79",
-      "toSide": "left"
-    },
-    {
-      "id": "32c9fad1738be846",
-      "fromNode": "153b74a7f93eee57",
-      "fromSide": "right",
-      "toNode": "43bfa7977c1f948c",
-      "toSide": "left"
-    },
-    {
-      "id": "255807547c6a84b6",
-      "fromNode": "f0c7684e6eb35df5",
-      "fromSide": "bottom",
-      "toNode": "c7bf17c5c4566c21",
-      "toSide": "left"
-    },
-    {
-      "id": "833e34d0e300a69d",
-      "fromNode": "20a4e172bd00d0ef",
-      "fromSide": "right",
-      "toNode": "d25f9facb6eff6cb",
-      "toSide": "left",
-      "label": "là"
-    },
-    {
-      "id": "63aa901bbd42c3f9",
-      "fromNode": "d25f9facb6eff6cb",
-      "fromSide": "bottom",
-      "toNode": "16c8c7cb6ec7b3e2",
-      "toSide": "left"
-    },
-    {
-      "id": "5c9548abaf10eb59",
-      "fromNode": "c7bf17c5c4566c21",
-      "fromSide": "right",
-      "toNode": "7f9de783f895c381",
-      "toSide": "left"
-    },
-    {
-      "id": "9a48c28c7b268940",
-      "fromNode": "f0c7684e6eb35df5",
-      "fromSide": "right",
-      "toNode": "dec89b6e973cd5de",
-      "toSide": "left"
-    },
-    {
-      "id": "20936e4f88e756c4",
-      "fromNode": "dec89b6e973cd5de",
-      "fromSide": "right",
-      "toNode": "a2ce9bc6ac6ec51c",
-      "toSide": "left"
-    },
-    {
-      "id": "089753f0b893a966",
-      "fromNode": "6d0f0b156741bb9d",
-      "fromSide": "bottom",
-      "toNode": "f21c6b1957935ea3",
-      "toSide": "left"
-    },
-    {
-      "id": "0342e578c21d95cc",
-      "fromNode": "bb0bee0515c14154",
-      "fromSide": "bottom",
-      "toNode": "dfef66cadedbfc76",
-      "toSide": "left"
-    },
-    {
-      "id": "54141801d3d8f2fb",
-      "fromNode": "a2ce9bc6ac6ec51c",
-      "fromSide": "right",
-      "toNode": "52d597b475ea2bc4",
-      "toSide": "left"
-    },
-    {
-      "id": "7c5e38ea2766090a",
-      "fromNode": "52d597b475ea2bc4",
-      "fromSide": "left",
-      "toNode": "bd6f15e1adb86d9b",
-      "toSide": "left",
-      "toEnd": "none"
-    },
-    {
-      "id": "bb695d6b58117567",
-      "fromNode": "7156ec5fcbd55fc2",
-      "fromSide": "bottom",
-      "toNode": "80f6f2bda1b4034a",
-      "toSide": "left"
-    },
-    {
-      "id": "5ae7bd55ec551bea",
-      "fromNode": "cd1d96145edf981e",
-      "fromSide": "right",
-      "toNode": "7156ec5fcbd55fc2",
-      "toSide": "left"
-    },
-    {
-      "id": "debd9ddda3f5c2db",
-      "fromNode": "00e5c19c7c0aa009",
-      "fromSide": "right",
-      "toNode": "a597d980ce1a0893",
-      "toSide": "left"
-    },
-    {
-      "id": "b7450395758d28ed",
-      "fromNode": "a597d980ce1a0893",
-      "fromSide": "right",
-      "toNode": "cd1d96145edf981e",
-      "toSide": "left"
-    },
-    {
-      "id": "1980fa18d7869709",
-      "fromNode": "a597d980ce1a0893",
-      "fromSide": "bottom",
-      "toNode": "29d3c3a72939622b",
-      "toSide": "left"
-    },
-    {
-      "id": "f7a7105dcf10417e",
-      "fromNode": "29d3c3a72939622b",
-      "fromSide": "bottom",
-      "toNode": "2bd24af6126fd7f7",
-      "toSide": "left"
-    },
-    {
-      "id": "a10caa7f51c4f697",
-      "fromNode": "cff59247ca575531",
-      "fromSide": "bottom",
-      "toNode": "d0cdd4628b944ee8",
-      "toSide": "left"
-    },
-    {
-      "id": "f8bd6aa44af01fa6",
-      "fromNode": "2efc23d544e2821f",
-      "fromSide": "bottom",
-      "toNode": "27728763631e8b99",
-      "toSide": "left"
-    },
-    {
-      "id": "cb54d48f0268fe1b",
-      "fromNode": "bfd88b29a8728a52",
-      "fromSide": "right",
-      "toNode": "f0a9c577f72e9002",
-      "toSide": "left"
-    },
-    {
-      "id": "f50c4b4669a40112",
-      "fromNode": "bfd88b29a8728a52",
-      "fromSide": "right",
-      "toNode": "871661efd11b9a25",
-      "toSide": "left"
-    },
-    {
-      "id": "57e6c8e672b163f5",
-      "fromNode": "6bbd6023cc22f958",
-      "fromSide": "right",
-      "toNode": "2f70a2a1afdfc209",
-      "toSide": "left"
-    },
-    {
-      "id": "11a2762c12c97226",
-      "fromNode": "2f70a2a1afdfc209",
-      "fromSide": "right",
-      "toNode": "bfd88b29a8728a52",
-      "toSide": "left"
-    },
-    {
-      "id": "5141dbb551331254",
-      "fromNode": "2f70a2a1afdfc209",
-      "fromSide": "bottom",
-      "toNode": "296a36cdbe7ee47c",
-      "toSide": "left"
-    },
-    {
-      "id": "7b1aadb5baaf5f1e",
-      "fromNode": "4045569916ae6f5b",
-      "fromSide": "bottom",
-      "toNode": "cfc95944742af353",
-      "toSide": "left"
-    },
-    {
-      "id": "1ff9116acc8b74f7",
-      "fromNode": "fb9700c9eb3b7cd6",
-      "fromSide": "bottom",
-      "toNode": "fd25475a38f71782",
-      "toSide": "left"
-    },
-    {
-      "id": "7d9826efc6f8a666",
-      "fromNode": "296a36cdbe7ee47c",
-      "fromSide": "bottom",
-      "toNode": "2437567f9ab7393b",
-      "toSide": "left"
-    },
-    {
-      "id": "84196235aad4c3af",
-      "fromNode": "dbab5f56f212d758",
-      "fromSide": "right",
-      "toNode": "80b5e846f68729d8",
-      "toSide": "left"
-    },
-    {
-      "id": "0c8b5c9a6e00aff9",
-      "fromNode": "dbab5f56f212d758",
-      "fromSide": "right",
-      "toNode": "b3664d55a895c41b",
-      "toSide": "left"
-    },
-    {
-      "id": "3811ea515ddb13b3",
-      "fromNode": "3ed50275694fcd4e",
-      "fromSide": "right",
-      "toNode": "6a799af254e28835",
-      "toSide": "left"
-    },
-    {
-      "id": "c2aa56faa940faea",
-      "fromNode": "6a799af254e28835",
-      "fromSide": "right",
-      "toNode": "dbab5f56f212d758",
-      "toSide": "left"
-    },
-    {
-      "id": "5caf66a01f17313a",
-      "fromNode": "6a799af254e28835",
-      "fromSide": "bottom",
-      "toNode": "73590a54ba4e0f39",
-      "toSide": "left"
-    },
-    {
-      "id": "4e80a0e860282edd",
-      "fromNode": "dc2c4c27b33f0900",
-      "fromSide": "bottom",
-      "toNode": "43caaa9993dd781d",
-      "toSide": "left"
-    },
-    {
-      "id": "fe8758ea9e3020b9",
-      "fromNode": "245f62aa260a301c",
-      "fromSide": "bottom",
-      "toNode": "f58d826098380e18",
-      "toSide": "left"
-    },
-    {
-      "id": "47a80c7006bba436",
-      "fromNode": "73590a54ba4e0f39",
-      "fromSide": "bottom",
-      "toNode": "4c07d00a22fa39f4",
-      "toSide": "left"
-    },
-    {
-      "id": "a4971c8fe124bfcb",
-      "fromNode": "e966f72a1fc0feeb",
-      "fromSide": "bottom",
-      "toNode": "7ead46acd608ec2f",
-      "toSide": "left"
-    },
-    {
-      "id": "6cd1693a3b5a56ea",
-      "fromNode": "e966f72a1fc0feeb",
-      "fromSide": "right",
-      "toNode": "5d6a5a1e5cbd510f",
-      "toSide": "left"
-    },
-    {
-      "id": "1aa5589c1031ef6b",
-      "fromNode": "4a2b34541deda998",
-      "fromSide": "right",
-      "toNode": "e966f72a1fc0feeb",
-      "toSide": "left"
-    },
-    {
-      "id": "2b7311c146a56896",
-      "fromNode": "5d6a5a1e5cbd510f",
-      "fromSide": "bottom",
-      "toNode": "7cfbb32c2668efec",
-      "toSide": "left"
-    },
-    {
-      "id": "6194f883607e3849",
-      "fromNode": "4a2b34541deda998",
-      "fromSide": "bottom",
-      "toNode": "dafec10348d66e90",
-      "toSide": "left"
-    },
-    {
-      "id": "c2ef0c48552b51c6",
-      "fromNode": "dafec10348d66e90",
-      "fromSide": "bottom",
-      "toNode": "fad31e73cf809d2b",
-      "toSide": "left"
-    },
-    {
-      "id": "212beccf4de98a1a",
-      "styleAttributes": {},
-      "fromNode": "3f6a20e0db5c2325",
-      "fromSide": "top",
-      "toNode": "c83054c8e48a4532",
-      "toSide": "left"
-    },
-    {
-      "id": "39cef8b943446306",
-      "styleAttributes": {},
-      "fromNode": "c83054c8e48a4532",
-      "fromSide": "right",
-      "toNode": "cefe90f47e1c7156",
-      "toSide": "top"
-    },
-    {
-      "id": "4b4b0b8cc901cd8d",
-      "styleAttributes": {},
-      "fromNode": "cefe90f47e1c7156",
-      "fromSide": "right",
-      "toNode": "9d457685f937985d",
-      "toSide": "left"
-    },
-    {
-      "id": "9b1d70f03c5fe315",
-      "styleAttributes": {},
-      "fromNode": "9d457685f937985d",
-      "fromSide": "bottom",
-      "toNode": "34bdbe62aa959b82",
-      "toSide": "right"
-    },
-    {
-      "id": "af7935f707d9d8b5",
-      "styleAttributes": {},
-      "fromNode": "34bdbe62aa959b82",
-      "fromSide": "left",
-      "toNode": "9e69b6aa640dc116",
-      "toSide": "left"
-    },
-    {
-      "id": "9aee1c62ffdf3db1",
-      "fromNode": "a1245892f062c2ab",
-      "fromSide": "bottom",
-      "toNode": "1fbe3f9e4659a92c",
-      "toSide": "left"
-    },
-    {
-      "id": "ec520bdb21dc7b9b",
-      "fromNode": "a1245892f062c2ab",
-      "fromSide": "right",
-      "toNode": "1c2ee402a50ea3fb",
-      "toSide": "left"
-    },
-    {
-      "id": "e454dd16a6557015",
-      "fromNode": "1fbe3f9e4659a92c",
-      "fromSide": "bottom",
-      "toNode": "7bad5779ef009bec",
-      "toSide": "left"
-    },
-    {
-      "id": "619d7d8619d672c8",
-      "fromNode": "1c2ee402a50ea3fb",
-      "fromSide": "right",
-      "toNode": "bf02e33f4eedcdf7",
-      "toSide": "left"
-    },
-    {
-      "id": "6d9393387a34a5d0",
-      "styleAttributes": {},
-      "fromNode": "9e69b6aa640dc116",
-      "fromSide": "right",
-      "toNode": "fb212061c0ed3611",
-      "toSide": "right"
-    }
-  ],
-  "metadata": {}
+	"nodes":[
+		{
+			"id":"2162934df0fa0e24",
+			"type":"group",
+			"sideRatio":1.7777777777777777,
+			"styleAttributes":{},
+			"x":-2093,
+			"y":1428,
+			"width":1964,
+			"height":1105,
+			"label":"New Slide"
+		},
+		{
+			"id":"6bed19c49bb98679",
+			"type":"group",
+			"sideRatio":1.7777777777777777,
+			"styleAttributes":{},
+			"x":-2049,
+			"y":2888,
+			"width":1902,
+			"height":1070,
+			"label":"New Slide"
+		},
+		{
+			"id":"1ac7c6b91b3ee74a",
+			"type":"group",
+			"sideRatio":1.7777777777777777,
+			"styleAttributes":{},
+			"x":-2100,
+			"y":358,
+			"width":1636,
+			"height":920,
+			"label":"New Slide"
+		},
+		{
+			"id":"52d420ef87656cce",
+			"type":"group",
+			"sideRatio":1.7777777777777777,
+			"styleAttributes":{},
+			"x":-2100,
+			"y":-1132,
+			"width":1500,
+			"height":844,
+			"label":"New Slide"
+		},
+		{
+			"id":"f41b50f5db92c846",
+			"type":"group",
+			"sideRatio":1.7777777777777777,
+			"styleAttributes":{},
+			"x":820,
+			"y":-2602,
+			"width":1280,
+			"height":720,
+			"label":"New Slide"
+		},
+		{
+			"id":"7d9f86786ac727d3",
+			"type":"group",
+			"sideRatio":1.7777777777777777,
+			"styleAttributes":{},
+			"x":832,
+			"y":-1469,
+			"width":1200,
+			"height":675,
+			"label":"New Slide"
+		},
+		{
+			"id":"4ea6b27c4c2a57d8",
+			"type":"group",
+			"sideRatio":1.7777777777777777,
+			"isStartNode":true,
+			"styleAttributes":{},
+			"x":845,
+			"y":-3957,
+			"width":1200,
+			"height":675,
+			"label":"Start Slide"
+		},
+		{
+			"id":"561b12b43a6d4972",
+			"type":"group",
+			"styleAttributes":{},
+			"x":-1766,
+			"y":1918,
+			"width":655,
+			"height":580,
+			"color":"2",
+			"label":"Sau-khi từ bỏ Tham-Sân-Si"
+		},
+		{
+			"id":"4c6ecc565bc2211c",
+			"type":"group",
+			"styleAttributes":{},
+			"x":-860,
+			"y":1618,
+			"width":600,
+			"height":390,
+			"color":"6",
+			"label":"Đồng-vị"
+		},
+		{
+			"id":"c1ea02d33a586ea3",
+			"type":"group",
+			"styleAttributes":{},
+			"x":988,
+			"y":-2242,
+			"width":465,
+			"height":335,
+			"color":"2",
+			"label":"Túc từ "
+		},
+		{
+			"id":"55c04ed8e85306ee",
+			"type":"group",
+			"styleAttributes":{},
+			"x":1540,
+			"y":-1371,
+			"width":460,
+			"height":328,
+			"color":"5",
+			"label":"Người dễ duôi"
+		},
+		{
+			"id":"bc10f43dcbe42c4d",
+			"type":"group",
+			"styleAttributes":{},
+			"x":-1600,
+			"y":658,
+			"width":351,
+			"height":352,
+			"color":"2",
+			"label":" ít-kinh-điển"
+		},
+		{
+			"id":"f58c85349fa35b05",
+			"type":"text",
+			"text":"# hoti",
+			"styleAttributes":{},
+			"x":-1399,
+			"y":500,
+			"width":130,
+			"height":50
+		},
+		{
+			"id":"04b666a621eeb1ef",
+			"type":"text",
+			"text":"# SHC - như túc từ\nPhương thức cho hành pháp (Hành đúng hay sai)",
+			"styleAttributes":{},
+			"x":-1120,
+			"y":1110,
+			"width":453,
+			"height":108
+		},
+		{
+			"id":"deff8ddca7ecc1b3",
+			"type":"text",
+			"text":"# sahitaṃ\nn, nt, TBC, ít/TTTT cho HTPT bhāsamāno/kinh điển",
+			"styleAttributes":{},
+			"x":-1580,
+			"y":678,
+			"width":311,
+			"height":119
+		},
+		{
+			"id":"23e5c506c4300ade",
+			"type":"text",
+			"text":"# appaṃ\n(appampi = appaṃ +pi)\nadi, nt, TBC, ít/BNTT cho sahitaṃ/ít",
+			"styleAttributes":{},
+			"x":-1580,
+			"y":830,
+			"width":311,
+			"height":160
+		},
+		{
+			"id":"a119467016eeb63f",
+			"type":"text",
+			"text":"# takkaro\n(= Tad + karo)\nn, m, cc, ít/ĐVN/Người làm việc đó",
+			"styleAttributes":{},
+			"x":-1994,
+			"y":1018,
+			"width":320,
+			"height":152
+		},
+		{
+			"id":"861c33ba3d51b333",
+			"type":"text",
+			"text":"# bhāsamāno\nHTPT, dùng như noun, m, cc, ít/chủ từ/người nói",
+			"styleAttributes":{},
+			"x":-1819,
+			"y":458,
+			"width":300,
+			"height":133
+		},
+		{
+			"id":"b5cb9aef35e8efa0",
+			"type":"text",
+			"text":"# ce\nphụ từ/thường đi với từ đầu tiên trong câu/nếu",
+			"styleAttributes":{},
+			"x":-2060,
+			"y":458,
+			"width":200,
+			"height":212
+		},
+		{
+			"id":"af4090968955e41e",
+			"type":"text",
+			"text":"# anudhammacārī.\nn, m, cc, ít/VN CĐL/ người hành theo pháp\n[anudhammacārī](https://dpdict.net/?q=anudhammac%C4%81r%C4%AB#anudhammac%C4%81r%C4%AB) adj. **living according to the Dhamma;**",
+			"styleAttributes":{},
+			"x":-1033,
+			"y":425,
+			"width":366,
+			"height":200
+		},
+		{
+			"id":"4739b46710b0d94f",
+			"type":"text",
+			"text":"# dhammassa\nn, m, shc, ít/danh từ ở SHC đi kèm danh từ có ý niệm hành động/giáo pháp",
+			"styleAttributes":{},
+			"x":-927,
+			"y":813,
+			"width":260,
+			"height":194
+		},
+		{
+			"id":"c8989bda7d6b51fe",
+			"type":"text",
+			"text":"# sammappajāno \nn, m, cc, ít/VN CĐL/người tỉnh giác",
+			"styleAttributes":{},
+			"x":-753,
+			"y":1638,
+			"width":310,
+			"height":130
+		},
+		{
+			"id":"c65528b908c99813",
+			"type":"text",
+			"text":"# rāgaṃ\n(rāgañca = rāgaṃ + ca )\nn, m, tbc, ít/TTTT cho pahāya/tham",
+			"styleAttributes":{},
+			"x":-1411,
+			"y":1933,
+			"width":280,
+			"height":160
+		},
+		{
+			"id":"c478fa848a0dd656",
+			"type":"text",
+			"text":"# so\n(thay thế cho bhāsamāno)\nĐTNX, m, ngôi 3, ít/chủ từ/Vị ấy",
+			"styleAttributes":{},
+			"x":-1920,
+			"y":1613,
+			"width":300,
+			"height":190,
+			"color":"1"
+		},
+		{
+			"id":"b7ae166ceca46cee",
+			"type":"text",
+			"text":"# Câu 4: rāgañca dosañca pahāya mohaṃ, sammappajāno suvimuttacitto.",
+			"styleAttributes":{},
+			"x":-2049,
+			"y":1478,
+			"width":1000,
+			"height":120
+		},
+		{
+			"id":"87e26eaf44103de0",
+			"type":"text",
+			"text":"# hoti\ntrở thành",
+			"styleAttributes":{},
+			"x":-1464,
+			"y":1643,
+			"width":250,
+			"height":125
+		},
+		{
+			"id":"0b19b071fb141b2e",
+			"type":"text",
+			"text":"# pahāya\nĐTBB/diễn tả hành động xảy ra trước hành động của chủ từ/sau khi từ bỏ\n",
+			"styleAttributes":{},
+			"x":-1746,
+			"y":1938,
+			"width":280,
+			"height":150
+		},
+		{
+			"id":"e34bc65e5edbd39a",
+			"type":"text",
+			"text":"# iva: \nphụ từ/so sánh đối tượng với đối tượng khác/giống như",
+			"styleAttributes":{},
+			"x":-2060,
+			"y":-1077,
+			"width":200,
+			"height":200
+		},
+		{
+			"id":"9f37cefdd4e684ae",
+			"type":"text",
+			"text":"# gopo\n(gopova = gopo + iva)\nn, m, cc, ít/chủ từ/người chăn bò",
+			"styleAttributes":{},
+			"x":-1760,
+			"y":-1077,
+			"width":267,
+			"height":160,
+			"color":"1"
+		},
+		{
+			"id":"8307b44c02acdf2c",
+			"type":"text",
+			"text":"# Hoti -> Ý niệm tồn tại - ít khi sử dụng\n# - Mở đầu\n# - Đặc thù",
+			"styleAttributes":{},
+			"x":-2060,
+			"y":-1642,
+			"width":1640,
+			"height":280
+		},
+		{
+			"id":"89c09d318e4ce786",
+			"type":"text",
+			"text":"# Dịch: sau khi từ bỏ tham, sân, si, vị ấy là người tỉnh giác - người có tâm giải thoát",
+			"styleAttributes":{},
+			"x":200,
+			"y":1378,
+			"width":1000,
+			"height":100
+		},
+		{
+			"id":"5a5bcb9f23aa8ba1",
+			"type":"text",
+			"text":"# suvimuttacitto\nn, m, cc, ít/ĐVN với sammappajāno/người có tâm giải thoát",
+			"styleAttributes":{},
+			"x":-648,
+			"y":1828,
+			"width":330,
+			"height":160
+		},
+		{
+			"id":"3e6f6a6c6a32ff1e",
+			"type":"text",
+			"text":"# (so)",
+			"styleAttributes":{},
+			"x":-1960,
+			"y":-627,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"666a269a85d05d8f",
+			"type":"text",
+			"text":"# naro\nn, m, cc, ít/VN CĐL/người",
+			"styleAttributes":{},
+			"x":1560,
+			"y":-1351,
+			"width":263,
+			"height":135
+		},
+		{
+			"id":"78a17824fffe50a6",
+			"type":"text",
+			"text":"# (So)",
+			"styleAttributes":{},
+			"x":930,
+			"y":-1313,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"214f8b97df3f643a",
+			"type":"text",
+			"text":"# pamatto\nadj, m, cc, ít/BNTT cho naro/dễ duôi",
+			"styleAttributes":{},
+			"x":1723,
+			"y":-1201,
+			"width":257,
+			"height":138
+		},
+		{
+			"id":"4b82e3e467ec3b83",
+			"type":"text",
+			"text":"# (Và) ngườii ấy là người dễ duôi",
+			"styleAttributes":{},
+			"x":930,
+			"y":-1063,
+			"width":450,
+			"height":118
+		},
+		{
+			"id":"5053c48f31e74425",
+			"type":"text",
+			"text":"# gaṇayaṃ\n(sắc thái: )\nHTPT, dùng như adj, m, cc, ít/BNTT cho gopo/đếm",
+			"styleAttributes":{},
+			"x":-1303,
+			"y":-1077,
+			"width":351,
+			"height":160
+		},
+		{
+			"id":"bdd46a2676052907",
+			"type":"text",
+			"text":"# gāvo\nn, m, tbc, nhiều/TTTT gaṇayaṃ/những con bò",
+			"styleAttributes":{},
+			"x":-1303,
+			"y":-882,
+			"width":277,
+			"height":160
+		},
+		{
+			"id":"66990454c251f78c",
+			"type":"text",
+			"text":"# paresaṃ\nn, m, shc, nhiều/SHC chỉ đối tượng SH/những người khác",
+			"styleAttributes":{},
+			"x":-998,
+			"y":-882,
+			"width":285,
+			"height":160
+		},
+		{
+			"id":"de3d67a8b137ca98",
+			"type":"text",
+			"text":"## SHC như túc từ\n## SHC tổng thể",
+			"styleAttributes":{},
+			"x":-576,
+			"y":-582,
+			"width":312,
+			"height":190
+		},
+		{
+			"id":"df7c4879ca03e44e",
+			"type":"text",
+			"text":"# hoti",
+			"styleAttributes":{},
+			"x":-1529,
+			"y":-622,
+			"width":130,
+			"height":50,
+			"color":"3"
+		},
+		{
+			"id":"ca9d51059aa1abf1",
+			"type":"text",
+			"text":"# na\nphụ từ/phủ định cho karo/không",
+			"styleAttributes":{},
+			"x":-1495,
+			"y":-452,
+			"width":192,
+			"height":120
+		},
+		{
+			"id":"16c19173fc6e76b1",
+			"type":"text",
+			"text":"# bahuṃ\nadi, nt, TBC, ít/BNTT cho sahitaṃ/nhiều",
+			"styleAttributes":{},
+			"x":1178,
+			"y":-2047,
+			"width":255,
+			"height":120
+		},
+		{
+			"id":"ca37fe8996331900",
+			"type":"text",
+			"text":"## Người nói nhiều kinh điển mà không làm theo",
+			"styleAttributes":{},
+			"x":1498,
+			"y":-2047,
+			"width":522,
+			"height":140
+		},
+		{
+			"id":"36dcc287339dbcd8",
+			"type":"text",
+			"text":"# bhāgavā\nn, m, cc, ít/VN CĐL/người dự phần",
+			"styleAttributes":{},
+			"x":-1271,
+			"y":-659,
+			"width":250,
+			"height":125,
+			"color":"5"
+		},
+		{
+			"id":"9cedf40af392ba09",
+			"type":"text",
+			"text":"# sāmaññassa\nn, nt, shc, ít/SHC tổng thể/trạng thái Sa Môn",
+			"styleAttributes":{},
+			"x":-1070,
+			"y":-517,
+			"width":251,
+			"height":119
+		},
+		{
+			"id":"bb6d17a7113e8ecc",
+			"type":"text",
+			"text":"# Câu 5: anupādiyāno idha vā huraṃ vā, sa bhāgavā sāmaññassa hoti.",
+			"styleAttributes":{},
+			"x":225,
+			"y":2298,
+			"width":1035,
+			"height":80
+		},
+		{
+			"id":"7ba6e74012c2b294",
+			"type":"text",
+			"text":" # dosaṃ\n(dosañca = dosaṃ + ca )\nn, m, tbc, ít/TTTT cho pahāya/sân",
+			"styleAttributes":{},
+			"x":-1411,
+			"y":2118,
+			"width":280,
+			"height":160
+		},
+		{
+			"id":"27491b9f582c8847",
+			"type":"text",
+			"text":" # mohaṃ\nn, m, tbc, ít/TTTT cho pahāya/si",
+			"styleAttributes":{},
+			"x":-1411,
+			"y":2318,
+			"width":280,
+			"height":160
+		},
+		{
+			"id":"97eca95d7cf28d90",
+			"type":"text",
+			"text":"# Dịch: kiếp này và kiếp sau, người không dính mắc ấy là người dự phân trạng thái Sa Môn.",
+			"styleAttributes":{},
+			"x":225,
+			"y":2418,
+			"width":1035,
+			"height":140
+		},
+		{
+			"id":"c936d01b99ad932f",
+			"type":"text",
+			"text":"# idha\nadv/BN cho động từ hoti/kiếp này\n",
+			"styleAttributes":{},
+			"x":-2040,
+			"y":2898,
+			"width":260,
+			"height":140
+		},
+		{
+			"id":"2e809885b288381c",
+			"type":"text",
+			"text":"# sa: \nĐTNC/CĐ, dùng như tính từ, m, cc, ít/ BNTT cho anupādiyāno/người ấy, người đó",
+			"styleAttributes":{},
+			"x":-1740,
+			"y":3348,
+			"width":260,
+			"height":190
+		},
+		{
+			"id":"21f187d3e5e4c6ac",
+			"type":"text",
+			"text":"# bhāgavā\nn, m, cc, ít/VN CĐL/người dự phần",
+			"styleAttributes":{},
+			"x":-1029,
+			"y":3088,
+			"width":340,
+			"height":110
+		},
+		{
+			"id":"75b6582efb26bdae",
+			"type":"text",
+			"text":"# sāmaññassa\nn, m, shc, ít/SHC tổng thể/trạng thái Sa Môn",
+			"styleAttributes":{},
+			"x":-760,
+			"y":3373,
+			"width":300,
+			"height":140
+		},
+		{
+			"id":"e028fdb6d2cc235c",
+			"type":"text",
+			"text":"# huraṃ\nadv, BN cho động từ hoti/kiếp sau",
+			"styleAttributes":{},
+			"x":-1260,
+			"y":3383,
+			"width":260,
+			"height":130
+		},
+		{
+			"id":"48ddd9e37cb6cb19",
+			"type":"text",
+			"text":"# hoti",
+			"styleAttributes":{},
+			"x":-1414,
+			"y":3113,
+			"width":250,
+			"height":60
+		},
+		{
+			"id":"4e5280d99e30c4ad",
+			"type":"text",
+			"text":"# anupādiyāno\nHTPT, dùng như noun, m, cc, ít/chủ từ/ Người không dính mắc",
+			"styleAttributes":{},
+			"x":-1820,
+			"y":3063,
+			"width":280,
+			"height":160
+		},
+		{
+			"id":"ed4d67c38572de13",
+			"type":"text",
+			"text":"# hoti",
+			"styleAttributes":{},
+			"x":1368,
+			"y":-2430,
+			"width":130,
+			"height":50
+		},
+		{
+			"id":"c1cb1d6395127f06",
+			"type":"text",
+			"text":"# sahitaṃ\nn, nt, TBC, ít/TTTT cho HTPT bhāsamāno/kinh điển",
+			"styleAttributes":{},
+			"x":1008,
+			"y":-2222,
+			"width":270,
+			"height":155
+		},
+		{
+			"id":"944150c19ea64262",
+			"type":"text",
+			"text":"# na\nphụ từ/phủ định cho karo/không",
+			"styleAttributes":{},
+			"x":1828,
+			"y":-2204,
+			"width":192,
+			"height":120
+		},
+		{
+			"id":"1e5f63919bcd3b5a",
+			"type":"text",
+			"text":"# bhāsamāno\nHTPT, dùng như noun, m, cc, ít/chủ từ/người nói",
+			"styleAttributes":{},
+			"x":838,
+			"y":-2468,
+			"width":300,
+			"height":125
+		},
+		{
+			"id":"344224599d3bb051",
+			"type":"text",
+			"text":"# bahuṃ pi ce sahitaṃ bhāsamāno, na takkaro hoti naro pamatto.",
+			"styleAttributes":{},
+			"x":838,
+			"y":-2573,
+			"width":1182,
+			"height":87
+		},
+		{
+			"id":"fc6e2f6404035b1a",
+			"type":"text",
+			"text":"# takkaro\n(= Tad + karo)\nn, m, cc, ít/ĐVN/Người làm việc đó\n[takkara 1](https://dpdict.net/?q=takkaro#takkara_1) adj. **who does that; doing that; acting accordingly** [►](https://dpdict.net/?q=takkaro#takkara_1)",
+			"styleAttributes":{},
+			"x":1700,
+			"y":-2467,
+			"width":320,
+			"height":238
+		},
+		{
+			"id":"f3825225573f54ea",
+			"type":"text",
+			"text":"# ce\nphụ từ/thường đi với từ đầu tiên trong câu/nếu",
+			"styleAttributes":{},
+			"x":500,
+			"y":-2530,
+			"width":280,
+			"height":125
+		},
+		{
+			"id":"821a157b4ee3b148",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{},
+			"x":345,
+			"y":-3122,
+			"width":200,
+			"height":100
+		},
+		{
+			"id":"8bea07acd02eb4cb",
+			"type":"text",
+			"text":"# Đoạn kinh 3.4-3.5 (Dhp)**\n\n|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||\n\n# bahuṃ pi ce sahitaṃ bhāsamāno, na takkaro hoti naro pamatto.\n\n# gopova gāvo gaṇayaṃ paresaṃ, na bhāgavā sāmaññassa hoti.\n\n# appampi ce sahitaṃ bhāsamāno, dhammassa hoti anudhammacārī.\n\n# rāgañca dosañca pahāya mohaṃ, sammappajāno suvimuttacitto.\n\n# anupādiyāno idha vā huraṃ vā, sa bhāgavā sāmaññassa hoti.",
+			"styleAttributes":{},
+			"x":930,
+			"y":-3842,
+			"width":1060,
+			"height":480
+		}
+	],
+	"edges":[
+		{
+			"id":"42cc96ff470efb38",
+			"styleAttributes":{},
+			"fromNode":"2162934df0fa0e24",
+			"fromSide":"left",
+			"toNode":"6bed19c49bb98679",
+			"toSide":"left"
+		},
+		{
+			"id":"375e8e238b7f4709",
+			"styleAttributes":{},
+			"fromNode":"1ac7c6b91b3ee74a",
+			"fromSide":"left",
+			"toNode":"2162934df0fa0e24",
+			"toSide":"left"
+		},
+		{
+			"id":"dfa05c5e6fc6d9d5",
+			"styleAttributes":{},
+			"fromNode":"52d420ef87656cce",
+			"fromSide":"left",
+			"toNode":"1ac7c6b91b3ee74a",
+			"toSide":"left"
+		},
+		{
+			"id":"5e4fcfe9d388e444",
+			"styleAttributes":{},
+			"fromNode":"7d9f86786ac727d3",
+			"fromSide":"bottom",
+			"toNode":"52d420ef87656cce",
+			"toSide":"right"
+		},
+		{
+			"id":"be352001e69fa240",
+			"styleAttributes":{},
+			"fromNode":"f41b50f5db92c846",
+			"fromSide":"left",
+			"toNode":"7d9f86786ac727d3",
+			"toSide":"left",
+			"toEnd":"none",
+			"label":"Và\n(Ca)"
+		},
+		{
+			"id":"6b9f98ac3b76a2da",
+			"styleAttributes":{},
+			"fromNode":"4ea6b27c4c2a57d8",
+			"fromSide":"right",
+			"toNode":"f41b50f5db92c846",
+			"toSide":"right"
+		},
+		{"id":"daebda3cc841c838","fromNode":"4ea6b27c4c2a57d8","fromSide":"bottom","toNode":"821a157b4ee3b148","toSide":"top"},
+		{"id":"dcc43c746fb6ab9f","fromNode":"666a269a85d05d8f","fromSide":"bottom","toNode":"214f8b97df3f643a","toSide":"left"},
+		{
+			"id":"dfd56397b00cd213",
+			"styleAttributes":{},
+			"fromNode":"78a17824fffe50a6",
+			"fromSide":"right",
+			"toNode":"666a269a85d05d8f",
+			"toSide":"left",
+			"label":"hoti"
+		},
+		{"id":"19cfeed07cb6e711","fromNode":"ed4d67c38572de13","fromSide":"bottom","toNode":"944150c19ea64262","toSide":"left"},
+		{"id":"7bba45122b12ffaf","fromNode":"ed4d67c38572de13","fromSide":"right","toNode":"fc6e2f6404035b1a","toSide":"left"},
+		{"id":"165438621a105064","fromNode":"1e5f63919bcd3b5a","fromSide":"right","toNode":"ed4d67c38572de13","toSide":"left","toEnd":"none"},
+		{"id":"07dc4fb966a7675e","fromNode":"c1cb1d6395127f06","fromSide":"bottom","toNode":"16c19173fc6e76b1","toSide":"left"},
+		{"id":"71b2ed63e53d9ec3","fromNode":"1e5f63919bcd3b5a","fromSide":"bottom","toNode":"c1cb1d6395127f06","toSide":"left"},
+		{
+			"id":"76b8211622d34937",
+			"styleAttributes":{},
+			"fromNode":"e34bc65e5edbd39a",
+			"fromSide":"right",
+			"toNode":"9f37cefdd4e684ae",
+			"toSide":"left"
+		},
+		{"id":"2468a71052250f80","fromNode":"9f37cefdd4e684ae","fromSide":"bottom","toNode":"5053c48f31e74425","toSide":"left"},
+		{"id":"b6170c4598400ad0","fromNode":"f58c85349fa35b05","fromSide":"right","toNode":"af4090968955e41e","toSide":"left"},
+		{"id":"0ffc0cf62fae59cc","fromNode":"861c33ba3d51b333","fromSide":"right","toNode":"f58c85349fa35b05","toSide":"left","toEnd":"none"},
+		{"id":"85db1825fe78c16c","fromNode":"af4090968955e41e","fromSide":"bottom","toNode":"4739b46710b0d94f","toSide":"left"},
+		{"id":"ba0a19e7f4b44188","fromNode":"4e5280d99e30c4ad","fromSide":"bottom","toNode":"2e809885b288381c","toSide":"left"},
+		{"id":"5eec7e11acb261f7","fromNode":"21f187d3e5e4c6ac","fromSide":"bottom","toNode":"75b6582efb26bdae","toSide":"left"},
+		{"id":"3aaa55e383a16752","fromNode":"48ddd9e37cb6cb19","fromSide":"right","toNode":"21f187d3e5e4c6ac","toSide":"left"},
+		{"id":"1fc3019e873f5971","fromNode":"c8989bda7d6b51fe","fromSide":"bottom","toNode":"5a5bcb9f23aa8ba1","toSide":"left"},
+		{"id":"6face480d7d00188","fromNode":"87e26eaf44103de0","fromSide":"right","toNode":"c8989bda7d6b51fe","toSide":"left"},
+		{"id":"94ba0f11558e839e","fromNode":"0b19b071fb141b2e","fromSide":"right","toNode":"c65528b908c99813","toSide":"left"},
+		{"id":"1f536ccf80a71ad8","fromNode":"4e5280d99e30c4ad","fromSide":"right","toNode":"48ddd9e37cb6cb19","toSide":"left","toEnd":"none"},
+		{"id":"055bb3769667bc31","fromNode":"c478fa848a0dd656","fromSide":"right","toNode":"87e26eaf44103de0","toSide":"left","toEnd":"none"},
+		{"id":"b5508811b4e9de6e","fromNode":"c478fa848a0dd656","fromSide":"bottom","toNode":"0b19b071fb141b2e","toSide":"left"},
+		{"id":"ff02844a6efd2fab","fromNode":"0b19b071fb141b2e","fromSide":"bottom","toNode":"7ba6e74012c2b294","toSide":"left"},
+		{"id":"983e0fe6a3c9aace","fromNode":"0b19b071fb141b2e","fromSide":"bottom","toNode":"27491b9f582c8847","toSide":"left"},
+		{"id":"b3dea330b8705623","fromNode":"deff8ddca7ecc1b3","fromSide":"bottom","toNode":"23e5c506c4300ade","toSide":"left"},
+		{"id":"36584b902f19e212","fromNode":"861c33ba3d51b333","fromSide":"bottom","toNode":"deff8ddca7ecc1b3","toSide":"left"},
+		{"id":"eca32d73d173cb5c","fromNode":"861c33ba3d51b333","fromSide":"bottom","toNode":"a119467016eeb63f","toSide":"left"},
+		{"id":"53e7987bd7a8a3bf","fromNode":"5053c48f31e74425","fromSide":"bottom","toNode":"bdd46a2676052907","toSide":"left"},
+		{"id":"9bab672d19b4fc6a","fromNode":"bdd46a2676052907","fromSide":"bottom","toNode":"66990454c251f78c","toSide":"left"},
+		{"id":"a525bafa3cdfe894","fromNode":"df7c4879ca03e44e","fromSide":"right","toNode":"36dcc287339dbcd8","toSide":"left"},
+		{
+			"id":"2c8e87f2e0ee6f05",
+			"styleAttributes":{},
+			"fromNode":"df7c4879ca03e44e",
+			"fromSide":"bottom",
+			"toNode":"ca9d51059aa1abf1",
+			"toSide":"left"
+		},
+		{
+			"id":"83a01f0fd229e8b1",
+			"styleAttributes":{},
+			"fromNode":"3e6f6a6c6a32ff1e",
+			"fromSide":"right",
+			"toNode":"df7c4879ca03e44e",
+			"toSide":"left"
+		},
+		{"id":"2732532c47689095","fromNode":"36dcc287339dbcd8","fromSide":"bottom","toNode":"9cedf40af392ba09","toSide":"left"}
+	],
+	"metadata":{}
 }

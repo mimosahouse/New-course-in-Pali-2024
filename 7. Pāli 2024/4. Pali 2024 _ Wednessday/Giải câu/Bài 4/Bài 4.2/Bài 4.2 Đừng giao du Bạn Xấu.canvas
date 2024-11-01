@@ -1,0 +1,288 @@
+{
+  "nodes": [
+    {
+      "id": "eccccb431f318b3e",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -1720,
+      "y": -2320,
+      "width": 1294,
+      "height": 920,
+      "label": "Untitled group"
+    },
+    {
+      "id": "674335f3cfdd8bc0",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -3260,
+      "y": -2380,
+      "width": 1135,
+      "height": 980,
+      "color": "6",
+      "label": "Câu 1"
+    },
+    {
+      "id": "548a0eb9dee77910",
+      "type": "text",
+      "text": "# purisuttame\n- purisa + uttama = puisuttama\n- purisuttame\n- ",
+      "styleAttributes": {},
+      "x": -2520,
+      "y": -1600,
+      "width": 375,
+      "height": 180,
+      "color": "5"
+    },
+    {
+      "id": "c3c9a419ccee78e9",
+      "type": "text",
+      "text": "# mitte",
+      "styleAttributes": {},
+      "x": -2520,
+      "y": -1860,
+      "width": 250,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "c82608786d1fbc89",
+      "type": "text",
+      "text": "# kalyāṇe",
+      "styleAttributes": {},
+      "x": -2395,
+      "y": -1740,
+      "width": 250,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "b7bf17f83d6779d3",
+      "type": "text",
+      "text": "# purisādhame\n= purisa + ahame",
+      "styleAttributes": {},
+      "x": -2520,
+      "y": -2075,
+      "width": 320,
+      "height": 115,
+      "color": "5"
+    },
+    {
+      "id": "757ec9c8c66f153e",
+      "type": "text",
+      "text": "# **Bhajati**\n- Liên hệ, kết giao\n-**bhajati**: associates with; keeps company. (bhaj + a)",
+      "styleAttributes": {},
+      "x": -1700,
+      "y": -2300,
+      "width": 380,
+      "height": 230
+    },
+    {
+      "id": "c7a14605df255b45",
+      "type": "text",
+      "text": "## bhajati -> bhaja (gốc hiện tại) \n## - bhaja + e -> bhajae (nguời bản ngữ  không chấp nhận)\n# bhajae -> bhaje (Cầu khiến cách)",
+      "styleAttributes": {},
+      "x": -1260,
+      "y": -2300,
+      "width": 814,
+      "height": 230
+    },
+    {
+      "id": "8819d263cc5187ef",
+      "type": "text",
+      "text": "# **Đoạn kinh 3.2-3.3 (Dhp)**\n\n  \n# sabbe tasanti daṇḍassa, sabbe bhāyanti maccuno.\n\n# attānaṃ upamaṃ katvā, na haneyya na ghātaye.\n\n  \n\n# sabbe tasanti daṇḍassa, sabbesaṃ jīvitaṃ piyaṃ.\n\n# attānaṃ upamaṃ katvā, na haneyya na ghātaye.",
+      "styleAttributes": {},
+      "x": -4460,
+      "y": -1040,
+      "width": 1090,
+      "height": 320,
+      "color": "6"
+    },
+    {
+      "id": "d080847d08c7c08e",
+      "type": "text",
+      "text": "# bhajetha",
+      "styleAttributes": {},
+      "x": -2860,
+      "y": -1600,
+      "width": 250,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "be66617eade46a82",
+      "type": "text",
+      "text": "# bhajetha",
+      "styleAttributes": {},
+      "x": -2860,
+      "y": -1860,
+      "width": 250,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "a9f4bfdae396428b",
+      "type": "text",
+      "text": "# na bhaje",
+      "styleAttributes": {},
+      "x": -2860,
+      "y": -2075,
+      "width": 250,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "6aa866f2797913b5",
+      "type": "text",
+      "text": "# mitte",
+      "styleAttributes": {},
+      "x": -2520,
+      "y": -2360,
+      "width": 250,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "84967b95eb3d5dc4",
+      "type": "text",
+      "text": "# pāpake",
+      "styleAttributes": {},
+      "x": -2420,
+      "y": -2260,
+      "width": 250,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "a3d98bdbe5bcd035",
+      "type": "text",
+      "text": "# na bhaje",
+      "styleAttributes": {},
+      "x": -2860,
+      "y": -2360,
+      "width": 250,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "68c9e5d7a0788a95",
+      "type": "text",
+      "text": "\npurisa: a male; a man. (m.)\nadhama: mean; low; ignoble. (adj.\n**Adhama** (adj.) [_Vedic adhama = Lat. infimus, superl. of adho, q. v._] the lowest (lit. & fig.), the vilest, worst Sn 246 ;**(narâdhama)**, 135 (vasalâdhama); Dh 78 (purisa˚) J iii.151 (miga˚); v.394 (uttamâdhama), 437 (id.), 397 Sdhp 387\n\n## **the lowest of the low**\n\nidiom\n\n[people](https://dictionary.cambridge.org/dictionary/english/people \"people\") who have no [moral](https://dictionary.cambridge.org/dictionary/english/moral \"moral\") [standards](https://dictionary.cambridge.org/dictionary/english/standard \"standards\") and no [personal](https://dictionary.cambridge.org/dictionary/english/personal \"personal\") [qualities](https://dictionary.cambridge.org/dictionary/english/quality \"qualities\")\n\nNgười không có giới & không có phẩm chất con người \n- Tầng lớp hạ tiện \n- Người hạ cấp ",
+      "styleAttributes": {},
+      "x": -1700,
+      "y": -1950,
+      "width": 540,
+      "height": 530
+    },
+    {
+      "id": "d39a68b159069562",
+      "type": "text",
+      "text": "# Giải ngày 30/10/2024",
+      "styleAttributes": {},
+      "x": -2240,
+      "y": -2660,
+      "width": 505,
+      "height": 160
+    },
+    {
+      "id": "389b4f94e905e46e",
+      "type": "text",
+      "text": "# tvaṃ\n\n# Chủ từ ngôi 3 số ít\n## (they)\n",
+      "styleAttributes": {},
+      "x": -3240,
+      "y": -2360,
+      "width": 250,
+      "height": 940,
+      "color": "1"
+    },
+    {
+      "id": "448831dc677488e2",
+      "type": "text",
+      "text": "# na bhaje pāpake mitte, na bhaje purisādhame.\n\n# bhajetha mitte kalyāṇe, bhajetha purisuttame.",
+      "styleAttributes": {},
+      "x": -3240,
+      "y": -2660,
+      "width": 970,
+      "height": 160,
+      "color": "2"
+    }
+  ],
+  "edges": [
+    {
+      "id": "5efa3ba9e28f628b",
+      "fromNode": "389b4f94e905e46e",
+      "fromSide": "right",
+      "toNode": "a9f4bfdae396428b",
+      "toSide": "left"
+    },
+    {
+      "id": "46c5ffdfbb097081",
+      "fromNode": "389b4f94e905e46e",
+      "fromSide": "right",
+      "toNode": "a3d98bdbe5bcd035",
+      "toSide": "left"
+    },
+    {
+      "id": "ce40dbc7b66edce3",
+      "fromNode": "389b4f94e905e46e",
+      "fromSide": "right",
+      "toNode": "be66617eade46a82",
+      "toSide": "left"
+    },
+    {
+      "id": "48f161700e3e6f96",
+      "fromNode": "389b4f94e905e46e",
+      "fromSide": "right",
+      "toNode": "d080847d08c7c08e",
+      "toSide": "left"
+    },
+    {
+      "id": "195dfb8f4d2f4671",
+      "fromNode": "a3d98bdbe5bcd035",
+      "fromSide": "right",
+      "toNode": "6aa866f2797913b5",
+      "toSide": "left"
+    },
+    {
+      "id": "b81c4e1febbbedf9",
+      "fromNode": "a9f4bfdae396428b",
+      "fromSide": "right",
+      "toNode": "b7bf17f83d6779d3",
+      "toSide": "left"
+    },
+    {
+      "id": "17cbcd02051f4a70",
+      "fromNode": "be66617eade46a82",
+      "fromSide": "right",
+      "toNode": "c3c9a419ccee78e9",
+      "toSide": "left"
+    },
+    {
+      "id": "c4c8f6ffd7269d65",
+      "fromNode": "d080847d08c7c08e",
+      "fromSide": "right",
+      "toNode": "548a0eb9dee77910",
+      "toSide": "left"
+    },
+    {
+      "id": "c86eafd1e0346d2d",
+      "fromNode": "6aa866f2797913b5",
+      "fromSide": "bottom",
+      "toNode": "84967b95eb3d5dc4",
+      "toSide": "left"
+    },
+    {
+      "id": "0046c6705ca67eb2",
+      "fromNode": "68c9e5d7a0788a95",
+      "fromSide": "left",
+      "toNode": "b7bf17f83d6779d3",
+      "toSide": "right"
+    },
+    {
+      "id": "4ff8d7c5e1dafaba",
+      "fromNode": "c3c9a419ccee78e9",
+      "fromSide": "bottom",
+      "toNode": "c82608786d1fbc89",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {}
+}

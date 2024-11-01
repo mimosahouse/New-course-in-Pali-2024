@@ -143,126 +143,6 @@
       "label": "Câu 2"
     },
     {
-      "id": "4994fad03e097fd2",
-      "type": "text",
-      "text": "# xem vị trí cách kết hợp với hoti hay kết hợp với chủ từ bhikkhū?",
-      "styleAttributes": {},
-      "x": -180,
-      "y": 750,
-      "width": 470,
-      "height": 159
-    },
-    {
-      "id": "78a0993b296c9834",
-      "type": "text",
-      "text": "# bhikkhū\n- Danh từ nam tính \n- Chủ cách, trực bổ cách số nhiều\n-\n**bhikkhu**: a Buddhist monk. (m.)",
-      "styleAttributes": {},
-      "x": -940,
-      "y": 829,
-      "width": 250,
-      "height": 260
-    },
-    {
-      "id": "5e11a4a5742bc0fa",
-      "type": "text",
-      "text": "# **Uddhata**\nTính từ \nXáo động",
-      "styleAttributes": {},
-      "x": -890,
-      "y": 1138,
-      "width": 250,
-      "height": 130
-    },
-    {
-      "id": "857efdad14543d04",
-      "type": "text",
-      "text": "# yassaṃ\n- |**Yo/yaṃ/yā**|Cái mà, người mà|Đại từ quan hệ|\n- Vị trí cách - chức năng chỉ vị trí cho hành động",
-      "styleAttributes": {},
-      "x": -245,
-      "y": 1203,
-      "width": 250,
-      "height": 270
-    },
-    {
-      "id": "88ba74be9110297e",
-      "type": "file",
-      "file": "2024/Vault/parisāyaṃ.png",
-      "styleAttributes": {},
-      "x": -1600,
-      "y": -710,
-      "width": 525,
-      "height": 480
-    },
-    {
-      "id": "c50865c4dca550ee",
-      "type": "text",
-      "text": "### idha, bhikkhave, yassaṃ parisāyaṃ bhikkhū uddhatā honti unnaḷā capalā mukharā vikiṇṇavācā… asampajānā asamāhitā vibbhantacittā pākatindriyā. ",
-      "styleAttributes": {},
-      "x": -940,
-      "y": -1506,
-      "width": 980,
-      "height": 113
-    },
-    {
-      "id": "dd29a8c4f98b6286",
-      "type": "file",
-      "file": "2024/Vault/yo - yaṃ.png",
-      "styleAttributes": {},
-      "x": -1935,
-      "y": -1170,
-      "width": 860,
-      "height": 430
-    },
-    {
-      "id": "828512c232882104",
-      "type": "text",
-      "text": "# idha, bhikkhave,",
-      "styleAttributes": {},
-      "x": -940,
-      "y": -1293,
-      "width": 240,
-      "height": 100
-    },
-    {
-      "id": "438418004514994b",
-      "type": "text",
-      "text": "# parisāyaṃ\nDanh từ nữ tính, vị trí cách số ít ",
-      "styleAttributes": {},
-      "x": -265,
-      "y": -46,
-      "width": 250,
-      "height": 121
-    },
-    {
-      "id": "554aff95f0848040",
-      "type": "text",
-      "text": "# xem vị trí cách kết hợp với hoti hay kết hợp với chủ từ bhikkhū?",
-      "styleAttributes": {},
-      "x": -180,
-      "y": -409,
-      "width": 470,
-      "height": 159
-    },
-    {
-      "id": "b6dbc1d3367e257a",
-      "type": "text",
-      "text": "# parisāyaṃ\nDanh từ nữ tính, vị trí cách số ít ",
-      "styleAttributes": {},
-      "x": -550,
-      "y": 1278,
-      "width": 250,
-      "height": 121
-    },
-    {
-      "id": "e074213098b3508d",
-      "type": "text",
-      "text": "# katamā ca, bhikkhave, uttānā parisā? ",
-      "styleAttributes": {},
-      "x": -940,
-      "y": -2288,
-      "width": 730,
-      "height": 78
-    },
-    {
       "id": "1b7ae9a372336bf0",
       "type": "text",
       "text": "# **Uddhata**\nTính từ \nXáo động",
@@ -303,57 +183,74 @@
       "height": 260
     },
     {
-      "id": "57464f0a054818fd",
+      "id": "0df69df747dc3f4d",
       "type": "text",
-      "text": "# katamā thay cho từ nào, thì hỏi cho từ đó",
+      "text": "# parisāyaṃ\nDanh từ nữ tính, vị trí cách số ít ",
       "styleAttributes": {},
-      "x": -3640,
-      "y": 1300,
-      "width": 570,
+      "x": -335,
+      "y": -1293,
+      "width": 250,
+      "height": 260
+    },
+    {
+      "id": "d5be6323dfba8f7a",
+      "type": "text",
+      "text": "# bhikkhū\n- Danh từ nam tính \n- Chủ cách, trực bổ cách số nhiều\n-\n**bhikkhu**: a Buddhist monk. (m.)",
+      "styleAttributes": {},
+      "x": 40,
+      "y": -1293,
+      "width": 250,
+      "height": 260
+    },
+    {
+      "id": "12f897e043afa26a",
+      "type": "text",
+      "text": "# **Uddhata**\nTính từ \nXáo động",
+      "styleAttributes": {},
+      "x": -640,
+      "y": -870,
+      "width": 250,
+      "height": 130
+    },
+    {
+      "id": "d06e728af0d46a11",
+      "type": "text",
+      "text": "# Unnaḷa\nTính từ \n- ",
+      "styleAttributes": {},
+      "x": -335,
+      "y": -870,
+      "width": 250,
       "height": 160
     },
     {
-      "id": "8c7e17c759782395",
+      "id": "46687f198885a19a",
       "type": "text",
-      "text": "# parisā",
+      "text": "# yassaṃ\n- |**Yo/yaṃ/yā**|Cái mà, người mà|Đại từ quan hệ|\n- Vị trí cách - chức năng chỉ vị trí cho hành động",
       "styleAttributes": {},
-      "x": -4460,
-      "y": 710,
+      "x": -640,
+      "y": -1293,
       "width": 250,
-      "height": 60,
-      "color": "3"
+      "height": 260
     },
     {
-      "id": "929a7ae26b5589f1",
+      "id": "438418004514994b",
       "type": "text",
-      "text": "## **katama**: which; what; which of the many. (adj.)",
+      "text": "# parisāyaṃ\nDanh từ nữ tính, vị trí cách số ít ",
       "styleAttributes": {},
-      "x": -3320,
-      "y": 1480,
+      "x": -265,
+      "y": -46,
       "width": 250,
-      "height": 280,
-      "color": "1"
+      "height": 121
     },
     {
-      "id": "a2eeef3eb1d95c95",
+      "id": "e074213098b3508d",
       "type": "text",
-      "text": "## katamā?",
+      "text": "# katamā ca, bhikkhave, uttānā parisā? ",
       "styleAttributes": {},
-      "x": -3640,
-      "y": 1600,
-      "width": 250,
-      "height": 60,
-      "color": "1"
-    },
-    {
-      "id": "d2672bd8e705611e",
-      "type": "text",
-      "text": "# honti",
-      "styleAttributes": {},
-      "x": -515,
-      "y": 929,
-      "width": 250,
-      "height": 60
+      "x": -940,
+      "y": -2288,
+      "width": 730,
+      "height": 78
     },
     {
       "id": "32d2e6c3e6895c51",
@@ -396,6 +293,129 @@
       "height": 60
     },
     {
+      "id": "66a92572b101d9ce",
+      "type": "text",
+      "text": "# honti",
+      "styleAttributes": {},
+      "x": -515,
+      "y": -230,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "1e3a47296ed08175",
+      "type": "text",
+      "text": "# yassaṃ\n- |**Yo/yaṃ/yā**|Cái mà, người mà|Đại từ quan hệ|\n- Vị trí cách - chức năng chỉ vị trí cho hành động",
+      "styleAttributes": {},
+      "x": 40,
+      "y": -121,
+      "width": 250,
+      "height": 270
+    },
+    {
+      "id": "6a5713e7aba52486",
+      "type": "text",
+      "text": "# katamā?",
+      "styleAttributes": {},
+      "x": -100,
+      "y": -2160,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "88ba74be9110297e",
+      "type": "file",
+      "file": "2024/Vault/parisāyaṃ.png",
+      "styleAttributes": {},
+      "x": -1600,
+      "y": -710,
+      "width": 525,
+      "height": 480
+    },
+    {
+      "id": "c50865c4dca550ee",
+      "type": "text",
+      "text": "### idha, bhikkhave, yassaṃ parisāyaṃ bhikkhū uddhatā honti unnaḷā capalā mukharā vikiṇṇavācā… asampajānā asamāhitā vibbhantacittā pākatindriyā. ",
+      "styleAttributes": {},
+      "x": -940,
+      "y": -1506,
+      "width": 980,
+      "height": 113
+    },
+    {
+      "id": "dd29a8c4f98b6286",
+      "type": "file",
+      "file": "2024/Vault/yo - yaṃ.png",
+      "styleAttributes": {},
+      "x": -1935,
+      "y": -1170,
+      "width": 860,
+      "height": 430
+    },
+    {
+      "id": "828512c232882104",
+      "type": "text",
+      "text": "# idha, bhikkhave,",
+      "styleAttributes": {},
+      "x": -940,
+      "y": -1293,
+      "width": 240,
+      "height": 100
+    },
+    {
+      "id": "2e7cb641ba9dad70",
+      "type": "text",
+      "text": "# parisā",
+      "styleAttributes": {},
+      "x": -3620,
+      "y": 220,
+      "width": 250,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "aebcaa551576e214",
+      "type": "text",
+      "text": "### Bài 4.3\n\n### Đoạn kinh 4 (AN)\n\n### dvemā, bhikkhave, parisā. \n### katamā dve? \n### uttānā ca parisā gambhīrā ca parisā. \n\n### katamā ca, bhikkhave, uttānā parisā? \n### idha, bhikkhave, yassaṃ parisāyaṃ bhikkhū uddhatā honti unnaḷā capalā mukharā vikiṇṇavācā… asampajānā asamāhitā vibbhantacittā pākatindriyā. \n### ayaṃ vuccati, bhikkhave, uttānā parisā. \n---\n\n### katamā ca, bhikkhave, gambhīrā parisā? \n### idha, bhikkhave, yassaṃ parisāyaṃ bhikkhū anuddhatā honti anunnaḷā acapalā amukharā avikiṇṇavācā… sampajānā samāhitā ekaggacittā saṃvutindriyā. \n### ayaṃ vuccati, bhikkhave, gambhīrā parisā. \n---\n### imā kho, bhikkhave, dve parisā. \n\n### dvemā, bhikkhave, parisā. \n### katamā dve? \n### vaggā ca parisā samaggā ca parisā. \n\n### katamā ca, bhikkhave, vaggā parisā? \n### idha, bhikkhave, yassaṃ parisāyaṃ bhikkhū bhaṇḍanajātā kalahajātā vivādāpannā… viharanti. \n### ayaṃ vuccati, bhikkhave, vaggā parisā. \n\n### katamā ca, bhikkhave, samaggā parisā? \n### idha, bhikkhave, yassaṃ parisāyaṃ bhikkhū samaggā sammodamānā avivadamānā khīrodakībhūtā… viharanti. \n### ayaṃ vuccati, bhikkhave, samaggā parisā. \n### imā kho, bhikkhave, dve parisā. \n\n### dvemā, bhikkhave, parisā. \n### katamā dve? \n### visamā ca parisā samā ca parisā. \n\n### katamā ca, bhikkhave, visamā parisā? \n### idha, bhikkhave, yassaṃ parisāyaṃ adhammakammāni pavattanti dhammakammāni nappavattanti, avinayakammāni pavattanti vinayakammāni nappavattanti, adhammakammāni dippanti dhammakammāni na dippanti, avinayakammāni dippanti vinayakammāni na dippanti. \n### ayaṃ vuccati, bhikkhave, visamā parisā. \n\n### katamā ca, bhikkhave, samā parisā? \n### idha, bhikkhave, yassaṃ parisāyaṃ dhammakammāni pavattanti adhammakammāni nappavattanti, vinayakammāni pavattanti avinayakammāni nappavattanti, dhammakammāni dippanti adhammakammāni na dippanti, vinayakammāni dippanti avinayakammāni na dippanti. \n### ayaṃ vuccati, bhikkhave, samā parisā. \n### imā kho, bhikkhave, dve parisā. ",
+      "styleAttributes": {},
+      "x": -4480,
+      "y": -2660,
+      "width": 1130,
+      "height": 1940,
+      "color": "6"
+    },
+    {
+      "id": "190b649d849b5f50",
+      "type": "text",
+      "text": "# Câu 2",
+      "styleAttributes": {},
+      "x": -3260,
+      "y": 95,
+      "width": 500,
+      "height": 60
+    },
+    {
+      "id": "c3ad67835d1867ce",
+      "type": "text",
+      "text": "### danh từ nữ tính, chủ cách số ít, & nhiều. TBC số nhiều\n### - Hội, nhóm\nChủ cách vị ngữ",
+      "styleAttributes": {},
+      "x": -3620,
+      "y": 310,
+      "width": 250,
+      "height": 270
+    },
+    {
+      "id": "8bf747c90df16dad",
+      "type": "text",
+      "text": "### dvemā, bhikkhave, parisā. \n### katamā dve? \n### uttānā ca parisā gambhīrā ca parisā. \n\n### katamā ca, bhikkhave, uttānā parisā? \n### idha, bhikkhave, yassaṃ parisāyaṃ bhikkhū uddhatā honti unnaḷā capalā mukharā vikiṇṇavācā… asampajānā asamāhitā vibbhantacittā pākatindriyā. \n### ayaṃ vuccati, bhikkhave, uttānā parisā. \n---\n\n### katamā ca, bhikkhave, gambhīrā parisā? ",
+      "styleAttributes": {},
+      "x": -4480,
+      "y": -503,
+      "width": 1130,
+      "height": 463,
+      "color": "2"
+    },
+    {
       "id": "219d893847f771d3",
       "type": "text",
       "text": "# Tồn tại 2 hội nhóm gì?",
@@ -425,16 +445,6 @@
       "y": 800,
       "width": 300,
       "height": 220
-    },
-    {
-      "id": "de9d8b0698d702bd",
-      "type": "text",
-      "text": "# (honti)",
-      "styleAttributes": {},
-      "x": -3920,
-      "y": 710,
-      "width": 250,
-      "height": 60
     },
     {
       "id": "b792a5948d7dba47",
@@ -489,35 +499,46 @@
       "color": "3"
     },
     {
-      "id": "0aed4c01a1b4a863",
+      "id": "f456b8a4b103b5f8",
       "type": "text",
-      "text": "# Này các tì - khưu, 2 thứ này là những hội nhóm",
+      "text": "# katamā  hỏi cho imā\n## 2 thứ gì là những hội nhóm?\n# katamā hỏi cho parisā\n## 2 thứ đó là gì?",
       "styleAttributes": {},
-      "x": -4460,
-      "y": 500,
-      "width": 740,
-      "height": 80,
-      "color": "6"
+      "x": -3260,
+      "y": 220,
+      "width": 500,
+      "height": 360
     },
     {
-      "id": "8754d4742a5bcbb9",
+      "id": "57464f0a054818fd",
       "type": "text",
-      "text": "# Vuccati [Pass. of vac] to be called D i.168, 245; Sn 436, 759, 848, 861, 946; Nd1 431; Nd2 s. v. katheti; SnA 204 DhA ii.35. See also vatti. -- pp. vutta.\n\n",
+      "text": "# katamā thay cho từ nào, thì hỏi cho từ đó",
       "styleAttributes": {},
-      "x": -940,
-      "y": 1850,
-      "width": 833,
-      "height": 195
+      "x": -3640,
+      "y": 1300,
+      "width": 570,
+      "height": 160
     },
     {
-      "id": "3d48f974eabf8f89",
+      "id": "929a7ae26b5589f1",
       "type": "text",
-      "text": "### ayaṃ vuccati, bhikkhave, uttānā parisā. ",
+      "text": "## **katama**: which; what; which of the many. (adj.)",
       "styleAttributes": {},
-      "x": -940,
-      "y": 2150,
-      "width": 833,
-      "height": 60
+      "x": -3320,
+      "y": 1480,
+      "width": 250,
+      "height": 280,
+      "color": "1"
+    },
+    {
+      "id": "a2eeef3eb1d95c95",
+      "type": "text",
+      "text": "## katamā?",
+      "styleAttributes": {},
+      "x": -3640,
+      "y": 1600,
+      "width": 250,
+      "height": 60,
+      "color": "1"
     },
     {
       "id": "7fb3780dbfad8493",
@@ -563,6 +584,56 @@
       "color": "3"
     },
     {
+      "id": "be47904e48e3ffa7",
+      "type": "text",
+      "text": "### 2 thứ gì? ",
+      "styleAttributes": {},
+      "x": -4460,
+      "y": 1480,
+      "width": 740,
+      "height": 60
+    },
+    {
+      "id": "4994fad03e097fd2",
+      "type": "text",
+      "text": "# xem vị trí cách kết hợp với hoti hay kết hợp với chủ từ bhikkhū?",
+      "styleAttributes": {},
+      "x": -180,
+      "y": 750,
+      "width": 470,
+      "height": 159
+    },
+    {
+      "id": "b6dbc1d3367e257a",
+      "type": "text",
+      "text": "# parisāyaṃ\nDanh từ nữ tính, vị trí cách số ít ",
+      "styleAttributes": {},
+      "x": -550,
+      "y": 1278,
+      "width": 250,
+      "height": 121
+    },
+    {
+      "id": "8754d4742a5bcbb9",
+      "type": "text",
+      "text": "# Vuccati [Pass. of vac] to be called D i.168, 245; Sn 436, 759, 848, 861, 946; Nd1 431; Nd2 s. v. katheti; SnA 204 DhA ii.35. See also vatti. -- pp. vutta.\n\n",
+      "styleAttributes": {},
+      "x": -940,
+      "y": 1850,
+      "width": 833,
+      "height": 195
+    },
+    {
+      "id": "3d48f974eabf8f89",
+      "type": "text",
+      "text": "### ayaṃ vuccati, bhikkhave, uttānā parisā. ",
+      "styleAttributes": {},
+      "x": -940,
+      "y": 2150,
+      "width": 833,
+      "height": 60
+    },
+    {
       "id": "aca898ee5d72e7f9",
       "type": "text",
       "text": "# ayaṃ\nDanh từ, Chủ cách",
@@ -596,16 +667,6 @@
       "color": "6"
     },
     {
-      "id": "be47904e48e3ffa7",
-      "type": "text",
-      "text": "### 2 thứ gì? ",
-      "styleAttributes": {},
-      "x": -4460,
-      "y": 1480,
-      "width": 740,
-      "height": 60
-    },
-    {
       "id": "1aef7ba3d1774637",
       "type": "text",
       "text": "### katamā dve? ",
@@ -624,6 +685,129 @@
       "y": 1600,
       "width": 740,
       "height": 60
+    },
+    {
+      "id": "78a0993b296c9834",
+      "type": "text",
+      "text": "# bhikkhū\n- Danh từ nam tính \n- Chủ cách, trực bổ cách số nhiều\n-\n**bhikkhu**: a Buddhist monk. (m.)",
+      "styleAttributes": {},
+      "x": -940,
+      "y": 829,
+      "width": 250,
+      "height": 260
+    },
+    {
+      "id": "5e11a4a5742bc0fa",
+      "type": "text",
+      "text": "# **Uddhata**\nTính từ \nXáo động",
+      "styleAttributes": {},
+      "x": -890,
+      "y": 1138,
+      "width": 250,
+      "height": 130
+    },
+    {
+      "id": "857efdad14543d04",
+      "type": "text",
+      "text": "# yassaṃ\n- |**Yo/yaṃ/yā**|Cái mà, người mà|Đại từ quan hệ|\n- Vị trí cách - chức năng chỉ vị trí cho hành động",
+      "styleAttributes": {},
+      "x": -245,
+      "y": 1203,
+      "width": 250,
+      "height": 270
+    },
+    {
+      "id": "d2672bd8e705611e",
+      "type": "text",
+      "text": "# honti",
+      "styleAttributes": {},
+      "x": -515,
+      "y": 929,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "f26e9659eb1d40b2",
+      "type": "text",
+      "text": "# Tồn tại cái xe cho tôi\n**me**: to me; my; mine. (dat. and gen. sing. of amha) SHC hoặc Gián bổ cách, ",
+      "styleAttributes": {},
+      "x": -890,
+      "y": 1610,
+      "width": 1170,
+      "height": 100
+    },
+    {
+      "id": "a6d8dec52184be95",
+      "type": "text",
+      "text": "# Unnaḷa\nTính từ \n- ",
+      "styleAttributes": {},
+      "x": -890,
+      "y": 1308,
+      "width": 250,
+      "height": 160
+    },
+    {
+      "id": "42cf2686f85a1d65",
+      "type": "text",
+      "text": "# Những Vị tì-khưu xấu tồn tại CHO hội nhóm nào,",
+      "styleAttributes": {},
+      "x": -890,
+      "y": 1528,
+      "width": 1180,
+      "height": 41,
+      "color": "1"
+    },
+    {
+      "id": "12d744d8e36e6fee",
+      "type": "text",
+      "text": "# dvemā = dve + imā\ndve = 2, chủ cách số nhiều\nimā = these; cái này, cái kia \nChủ cách số nhiều nữ tính",
+      "styleAttributes": {},
+      "x": -4460,
+      "y": 220,
+      "width": 300,
+      "height": 220
+    },
+    {
+      "id": "a949d55e02732447",
+      "type": "text",
+      "text": "### dvemā, bhikkhave, parisā. ",
+      "styleAttributes": {},
+      "x": -4460,
+      "y": 95,
+      "width": 1090,
+      "height": 60
+    },
+    {
+      "id": "8c7e17c759782395",
+      "type": "text",
+      "text": "# parisā",
+      "styleAttributes": {},
+      "x": -4460,
+      "y": 710,
+      "width": 250,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "de9d8b0698d702bd",
+      "type": "text",
+      "text": "# (honti)",
+      "styleAttributes": {},
+      "x": -3920,
+      "y": 710,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "0aed4c01a1b4a863",
+      "type": "text",
+      "text": "# Này các tì - khưu, 2 thứ này là những hội nhóm",
+      "styleAttributes": {},
+      "x": -4460,
+      "y": 500,
+      "width": 740,
+      "height": 80,
+      "color": "6"
     },
     {
       "id": "71ac86d487f7fcab",
@@ -686,16 +870,6 @@
       "height": 80
     },
     {
-      "id": "bdef1c053a58f880",
-      "type": "text",
-      "text": "# Unnaḷa\nTính từ \n- ",
-      "styleAttributes": {},
-      "x": 2085,
-      "y": -880,
-      "width": 250,
-      "height": 160
-    },
-    {
       "id": "662fa87f3fce3108",
       "type": "text",
       "text": "# Unnaḷa\nTính từ \n- ",
@@ -736,36 +910,6 @@
       "height": 100
     },
     {
-      "id": "684c4ef796ad5591",
-      "type": "text",
-      "text": "# **Uddhata**\nTính từ \nXáo động",
-      "styleAttributes": {},
-      "x": 1780,
-      "y": -880,
-      "width": 250,
-      "height": 130
-    },
-    {
-      "id": "5bce00e156dc238a",
-      "type": "file",
-      "file": "2024/Vault/Bhikkhū.png",
-      "styleAttributes": {},
-      "x": 2820,
-      "y": -1303,
-      "width": 852,
-      "height": 553
-    },
-    {
-      "id": "a406cbfbb48bb07a",
-      "type": "text",
-      "text": "# yassaṃ\n- |**Yo/yaṃ/yā**|Cái mà, người mà|Đại từ quan hệ|\n- Vị trí cách - chức năng chỉ vị trí cho hành động",
-      "styleAttributes": {},
-      "x": 1780,
-      "y": -1303,
-      "width": 250,
-      "height": 260
-    },
-    {
       "id": "11fa16fd2596a4c4",
       "type": "text",
       "text": "# xem vị trí cách kết hợp với hoti hay kết hợp với chủ từ bhikkhū?",
@@ -774,157 +918,6 @@
       "y": -419,
       "width": 470,
       "height": 159
-    },
-    {
-      "id": "0df69df747dc3f4d",
-      "type": "text",
-      "text": "# parisāyaṃ\nDanh từ nữ tính, vị trí cách số ít ",
-      "styleAttributes": {},
-      "x": -335,
-      "y": -1293,
-      "width": 250,
-      "height": 260
-    },
-    {
-      "id": "d5be6323dfba8f7a",
-      "type": "text",
-      "text": "# bhikkhū\n- Danh từ nam tính \n- Chủ cách, trực bổ cách số nhiều\n-\n**bhikkhu**: a Buddhist monk. (m.)",
-      "styleAttributes": {},
-      "x": 40,
-      "y": -1293,
-      "width": 250,
-      "height": 260
-    },
-    {
-      "id": "12f897e043afa26a",
-      "type": "text",
-      "text": "# **Uddhata**\nTính từ \nXáo động",
-      "styleAttributes": {},
-      "x": -640,
-      "y": -870,
-      "width": 250,
-      "height": 130
-    },
-    {
-      "id": "d06e728af0d46a11",
-      "type": "text",
-      "text": "# Unnaḷa\nTính từ \n- ",
-      "styleAttributes": {},
-      "x": -335,
-      "y": -870,
-      "width": 250,
-      "height": 160
-    },
-    {
-      "id": "46687f198885a19a",
-      "type": "text",
-      "text": "# yassaṃ\n- |**Yo/yaṃ/yā**|Cái mà, người mà|Đại từ quan hệ|\n- Vị trí cách - chức năng chỉ vị trí cho hành động",
-      "styleAttributes": {},
-      "x": -640,
-      "y": -1293,
-      "width": 250,
-      "height": 260
-    },
-    {
-      "id": "66a92572b101d9ce",
-      "type": "text",
-      "text": "# honti",
-      "styleAttributes": {},
-      "x": -515,
-      "y": -230,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "0e11ec9e819bf18f",
-      "type": "text",
-      "text": "# parisāyaṃ\nDanh từ nữ tính, vị trí cách số ít ",
-      "styleAttributes": {},
-      "x": 2085,
-      "y": -1303,
-      "width": 250,
-      "height": 260
-    },
-    {
-      "id": "08dbcf2d37a68906",
-      "type": "text",
-      "text": "# bhikkhū\n- Danh từ nam tính \n- Chủ cách, trực bổ cách số nhiều\n-\n**bhikkhu**: a Buddhist monk. (m.)",
-      "styleAttributes": {},
-      "x": 2460,
-      "y": -1303,
-      "width": 250,
-      "height": 260
-    },
-    {
-      "id": "ef24784fbe390c8b",
-      "type": "text",
-      "text": "### idha, bhikkhave, yassaṃ parisāyaṃ bhikkhū uddhatā honti unnaḷā capalā mukharā vikiṇṇavācā… asampajānā asamāhitā vibbhantacittā pākatindriyā. ",
-      "styleAttributes": {},
-      "x": 1480,
-      "y": -1516,
-      "width": 980,
-      "height": 113
-    },
-    {
-      "id": "a061ca1744a3a552",
-      "type": "text",
-      "text": "# idha, bhikkhave,",
-      "styleAttributes": {},
-      "x": 1480,
-      "y": -1303,
-      "width": 240,
-      "height": 100
-    },
-    {
-      "id": "1e3a47296ed08175",
-      "type": "text",
-      "text": "# yassaṃ\n- |**Yo/yaṃ/yā**|Cái mà, người mà|Đại từ quan hệ|\n- Vị trí cách - chức năng chỉ vị trí cho hành động",
-      "styleAttributes": {},
-      "x": 40,
-      "y": -121,
-      "width": 250,
-      "height": 270
-    },
-    {
-      "id": "d1186c230913de0c",
-      "type": "file",
-      "file": "2024/Vault/Pasted image 20240821082820.png",
-      "styleAttributes": {},
-      "x": 420,
-      "y": -130,
-      "width": 662,
-      "height": 200
-    },
-    {
-      "id": "280785d9fa50511a",
-      "type": "text",
-      "text": "# uttānā",
-      "styleAttributes": {},
-      "x": 465,
-      "y": -2010,
-      "width": 165,
-      "height": 80
-    },
-    {
-      "id": "3d0685a7d26756d1",
-      "type": "text",
-      "text": "### katamā ca, bhikkhave, gambhīrā parisā? \n### idha, bhikkhave, yassaṃ parisāyaṃ bhikkhū anuddhatā honti anunnaḷā acapalā amukharā avikiṇṇavācā… sampajānā samāhitā ekaggacittā saṃvutindriyā. \n### ayaṃ vuccati, bhikkhave, gambhīrā parisā. ",
-      "styleAttributes": {},
-      "x": 1480,
-      "y": -2630,
-      "width": 1130,
-      "height": 186,
-      "color": "2"
-    },
-    {
-      "id": "8b55393ab46a83dd",
-      "type": "text",
-      "text": "# katamā ca, bhikkhave, gambhīrā parisā? ",
-      "styleAttributes": {},
-      "x": 1480,
-      "y": -2298,
-      "width": 730,
-      "height": 78
     },
     {
       "id": "685a0cab83807b5d",
@@ -937,16 +930,6 @@
       "height": 60
     },
     {
-      "id": "7cf8deb6c2c7b87d",
-      "type": "text",
-      "text": "# gambhīrā",
-      "styleAttributes": {},
-      "x": 1960,
-      "y": -2140,
-      "width": 250,
-      "height": 60
-    },
-    {
       "id": "17e5c150b94634ba",
       "type": "text",
       "text": "# Và này các tì-khưu, hội nhóm gì là thâm sâu?",
@@ -954,56 +937,6 @@
       "x": 1480,
       "y": -1880,
       "width": 730,
-      "height": 60
-    },
-    {
-      "id": "fd8f2c362365966c",
-      "type": "text",
-      "text": "# katamā?",
-      "styleAttributes": {},
-      "x": 1595,
-      "y": -2020,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "3dc697163ac0ddaf",
-      "type": "file",
-      "file": "2024/Vault/Pasted image 20240821082846.png",
-      "styleAttributes": {},
-      "x": 420,
-      "y": 110,
-      "width": 662,
-      "height": 200
-    },
-    {
-      "id": "45f6d9700905e7d9",
-      "type": "text",
-      "text": "# katamā ca, bhikkhave, uttānā parisā? ",
-      "styleAttributes": {},
-      "x": -100,
-      "y": -2288,
-      "width": 730,
-      "height": 78
-    },
-    {
-      "id": "6a5713e7aba52486",
-      "type": "text",
-      "text": "# katamā?",
-      "styleAttributes": {},
-      "x": -100,
-      "y": -2160,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "e0ec25bbd9cad81a",
-      "type": "text",
-      "text": "# parisā",
-      "styleAttributes": {},
-      "x": 340,
-      "y": -2160,
-      "width": 250,
       "height": 60
     },
     {
@@ -1037,55 +970,165 @@
       "height": 121
     },
     {
-      "id": "c8077049c31f320f",
-      "type": "text",
-      "text": "# bhikkhū\n- Danh từ nam tính \n- Chủ cách, trực bổ cách số nhiều\n-\n**bhikkhu**: a Buddhist monk. (m.)",
-      "styleAttributes": {},
-      "x": 1480,
-      "y": -340,
-      "width": 250,
-      "height": 260
-    },
-    {
-      "id": "f26e9659eb1d40b2",
-      "type": "text",
-      "text": "# Tồn tại cái xe cho tôi\n**me**: to me; my; mine. (dat. and gen. sing. of amha) SHC hoặc Gián bổ cách, ",
-      "styleAttributes": {},
-      "x": -890,
-      "y": 1610,
-      "width": 1170,
-      "height": 100
-    },
-    {
-      "id": "a6d8dec52184be95",
+      "id": "bdef1c053a58f880",
       "type": "text",
       "text": "# Unnaḷa\nTính từ \n- ",
       "styleAttributes": {},
-      "x": -890,
-      "y": 1308,
+      "x": 2085,
+      "y": -880,
       "width": 250,
       "height": 160
     },
     {
-      "id": "42cf2686f85a1d65",
+      "id": "684c4ef796ad5591",
       "type": "text",
-      "text": "# Những Vị tì-khưu xấu tồn tại CHO hội nhóm nào,",
+      "text": "# **Uddhata**\nTính từ \nXáo động",
       "styleAttributes": {},
-      "x": -890,
-      "y": 1528,
-      "width": 1180,
-      "height": 41,
-      "color": "1"
+      "x": 1780,
+      "y": -880,
+      "width": 250,
+      "height": 130
     },
     {
-      "id": "dfe9fd9fa0608214",
+      "id": "5bce00e156dc238a",
       "type": "file",
-      "file": "2024/Vault/Pasted image 20240821083733.png",
+      "file": "2024/Vault/Bhikkhū.png",
       "styleAttributes": {},
-      "x": 380,
-      "y": 1309,
-      "width": 864,
-      "height": 261
+      "x": 2820,
+      "y": -1303,
+      "width": 852,
+      "height": 553
+    },
+    {
+      "id": "a406cbfbb48bb07a",
+      "type": "text",
+      "text": "# yassaṃ\n- |**Yo/yaṃ/yā**|Cái mà, người mà|Đại từ quan hệ|\n- Vị trí cách - chức năng chỉ vị trí cho hành động",
+      "styleAttributes": {},
+      "x": 1780,
+      "y": -1303,
+      "width": 250,
+      "height": 260
+    },
+    {
+      "id": "0e11ec9e819bf18f",
+      "type": "text",
+      "text": "# parisāyaṃ\nDanh từ nữ tính, vị trí cách số ít ",
+      "styleAttributes": {},
+      "x": 2085,
+      "y": -1303,
+      "width": 250,
+      "height": 260
+    },
+    {
+      "id": "08dbcf2d37a68906",
+      "type": "text",
+      "text": "# bhikkhū\n- Danh từ nam tính \n- Chủ cách, trực bổ cách số nhiều\n-\n**bhikkhu**: a Buddhist monk. (m.)",
+      "styleAttributes": {},
+      "x": 2460,
+      "y": -1303,
+      "width": 250,
+      "height": 260
+    },
+    {
+      "id": "ef24784fbe390c8b",
+      "type": "text",
+      "text": "### idha, bhikkhave, yassaṃ parisāyaṃ bhikkhū uddhatā honti unnaḷā capalā mukharā vikiṇṇavācā… asampajānā asamāhitā vibbhantacittā pākatindriyā. ",
+      "styleAttributes": {},
+      "x": 1480,
+      "y": -1516,
+      "width": 980,
+      "height": 113
+    },
+    {
+      "id": "7cf8deb6c2c7b87d",
+      "type": "text",
+      "text": "# gambhīrā",
+      "styleAttributes": {},
+      "x": 1960,
+      "y": -2140,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "fd8f2c362365966c",
+      "type": "text",
+      "text": "# katamā?",
+      "styleAttributes": {},
+      "x": 1595,
+      "y": -2020,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "554aff95f0848040",
+      "type": "text",
+      "text": "# xem vị trí cách kết hợp với hoti hay kết hợp với chủ từ bhikkhū?",
+      "styleAttributes": {},
+      "x": -180,
+      "y": -409,
+      "width": 470,
+      "height": 159
+    },
+    {
+      "id": "a061ca1744a3a552",
+      "type": "text",
+      "text": "# idha, bhikkhave,",
+      "styleAttributes": {},
+      "x": 1480,
+      "y": -1303,
+      "width": 240,
+      "height": 100
+    },
+    {
+      "id": "280785d9fa50511a",
+      "type": "text",
+      "text": "# uttānā",
+      "styleAttributes": {},
+      "x": 465,
+      "y": -2010,
+      "width": 165,
+      "height": 80
+    },
+    {
+      "id": "3d0685a7d26756d1",
+      "type": "text",
+      "text": "### katamā ca, bhikkhave, gambhīrā parisā? \n### idha, bhikkhave, yassaṃ parisāyaṃ bhikkhū anuddhatā honti anunnaḷā acapalā amukharā avikiṇṇavācā… sampajānā samāhitā ekaggacittā saṃvutindriyā. \n### ayaṃ vuccati, bhikkhave, gambhīrā parisā. ",
+      "styleAttributes": {},
+      "x": 1480,
+      "y": -2630,
+      "width": 1130,
+      "height": 186,
+      "color": "2"
+    },
+    {
+      "id": "8b55393ab46a83dd",
+      "type": "text",
+      "text": "# katamā ca, bhikkhave, gambhīrā parisā? ",
+      "styleAttributes": {},
+      "x": 1480,
+      "y": -2298,
+      "width": 730,
+      "height": 78
+    },
+    {
+      "id": "45f6d9700905e7d9",
+      "type": "text",
+      "text": "# katamā ca, bhikkhave, uttānā parisā? ",
+      "styleAttributes": {},
+      "x": -100,
+      "y": -2288,
+      "width": 730,
+      "height": 78
+    },
+    {
+      "id": "e0ec25bbd9cad81a",
+      "type": "text",
+      "text": "# parisā",
+      "styleAttributes": {},
+      "x": 340,
+      "y": -2160,
+      "width": 250,
+      "height": 60
     },
     {
       "id": "e727846e7882cedb",
@@ -1098,87 +1141,44 @@
       "height": 60
     },
     {
-      "id": "2e7cb641ba9dad70",
-      "type": "text",
-      "text": "# parisā",
+      "id": "d1186c230913de0c",
+      "type": "file",
+      "file": "2024/Vault/Pasted image 20240821082820.png",
       "styleAttributes": {},
-      "x": -3620,
-      "y": 220,
+      "x": 420,
+      "y": -130,
+      "width": 662,
+      "height": 200
+    },
+    {
+      "id": "3dc697163ac0ddaf",
+      "type": "file",
+      "file": "2024/Vault/Pasted image 20240821082846.png",
+      "styleAttributes": {},
+      "x": 420,
+      "y": 110,
+      "width": 662,
+      "height": 200
+    },
+    {
+      "id": "c8077049c31f320f",
+      "type": "text",
+      "text": "# bhikkhū\n- Danh từ nam tính \n- Chủ cách, trực bổ cách số nhiều\n-\n**bhikkhu**: a Buddhist monk. (m.)",
+      "styleAttributes": {},
+      "x": 1480,
+      "y": -340,
       "width": 250,
-      "height": 60,
-      "color": "3"
+      "height": 260
     },
     {
-      "id": "aebcaa551576e214",
-      "type": "text",
-      "text": "### Bài 4.3\n\n### Đoạn kinh 4 (AN)\n\n### dvemā, bhikkhave, parisā. \n### katamā dve? \n### uttānā ca parisā gambhīrā ca parisā. \n\n### katamā ca, bhikkhave, uttānā parisā? \n### idha, bhikkhave, yassaṃ parisāyaṃ bhikkhū uddhatā honti unnaḷā capalā mukharā vikiṇṇavācā… asampajānā asamāhitā vibbhantacittā pākatindriyā. \n### ayaṃ vuccati, bhikkhave, uttānā parisā. \n---\n\n### katamā ca, bhikkhave, gambhīrā parisā? \n### idha, bhikkhave, yassaṃ parisāyaṃ bhikkhū anuddhatā honti anunnaḷā acapalā amukharā avikiṇṇavācā… sampajānā samāhitā ekaggacittā saṃvutindriyā. \n### ayaṃ vuccati, bhikkhave, gambhīrā parisā. \n---\n### imā kho, bhikkhave, dve parisā. \n\n### dvemā, bhikkhave, parisā. \n### katamā dve? \n### vaggā ca parisā samaggā ca parisā. \n\n### katamā ca, bhikkhave, vaggā parisā? \n### idha, bhikkhave, yassaṃ parisāyaṃ bhikkhū bhaṇḍanajātā kalahajātā vivādāpannā… viharanti. \n### ayaṃ vuccati, bhikkhave, vaggā parisā. \n\n### katamā ca, bhikkhave, samaggā parisā? \n### idha, bhikkhave, yassaṃ parisāyaṃ bhikkhū samaggā sammodamānā avivadamānā khīrodakībhūtā… viharanti. \n### ayaṃ vuccati, bhikkhave, samaggā parisā. \n### imā kho, bhikkhave, dve parisā. \n\n### dvemā, bhikkhave, parisā. \n### katamā dve? \n### visamā ca parisā samā ca parisā. \n\n### katamā ca, bhikkhave, visamā parisā? \n### idha, bhikkhave, yassaṃ parisāyaṃ adhammakammāni pavattanti dhammakammāni nappavattanti, avinayakammāni pavattanti vinayakammāni nappavattanti, adhammakammāni dippanti dhammakammāni na dippanti, avinayakammāni dippanti vinayakammāni na dippanti. \n### ayaṃ vuccati, bhikkhave, visamā parisā. \n\n### katamā ca, bhikkhave, samā parisā? \n### idha, bhikkhave, yassaṃ parisāyaṃ dhammakammāni pavattanti adhammakammāni nappavattanti, vinayakammāni pavattanti avinayakammāni nappavattanti, dhammakammāni dippanti adhammakammāni na dippanti, vinayakammāni dippanti avinayakammāni na dippanti. \n### ayaṃ vuccati, bhikkhave, samā parisā. \n### imā kho, bhikkhave, dve parisā. ",
+      "id": "dfe9fd9fa0608214",
+      "type": "file",
+      "file": "2024/Vault/Pasted image 20240821083733.png",
       "styleAttributes": {},
-      "x": -4480,
-      "y": -2660,
-      "width": 1130,
-      "height": 1940,
-      "color": "6"
-    },
-    {
-      "id": "12d744d8e36e6fee",
-      "type": "text",
-      "text": "# dvemā = dve + imā\ndve = 2, chủ cách số nhiều\nimā = these; cái này, cái kia \nChủ cách số nhiều nữ tính",
-      "styleAttributes": {},
-      "x": -4460,
-      "y": 220,
-      "width": 300,
-      "height": 220
-    },
-    {
-      "id": "190b649d849b5f50",
-      "type": "text",
-      "text": "# Câu 2",
-      "styleAttributes": {},
-      "x": -3260,
-      "y": 95,
-      "width": 500,
-      "height": 60
-    },
-    {
-      "id": "f456b8a4b103b5f8",
-      "type": "text",
-      "text": "# katamā  hỏi cho imā\n## 2 thứ gì là những hội nhóm?\n# katamā hỏi cho parisā\n## 2 thứ đó là gì?",
-      "styleAttributes": {},
-      "x": -3260,
-      "y": 220,
-      "width": 500,
-      "height": 360
-    },
-    {
-      "id": "c3ad67835d1867ce",
-      "type": "text",
-      "text": "### danh từ nữ tính, chủ cách số ít, & nhiều. TBC số nhiều\n### - Hội, nhóm\nChủ cách vị ngữ",
-      "styleAttributes": {},
-      "x": -3620,
-      "y": 310,
-      "width": 250,
-      "height": 270
-    },
-    {
-      "id": "8bf747c90df16dad",
-      "type": "text",
-      "text": "### dvemā, bhikkhave, parisā. \n### katamā dve? \n### uttānā ca parisā gambhīrā ca parisā. \n\n### katamā ca, bhikkhave, uttānā parisā? \n### idha, bhikkhave, yassaṃ parisāyaṃ bhikkhū uddhatā honti unnaḷā capalā mukharā vikiṇṇavācā… asampajānā asamāhitā vibbhantacittā pākatindriyā. \n### ayaṃ vuccati, bhikkhave, uttānā parisā. \n---\n\n### katamā ca, bhikkhave, gambhīrā parisā? ",
-      "styleAttributes": {},
-      "x": -4480,
-      "y": -503,
-      "width": 1130,
-      "height": 463,
-      "color": "2"
-    },
-    {
-      "id": "a949d55e02732447",
-      "type": "text",
-      "text": "### dvemā, bhikkhave, parisā. ",
-      "styleAttributes": {},
-      "x": -4460,
-      "y": 95,
-      "width": 1090,
-      "height": 60
+      "x": 380,
+      "y": 1309,
+      "width": 864,
+      "height": 261
     }
   ],
   "edges": [

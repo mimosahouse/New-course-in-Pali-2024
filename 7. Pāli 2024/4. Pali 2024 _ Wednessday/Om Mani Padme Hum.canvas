@@ -1,0 +1,185 @@
+{
+  "nodes": [
+    {
+      "id": "b7d8e69e17b8d8b6",
+      "type": "file",
+      "file": "Pasted image 20241101085719.png",
+      "styleAttributes": {},
+      "x": -680,
+      "y": -220,
+      "width": 451,
+      "height": 400
+    },
+    {
+      "id": "4c66a1b8d91f8eaa",
+      "type": "text",
+      "text": "# LINGA",
+      "styleAttributes": {},
+      "x": -100,
+      "y": -220,
+      "width": 260,
+      "height": 140
+    },
+    {
+      "id": "1a8f383c800e3bea",
+      "type": "text",
+      "text": "# YONI",
+      "styleAttributes": {},
+      "x": -100,
+      "y": -40,
+      "width": 260,
+      "height": 140
+    },
+    {
+      "id": "dc797ed3085bcbc2",
+      "type": "text",
+      "text": "Sử gia nói câu này ý là: HOan nghênh cái linga nằm trong cái yoni",
+      "styleAttributes": {},
+      "x": -560,
+      "y": 340,
+      "width": 260,
+      "height": 120
+    },
+    {
+      "id": "570f9db351ddde94",
+      "type": "text",
+      "text": "# HOan nghênh châu báu nằm trong hoa sen",
+      "styleAttributes": {},
+      "x": -560,
+      "y": 560,
+      "width": 260,
+      "height": 220
+    },
+    {
+      "id": "632468ad0b700030",
+      "type": "text",
+      "text": "# Thanh tịnh thân khẩu ý",
+      "styleAttributes": {},
+      "x": -560,
+      "y": 880,
+      "width": 260,
+      "height": 180
+    },
+    {
+      "id": "dc0114a0ff6a4735",
+      "type": "text",
+      "text": "# Om Mani Padme Hum",
+      "styleAttributes": {},
+      "x": -80,
+      "y": 340,
+      "width": 700,
+      "height": 60
+    },
+    {
+      "id": "fa55e37420b07efd",
+      "type": "text",
+      "text": "# Padme là dạng Sanskrit",
+      "styleAttributes": {},
+      "x": -160,
+      "y": 520,
+      "width": 360,
+      "height": 100
+    },
+    {
+      "id": "c0b45ff73c3bdda0",
+      "type": "text",
+      "text": "# Dạng Pali là Padume",
+      "styleAttributes": {},
+      "x": 300,
+      "y": 505,
+      "width": 320,
+      "height": 130
+    },
+    {
+      "id": "b84314c89b1e131c",
+      "type": "text",
+      "text": "# [paduma 1](https://dpdict.net/?q=Padume#paduma_1) nt. **lotus**\nHoa sen (nt)",
+      "styleAttributes": {},
+      "x": 780,
+      "y": 410,
+      "width": 580,
+      "height": 160
+    },
+    {
+      "id": "3c24da7445501dd2",
+      "type": "text",
+      "text": "# [paduma 2](https://dpdict.net/?q=Padume#paduma_2) masc. **(comm) part of the Avīci hell where one must stay an paduma-count in duration** [►](https://dpdict.net/?q=Padume#paduma_2)\n1 phần của Địa Ngục A-tì (Avīci Hell)\nNơi một chúng sinh phải ở đó trong một khoảng thời gian (paduma-count)",
+      "styleAttributes": {},
+      "x": 780,
+      "y": 620,
+      "width": 700,
+      "height": 240
+    },
+    {
+      "id": "aec1556b2a3574d0",
+      "type": "text",
+      "text": "# **lotus leaf**\nLá sen",
+      "styleAttributes": {},
+      "x": 780,
+      "y": 940,
+      "width": 500,
+      "height": 200
+    },
+    {
+      "id": "9bdcedbb3d80c3f2",
+      "type": "text",
+      "text": "Danh từ\nHOa sen",
+      "styleAttributes": {},
+      "x": 360,
+      "y": 720,
+      "width": 260,
+      "height": 180
+    },
+    {
+      "id": "6ec24750961ee957",
+      "type": "text",
+      "text": "# namaste\nHay có sự cung kính đến bạn ",
+      "styleAttributes": {},
+      "x": -160,
+      "y": 750,
+      "width": 260,
+      "height": 190
+    },
+    {
+      "id": "1769c113b8746f90",
+      "type": "text",
+      "text": "# om mani\nNgọc như ý",
+      "styleAttributes": {},
+      "x": -160,
+      "y": 1080,
+      "width": 260,
+      "height": 180
+    },
+    {
+      "id": "c23724ab610fd056",
+      "type": "file",
+      "file": "Pasted image 20241101091310.png",
+      "styleAttributes": {},
+      "x": 780,
+      "y": 1260,
+      "width": 730,
+      "height": 320
+    },
+    {
+      "id": "5afec033485817b9",
+      "type": "text",
+      "text": "## Nó còn được mệnh danh là \"Lục Tự Đại Minh Chân Ngôn\" tức là \"Chân ngôn sáng rõ bao gồm sáu chữ\". Có thể dịch câu này là Om, ngọc như ý trong hoa sen, Hūm hay chân linh trong hoa sen.",
+      "styleAttributes": {},
+      "x": -560,
+      "y": 1420,
+      "width": 1180,
+      "height": 160
+    }
+  ],
+  "edges": [
+    {
+      "id": "80a3d09bf52945d9",
+      "styleAttributes": {},
+      "fromNode": "c0b45ff73c3bdda0",
+      "fromSide": "right",
+      "toNode": "b84314c89b1e131c",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {}
+}

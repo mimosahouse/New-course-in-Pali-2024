@@ -272,17 +272,6 @@
       "label": "Tuổi thọ cõi trời"
     },
     {
-      "id": "4b9cff7616f0c8d3",
-      "type": "text",
-      "text": "# katvā",
-      "styleAttributes": {},
-      "x": -3980,
-      "y": 280,
-      "width": 250,
-      "height": 60,
-      "color": "3"
-    },
-    {
       "id": "1f9a2c605dbb8a38",
       "type": "text",
       "text": "#  na ghātaye",
@@ -311,17 +300,6 @@
       "styleAttributes": {},
       "x": -3980,
       "y": -340,
-      "width": 250,
-      "height": 60,
-      "color": "3"
-    },
-    {
-      "id": "a9f4bfdae396428b",
-      "type": "text",
-      "text": "# na bhaje",
-      "styleAttributes": {},
-      "x": -2860,
-      "y": -2075,
       "width": 250,
       "height": 60,
       "color": "3"
@@ -360,17 +338,6 @@
       "color": "3"
     },
     {
-      "id": "b7bf17f83d6779d3",
-      "type": "text",
-      "text": "# purisādhame\n= purisa + ahame",
-      "styleAttributes": {},
-      "x": -2520,
-      "y": -2075,
-      "width": 320,
-      "height": 115,
-      "color": "5"
-    },
-    {
       "id": "c3c9a419ccee78e9",
       "type": "text",
       "text": "# mitte",
@@ -380,6 +347,39 @@
       "width": 250,
       "height": 60,
       "color": "5"
+    },
+    {
+      "id": "f776f85d4c3cdd35",
+      "type": "text",
+      "text": "# daṇḍassa",
+      "styleAttributes": {},
+      "x": -3620,
+      "y": -600,
+      "width": 250,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "e5af7da965a7cb73",
+      "type": "text",
+      "text": "# maccuno",
+      "styleAttributes": {},
+      "x": -3620,
+      "y": -340,
+      "width": 250,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "d080847d08c7c08e",
+      "type": "text",
+      "text": "# bhajetha",
+      "styleAttributes": {},
+      "x": -2860,
+      "y": -1600,
+      "width": 250,
+      "height": 60,
+      "color": "3"
     },
     {
       "id": "94c2bb0ecde0b34e",
@@ -432,16 +432,6 @@
       "height": 60
     },
     {
-      "id": "62eccf30a34849d2",
-      "type": "text",
-      "text": "# piyaṃ",
-      "styleAttributes": {},
-      "x": -2590,
-      "y": -220,
-      "width": 250,
-      "height": 60
-    },
-    {
       "id": "196cb14115835817",
       "type": "text",
       "text": "# daṇḍassa",
@@ -452,36 +442,45 @@
       "height": 60
     },
     {
-      "id": "7428ec8ea6c48271",
+      "id": "c87978b3475af1a4",
       "type": "text",
-      "text": "# uppanaṃ",
+      "text": "# katvā",
       "styleAttributes": {},
-      "x": -3620,
-      "y": 420,
+      "x": -2740,
+      "y": 280,
       "width": 250,
-      "height": 60,
-      "color": "5"
+      "height": 60
     },
     {
-      "id": "79e51ad13ae66021",
-      "type": "text",
-      "text": "Gốc karoti, có thể lấy 2 túc từ - Túc từ kép \nlàm cho A có đặc tính B ",
-      "styleAttributes": {},
-      "x": -3620,
-      "y": 510,
-      "width": 250,
-      "height": 130,
-      "color": "5"
-    },
-    {
-      "id": "e9d3d8c92e499524",
+      "id": "cbcf7f52c25921c5",
       "type": "text",
       "text": "### Sau khi lấy mình làm ví dụ, người ta không nên giết , không nên xui khiến giết ",
       "styleAttributes": {},
-      "x": -4480,
+      "x": -3240,
       "y": 480,
       "width": 750,
-      "height": 160
+      "height": 260
+    },
+    {
+      "id": "629fe761afed5777",
+      "type": "text",
+      "text": "Gốc karoti, có thể lấy 2 túc từ - Túc từ kép \n- làm cho A có đặc tính B \n- Lấy A làm B",
+      "styleAttributes": {},
+      "x": -2380,
+      "y": 510,
+      "width": 250,
+      "height": 230
+    },
+    {
+      "id": "548a0eb9dee77910",
+      "type": "text",
+      "text": "# purisuttame\n- purisa + uttama = puisuttama\n- purisuttame\n- ",
+      "styleAttributes": {},
+      "x": -2520,
+      "y": -1600,
+      "width": 375,
+      "height": 180,
+      "color": "5"
     },
     {
       "id": "80f0625bbe7d651a",
@@ -500,16 +499,6 @@
       "styleAttributes": {},
       "x": -3240,
       "y": -600,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "c87978b3475af1a4",
-      "type": "text",
-      "text": "# katvā",
-      "styleAttributes": {},
-      "x": -2740,
-      "y": 280,
       "width": 250,
       "height": 60
     },
@@ -545,24 +534,89 @@
       "color": "2"
     },
     {
-      "id": "cbcf7f52c25921c5",
+      "id": "8819d263cc5187ef",
+      "type": "text",
+      "text": "# **Đoạn kinh 3.2-3.3 (Dhp)**\n\n  \n# sabbe tasanti daṇḍassa, sabbe bhāyanti maccuno.\n\n# attānaṃ upamaṃ katvā, na haneyya na ghātaye.\n\n  \n\n# sabbe tasanti daṇḍassa, sabbesaṃ jīvitaṃ piyaṃ.\n\n# attānaṃ upamaṃ katvā, na haneyya na ghātaye.",
+      "styleAttributes": {},
+      "x": -3240,
+      "y": -1040,
+      "width": 1095,
+      "height": 320,
+      "color": "6"
+    },
+    {
+      "id": "229b342fee8f05a1",
+      "type": "text",
+      "text": "# attānaṃ",
+      "styleAttributes": {},
+      "x": -2380,
+      "y": 280,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "3a81b3008f199825",
+      "type": "text",
+      "text": "# uppanaṃ",
+      "styleAttributes": {},
+      "x": -2380,
+      "y": 420,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "4b9cff7616f0c8d3",
+      "type": "text",
+      "text": "# katvā",
+      "styleAttributes": {},
+      "x": -3980,
+      "y": 280,
+      "width": 250,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "a9f4bfdae396428b",
+      "type": "text",
+      "text": "# na bhaje",
+      "styleAttributes": {},
+      "x": -2860,
+      "y": -2075,
+      "width": 250,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "b7bf17f83d6779d3",
+      "type": "text",
+      "text": "# purisādhame\n= purisa + ahame",
+      "styleAttributes": {},
+      "x": -2520,
+      "y": -2075,
+      "width": 320,
+      "height": 115,
+      "color": "5"
+    },
+    {
+      "id": "7428ec8ea6c48271",
+      "type": "text",
+      "text": "# uppanaṃ",
+      "styleAttributes": {},
+      "x": -3620,
+      "y": 420,
+      "width": 250,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "e9d3d8c92e499524",
       "type": "text",
       "text": "### Sau khi lấy mình làm ví dụ, người ta không nên giết , không nên xui khiến giết ",
       "styleAttributes": {},
-      "x": -3240,
+      "x": -4480,
       "y": 480,
       "width": 750,
-      "height": 260
-    },
-    {
-      "id": "629fe761afed5777",
-      "type": "text",
-      "text": "Gốc karoti, có thể lấy 2 túc từ - Túc từ kép \n- làm cho A có đặc tính B \n- Lấy A làm B",
-      "styleAttributes": {},
-      "x": -2380,
-      "y": 510,
-      "width": 250,
-      "height": 230
+      "height": 160
     },
     {
       "id": "3af5cee75d1b38f1",
@@ -574,61 +628,6 @@
       "width": 250,
       "height": 60,
       "color": "5"
-    },
-    {
-      "id": "f776f85d4c3cdd35",
-      "type": "text",
-      "text": "# daṇḍassa",
-      "styleAttributes": {},
-      "x": -3620,
-      "y": -600,
-      "width": 250,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "e5af7da965a7cb73",
-      "type": "text",
-      "text": "# maccuno",
-      "styleAttributes": {},
-      "x": -3620,
-      "y": -340,
-      "width": 250,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "d080847d08c7c08e",
-      "type": "text",
-      "text": "# bhajetha",
-      "styleAttributes": {},
-      "x": -2860,
-      "y": -1600,
-      "width": 250,
-      "height": 60,
-      "color": "3"
-    },
-    {
-      "id": "548a0eb9dee77910",
-      "type": "text",
-      "text": "# purisuttame\n- purisa + uttama = puisuttama\n- purisuttame\n- ",
-      "styleAttributes": {},
-      "x": -2520,
-      "y": -1600,
-      "width": 375,
-      "height": 180,
-      "color": "5"
-    },
-    {
-      "id": "8819d263cc5187ef",
-      "type": "text",
-      "text": "# **Đoạn kinh 3.2-3.3 (Dhp)**\n\n  \n# sabbe tasanti daṇḍassa, sabbe bhāyanti maccuno.\n\n# attānaṃ upamaṃ katvā, na haneyya na ghātaye.\n\n  \n\n# sabbe tasanti daṇḍassa, sabbesaṃ jīvitaṃ piyaṃ.\n\n# attānaṃ upamaṃ katvā, na haneyya na ghātaye.",
-      "styleAttributes": {},
-      "x": -3240,
-      "y": -1040,
-      "width": 1095,
-      "height": 320,
-      "color": "6"
     },
     {
       "id": "a3d98bdbe5bcd035",
@@ -672,6 +671,17 @@
       "y": -2260,
       "width": 250,
       "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "79e51ad13ae66021",
+      "type": "text",
+      "text": "Gốc karoti, có thể lấy 2 túc từ - Túc từ kép \nlàm cho A có đặc tính B ",
+      "styleAttributes": {},
+      "x": -3620,
+      "y": 510,
+      "width": 250,
+      "height": 130,
       "color": "5"
     },
     {
@@ -730,26 +740,35 @@
       "color": "1"
     },
     {
-      "id": "f88fc66e6de87632",
+      "id": "b21738f4e137129c",
       "type": "text",
-      "text": "# ariya-sāvikā\nDanh nữ ghép, CC số ít\n### Nữ thánh đệ tử",
+      "text": "# paṭiggāhakānaṃ\nDanh Nam, GBC, số nhiều\nGBC-Thụ hưởng \n### Người thọ thí",
       "styleAttributes": {},
-      "x": 1940,
-      "y": 60,
-      "width": 320,
-      "height": 180,
-      "color": "1"
+      "x": 2660,
+      "y": 345,
+      "width": 300,
+      "height": 215
     },
     {
-      "id": "8aae7fc7131b0650",
+      "id": "a7727c8c32578b2a",
       "type": "text",
-      "text": "# āyuṃ - Tuổi thọ\nDanh Trung, TBC",
+      "text": "# ṭhānāni\nDanh Trung TBC số nhiều\n### Các điều kiện",
       "styleAttributes": {},
-      "x": 2635,
-      "y": 1550,
-      "width": 380,
-      "height": 120,
+      "x": 2980,
+      "y": 40,
+      "width": 250,
+      "height": 220,
       "color": "6"
+    },
+    {
+      "id": "1c553bc923bab3f8",
+      "type": "text",
+      "text": "# katamāni\nWhat?\nCái gì?\nĐại từ Nghi vấn dùng như tính từ",
+      "styleAttributes": {},
+      "x": 3057,
+      "y": 280,
+      "width": 263,
+      "height": 218
     },
     {
       "id": "eaf298290a1a6ebb",
@@ -762,100 +781,99 @@
       "height": 120
     },
     {
-      "id": "0309c5b170f2b2b8",
+      "id": "2875ed153936de88",
       "type": "text",
-      "text": "# Danh từ Nam tính hoặc trung tính\n## =>Gốc HTPT + a\n## HTPT nguyên mẫu māna",
+      "text": "# cattāri",
       "styleAttributes": {},
-      "x": 760,
-      "y": -2280,
-      "width": 560,
-      "height": 180
+      "x": 2540,
+      "y": -220,
+      "width": 300,
+      "height": 140
     },
     {
-      "id": "d0dca843307e8fb6",
+      "id": "60501628d6377e27",
       "type": "text",
-      "text": "# Khi bổ nghĩa Danh từ nữ tính\n## => Gốc HTPT + ī \n# Nguyên mẫu HTPT -mānī -> Biến cách theo bảng biến cách của Nadī",
+      "text": "# katamāni cattāri?",
       "styleAttributes": {},
-      "x": 760,
-      "y": -1980,
-      "width": 560,
-      "height": 260
+      "x": 2157,
+      "y": -440,
+      "width": 666,
+      "height": 122
     },
     {
-      "id": "5746f04c7dafa21a",
+      "id": "a3ee6307339d052c",
       "type": "text",
-      "text": "# Dentī",
+      "text": "#  ,  deti,  deti,  deti.\n",
       "styleAttributes": {},
-      "x": 60,
-      "y": -1840,
+      "x": 1940,
+      "y": 1400,
+      "width": 820,
+      "height": 101
+    },
+    {
+      "id": "96b1bcbe84d3b3ee",
+      "type": "text",
+      "text": "# ariya-sāvikā\nDanh nữ ghép, CC số ít\n### Nữ thánh đệ tử\n# (sā)",
+      "styleAttributes": {},
+      "x": 1940,
+      "y": 1620,
+      "width": 320,
+      "height": 260,
+      "color": "1"
+    },
+    {
+      "id": "4fd0b847d14edb4d",
+      "type": "text",
+      "text": "# bhojanaṃ\nDanh, Trung TBC\n### Thực phẩm",
+      "styleAttributes": {},
+      "x": 2240,
+      "y": -1080,
       "width": 250,
-      "height": 60
+      "height": 220,
+      "color": "6"
     },
     {
-      "id": "68af00a7aff6cc5f",
+      "id": "1598f0739c4e4268",
       "type": "text",
-      "text": "# deti => De\n# De + nt ->Gốc HTPT\nKhi biến cách theo nữ tính\n# Dent+ ī -> Dentī",
+      "text": "# cattāri\nTính từ Trung tính TBC số nhiều\n### 4",
       "styleAttributes": {},
-      "x": 60,
-      "y": -1700,
-      "width": 560,
-      "height": 280,
+      "x": 3140,
+      "y": -1380,
+      "width": 250,
+      "height": 209,
+      "color": "6"
+    },
+    {
+      "id": "14e159074d163f9d",
+      "type": "text",
+      "text": "# paṭiggāhakānaṃ\nDanh Nam, GBC, số nhiều\nGBC-Thụ hưởng \n### Người thọ thí",
+      "styleAttributes": {},
+      "x": 2660,
+      "y": -1315,
+      "width": 300,
+      "height": 215
+    },
+    {
+      "id": "48d7a2cbb8b4241a",
+      "type": "text",
+      "text": "# cattāri\nTính từ Trung tính TBC số nhiều\n### 4",
+      "styleAttributes": {},
+      "x": 3070,
+      "y": 531,
+      "width": 250,
+      "height": 209,
+      "color": "6"
+    },
+    {
+      "id": "f88fc66e6de87632",
+      "type": "text",
+      "text": "# ariya-sāvikā\nDanh nữ ghép, CC số ít\n### Nữ thánh đệ tử",
+      "styleAttributes": {},
+      "x": 1940,
+      "y": 60,
+      "width": 320,
+      "height": 180,
       "color": "1"
-    },
-    {
-      "id": "5cad2c1753e9d7c9",
-      "type": "text",
-      "text": "# Gốc HTT + Mān => gốc HTPT",
-      "styleAttributes": {},
-      "x": 60,
-      "y": -2220,
-      "width": 540,
-      "height": 120,
-      "color": "1"
-    },
-    {
-      "id": "b073f4e4deb74f82",
-      "type": "text",
-      "text": "# karoti -> karo = Gốc động từ HT\n# karo + nt = karont (Gốc HTPT)\nNếu bổ nghĩa cho danh từ nữ tính\n# -> karont + ī = karontī \n## Người nữ làm",
-      "styleAttributes": {},
-      "x": 60,
-      "y": -1377,
-      "width": 560,
-      "height": 340,
-      "color": "4"
-    },
-    {
-      "id": "786d12a3b308626b",
-      "type": "text",
-      "text": "# vaṇṇaṃ - sắc đẹp\nDanh, Nam, TBC số ít",
-      "styleAttributes": {},
-      "x": 2635,
-      "y": 1680,
-      "width": 380,
-      "height": 120,
-      "color": "6"
-    },
-    {
-      "id": "91d15586893a1530",
-      "type": "text",
-      "text": "# sukhaṃ - sự lạc\nDanh trung, TBC",
-      "styleAttributes": {},
-      "x": 2635,
-      "y": 1810,
-      "width": 380,
-      "height": 120,
-      "color": "6"
-    },
-    {
-      "id": "a60095a621e85cb1",
-      "type": "text",
-      "text": "# balaṃ - Sức lực\nDanh trung tính",
-      "styleAttributes": {},
-      "x": 2635,
-      "y": 1970,
-      "width": 380,
-      "height": 150,
-      "color": "6"
     },
     {
       "id": "5e6baf59af40698f",
@@ -880,26 +898,6 @@
       "color": "6"
     },
     {
-      "id": "2875ed153936de88",
-      "type": "text",
-      "text": "# cattāri",
-      "styleAttributes": {},
-      "x": 2540,
-      "y": -220,
-      "width": 300,
-      "height": 140
-    },
-    {
-      "id": "60501628d6377e27",
-      "type": "text",
-      "text": "# katamāni cattāri?",
-      "styleAttributes": {},
-      "x": 2157,
-      "y": -440,
-      "width": 666,
-      "height": 122
-    },
-    {
       "id": "22c14abbb4a9e440",
       "type": "text",
       "text": "# deti\nĐộng từ HT, CĐ ngôi 3 số ít\n### Cho",
@@ -909,37 +907,6 @@
       "width": 280,
       "height": 180,
       "color": "4"
-    },
-    {
-      "id": "b21738f4e137129c",
-      "type": "text",
-      "text": "# paṭiggāhakānaṃ\nDanh Nam, GBC, số nhiều\nGBC-Thụ hưởng \n### Người thọ thí",
-      "styleAttributes": {},
-      "x": 2660,
-      "y": 345,
-      "width": 300,
-      "height": 215
-    },
-    {
-      "id": "a3ee6307339d052c",
-      "type": "text",
-      "text": "#  ,  deti,  deti,  deti.\n",
-      "styleAttributes": {},
-      "x": 1940,
-      "y": 1400,
-      "width": 820,
-      "height": 101
-    },
-    {
-      "id": "96b1bcbe84d3b3ee",
-      "type": "text",
-      "text": "# ariya-sāvikā\nDanh nữ ghép, CC số ít\n### Nữ thánh đệ tử\n# (sā)",
-      "styleAttributes": {},
-      "x": 1940,
-      "y": 1620,
-      "width": 320,
-      "height": 260,
-      "color": "1"
     },
     {
       "id": "95a7e62ec0a7fae9",
@@ -964,17 +931,6 @@
       "color": "1"
     },
     {
-      "id": "4fd0b847d14edb4d",
-      "type": "text",
-      "text": "# bhojanaṃ\nDanh, Trung TBC\n### Thực phẩm",
-      "styleAttributes": {},
-      "x": 2240,
-      "y": -1080,
-      "width": 250,
-      "height": 220,
-      "color": "6"
-    },
-    {
       "id": "cf8e79e395056c3e",
       "type": "text",
       "text": "# bhojanaṃ\nDanh, Trung TBC\n### Thực phẩm",
@@ -986,17 +942,6 @@
       "color": "6"
     },
     {
-      "id": "70e3d452d8021a7f",
-      "type": "text",
-      "text": "## ṭhānāni\nDanh Trung TBC số nhiều\n### Các điều kiện",
-      "styleAttributes": {},
-      "x": 2980,
-      "y": -1620,
-      "width": 250,
-      "height": 220,
-      "color": "6"
-    },
-    {
       "id": "18b6ae2dfb27bcc3",
       "type": "text",
       "text": "### Đoạn kinh 2 (AN)\n### bhojanaṃ, suppavāse, dentī ariyasāvikā paṭiggāhakānaṃ cattāri ṭhānāni deti.\n### katamāni cattāri?\n### āyuṃ deti, vaṇṇaṃ deti, sukhaṃ deti, balaṃ deti.\n### āyuṃ kho pana datvā āyussa bhāginī hoti dibbassa vā mānusassa vā. vaṇṇaṃ datvā\n### vaṇṇassa bhāginī hoti dibbassa vā mānusassa vā. sukhaṃ datvā sukhassa bhāginī hoti\n### dibbassa vā mānusassa vā. balaṃ datvā balassa bhāginī hoti dibbassa vā mānusassa\n### vā.\n### bhojanaṃ, suppavāse, dentī ariyasāvikā paṭiggāhakānaṃ imāni cattāri ṭhānāni detīti",
@@ -1005,6 +950,48 @@
       "y": -2560,
       "width": 1160,
       "height": 500,
+      "color": "6"
+    },
+    {
+      "id": "156a8c69ad97fb2c",
+      "type": "text",
+      "text": "# Người nữ thánh đệ tử khi  bố thí thực phẩm thì bố thí 4 điều kiện gì cho những người thọ thí?",
+      "styleAttributes": {},
+      "x": 2090,
+      "y": 820,
+      "width": 1230,
+      "height": 120
+    },
+    {
+      "id": "5746f04c7dafa21a",
+      "type": "text",
+      "text": "# Dentī",
+      "styleAttributes": {},
+      "x": 60,
+      "y": -1840,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "5cad2c1753e9d7c9",
+      "type": "text",
+      "text": "# Gốc HTT + Mān => gốc HTPT",
+      "styleAttributes": {},
+      "x": 60,
+      "y": -2220,
+      "width": 540,
+      "height": 120,
+      "color": "1"
+    },
+    {
+      "id": "70e3d452d8021a7f",
+      "type": "text",
+      "text": "## ṭhānāni\nDanh Trung TBC số nhiều\n### Các điều kiện",
+      "styleAttributes": {},
+      "x": 2980,
+      "y": -1620,
+      "width": 250,
+      "height": 220,
       "color": "6"
     },
     {
@@ -1029,17 +1016,6 @@
       "color": "4"
     },
     {
-      "id": "1598f0739c4e4268",
-      "type": "text",
-      "text": "# cattāri\nTính từ Trung tính TBC số nhiều\n### 4",
-      "styleAttributes": {},
-      "x": 3140,
-      "y": -1380,
-      "width": 250,
-      "height": 209,
-      "color": "6"
-    },
-    {
       "id": "eab116cb60bdbb78",
       "type": "text",
       "text": "# Câu đơn. Động từ chính deti",
@@ -1058,46 +1034,6 @@
       "y": -840,
       "width": 1230,
       "height": 120
-    },
-    {
-      "id": "229b342fee8f05a1",
-      "type": "text",
-      "text": "# attānaṃ",
-      "styleAttributes": {},
-      "x": -2380,
-      "y": 280,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "3a81b3008f199825",
-      "type": "text",
-      "text": "# uppanaṃ",
-      "styleAttributes": {},
-      "x": -2380,
-      "y": 420,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "14e159074d163f9d",
-      "type": "text",
-      "text": "# paṭiggāhakānaṃ\nDanh Nam, GBC, số nhiều\nGBC-Thụ hưởng \n### Người thọ thí",
-      "styleAttributes": {},
-      "x": 2660,
-      "y": -1315,
-      "width": 300,
-      "height": 215
-    },
-    {
-      "id": "70f34d4e57c3650b",
-      "type": "file",
-      "file": "2024/Vault/cầu khiến cách đuôi -e.png",
-      "styleAttributes": {},
-      "x": -1940,
-      "y": -2540,
-      "width": 1254,
-      "height": 420
     },
     {
       "id": "e215eae591ffee4a",
@@ -1120,6 +1056,68 @@
       "width": 250,
       "height": 280,
       "color": "1"
+    },
+    {
+      "id": "62eccf30a34849d2",
+      "type": "text",
+      "text": "# piyaṃ",
+      "styleAttributes": {},
+      "x": -2590,
+      "y": -220,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "0309c5b170f2b2b8",
+      "type": "text",
+      "text": "# Danh từ Nam tính hoặc trung tính\n## =>Gốc HTPT + a\n## HTPT nguyên mẫu māna",
+      "styleAttributes": {},
+      "x": 760,
+      "y": -2280,
+      "width": 560,
+      "height": 180
+    },
+    {
+      "id": "d0dca843307e8fb6",
+      "type": "text",
+      "text": "# Khi bổ nghĩa Danh từ nữ tính\n## => Gốc HTPT + ī \n# Nguyên mẫu HTPT -mānī -> Biến cách theo bảng biến cách của Nadī",
+      "styleAttributes": {},
+      "x": 760,
+      "y": -1980,
+      "width": 560,
+      "height": 260
+    },
+    {
+      "id": "68af00a7aff6cc5f",
+      "type": "text",
+      "text": "# deti => De\n# De + nt ->Gốc HTPT\nKhi biến cách theo nữ tính\n# Dent+ ī -> Dentī",
+      "styleAttributes": {},
+      "x": 60,
+      "y": -1700,
+      "width": 560,
+      "height": 280,
+      "color": "1"
+    },
+    {
+      "id": "b073f4e4deb74f82",
+      "type": "text",
+      "text": "# karoti -> karo = Gốc động từ HT\n# karo + nt = karont (Gốc HTPT)\nNếu bổ nghĩa cho danh từ nữ tính\n# -> karont + ī = karontī \n## Người nữ làm",
+      "styleAttributes": {},
+      "x": 60,
+      "y": -1377,
+      "width": 560,
+      "height": 340,
+      "color": "4"
+    },
+    {
+      "id": "70f34d4e57c3650b",
+      "type": "file",
+      "file": "2024/Vault/cầu khiến cách đuôi -e.png",
+      "styleAttributes": {},
+      "x": -1940,
+      "y": -2540,
+      "width": 1254,
+      "height": 420
     },
     {
       "id": "69fe0b5d361e8d3c",
@@ -1210,6 +1208,27 @@
       "y": 1,
       "width": 250,
       "height": 154
+    },
+    {
+      "id": "7f9de783f895c381",
+      "type": "text",
+      "text": "# āyuṃ\n",
+      "styleAttributes": {},
+      "x": 6998,
+      "y": -1468,
+      "width": 250,
+      "height": 154
+    },
+    {
+      "id": "a2ce9bc6ac6ec51c",
+      "type": "text",
+      "text": "# bhāginī\nDanh, nữ, CC số ít\n## Người dự phần ",
+      "styleAttributes": {},
+      "x": 7013,
+      "y": -1858,
+      "width": 250,
+      "height": 188,
+      "color": "1"
     },
     {
       "id": "08f2f653d7bc8a6c",
@@ -1325,27 +1344,6 @@
       "color": "3"
     },
     {
-      "id": "7f9de783f895c381",
-      "type": "text",
-      "text": "# āyuṃ\n",
-      "styleAttributes": {},
-      "x": 6998,
-      "y": -1468,
-      "width": 250,
-      "height": 154
-    },
-    {
-      "id": "a2ce9bc6ac6ec51c",
-      "type": "text",
-      "text": "# bhāginī\nDanh, nữ, CC số ít\n## Người dự phần ",
-      "styleAttributes": {},
-      "x": 7013,
-      "y": -1858,
-      "width": 250,
-      "height": 188,
-      "color": "1"
-    },
-    {
       "id": "6d0f0b156741bb9d",
       "type": "text",
       "text": "# āyussa\nTrung tính SHC số ít\nTuổi thọ",
@@ -1407,50 +1405,6 @@
       "height": 320
     },
     {
-      "id": "1c2ee402a50ea3fb",
-      "type": "text",
-      "text": "# deti",
-      "styleAttributes": {},
-      "x": 4615,
-      "y": 4060,
-      "width": 140,
-      "height": 100,
-      "color": "4"
-    },
-    {
-      "id": "1fbe3f9e4659a92c",
-      "type": "text",
-      "text": "# dentī\nHTPT, nữ tính CC số ít\n### bố thí\n(Sắc thái bối cảnh cho động từ chính)",
-      "styleAttributes": {},
-      "x": 4255,
-      "y": 4345,
-      "width": 250,
-      "height": 280,
-      "color": "1"
-    },
-    {
-      "id": "7bad5779ef009bec",
-      "type": "text",
-      "text": "# bhojanaṃ\nDanh, Trung TBC\n### Thực phẩm",
-      "styleAttributes": {},
-      "x": 4520,
-      "y": 4445,
-      "width": 250,
-      "height": 180,
-      "color": "6"
-    },
-    {
-      "id": "bf02e33f4eedcdf7",
-      "type": "text",
-      "text": "# balaṃ - Sức lực\nDanh trung tính",
-      "styleAttributes": {},
-      "x": 5040,
-      "y": 4010,
-      "width": 380,
-      "height": 150,
-      "color": "6"
-    },
-    {
       "id": "015e04709a775af4",
       "type": "text",
       "text": "#  kho pana    hoti  vā  vā. ",
@@ -1502,6 +1456,94 @@
       "y": -1550,
       "width": 300,
       "height": 236
+    },
+    {
+      "id": "90b24ed076c55f4d",
+      "type": "text",
+      "text": "# ariya-sāvikā\nDanh nữ ghép, CC số ít\n### Nữ thánh đệ tử\n# (sā)",
+      "styleAttributes": {},
+      "x": 4080,
+      "y": 1610,
+      "width": 320,
+      "height": 260,
+      "color": "1"
+    },
+    {
+      "id": "aa0fc9d20d8455f3",
+      "type": "text",
+      "text": "# ariya-sāvikā\nDanh nữ ghép, CC số ít\n### Nữ thánh đệ tử\n# (sā)",
+      "styleAttributes": {},
+      "x": 4080,
+      "y": 3140,
+      "width": 320,
+      "height": 260,
+      "color": "1"
+    },
+    {
+      "id": "708a345f9dd5fb5f",
+      "type": "text",
+      "text": "# bhojanaṃ\nDanh, Trung TBC\n### Thực phẩm",
+      "styleAttributes": {},
+      "x": 4560,
+      "y": 1995,
+      "width": 250,
+      "height": 180,
+      "color": "6"
+    },
+    {
+      "id": "372671f5716587c4",
+      "type": "text",
+      "text": "# deti",
+      "styleAttributes": {},
+      "x": 4615,
+      "y": 1610,
+      "width": 140,
+      "height": 100,
+      "color": "4"
+    },
+    {
+      "id": "1c2ee402a50ea3fb",
+      "type": "text",
+      "text": "# deti",
+      "styleAttributes": {},
+      "x": 4615,
+      "y": 4060,
+      "width": 140,
+      "height": 100,
+      "color": "4"
+    },
+    {
+      "id": "1fbe3f9e4659a92c",
+      "type": "text",
+      "text": "# dentī\nHTPT, nữ tính CC số ít\n### bố thí\n(Sắc thái bối cảnh cho động từ chính)",
+      "styleAttributes": {},
+      "x": 4255,
+      "y": 4345,
+      "width": 250,
+      "height": 280,
+      "color": "1"
+    },
+    {
+      "id": "7bad5779ef009bec",
+      "type": "text",
+      "text": "# bhojanaṃ\nDanh, Trung TBC\n### Thực phẩm",
+      "styleAttributes": {},
+      "x": 4520,
+      "y": 4445,
+      "width": 250,
+      "height": 180,
+      "color": "6"
+    },
+    {
+      "id": "bf02e33f4eedcdf7",
+      "type": "text",
+      "text": "# balaṃ - Sức lực\nDanh trung tính",
+      "styleAttributes": {},
+      "x": 5040,
+      "y": 4010,
+      "width": 380,
+      "height": 150,
+      "color": "6"
     },
     {
       "id": "232e8864a3ddf73e",
@@ -1559,6 +1601,17 @@
       "color": "4"
     },
     {
+      "id": "8d98c8c4f147459d",
+      "type": "text",
+      "text": "# deti",
+      "styleAttributes": {},
+      "x": 4615,
+      "y": 2405,
+      "width": 140,
+      "height": 100,
+      "color": "4"
+    },
+    {
       "id": "5a7df265991f95c1",
       "type": "text",
       "text": "# dentī\nHTPT, nữ tính CC số ít\n### bố thí\n(Sắc thái bối cảnh cho động từ chính)",
@@ -1567,48 +1620,6 @@
       "y": 2610,
       "width": 250,
       "height": 280,
-      "color": "1"
-    },
-    {
-      "id": "9f459c4dd633f442",
-      "type": "text",
-      "text": "# katamāni\nWhat?\nCái gì?\nĐại từ Nghi vấn dùng như tính từ",
-      "styleAttributes": {},
-      "x": 4740,
-      "y": 41,
-      "width": 263,
-      "height": 218
-    },
-    {
-      "id": "f3cdfe0ef12b0c41",
-      "type": "text",
-      "text": "# paṭiggāhakānaṃ\nDanh Nam, GBC, số nhiều\nGBC-Thụ hưởng \n### Người thọ thí",
-      "styleAttributes": {},
-      "x": 4380,
-      "y": 345,
-      "width": 300,
-      "height": 215
-    },
-    {
-      "id": "675bad985ec0f6a3",
-      "type": "text",
-      "text": "# ariya-sāvikā\nDanh nữ ghép, CC số ít\n### Nữ thánh đệ tử",
-      "styleAttributes": {},
-      "x": 3660,
-      "y": 60,
-      "width": 320,
-      "height": 180,
-      "color": "1"
-    },
-    {
-      "id": "90b24ed076c55f4d",
-      "type": "text",
-      "text": "# ariya-sāvikā\nDanh nữ ghép, CC số ít\n### Nữ thánh đệ tử\n# (sā)",
-      "styleAttributes": {},
-      "x": 4080,
-      "y": 1610,
-      "width": 320,
-      "height": 260,
       "color": "1"
     },
     {
@@ -1645,57 +1656,46 @@
       "color": "1"
     },
     {
-      "id": "aa0fc9d20d8455f3",
+      "id": "b7770d77ef0820c2",
       "type": "text",
-      "text": "# ariya-sāvikā\nDanh nữ ghép, CC số ít\n### Nữ thánh đệ tử\n# (sā)",
+      "text": "# āyuṃ - Tuổi thọ\nDanh Trung, TBC",
       "styleAttributes": {},
-      "x": 4080,
-      "y": 3140,
-      "width": 320,
-      "height": 260,
-      "color": "1"
-    },
-    {
-      "id": "156a8c69ad97fb2c",
-      "type": "text",
-      "text": "# Người nữ thánh đệ tử khi  bố thí thực phẩm thì bố thí 4 điều kiện gì cho những người thọ thí?",
-      "styleAttributes": {},
-      "x": 2090,
-      "y": 820,
-      "width": 1230,
-      "height": 120
-    },
-    {
-      "id": "a7727c8c32578b2a",
-      "type": "text",
-      "text": "# ṭhānāni\nDanh Trung TBC số nhiều\n### Các điều kiện",
-      "styleAttributes": {},
-      "x": 2980,
-      "y": 40,
-      "width": 250,
-      "height": 220,
+      "x": 5040,
+      "y": 1600,
+      "width": 380,
+      "height": 120,
       "color": "6"
     },
     {
-      "id": "1c553bc923bab3f8",
+      "id": "9f459c4dd633f442",
       "type": "text",
       "text": "# katamāni\nWhat?\nCái gì?\nĐại từ Nghi vấn dùng như tính từ",
       "styleAttributes": {},
-      "x": 3057,
-      "y": 280,
+      "x": 4740,
+      "y": 41,
       "width": 263,
       "height": 218
     },
     {
-      "id": "48d7a2cbb8b4241a",
+      "id": "f3cdfe0ef12b0c41",
       "type": "text",
-      "text": "# cattāri\nTính từ Trung tính TBC số nhiều\n### 4",
+      "text": "# paṭiggāhakānaṃ\nDanh Nam, GBC, số nhiều\nGBC-Thụ hưởng \n### Người thọ thí",
       "styleAttributes": {},
-      "x": 3070,
-      "y": 531,
-      "width": 250,
-      "height": 209,
-      "color": "6"
+      "x": 4380,
+      "y": 345,
+      "width": 300,
+      "height": 215
+    },
+    {
+      "id": "675bad985ec0f6a3",
+      "type": "text",
+      "text": "# ariya-sāvikā\nDanh nữ ghép, CC số ít\n### Nữ thánh đệ tử",
+      "styleAttributes": {},
+      "x": 3660,
+      "y": 60,
+      "width": 320,
+      "height": 180,
+      "color": "1"
     },
     {
       "id": "2e102c9f17bed7e0",
@@ -1752,14 +1752,58 @@
       "color": "4"
     },
     {
-      "id": "7cfbb32c2668efec",
+      "id": "d9cf2a256b09f750",
       "type": "text",
-      "text": "# cattāri\nTính từ Trung tính TBC số nhiều\n### 4",
+      "text": "# vaṇṇaṃ - sắc đẹp\nDanh, Nam, TBC số ít",
       "styleAttributes": {},
-      "x": 7480,
-      "y": 4435,
-      "width": 250,
-      "height": 209,
+      "x": 5040,
+      "y": 2385,
+      "width": 380,
+      "height": 120,
+      "color": "6"
+    },
+    {
+      "id": "8aae7fc7131b0650",
+      "type": "text",
+      "text": "# āyuṃ - Tuổi thọ\nDanh Trung, TBC",
+      "styleAttributes": {},
+      "x": 2635,
+      "y": 1550,
+      "width": 380,
+      "height": 120,
+      "color": "6"
+    },
+    {
+      "id": "786d12a3b308626b",
+      "type": "text",
+      "text": "# vaṇṇaṃ - sắc đẹp\nDanh, Nam, TBC số ít",
+      "styleAttributes": {},
+      "x": 2635,
+      "y": 1680,
+      "width": 380,
+      "height": 120,
+      "color": "6"
+    },
+    {
+      "id": "91d15586893a1530",
+      "type": "text",
+      "text": "# sukhaṃ - sự lạc\nDanh trung, TBC",
+      "styleAttributes": {},
+      "x": 2635,
+      "y": 1810,
+      "width": 380,
+      "height": 120,
+      "color": "6"
+    },
+    {
+      "id": "a60095a621e85cb1",
+      "type": "text",
+      "text": "# balaṃ - Sức lực\nDanh trung tính",
+      "styleAttributes": {},
+      "x": 2635,
+      "y": 1970,
+      "width": 380,
+      "height": 150,
       "color": "6"
     },
     {
@@ -1785,6 +1829,37 @@
       "color": "1"
     },
     {
+      "id": "fb9700c9eb3b7cd6",
+      "type": "text",
+      "text": "# āyussa\nTrung tính SHC số ít\nTuổi thọ",
+      "styleAttributes": {},
+      "x": 7500,
+      "y": 992,
+      "width": 250,
+      "height": 120
+    },
+    {
+      "id": "4045569916ae6f5b",
+      "type": "text",
+      "text": "# āyussa\nTrung tính SHC số ít\nTuổi thọ",
+      "styleAttributes": {},
+      "x": 7515,
+      "y": 1442,
+      "width": 250,
+      "height": 124
+    },
+    {
+      "id": "7cfbb32c2668efec",
+      "type": "text",
+      "text": "# cattāri\nTính từ Trung tính TBC số nhiều\n### 4",
+      "styleAttributes": {},
+      "x": 7480,
+      "y": 4435,
+      "width": 250,
+      "height": 209,
+      "color": "6"
+    },
+    {
       "id": "7ead46acd608ec2f",
       "type": "text",
       "text": "# paṭiggāhakānaṃ\nDanh Nam, GBC, số nhiều\nGBC-Thụ hưởng \n### Người thọ thí",
@@ -1793,16 +1868,6 @@
       "y": 4500,
       "width": 300,
       "height": 215
-    },
-    {
-      "id": "909d1d572b0bcab7",
-      "type": "text",
-      "text": "# imāni\nĐTCĐ dùng như tính từ, trung tính, TBC số nhiều\nTHese / Những cái đó Cái ",
-      "styleAttributes": {},
-      "x": 7494,
-      "y": 4685,
-      "width": 236,
-      "height": 250
     },
     {
       "id": "245f62aa260a301c",
@@ -1835,28 +1900,6 @@
       "height": 124
     },
     {
-      "id": "fad31e73cf809d2b",
-      "type": "text",
-      "text": "# bhojanaṃ\nDanh, Trung TBC\n### Thực phẩm",
-      "styleAttributes": {},
-      "x": 6580,
-      "y": 4735,
-      "width": 250,
-      "height": 160,
-      "color": "6"
-    },
-    {
-      "id": "fa5a99a7880aa72e",
-      "type": "text",
-      "text": "# Vị thánh nữ đệ tử sau khi cho sức lực  trở thành người dự phần trong tuổi thọ thuộc cõi Trời hoặc thuộc cõi Người",
-      "styleAttributes": {},
-      "x": 6121,
-      "y": 2857,
-      "width": 1195,
-      "height": 240,
-      "color": "6"
-    },
-    {
       "id": "5d6a5a1e5cbd510f",
       "type": "text",
       "text": "## ṭhānāni\nDanh Trung TBC số nhiều\n### Các điều kiện",
@@ -1865,6 +1908,57 @@
       "y": 4195,
       "width": 250,
       "height": 220,
+      "color": "6"
+    },
+    {
+      "id": "fd25475a38f71782",
+      "type": "text",
+      "text": "# dibbassa\n## Thuộc cõi trời",
+      "styleAttributes": {},
+      "x": 7810,
+      "y": 1044,
+      "width": 190,
+      "height": 144
+    },
+    {
+      "id": "cfc95944742af353",
+      "type": "text",
+      "text": "# mānusassa\nSHC tổng thê\n## Thuộc cõi người",
+      "styleAttributes": {},
+      "x": 7780,
+      "y": 1510,
+      "width": 253,
+      "height": 227
+    },
+    {
+      "id": "43caaa9993dd781d",
+      "type": "text",
+      "text": "# mānusassa\nSHC tổng thê\n## Thuộc cõi người",
+      "styleAttributes": {},
+      "x": 7791,
+      "y": 2750,
+      "width": 253,
+      "height": 227
+    },
+    {
+      "id": "909d1d572b0bcab7",
+      "type": "text",
+      "text": "# imāni\nĐTCĐ dùng như tính từ, trung tính, TBC số nhiều\nTHese / Những cái đó Cái ",
+      "styleAttributes": {},
+      "x": 7494,
+      "y": 4685,
+      "width": 236,
+      "height": 250
+    },
+    {
+      "id": "fad31e73cf809d2b",
+      "type": "text",
+      "text": "# bhojanaṃ\nDanh, Trung TBC\n### Thực phẩm",
+      "styleAttributes": {},
+      "x": 6580,
+      "y": 4735,
+      "width": 250,
+      "height": 160,
       "color": "6"
     },
     {
@@ -1931,6 +2025,17 @@
       "height": 95
     },
     {
+      "id": "fa5a99a7880aa72e",
+      "type": "text",
+      "text": "# Vị thánh nữ đệ tử sau khi cho sức lực  trở thành người dự phần trong tuổi thọ thuộc cõi Trời hoặc thuộc cõi Người",
+      "styleAttributes": {},
+      "x": 6121,
+      "y": 2857,
+      "width": 1195,
+      "height": 240,
+      "color": "6"
+    },
+    {
       "id": "3ed50275694fcd4e",
       "type": "text",
       "text": "# ariya-sāvikā\nDanh nữ ghép, CC số ít\n### Nữ thánh đệ tử\n# (sā)",
@@ -1963,46 +2068,6 @@
       "height": 236
     },
     {
-      "id": "fb9700c9eb3b7cd6",
-      "type": "text",
-      "text": "# āyussa\nTrung tính SHC số ít\nTuổi thọ",
-      "styleAttributes": {},
-      "x": 7500,
-      "y": 992,
-      "width": 250,
-      "height": 120
-    },
-    {
-      "id": "fd25475a38f71782",
-      "type": "text",
-      "text": "# dibbassa\n## Thuộc cõi trời",
-      "styleAttributes": {},
-      "x": 7810,
-      "y": 1044,
-      "width": 190,
-      "height": 144
-    },
-    {
-      "id": "4045569916ae6f5b",
-      "type": "text",
-      "text": "# āyussa\nTrung tính SHC số ít\nTuổi thọ",
-      "styleAttributes": {},
-      "x": 7515,
-      "y": 1442,
-      "width": 250,
-      "height": 124
-    },
-    {
-      "id": "cfc95944742af353",
-      "type": "text",
-      "text": "# mānusassa\nSHC tổng thê\n## Thuộc cõi người",
-      "styleAttributes": {},
-      "x": 7780,
-      "y": 1510,
-      "width": 253,
-      "height": 227
-    },
-    {
       "id": "dbab5f56f212d758",
       "type": "text",
       "text": "# bhāginī\nDanh, nữ, CC số ít\n## Người dự phần ",
@@ -2024,28 +2089,6 @@
       "height": 95
     },
     {
-      "id": "708a345f9dd5fb5f",
-      "type": "text",
-      "text": "# bhojanaṃ\nDanh, Trung TBC\n### Thực phẩm",
-      "styleAttributes": {},
-      "x": 4560,
-      "y": 1995,
-      "width": 250,
-      "height": 180,
-      "color": "6"
-    },
-    {
-      "id": "372671f5716587c4",
-      "type": "text",
-      "text": "# deti",
-      "styleAttributes": {},
-      "x": 4615,
-      "y": 1610,
-      "width": 140,
-      "height": 100,
-      "color": "4"
-    },
-    {
       "id": "6bbd6023cc22f958",
       "type": "text",
       "text": "# ariya-sāvikā\nDanh nữ ghép, CC số ít\n### Nữ thánh đệ tử\n# (sā)",
@@ -2055,6 +2098,17 @@
       "width": 320,
       "height": 260,
       "color": "1"
+    },
+    {
+      "id": "4c07d00a22fa39f4",
+      "type": "text",
+      "text": "# balaṃ - Sức lực\nDanh trung tính",
+      "styleAttributes": {},
+      "x": 6991,
+      "y": 2656,
+      "width": 380,
+      "height": 150,
+      "color": "6"
     },
     {
       "id": "8e18385e356489ca",
@@ -2087,60 +2141,6 @@
       "y": 1290,
       "width": 300,
       "height": 236
-    },
-    {
-      "id": "43caaa9993dd781d",
-      "type": "text",
-      "text": "# mānusassa\nSHC tổng thê\n## Thuộc cõi người",
-      "styleAttributes": {},
-      "x": 7791,
-      "y": 2750,
-      "width": 253,
-      "height": 227
-    },
-    {
-      "id": "4c07d00a22fa39f4",
-      "type": "text",
-      "text": "# balaṃ - Sức lực\nDanh trung tính",
-      "styleAttributes": {},
-      "x": 6991,
-      "y": 2656,
-      "width": 380,
-      "height": 150,
-      "color": "6"
-    },
-    {
-      "id": "8d98c8c4f147459d",
-      "type": "text",
-      "text": "# deti",
-      "styleAttributes": {},
-      "x": 4615,
-      "y": 2405,
-      "width": 140,
-      "height": 100,
-      "color": "4"
-    },
-    {
-      "id": "b7770d77ef0820c2",
-      "type": "text",
-      "text": "# āyuṃ - Tuổi thọ\nDanh Trung, TBC",
-      "styleAttributes": {},
-      "x": 5040,
-      "y": 1600,
-      "width": 380,
-      "height": 120,
-      "color": "6"
-    },
-    {
-      "id": "d9cf2a256b09f750",
-      "type": "text",
-      "text": "# vaṇṇaṃ - sắc đẹp\nDanh, Nam, TBC số ít",
-      "styleAttributes": {},
-      "x": 5040,
-      "y": 2385,
-      "width": 380,
-      "height": 120,
-      "color": "6"
     }
   ],
   "edges": [
