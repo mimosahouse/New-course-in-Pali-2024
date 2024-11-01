@@ -11,17 +11,6 @@
       "label": "Untitled group"
     },
     {
-      "id": "4952b8bd72c7e3f3",
-      "type": "group",
-      "sideRatio": 1.7777777777777777,
-      "styleAttributes": {},
-      "x": -6610,
-      "y": -2320,
-      "width": 1849,
-      "height": 1040,
-      "label": "1"
-    },
-    {
       "id": "7933fdd8b806d14b",
       "type": "group",
       "sideRatio": 1.7777777777777777,
@@ -32,6 +21,17 @@
       "width": 1671,
       "height": 940,
       "label": "Start Slide"
+    },
+    {
+      "id": "4952b8bd72c7e3f3",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "styleAttributes": {},
+      "x": -6610,
+      "y": -2320,
+      "width": 1849,
+      "height": 1040,
+      "label": "1"
     },
     {
       "id": "43c73e91e3b34019",
@@ -59,6 +59,7 @@
       "id": "3506af541d1d3109",
       "type": "group",
       "sideRatio": 1.7777777777777777,
+      "styleAttributes": {},
       "x": -5941,
       "y": 400,
       "width": 1200,
@@ -98,11 +99,12 @@
     },
     {
       "id": "e0894815b16d56d0",
+      "type": "group",
+      "styleAttributes": {},
       "x": -5700,
       "y": 840,
       "width": 820,
       "height": 200,
-      "type": "group",
       "label": "Untitled group"
     },
     {
@@ -160,6 +162,17 @@
       "label": "Người dễ duôi"
     },
     {
+      "id": "112ceba4836892a0",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "styleAttributes": {},
+      "x": -2640,
+      "y": -3680,
+      "width": 1200,
+      "height": 675,
+      "label": "New Slide"
+    },
+    {
       "id": "ae506cd814272ca1",
       "type": "text",
       "text": "# Câu 1: bahuṃ pi ce sahitaṃ bhāsamāno, na takkaro hoti naro pamatto (Câu đẳng lập)",
@@ -200,26 +213,6 @@
       "height": 125
     },
     {
-      "id": "8d1a8467d4c56de7",
-      "type": "text",
-      "text": "## Lưu ý - Người nó nhiều kinh điể không xấu, phải đến không thực hành thì mới xấu",
-      "styleAttributes": {},
-      "x": -4680,
-      "y": -2240,
-      "width": 737,
-      "height": 95
-    },
-    {
-      "id": "129267dbd8ce8a21",
-      "type": "text",
-      "text": "## Lưu ý - Nếu muốn phủ định takkaro thông thường người ta sẽ dung a-, atakkaro",
-      "styleAttributes": {},
-      "x": -4680,
-      "y": -2057,
-      "width": 737,
-      "height": 95
-    },
-    {
       "id": "d6f9591a9b60058f",
       "type": "text",
       "text": "# Hoti",
@@ -228,36 +221,6 @@
       "y": -2004,
       "width": 260,
       "height": 60
-    },
-    {
-      "id": "941a18d1de87b03d",
-      "type": "text",
-      "text": "# ce\nphụ từ/thường đi với từ đầu tiên trong câu/nếu\n\n---\n# Mệnh đề Nếu\n# Chỉ điều kiện",
-      "styleAttributes": {},
-      "x": -6580,
-      "y": -2057,
-      "width": 280,
-      "height": 577
-    },
-    {
-      "id": "260e8478b32cf5b9",
-      "type": "text",
-      "text": "# nếu [Người nói nhiều kinh điển mà không phải là người thực hành]",
-      "styleAttributes": {},
-      "x": -6250,
-      "y": -1440,
-      "width": 1270,
-      "height": 140
-    },
-    {
-      "id": "77ec78340eeb209a",
-      "type": "text",
-      "text": "# Câu 1: bahuṃ pi ce sahitaṃ bhāsamāno, na takkaro hoti naro pamatto (Câu đẳng lập)",
-      "styleAttributes": {},
-      "x": -6580,
-      "y": -2276,
-      "width": 1600,
-      "height": 84
     },
     {
       "id": "51ad5918f85dbbf6",
@@ -278,6 +241,96 @@
       "y": -2004,
       "width": 320,
       "height": 240
+    },
+    {
+      "id": "941a18d1de87b03d",
+      "type": "text",
+      "text": "# ce\nphụ từ/thường đi với từ đầu tiên trong câu/nếu\n\n---\n# Mệnh đề Nếu\n# Chỉ điều kiện",
+      "styleAttributes": {},
+      "x": -6580,
+      "y": -2057,
+      "width": 280,
+      "height": 577
+    },
+    {
+      "id": "77ec78340eeb209a",
+      "type": "text",
+      "text": "# Câu 1: bahuṃ pi ce sahitaṃ bhāsamāno, na takkaro hoti naro pamatto (Câu đẳng lập)",
+      "styleAttributes": {},
+      "x": -6580,
+      "y": -2276,
+      "width": 1600,
+      "height": 84
+    },
+    {
+      "id": "8d1a8467d4c56de7",
+      "type": "text",
+      "text": "## Lưu ý - Người nó nhiều kinh điể không xấu, phải đến không thực hành thì mới xấu",
+      "styleAttributes": {},
+      "x": -4680,
+      "y": -2240,
+      "width": 737,
+      "height": 95
+    },
+    {
+      "id": "260e8478b32cf5b9",
+      "type": "text",
+      "text": "# nếu [Người nói nhiều kinh điển mà không phải là người thực hành]",
+      "styleAttributes": {},
+      "x": -6250,
+      "y": -1440,
+      "width": 1270,
+      "height": 140
+    },
+    {
+      "id": "5549e557c0170480",
+      "type": "text",
+      "text": "# 1. bahuṃ pi ce sahitaṃ bhāsamāno, na takkaro hoti naro pamatto. \n# 2. gopova gāvo gaṇayaṃ paresaṃ, na bhāgavā sāmaññassa hoti. ",
+      "styleAttributes": {},
+      "x": -6360,
+      "y": -3800,
+      "width": 880,
+      "height": 240
+    },
+    {
+      "id": "129267dbd8ce8a21",
+      "type": "text",
+      "text": "## Lưu ý - Nếu muốn phủ định takkaro thông thường người ta sẽ dung a-, atakkaro",
+      "styleAttributes": {},
+      "x": -4680,
+      "y": -2057,
+      "width": 737,
+      "height": 95
+    },
+    {
+      "id": "4a59d6b0bcf96b7c",
+      "type": "text",
+      "text": "# bhāsamāno\nHTPT, dùng như noun, m, cc, ít/chủ từ/người nói",
+      "styleAttributes": {},
+      "x": -6190,
+      "y": -2037,
+      "width": 300,
+      "height": 125
+    },
+    {
+      "id": "d6b087ddc525b925",
+      "type": "text",
+      "text": "# bahuṃ\nadi, nt, TBC, ít/BNTT cho sahitaṃ/nhiều",
+      "styleAttributes": {},
+      "x": -5950,
+      "y": -1655,
+      "width": 255,
+      "height": 120
+    },
+    {
+      "id": "e263d301ef230eb0",
+      "type": "text",
+      "text": "# sahitaṃ\nn, nt, TBC, ít/TTTT cho HTPT bhāsamāno/kinh điển",
+      "styleAttributes": {},
+      "x": -6120,
+      "y": -1830,
+      "width": 270,
+      "height": 155
     },
     {
       "id": "cd0070b2585398f5",
@@ -350,16 +403,6 @@
       "height": 177
     },
     {
-      "id": "4a59d6b0bcf96b7c",
-      "type": "text",
-      "text": "# bhāsamāno\nHTPT, dùng như noun, m, cc, ít/chủ từ/người nói",
-      "styleAttributes": {},
-      "x": -6190,
-      "y": -2037,
-      "width": 300,
-      "height": 125
-    },
-    {
       "id": "c1885d6231982e99",
       "type": "text",
       "text": "# nếu [người nói nhiều kinh điển mà không làm theo] thì là [người dễ duôi]",
@@ -368,16 +411,6 @@
       "y": -1104,
       "width": 883,
       "height": 119
-    },
-    {
-      "id": "74928e9017f0bcba",
-      "type": "text",
-      "text": "# naro\nn, m, cc, ít/VN CĐL/người",
-      "styleAttributes": {},
-      "x": -9960,
-      "y": -759,
-      "width": 263,
-      "height": 135
     },
     {
       "id": "2aab61168085e43a",
@@ -390,6 +423,16 @@
       "height": 120
     },
     {
+      "id": "74928e9017f0bcba",
+      "type": "text",
+      "text": "# naro\nn, m, cc, ít/VN CĐL/người",
+      "styleAttributes": {},
+      "x": -9960,
+      "y": -759,
+      "width": 263,
+      "height": 135
+    },
+    {
       "id": "5ffc5c2a9cafc16e",
       "type": "text",
       "text": "# pamatto\nadj, m, cc, ít/BNTT cho naro/dễ duôi",
@@ -398,6 +441,16 @@
       "y": -609,
       "width": 257,
       "height": 138
+    },
+    {
+      "id": "e39fe6d14bbf329c",
+      "type": "text",
+      "text": "# (Và) Người ấy là người dễ duôi...",
+      "styleAttributes": {},
+      "x": -5834,
+      "y": -160,
+      "width": 730,
+      "height": 80
     },
     {
       "id": "d50c7713e0ba7428",
@@ -430,36 +483,6 @@
       "height": 80
     },
     {
-      "id": "d6b087ddc525b925",
-      "type": "text",
-      "text": "# bahuṃ\nadi, nt, TBC, ít/BNTT cho sahitaṃ/nhiều",
-      "styleAttributes": {},
-      "x": -5950,
-      "y": -1655,
-      "width": 255,
-      "height": 120
-    },
-    {
-      "id": "e263d301ef230eb0",
-      "type": "text",
-      "text": "# sahitaṃ\nn, nt, TBC, ít/TTTT cho HTPT bhāsamāno/kinh điển",
-      "styleAttributes": {},
-      "x": -6120,
-      "y": -1830,
-      "width": 270,
-      "height": 155
-    },
-    {
-      "id": "5549e557c0170480",
-      "type": "text",
-      "text": "# 1. bahuṃ pi ce sahitaṃ bhāsamāno, na takkaro hoti naro pamatto. \n# 2. gopova gāvo gaṇayaṃ paresaṃ, na bhāgavā sāmaññassa hoti. ",
-      "styleAttributes": {},
-      "x": -6360,
-      "y": -3800,
-      "width": 880,
-      "height": 240
-    },
-    {
       "id": "52be9d65d6c1b3c6",
       "type": "text",
       "text": "# 2. gopova gāvo gaṇayaṃ paresaṃ, na bhāgavā sāmaññassa hoti.",
@@ -488,6 +511,26 @@
       "y": 620,
       "width": 580,
       "height": 140
+    },
+    {
+      "id": "a0923d1adf3c8468",
+      "type": "text",
+      "text": "# sāmaññassa",
+      "styleAttributes": {},
+      "x": -5160,
+      "y": 960,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "62202036dd25b2f7",
+      "type": "text",
+      "text": "# (So)",
+      "styleAttributes": {},
+      "x": -5680,
+      "y": 860,
+      "width": 126,
+      "height": 60
     },
     {
       "id": "df18fe8838f795f1",
@@ -520,34 +563,14 @@
       "height": 60
     },
     {
-      "id": "a0923d1adf3c8468",
+      "id": "603a1a814edbf9b1",
       "type": "text",
-      "text": "# sāmaññassa",
+      "text": "rāgañca dosañca pahāya m\nohaṃ, sammappajāno suvimuttacitto.\n\nanupādiyāno idha vā huraṃ vā, sa bhāgavā sāmaññassa hoti.",
       "styleAttributes": {},
-      "x": -5160,
-      "y": 960,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "62202036dd25b2f7",
-      "type": "text",
-      "text": "# (So)",
-      "styleAttributes": {},
-      "x": -5680,
-      "y": 860,
-      "width": 126,
-      "height": 60
-    },
-    {
-      "id": "e39fe6d14bbf329c",
-      "type": "text",
-      "text": "# (Và) Người ấy là người dễ duôi...",
-      "styleAttributes": {},
-      "x": -5834,
-      "y": -160,
-      "width": 730,
-      "height": 80
+      "x": -2620,
+      "y": -3620,
+      "width": 560,
+      "height": 280
     }
   ],
   "edges": [

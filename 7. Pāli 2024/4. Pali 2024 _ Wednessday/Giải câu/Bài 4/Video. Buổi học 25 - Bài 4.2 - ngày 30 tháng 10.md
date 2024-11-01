@@ -89,3 +89,81 @@ Trạng từ chỉ phương thức
 Cô Phước Hiền hỏi
 
 [1:35:16](https://www.youtube.com/watch?t=5716&v=1RWosW_y9aA)
+Người thực hành Pháp
+SHC - như túc từ (**Dhammassa**)
+Người hành đúng theo Pháp
+phương thức của việc hành Pháp - đúng thep Pháp
+
+cari -> ý niệm hành động
+anudhammacari -> ý niệm thực hành
+
+**người thực hiện hành động**
+
+[1:41:07](https://www.youtube.com/watch?t=6067&v=1RWosW_y9aA)
+gopova 
+iva -> Phụ từ so sánh. Công thức iva + Danh từ Chủ cách
+có thể đi với cụm từ, hoặc mênh đề. Nếu cụm từ thì phải ở Chủ cách
+
+iva -> gopo gāvo gaṇayaṃ 
+người đó không là người dự phần Sa-Môn hạnh
+
+---
+**Thụ động và Chủ động**
+
+[1:49:49](https://www.youtube.com/watch?t=6589&v=1RWosW_y9aA)
+bahuṃ pi ce sahitaṃ bhāsamāno, na takkaro hoti naro pamatto.
+
+gopova gāvo gaṇayaṃ paresaṃ, na bhāgavā sāmaññassa hoti.
+
+  
+
+appampi ce sahitaṃ bhāsamāno, dhammassa hoti anudhammacārī.
+
+Mệnh đề nếu: Nếu [người nói ít kinh điển là người hành Pháp, thực hành theo Pháp]
+
+_dhammasa là SHC như túc từ, đóng vai trò phương thức cho cārī_
+
+   
+> [!NOTE] Mệnh đề NẾU
+> - A
+> - B
+> - C
+
+
+> [!NOTE] Mệnh đề THÌ
+> - X
+> - Y
+> - Z
+
+A: Người nói nhiều kinh điển mà không là người thực hành
+B: Người ấy là người dễ duôi
+
+X: Người ấy giống như người chăn bò đếm bò người khác
+Y: Người ấy không là người dự phần Sa-Môn
+
+---
+
+
+
+  
+
+
+---
+[1:51:21](https://www.youtube.com/watch?t=6681&v=1RWosW_y9aA)
+Thầy mời Lương lê
+Mi Lê
+
+---
+[1:52:48](https://www.youtube.com/watch?t=6768&v=1RWosW_y9aA)
+**Nhung Phạm lớp 2023**
+
+
+
+
+[1:53:26](https://www.youtube.com/watch?t=6806&v=1RWosW_y9aA)
+Cô Phước Hiền làm tiếp 
+
+rāgañca dosañca pahāya m
+ohaṃ, sammappajāno suvimuttacitto.
+
+anupādiyāno idha vā huraṃ vā, sa bhāgavā sāmaññassa hoti.
