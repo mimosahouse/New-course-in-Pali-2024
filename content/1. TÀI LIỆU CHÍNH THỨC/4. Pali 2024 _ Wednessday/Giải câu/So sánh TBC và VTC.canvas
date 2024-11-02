@@ -1,0 +1,135 @@
+{
+  "nodes": [
+    {
+      "id": "7647376904bf525f",
+      "type": "text",
+      "text": "# So sánh Động từ chỉ sự di chuyển kết hợp TBC hoặc VTC\n",
+      "styleAttributes": {},
+      "x": 600,
+      "y": -240,
+      "width": 440,
+      "height": 172,
+      "color": "1"
+    },
+    {
+      "id": "b3f7e1ff0240455e",
+      "type": "text",
+      "text": "Trong khi trả lời câu hỏi\n\n---\n# Đâu là khác biệt căn bản, đặc trưng.",
+      "styleAttributes": {},
+      "x": 1110,
+      "y": -137,
+      "width": 370,
+      "height": 240,
+      "color": "2"
+    },
+    {
+      "id": "11a265542f9b140d",
+      "type": "text",
+      "text": "Trước khi trả lời câu hỏi\n\n---\n# Tại sao có câu hỏi này?",
+      "styleAttributes": {},
+      "x": 1110,
+      "y": -432,
+      "width": 370,
+      "height": 235,
+      "color": "2"
+    },
+    {
+      "id": "c4bf1f41d12577c7",
+      "type": "text",
+      "text": "## Nhìn vào hai chức năng của biến cách và tự nhiên nảy ra sự so sánh giữa 2 chức năng đó?\n\n---\n\n### Các nguyên tắc ngữ pháp chỉ là những quy định chung không nhất thiết người ta sẽ nói theo cách đó. Nên việc chỉ nhìn vào những quy tắc ngữ pháp và đặt câu hỏi là không nhiều ích lợi",
+      "styleAttributes": {},
+      "x": 1680,
+      "y": -540,
+      "width": 960,
+      "height": 300,
+      "color": "5"
+    },
+    {
+      "id": "1064e08de528c38d",
+      "type": "text",
+      "text": "# Nói về mục đích diễn đạt: Khi mình là người nước ngoài và chỉ nắm được các quy tắc ngữ pháp như đã học. Thì khi đó, nếu muốn nói về đích đến cho việc di chuyển, mình sẽ dùng Trực bổ cách, gián bổ cách (chỉ đích đến) hoặc vị trí cách chỉ vị trí, nơi chốn.\n# Còn khi muốn diễn đạt hoàn cảnh, mục đích cho việc di chuyển, mình sẽ sử dụng Vị trí cách:\n# - Tôi đi trong rừng\n# - Họ trượt té trong vũng bùn lầy lội\n# ",
+      "styleAttributes": {},
+      "x": 1680,
+      "y": 103,
+      "width": 960,
+      "height": 454
+    },
+    {
+      "id": "1f6288fef95a0868",
+      "type": "text",
+      "text": "# Khi mục đích diễn đạt là nói về đích đến cho việc di chuyển, hay hàm ý di chuyển, thì người ta có thể sẽ sử dụng TBC, GBC, VTC tùy theo ",
+      "styleAttributes": {},
+      "x": 1680,
+      "y": -197,
+      "width": 960,
+      "height": 257
+    },
+    {
+      "id": "1c327d2fb1db7c20",
+      "type": "text",
+      "text": "# Tại sao ngưòi ta đưa ra được các quy tắc ngữ pháp?",
+      "styleAttributes": {},
+      "x": 1110,
+      "y": 220,
+      "width": 370,
+      "height": 160
+    },
+    {
+      "id": "564c9689ffd65da9",
+      "type": "text",
+      "text": "1 Dựa và khối lượng văn bản (Kinh điển) có sẵn\n2. Dựa vào Các ngôn ngữ họ hàng, anh em còn được sử dụng\n3. Dựa vào mục đích diễn đạt mà bất cứ dân tộc nào cũng cần truyền tải",
+      "styleAttributes": {},
+      "x": 600,
+      "y": 527,
+      "width": 360,
+      "height": 293
+    }
+  ],
+  "edges": [
+    {
+      "id": "0e52bd4f9930b04f",
+      "fromNode": "7647376904bf525f",
+      "fromSide": "right",
+      "toNode": "11a265542f9b140d",
+      "toSide": "left",
+      "color": "1"
+    },
+    {
+      "id": "ee400340941ee0b0",
+      "fromNode": "7647376904bf525f",
+      "fromSide": "right",
+      "toNode": "b3f7e1ff0240455e",
+      "toSide": "left",
+      "color": "1"
+    },
+    {
+      "id": "4e287f08644ca7d6",
+      "fromNode": "11a265542f9b140d",
+      "fromSide": "right",
+      "toNode": "c4bf1f41d12577c7",
+      "toSide": "left"
+    },
+    {
+      "id": "5c52bb6cc4d20063",
+      "fromNode": "b3f7e1ff0240455e",
+      "fromSide": "right",
+      "toNode": "1064e08de528c38d",
+      "toSide": "left"
+    },
+    {
+      "id": "c8eaaa20edd257e8",
+      "fromNode": "7647376904bf525f",
+      "fromSide": "bottom",
+      "toNode": "1c327d2fb1db7c20",
+      "toSide": "left"
+    },
+    {
+      "id": "b5e2731b30096474",
+      "fromNode": "1c327d2fb1db7c20",
+      "fromSide": "bottom",
+      "toNode": "564c9689ffd65da9",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {}
+}

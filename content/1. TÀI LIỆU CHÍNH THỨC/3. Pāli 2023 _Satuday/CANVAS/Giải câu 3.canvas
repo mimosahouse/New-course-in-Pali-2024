@@ -1,0 +1,139 @@
+{
+  "nodes": [
+    {
+      "id": "8aa59380e85f643d",
+      "type": "text",
+      "text": "## Nâhaṃ, bhikkhave, aññaṃ ekarūpaṃ pi samanupassāmi, yaṃ evaṃ purisassa cittaṃ pariyādāya tiṭṭhati, yathayidaṃ, bhikkhave, itthirūpaṃ. \n## Itthirūpaṃ, bhikkhave, purisassa cittaṃ pariyādāya tiṭṭhatîti. ",
+      "styleAttributes": {},
+      "x": -660,
+      "y": -400,
+      "width": 1340,
+      "height": 240
+    },
+    {
+      "id": "537842c34f2509ed",
+      "type": "text",
+      "text": "# Itthirūpaṃ, bhikkhave, purisassa cittaṃ pariyādāya tiṭṭhati.",
+      "styleAttributes": {},
+      "x": -660,
+      "y": -140,
+      "width": 960,
+      "height": 50
+    },
+    {
+      "id": "86e95138c5bc1b04",
+      "type": "text",
+      "text": "# Deti\n",
+      "styleAttributes": {},
+      "x": -360,
+      "y": -40,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "cb295ef79466cd25",
+      "type": "text",
+      "text": "# Sā\n",
+      "styleAttributes": {},
+      "x": -640,
+      "y": -40,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "6d77e58abba141a5",
+      "type": "text",
+      "text": "# Ratthaṃ",
+      "styleAttributes": {},
+      "x": -60,
+      "y": -40,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "adee210841ce672c",
+      "type": "text",
+      "text": "NOM\nChủ cách làm chủ từ",
+      "styleAttributes": {},
+      "x": -610,
+      "y": 80,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "4c9b26ff4be2f4a8",
+      "type": "text",
+      "text": "ACC\nTrực bổ cách làm túc từ trực tiếp",
+      "styleAttributes": {},
+      "x": -25,
+      "y": 240,
+      "width": 250,
+      "height": 120
+    },
+    {
+      "id": "4ae91e5f2d6ccbe5",
+      "type": "text",
+      "text": "GEN\nGián bổ cách làm túc từ gián tiếp",
+      "styleAttributes": {},
+      "x": 350,
+      "y": 140,
+      "width": 250,
+      "height": 120
+    },
+    {
+      "id": "3adb6065a46d31ce",
+      "type": "text",
+      "text": "# Narassa",
+      "styleAttributes": {},
+      "x": -25,
+      "y": 50,
+      "width": 250,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "be37f98059fa53a0",
+      "fromNode": "cb295ef79466cd25",
+      "fromSide": "right",
+      "toNode": "86e95138c5bc1b04",
+      "toSide": "left"
+    },
+    {
+      "id": "0c3c7f2d701a231c",
+      "fromNode": "86e95138c5bc1b04",
+      "fromSide": "right",
+      "toNode": "6d77e58abba141a5",
+      "toSide": "left"
+    },
+    {
+      "id": "9460ac2f6789c20f",
+      "fromNode": "cb295ef79466cd25",
+      "fromSide": "bottom",
+      "toNode": "adee210841ce672c",
+      "toSide": "left"
+    },
+    {
+      "id": "3201cc24c67519a0",
+      "fromNode": "6d77e58abba141a5",
+      "fromSide": "left",
+      "toNode": "4c9b26ff4be2f4a8",
+      "toSide": "left"
+    },
+    {
+      "id": "67e5f17b9b2581f0",
+      "fromNode": "6d77e58abba141a5",
+      "fromSide": "left",
+      "toNode": "3adb6065a46d31ce",
+      "toSide": "left"
+    },
+    {
+      "id": "d4ad116a7a57f996",
+      "fromNode": "3adb6065a46d31ce",
+      "fromSide": "bottom",
+      "toNode": "4ae91e5f2d6ccbe5",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {}
+}
