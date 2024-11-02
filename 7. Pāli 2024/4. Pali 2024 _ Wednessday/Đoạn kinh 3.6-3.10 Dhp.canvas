@@ -1,0 +1,28 @@
+{
+  "nodes": [
+    {
+      "id": "c57cb1bbc0bfc563",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "isStartNode": true,
+      "styleAttributes": {},
+      "x": -860,
+      "y": -680,
+      "width": 1671,
+      "height": 940,
+      "label": "Start Slide"
+    },
+    {
+      "id": "5861389093c29409",
+      "type": "text",
+      "text": "## **Đoạn kinh 3.6-3.10 (Dhp)**\n\n  \n\n## piyato jāyatī soko, piyato jāyatī bhayaṃ.\n\n## piyato vippamuttassa, natthi soko kuto bhayaṃ.\n\n  \n|||||||||||||||||||||||||||\n## pemato jāyatī soko, pemato jāyatī bhayaṃ.\n\n## pemato vippamuttassa, natthi soko kuto bhayaṃ.\n\n  ||||||||||||||||||||||||||||||||||||||\n\n## ratiyā jāyatī soko, ratiyā jāyatī bhayaṃ.\n\n## ratiyā vippamuttassa, natthi soko kuto bhayaṃ.\n\n  \n||||||||||||||||||||||||||||||||||\n## kāmato jāyatī soko, kāmato jāyatī bhayaṃ.\n\n## kāmato vippamuttassa, natthi soko kuto bhayaṃ.\n\n  \n|||||||||||||||||||||||||||||||||\n## taṇhāya jāyatī soko, taṇhāya jāyatī bhayaṃ.\n\n## taṇhāya vippamuttassa, natthi soko kuto bhayaṃ.",
+      "styleAttributes": {},
+      "x": -780,
+      "y": -640,
+      "width": 700,
+      "height": 840
+    }
+  ],
+  "edges": [],
+  "metadata": {}
+}

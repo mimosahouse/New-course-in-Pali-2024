@@ -1,5 +1,7 @@
 ---
 media_link: https://www.youtube.com/watch?v=1RWosW_y9aA&t=107
+title: Buổi học 25 - Bài 4.2 - ngày 30 tháng 10
+draft: false
 ---
 #Video
 
@@ -172,8 +174,8 @@ Y: Người ấy không là người dự phần Sa-Môn
 
 ---
 [1:51:21](https://www.youtube.com/watch?t=6681&v=1RWosW_y9aA)
-Thầy mời Lương lê
-Mi Lê
+**Thầy mời Lương lê**
+**Mi Lê**
 
 
 ---
@@ -196,3 +198,49 @@ appampi ce sahitaṃ bhāsamāno, dhammassa hoti anudhammacārī.
 
 [2:08:38](https://www.youtube.com/watch?t=7718&v=1RWosW_y9aA)
 Chủ từ - **So**: Người đó,...
+
+[2:26:18](https://www.youtube.com/watch?t=8778&v=1RWosW_y9aA)
+**Nghỉ giải lao**
+
+---
+[2:33:57](https://www.youtube.com/watch?t=9237&v=1RWosW_y9aA)
+**Bài tiếp theo**
+
+**Đoạn kinh 3.6-3.10 (Dhp)**
+
+  [[Đoạn kinh 3.6-3.10 Dhp.canvas|Đoạn kinh 3.6-3.10 Dhp]]
+
+```
+piyato jāyatī soko, piyato jāyatī bhayaṃ.
+
+piyato vippamuttassa, natthi soko kuto bhayaṃ.
+
+  
+
+pemato jāyatī soko, pemato jāyatī bhayaṃ.
+
+pemato vippamuttassa, natthi soko kuto bhayaṃ.
+
+  
+
+ratiyā jāyatī soko, ratiyā jāyatī bhayaṃ.
+
+ratiyā vippamuttassa, natthi soko kuto bhayaṃ.
+
+  
+
+kāmato jāyatī soko, kāmato jāyatī bhayaṃ.
+
+kāmato vippamuttassa, natthi soko kuto bhayaṃ.
+
+  
+
+taṇhāya jāyatī soko, taṇhāya jāyatī bhayaṃ.
+
+taṇhāya vippamuttassa, natthi soko kuto bhayaṃ.
+```
+
+[2:39:34](https://www.youtube.com/watch?t=9574&v=1RWosW_y9aA)
+**My Lê giải đoạn kinh**
+
+---
