@@ -104,5 +104,5 @@ Không nên mang (nhận) con chim nhạn vào nhà
 dhāreti => dhāreyyasi 
 ---
 ---
-[[5. Tools for learning/Typing Rules on windows]]
+[[3. Project/5. Tools for learning/Typing Rules on windows]]
 

@@ -42,13 +42,16 @@ Karoi - Có thể lấy trực bổ cách kép
 **Người ta không nên giết, không nên xui khiến giết**
 
 ---
+---
 [45:07](https://www.youtube.com/watch?t=2707&v=1RWosW_y9aA)
 **Sabbesaṃ**: Có thể Gián bổ cách thụ hưởng
 hoặc sở hữu cách Chỉ đối tượng sở hữu
 
 [[Gián bổ cách thụ hưởng]]
 [[Sở hữu cách chỉ đối tượng sở hữu]]
+	**Hai cách dùng này có nhiều đỉểm overlap, nên có thể chọn một trong hai**
 
+---
 ---
 [48:44](https://www.youtube.com/watch?t=2924&v=1RWosW_y9aA)
 
@@ -60,14 +63,32 @@ hoặc sở hữu cách Chỉ đối tượng sở hữu
 > [[Bài 4.2 Người nói nhiều kinh điển.canvas|Bài 4.2 Người nói nhiều kinh điển]]
 
 
-[1:16:50](https://www.youtube.com/watch?t=4610&v=1RWosW_y9aA)
-
-
 [1:17:45](https://www.youtube.com/watch?t=4665&v=1RWosW_y9aA)
 **Gopova = gopo + iva Không làm chủ từ được**
 Anh Truyền cho rằng gopo là chủ ngữ
 
+---
+   
+> [!NOTE] Mệnh đề NẾU - Mệnh đề Nguyên Nhân
+> - A
+> - B
+> - C
 
+
+> [!NOTE] Mệnh đề THÌ - Mệnh đề Hệ quả / Kết quả
+> - X
+> - Y
+> - Z
+
+---
+A: Người nói nhiều kinh điển mà không là người thực hành
+B: Người ấy là người dễ duôi
+
+X: Người ấy giống như người chăn bò đếm bò người khác
+Y: Người ấy không là người dự phần Sa-Môn
+
+[1:20:51](https://www.youtube.com/watch?t=4851&v=1RWosW_y9aA)
+THÔNG ĐIỆP CHÍNH NHƯ VẬY
 
 [1:18:00](https://www.youtube.com/watch?t=4680&v=1RWosW_y9aA)
 Vấn đề nằm từ câu trên.
@@ -100,12 +121,17 @@ anudhammacari -> ý niệm thực hành
 **người thực hiện hành động**
 
 [1:41:07](https://www.youtube.com/watch?t=6067&v=1RWosW_y9aA)
-gopova 
-iva -> Phụ từ so sánh. Công thức iva + Danh từ Chủ cách
-có thể đi với cụm từ, hoặc mênh đề. Nếu cụm từ thì phải ở Chủ cách
+**gopova** 
+**iva** -> Phụ từ so sánh. Công thức iva + Danh từ Chủ cách
+có thể đi với cụm từ, hoặc mênh đề. 
+**Nếu đi với cụm từ thì cụm từ đó phải ở Chủ cách**
 
 iva -> gopo gāvo gaṇayaṃ 
 người đó không là người dự phần Sa-Môn hạnh
+
+[[Cách dùng iva]] - Lần đầu gặp ở bài Giống như núi đá kiên cố. Vị tì-khưu
+
+Giống như người chăn bò của người khác, người ấy không dự phần Sa-Môn hạnh./
 
 ---
 **Thụ động và Chủ động**
@@ -124,13 +150,13 @@ Mệnh đề nếu: Nếu [người nói ít kinh điển là người hành Ph�
 _dhammasa là SHC như túc từ, đóng vai trò phương thức cho cārī_
 
    
-> [!NOTE] Mệnh đề NẾU
+> [!NOTE] Mệnh đề NẾU - Mệnh đề Nguyên Nhân
 > - A
 > - B
 > - C
 
 
-> [!NOTE] Mệnh đề THÌ
+> [!NOTE] Mệnh đề THÌ - Mệnh đề Hệ quả / Kết quả
 > - X
 > - Y
 > - Z
@@ -144,26 +170,29 @@ Y: Người ấy không là người dự phần Sa-Môn
 ---
 
 
-
-  
-
-
 ---
 [1:51:21](https://www.youtube.com/watch?t=6681&v=1RWosW_y9aA)
 Thầy mời Lương lê
 Mi Lê
+
 
 ---
 [1:52:48](https://www.youtube.com/watch?t=6768&v=1RWosW_y9aA)
 **Nhung Phạm lớp 2023**
 
 
-
-
+---
 [1:53:26](https://www.youtube.com/watch?t=6806&v=1RWosW_y9aA)
-Cô Phước Hiền làm tiếp 
+**Cô Phước Hiền làm tiếp** 
 
-rāgañca dosañca pahāya m
-ohaṃ, sammappajāno suvimuttacitto.
 
 anupādiyāno idha vā huraṃ vā, sa bhāgavā sāmaññassa hoti.
+
+rāgañca dosañca pahāya mohaṃ, sammappajāno suvimuttacitto.
+
+
+appampi ce sahitaṃ bhāsamāno, dhammassa hoti anudhammacārī.
+
+
+[2:08:38](https://www.youtube.com/watch?t=7718&v=1RWosW_y9aA)
+Chủ từ - **So**: Người đó,...

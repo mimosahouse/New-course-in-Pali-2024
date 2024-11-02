@@ -1,3 +1,11 @@
+---
+aliases: 
+created: {{date:YYYY-MM-DD HH:MM:SS}}
+tags: 
+feeling: 
+summary:
+---
+---
 [[Ngôn ngữ]]
 *Ngôn ngữ sau một thời gian dài, biến đổi đến mức thế hệ hiện tại không thể đọc hiểu được ngôn ngữ của các thế hệ trước -> Cổ ngữ. Cổ ngữ không được bảo tồn thì trở thành Tử ngữ* 
 
@@ -18,5 +26,5 @@ tiếng HÁN cổ
 
 
 ---
-[[Video. Buổi 1 @ 12.8.2023]]
+[[Video. [1] Buổi 1 @ 12.8.2023]]
 [[Video. Lớp thứ 5 Buổi 1]]

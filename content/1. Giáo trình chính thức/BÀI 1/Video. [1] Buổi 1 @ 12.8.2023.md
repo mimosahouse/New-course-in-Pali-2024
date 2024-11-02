@@ -56,8 +56,8 @@ Một cổ ngữ nếu không được bảo tồn, nó sẽ dần biến mất 
 
 ---
 [54:47](https://www.youtube.com/watch?t=3287&v=7h-UMhD5kSY)
-**Các học**
-
+## **Các học**
+### Cấu trúc tài liệu
 > [!NOTE] Cấu trúc bài học
 >  **1. Đoạn kinh Pāli**
 >  Đây là một đoạn kinh thực sự trong kinh điển, không phải đoạn kinh đặt ra cho mục đích học tập hay nghiên cứu đơn thuần.
@@ -71,7 +71,16 @@ Các từ xuất hiện trong đoạn kinh, ghi theo trật tự thời gian và
 
 Cũng không học ngữ pháp theo những câu văn nhân tạo, tự đặt ra chỉ vì mục đích học tập./
 
-Từ loại cơ bản:
+---
+[[Phương pháp học Pāḷi]]
+[[Phương pháp học trong lớp Này]]
+
+
+## Bài 1 - Nội dung này được trình bày trong trang khác
+---
+---
+[1:02:17](https://www.youtube.com/watch?t=3737&v=7h-UMhD5kSY)
+**Từ loại cơ bản:**
 - Danh từ pali
 
 
@@ -84,12 +93,3 @@ Từ loại cơ bản:
 
 
 ---
-
----
-[30:57](https://www.youtube.com/watch?t=1857&v=7h-UMhD5kSY)
-Phân biệt bộ chữ và Ngôn ngữ
-
-Chữ NÔM và chữ QUỐC NGỮ để để ký âm tiếng VIỆT./
-
----
-
