@@ -1,0 +1,695 @@
+{
+  "nodes": [
+    {
+      "id": "d1ef2f4234a3f106",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "isStartNode": true,
+      "styleAttributes": {},
+      "x": -640,
+      "y": -300,
+      "width": 1200,
+      "height": 675,
+      "label": "Start Slide"
+    },
+    {
+      "id": "654cee6aacb68493",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "styleAttributes": {},
+      "x": -2120,
+      "y": 865,
+      "width": 1200,
+      "height": 675,
+      "label": "New Slide"
+    },
+    {
+      "id": "2c18969b46fc1fd6",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "styleAttributes": {},
+      "x": -640,
+      "y": 880,
+      "width": 1200,
+      "height": 675,
+      "label": "New Slide"
+    },
+    {
+      "id": "bff7ca3e64a7b0a5",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "styleAttributes": {},
+      "x": -640,
+      "y": 2000,
+      "width": 1200,
+      "height": 675,
+      "label": "New Slide"
+    },
+    {
+      "id": "0f1dac0886e547c1",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "styleAttributes": {},
+      "x": 769,
+      "y": -323,
+      "width": 1200,
+      "height": 675,
+      "label": "New Slide"
+    },
+    {
+      "id": "320866b9a9f94e40",
+      "type": "text",
+      "text": "# Tôi",
+      "styleAttributes": {},
+      "x": -460,
+      "y": -200,
+      "width": 160,
+      "height": 60
+    },
+    {
+      "id": "fe8539298785782b",
+      "type": "text",
+      "text": "# đá",
+      "styleAttributes": {},
+      "x": -180,
+      "y": -200,
+      "width": 120,
+      "height": 60
+    },
+    {
+      "id": "80e3b66c98fd606c",
+      "type": "text",
+      "text": "# Đặc trưng, đặc sản của Danh từ Pāli: Nó thay đổi tùy theo chức năng trong câu/",
+      "styleAttributes": {},
+      "x": -5520,
+      "y": -2460,
+      "width": 780,
+      "height": 140
+    },
+    {
+      "id": "3f01c159184f2711",
+      "type": "text",
+      "text": "# Danh từ",
+      "styleAttributes": {},
+      "x": -5460,
+      "y": -2880,
+      "width": 260,
+      "height": 152
+    },
+    {
+      "id": "5aa9fdc930ad325f",
+      "type": "text",
+      "text": "# Chỉ sự vật, sự việc",
+      "styleAttributes": {},
+      "x": -5080,
+      "y": -2854,
+      "width": 540,
+      "height": 100
+    },
+    {
+      "id": "a6d125ee1433fef7",
+      "type": "text",
+      "text": "# căn nhà, cái cây , người \n# Mặt trời, trái đất",
+      "styleAttributes": {},
+      "x": -5080,
+      "y": -2728,
+      "width": 540,
+      "height": 200
+    },
+    {
+      "id": "903eb76323596d37",
+      "type": "text",
+      "text": "# Tôi",
+      "styleAttributes": {},
+      "x": -510,
+      "y": 1020,
+      "width": 160,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "adeb95db2f0b3bad",
+      "type": "text",
+      "text": "#  thấy",
+      "styleAttributes": {},
+      "x": -239,
+      "y": 1020,
+      "width": 199,
+      "height": 90,
+      "color": "4"
+    },
+    {
+      "id": "bdc21920e30b009e",
+      "type": "text",
+      "text": "# bóng",
+      "styleAttributes": {},
+      "x": 1590,
+      "y": -260,
+      "width": 260,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "36e00833ce0f61b7",
+      "type": "text",
+      "text": "# Túc từ trực tiếp\nĐối tượng trực tiếp chịu tác động từ hành động trong động từ",
+      "styleAttributes": {},
+      "x": 1575,
+      "y": -91,
+      "width": 260,
+      "height": 211
+    },
+    {
+      "id": "0dae858b49859b20",
+      "type": "text",
+      "text": "# bóng",
+      "styleAttributes": {},
+      "x": 60,
+      "y": -200,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "c891614d794fe984",
+      "type": "text",
+      "text": "# Động từ chính",
+      "styleAttributes": {},
+      "x": 1239,
+      "y": 192,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "2ed24202a1c503a7",
+      "type": "text",
+      "text": "# đá",
+      "styleAttributes": {},
+      "x": 1310,
+      "y": -260,
+      "width": 120,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "bf5495c09692c8aa",
+      "type": "text",
+      "text": "# Chủ cách",
+      "styleAttributes": {},
+      "x": -560,
+      "y": 1403,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "4097569f31148efa",
+      "type": "text",
+      "text": "# Chủ từ\nLàm chủ hành động",
+      "styleAttributes": {},
+      "x": 1020,
+      "y": -60,
+      "width": 260,
+      "height": 160
+    },
+    {
+      "id": "9823e93833bf8152",
+      "type": "text",
+      "text": "# Đức Phật",
+      "styleAttributes": {},
+      "x": 43,
+      "y": 1035,
+      "width": 260,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "2ff00913e705c4c2",
+      "type": "text",
+      "text": "# Tôi",
+      "styleAttributes": {},
+      "x": 990,
+      "y": -260,
+      "width": 160,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "274fc38625c8281e",
+      "type": "text",
+      "text": "# Trực bổ cách",
+      "styleAttributes": {},
+      "x": 43,
+      "y": 1403,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "e79021589415b5d6",
+      "type": "text",
+      "text": "# Trật tự câu trong tiếng Việt",
+      "styleAttributes": {},
+      "x": -620,
+      "y": 2020,
+      "width": 1160,
+      "height": 60
+    },
+    {
+      "id": "eac7949f551969d9",
+      "type": "text",
+      "text": "# Con mèo",
+      "styleAttributes": {},
+      "x": -520,
+      "y": 2200,
+      "width": 211,
+      "height": 70,
+      "color": "1"
+    },
+    {
+      "id": "c4a1568f8d567568",
+      "type": "text",
+      "text": "# con chó",
+      "styleAttributes": {},
+      "x": 280,
+      "y": 2190,
+      "width": 199,
+      "height": 90,
+      "color": "4"
+    },
+    {
+      "id": "7c39b0cb95b91667",
+      "type": "text",
+      "text": "# Cắn",
+      "styleAttributes": {},
+      "x": -120,
+      "y": 2205,
+      "width": 260,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "cd9a20bac3f0a937",
+      "type": "text",
+      "text": "# buddhaṃ saraṇaṃ gacchāmi. \n# dhammaṃ saraṇaṃ gacchāmi. \n# saṅghaṃ saraṇaṃ gacchāmi.",
+      "styleAttributes": {},
+      "x": 1098,
+      "y": 2705,
+      "width": 562,
+      "height": 215
+    },
+    {
+      "id": "aa50842ecdd5a72f",
+      "type": "text",
+      "text": "# Chủ cách",
+      "styleAttributes": {},
+      "x": -2040,
+      "y": 1343,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "971c6435e868a5d4",
+      "type": "text",
+      "text": "# Trực bổ cách",
+      "styleAttributes": {},
+      "x": -1437,
+      "y": 1343,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "35fdbd52366cfe64",
+      "type": "text",
+      "text": "# Danh từ Pāli thay đổi theo Tính - Gender\n# Thay đổi theo số\n# Thay đổi theo cách của Danh từ",
+      "styleAttributes": {},
+      "x": -5520,
+      "y": -2220,
+      "width": 660,
+      "height": 170
+    },
+    {
+      "id": "23636b15f843b85b",
+      "type": "text",
+      "text": "# Câu Pāli",
+      "styleAttributes": {},
+      "x": -2040,
+      "y": 1463,
+      "width": 863,
+      "height": 60
+    },
+    {
+      "id": "1a58f2822bf09292",
+      "type": "text",
+      "text": "# Đức Phật",
+      "styleAttributes": {},
+      "x": -1140,
+      "y": 1620,
+      "width": 260,
+      "height": 75,
+      "color": "6"
+    },
+    {
+      "id": "3d6ecc754df2b95f",
+      "type": "text",
+      "text": "# Chủ từ ",
+      "styleAttributes": {},
+      "x": -4040,
+      "y": -2450,
+      "width": 320,
+      "height": 130
+    },
+    {
+      "id": "fd79f8a21cfc8fd9",
+      "type": "text",
+      "text": "# Trực bổ  cách",
+      "styleAttributes": {},
+      "x": -4660,
+      "y": -2445,
+      "width": 310,
+      "height": 85
+    },
+    {
+      "id": "9c1c514be37057c6",
+      "type": "text",
+      "text": "# Túc từ trực tiếp",
+      "styleAttributes": {},
+      "x": -4040,
+      "y": -2658,
+      "width": 360,
+      "height": 98
+    },
+    {
+      "id": "7055c7307ff18138",
+      "type": "text",
+      "text": "#  **passāti**",
+      "styleAttributes": {},
+      "x": -1177,
+      "y": 975,
+      "width": 199,
+      "height": 120,
+      "color": "4"
+    },
+    {
+      "id": "f1d11976bbfbeae6",
+      "type": "text",
+      "text": "# Buddho",
+      "styleAttributes": {},
+      "x": -1608,
+      "y": 1065,
+      "width": 260,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "50cc49c0818ceeb0",
+      "type": "text",
+      "text": "# maṃ",
+      "styleAttributes": {},
+      "x": -2020,
+      "y": 1065,
+      "width": 177,
+      "height": 90,
+      "color": "1"
+    },
+    {
+      "id": "3a2025a29433830a",
+      "type": "text",
+      "text": "# Chủ cách",
+      "styleAttributes": {},
+      "x": -4670,
+      "y": -2320,
+      "width": 310,
+      "height": 100
+    },
+    {
+      "id": "e19e5dfc9d94189a",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {},
+      "x": -5000,
+      "y": -1880,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "4bae2c550155a7db",
+      "type": "text",
+      "text": "# Sở hữu   cách",
+      "styleAttributes": {},
+      "x": -4670,
+      "y": -2107,
+      "width": 310,
+      "height": 87
+    },
+    {
+      "id": "410f1d8490e5a070",
+      "type": "text",
+      "text": "# Gián bổ   cách",
+      "styleAttributes": {},
+      "x": -4670,
+      "y": -2020,
+      "width": 310,
+      "height": 98
+    },
+    {
+      "id": "6d0d47556fc167e9",
+      "type": "text",
+      "text": "# Dụng cụ   cách",
+      "styleAttributes": {},
+      "x": -4670,
+      "y": -1880,
+      "width": 310,
+      "height": 98
+    },
+    {
+      "id": "c4004993001bf7f0",
+      "type": "text",
+      "text": "# Xuất xứ  cách",
+      "styleAttributes": {},
+      "x": -4660,
+      "y": -1740,
+      "width": 310,
+      "height": 98
+    },
+    {
+      "id": "a7ecbe8228c499c9",
+      "type": "text",
+      "text": "# Vị trí   cách",
+      "styleAttributes": {},
+      "x": -4660,
+      "y": -1580,
+      "width": 310,
+      "height": 98
+    },
+    {
+      "id": "230a2b5f6c013fab",
+      "type": "text",
+      "text": "# Hô   cách",
+      "styleAttributes": {},
+      "x": -4660,
+      "y": -1400,
+      "width": 310,
+      "height": 98
+    }
+  ],
+  "edges": [
+    {
+      "id": "de878fa4f2be78d2",
+      "styleAttributes": {},
+      "fromNode": "320866b9a9f94e40",
+      "fromSide": "right",
+      "toNode": "fe8539298785782b",
+      "toSide": "left"
+    },
+    {
+      "id": "659732b8d909124a",
+      "styleAttributes": {},
+      "fromNode": "fe8539298785782b",
+      "fromSide": "right",
+      "toNode": "0dae858b49859b20",
+      "toSide": "left"
+    },
+    {
+      "id": "35026c84be0254c6",
+      "styleAttributes": {},
+      "fromNode": "903eb76323596d37",
+      "fromSide": "top",
+      "toNode": "adeb95db2f0b3bad",
+      "toSide": "top",
+      "color": "1"
+    },
+    {
+      "id": "c1aa5eeff8dcb3ef",
+      "styleAttributes": {},
+      "fromNode": "adeb95db2f0b3bad",
+      "fromSide": "bottom",
+      "toNode": "9823e93833bf8152",
+      "toSide": "bottom",
+      "color": "4"
+    },
+    {
+      "id": "712d8c49d7990377",
+      "styleAttributes": {},
+      "fromNode": "903eb76323596d37",
+      "fromSide": "bottom",
+      "toNode": "bf5495c09692c8aa",
+      "toSide": "top"
+    },
+    {
+      "id": "f079c4b46299ace2",
+      "styleAttributes": {},
+      "fromNode": "9823e93833bf8152",
+      "fromSide": "bottom",
+      "toNode": "274fc38625c8281e",
+      "toSide": "top"
+    },
+    {
+      "id": "10d31e1f050b2cb4",
+      "styleAttributes": {},
+      "fromNode": "654cee6aacb68493",
+      "fromSide": "bottom",
+      "toNode": "bff7ca3e64a7b0a5",
+      "toSide": "left"
+    },
+    {
+      "id": "de0ef01a15e1bd64",
+      "styleAttributes": {},
+      "fromNode": "2ed24202a1c503a7",
+      "fromSide": "bottom",
+      "toNode": "c891614d794fe984",
+      "toSide": "top",
+      "color": "5"
+    },
+    {
+      "id": "a91f53b09f38f95e",
+      "styleAttributes": {},
+      "fromNode": "2ff00913e705c4c2",
+      "fromSide": "right",
+      "toNode": "2ed24202a1c503a7",
+      "toSide": "left",
+      "color": "1"
+    },
+    {
+      "id": "a0f7f47bfe363ce6",
+      "styleAttributes": {},
+      "fromNode": "2ff00913e705c4c2",
+      "fromSide": "bottom",
+      "toNode": "4097569f31148efa",
+      "toSide": "left",
+      "color": "1"
+    },
+    {
+      "id": "5392f2807df38e94",
+      "styleAttributes": {},
+      "fromNode": "2ed24202a1c503a7",
+      "fromSide": "right",
+      "toNode": "bdc21920e30b009e",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "0097c3f024ea0cd9",
+      "styleAttributes": {},
+      "fromNode": "bdc21920e30b009e",
+      "fromSide": "bottom",
+      "toNode": "36e00833ce0f61b7",
+      "toSide": "top",
+      "color": "6"
+    },
+    {
+      "id": "39983c626cf8f637",
+      "styleAttributes": {},
+      "fromNode": "d1ef2f4234a3f106",
+      "fromSide": "right",
+      "toNode": "0f1dac0886e547c1",
+      "toSide": "left"
+    },
+    {
+      "id": "a92b17beea23e9a4",
+      "styleAttributes": {},
+      "fromNode": "0f1dac0886e547c1",
+      "fromSide": "bottom",
+      "toNode": "2c18969b46fc1fd6",
+      "toSide": "right"
+    },
+    {
+      "id": "1c06318833a201ca",
+      "styleAttributes": {},
+      "fromNode": "2c18969b46fc1fd6",
+      "fromSide": "left",
+      "toNode": "654cee6aacb68493",
+      "toSide": "right"
+    },
+    {
+      "id": "8b110c0d9a121e9c",
+      "styleAttributes": {},
+      "fromNode": "3f01c159184f2711",
+      "fromSide": "right",
+      "toNode": "5aa9fdc930ad325f",
+      "toSide": "left"
+    },
+    {
+      "id": "940ae0bfe8e7c0b7",
+      "styleAttributes": {},
+      "fromNode": "3f01c159184f2711",
+      "fromSide": "bottom",
+      "toNode": "80e3b66c98fd606c",
+      "toSide": "left"
+    },
+    {
+      "id": "a9110b2bd89b9a1c",
+      "styleAttributes": {},
+      "fromNode": "3a2025a29433830a",
+      "fromSide": "right",
+      "toNode": "3d6ecc754df2b95f",
+      "toSide": "left"
+    },
+    {
+      "id": "e773cbbc2d7024f5",
+      "styleAttributes": {},
+      "fromNode": "fd79f8a21cfc8fd9",
+      "fromSide": "right",
+      "toNode": "9c1c514be37057c6",
+      "toSide": "left"
+    },
+    {
+      "id": "c143860d1c91fa0f",
+      "styleAttributes": {},
+      "fromNode": "f1d11976bbfbeae6",
+      "fromSide": "bottom",
+      "toNode": "7055c7307ff18138",
+      "toSide": "bottom"
+    },
+    {
+      "id": "c82c70830c6c295e",
+      "styleAttributes": {},
+      "fromNode": "7055c7307ff18138",
+      "fromSide": "top",
+      "toNode": "50cc49c0818ceeb0",
+      "toSide": "top"
+    },
+    {
+      "id": "b7cdb5bac83b9a16",
+      "styleAttributes": {},
+      "fromNode": "f1d11976bbfbeae6",
+      "fromSide": "bottom",
+      "toNode": "aa50842ecdd5a72f",
+      "toSide": "top"
+    },
+    {
+      "id": "e4f6ec015e8ed382",
+      "styleAttributes": {},
+      "fromNode": "eac7949f551969d9",
+      "fromSide": "right",
+      "toNode": "7c39b0cb95b91667",
+      "toSide": "left"
+    },
+    {
+      "id": "5a206cb815e2e1d6",
+      "styleAttributes": {},
+      "fromNode": "7c39b0cb95b91667",
+      "fromSide": "right",
+      "toNode": "c4a1568f8d567568",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {}
+}

@@ -28,7 +28,7 @@ là những từ dùng để chỉ người, đồ vật, con vật, địa đi�
 ---
 ---
 [[../../../../Vault/Từ loại]]
-[[Video. Buổi 2 lớp thứ 5 2023]]
+[[Video. Buổi 2 lớp thứ 5]]
 [[../../../../Biến cách và chức năng]]
 
 

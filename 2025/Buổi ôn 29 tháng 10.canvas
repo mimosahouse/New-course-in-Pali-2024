@@ -53,6 +53,17 @@
       "label": "Chủ từ"
     },
     {
+      "id": "a8f22f0d1861ddd7",
+      "type": "text",
+      "text": "# adantaṃ\na- tiền tố phủ định\ndantaṃ: Tính từ \n**Được chế ngự**",
+      "styleAttributes": {},
+      "x": -410,
+      "y": 480,
+      "width": 260,
+      "height": 180,
+      "color": "4"
+    },
+    {
       "id": "686e5918d4e1d3df",
       "type": "text",
       "text": "# …\"cittaṃ, bhikkhave, adantaṃ mahato anatthāya saṃvattatī\"ti ",
@@ -116,38 +127,6 @@
       "height": 120
     },
     {
-      "id": "a8f22f0d1861ddd7",
-      "type": "text",
-      "text": "# adantaṃ\na- tiền tố phủ định\ndantaṃ: Tính từ \n**Được chế ngự**",
-      "styleAttributes": {},
-      "x": -410,
-      "y": 480,
-      "width": 260,
-      "height": 180,
-      "color": "4"
-    },
-    {
-      "id": "f4cd2302141d8445",
-      "type": "text",
-      "text": "# Này các tì kheo, Tâm không được chế ngự DẪN TỚI (sự )bất lợi lớn",
-      "styleAttributes": {},
-      "x": -540,
-      "y": 760,
-      "width": 1390,
-      "height": 120
-    },
-    {
-      "id": "c91f599680d3d585",
-      "type": "text",
-      "text": "# Chọn cittaṃ làm Trực bổ cách",
-      "styleAttributes": {},
-      "x": -920,
-      "y": 1140,
-      "width": 710,
-      "height": 160,
-      "color": "1"
-    },
-    {
       "id": "c2a538169b50285c",
       "type": "text",
       "text": "# đuôi của động từ",
@@ -179,16 +158,6 @@
       "height": 140
     },
     {
-      "id": "c160a3526e9b6cbe",
-      "type": "text",
-      "text": "# Không có một chức năng hợp lý. Nên loại phương án này",
-      "styleAttributes": {},
-      "x": 20,
-      "y": 1190,
-      "width": 520,
-      "height": 110
-    },
-    {
       "id": "059a44ae41b5e122",
       "type": "text",
       "text": "# mahato\nTính từ, gián bổ cách, số ít, nam tính của Mahant\n**Lớn, vĩ đại**",
@@ -197,17 +166,6 @@
       "y": 480,
       "width": 260,
       "height": 180,
-      "color": "6"
-    },
-    {
-      "id": "4195229983ce3503",
-      "type": "text",
-      "text": "# anatthāya\nDT, nam tính, GBC số ít\nChỉ phương hướng\nAttho = lợi ích\nanattho = bất lợi",
-      "styleAttributes": {},
-      "x": 460,
-      "y": 155,
-      "width": 260,
-      "height": 210,
       "color": "6"
     },
     {
@@ -249,6 +207,48 @@
       "y": 180,
       "width": 260,
       "height": 140
+    },
+    {
+      "id": "4195229983ce3503",
+      "type": "text",
+      "text": "# anatthāya\nDT, nam tính, GBC số ít\nChỉ phương hướng\nAttho = lợi ích\nanattho = bất lợi",
+      "styleAttributes": {},
+      "x": 460,
+      "y": 155,
+      "width": 260,
+      "height": 210,
+      "color": "6"
+    },
+    {
+      "id": "f4cd2302141d8445",
+      "type": "text",
+      "text": "# Này các tì kheo, Tâm không được chế ngự DẪN TỚI (sự )bất lợi lớn",
+      "styleAttributes": {},
+      "x": -540,
+      "y": 760,
+      "width": 1390,
+      "height": 120
+    },
+    {
+      "id": "c91f599680d3d585",
+      "type": "text",
+      "text": "# Chọn cittaṃ làm Trực bổ cách",
+      "styleAttributes": {},
+      "x": -920,
+      "y": 1140,
+      "width": 710,
+      "height": 160,
+      "color": "1"
+    },
+    {
+      "id": "c160a3526e9b6cbe",
+      "type": "text",
+      "text": "# Không có một chức năng hợp lý. Nên loại phương án này",
+      "styleAttributes": {},
+      "x": 20,
+      "y": 1190,
+      "width": 520,
+      "height": 110
     },
     {
       "id": "e98e2e142044948b",

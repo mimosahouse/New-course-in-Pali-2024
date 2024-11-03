@@ -1,0 +1,83 @@
+{
+  "nodes": [
+    {
+      "id": "2d39f7310cbabeaf",
+      "type": "text",
+      "text": "# **Đoạn kinh 3.6-3.10 (Dhp)**\n\n  \n\n# piyato jāyatī soko, piyato jāyatī bhayaṃ.\n\n# piyato vippamuttassa, natthi soko kuto bhayaṃ.\n\n  \n\n# pemato jāyatī soko, pemato jāyatī bhayaṃ.\n\n# pemato vippamuttassa, natthi soko kuto bhayaṃ.\n\n  \n\n# ratiyā jāyatī soko, ratiyā jāyatī bhayaṃ.\n\n# ratiyā vippamuttassa, natthi soko kuto bhayaṃ.\n\n  \n\n# kāmato jāyatī soko, kāmato jāyatī bhayaṃ.\n\n# kāmato vippamuttassa, natthi soko kuto bhayaṃ.\n\n  \n\n# taṇhāya jāyatī soko, taṇhāya jāyatī bhayaṃ.\n\n# taṇhāya vippamuttassa, natthi soko kuto bhayaṃ.",
+      "styleAttributes": {},
+      "x": -620,
+      "y": -440,
+      "width": 880,
+      "height": 660
+    },
+    {
+      "id": "a6d4d1753f939906",
+      "type": "text",
+      "text": "# piyato jāyatī soko, piyato jāyatī bhayaṃ.\n\n# piyato vippamuttassa, natthi soko kuto bhayaṃ.\n\n  ",
+      "styleAttributes": {},
+      "x": -620,
+      "y": 346,
+      "width": 880,
+      "height": 294
+    },
+    {
+      "id": "8f069af1a6175e9a",
+      "type": "text",
+      "text": "# **Jāyatī = Jāyati**\nSinh ra \nĐộng, hiện tại, chủ động, mô tả",
+      "styleAttributes": {},
+      "x": -320,
+      "y": 880,
+      "width": 380,
+      "height": 140
+    },
+    {
+      "id": "2a60dbc1b5db2e18",
+      "type": "text",
+      "text": "# **Soko**\nBuồn khổ\nDanh, Nam",
+      "styleAttributes": {},
+      "x": -580,
+      "y": 890,
+      "width": 170,
+      "height": 120
+    },
+    {
+      "id": "9951e896958fd33f",
+      "type": "text",
+      "text": "# piyato\nXXC đuôi -to\nCái được yêu thích\n/XXC - Chỉ Nguồn",
+      "styleAttributes": {},
+      "x": 90,
+      "y": 1010,
+      "width": 340,
+      "height": 180
+    },
+    {
+      "id": "5993a83214fa1377",
+      "type": "text",
+      "text": "# Nỗ sợ hãi",
+      "styleAttributes": {},
+      "x": -580,
+      "y": 1190,
+      "width": 260,
+      "height": 200
+    }
+  ],
+  "edges": [
+    {
+      "id": "1ccff7b1020fea5f",
+      "styleAttributes": {},
+      "fromNode": "8f069af1a6175e9a",
+      "fromSide": "bottom",
+      "toNode": "9951e896958fd33f",
+      "toSide": "left"
+    },
+    {
+      "id": "85ecce6b0696ee58",
+      "styleAttributes": {},
+      "fromNode": "2a60dbc1b5db2e18",
+      "fromSide": "right",
+      "toNode": "8f069af1a6175e9a",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {}
+}

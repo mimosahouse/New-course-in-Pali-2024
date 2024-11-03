@@ -1,0 +1,191 @@
+{
+  "nodes": [
+    {
+      "id": "6c170cd3e845e9f3",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "isStartNode": true,
+      "styleAttributes": {},
+      "x": 440,
+      "y": 80,
+      "width": 1404,
+      "height": 790,
+      "label": "Start Slide"
+    },
+    {
+      "id": "e4129af0b78af3f2",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "styleAttributes": {},
+      "x": -1160,
+      "y": 80,
+      "width": 1404,
+      "height": 790,
+      "label": "New Slide"
+    },
+    {
+      "id": "2d5c5b6783010052",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -1000,
+      "y": 415,
+      "width": 1040,
+      "height": 400,
+      "color": "4",
+      "label": "Kẻ Ngu trở nên Trí tuệ"
+    },
+    {
+      "id": "2818c6da95e3a7ba",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -580,
+      "y": 575,
+      "width": 430,
+      "height": 220,
+      "color": "1",
+      "label": "Sau khi trải nghiệm/ qua cái khổ"
+    },
+    {
+      "id": "7e4e32bccca4132e",
+      "type": "text",
+      "text": "# Bài đọc thêm\n# [1] Sacchikatvā dukkhāni, bālo sappañño bhavati (Erasmus)",
+      "styleAttributes": {},
+      "x": -1020,
+      "y": 115,
+      "width": 990,
+      "height": 200
+    },
+    {
+      "id": "bac1145df7ce6962",
+      "type": "text",
+      "text": "# Bālo",
+      "styleAttributes": {},
+      "x": -980,
+      "y": 435,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "2346a22fc865f8ab",
+      "type": "text",
+      "text": "# Bhavati",
+      "styleAttributes": {},
+      "x": -630,
+      "y": 435,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "cdac22445bebd186",
+      "type": "text",
+      "text": "# sappañño",
+      "styleAttributes": {},
+      "x": -240,
+      "y": 435,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "5006249b009bb499",
+      "type": "text",
+      "text": "# Sacchikatvā",
+      "styleAttributes": {},
+      "x": -560,
+      "y": 595,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "b4d6327ca4593607",
+      "type": "text",
+      "text": "# dukkhāni",
+      "styleAttributes": {},
+      "x": -430,
+      "y": 695,
+      "width": 260,
+      "height": 80
+    },
+    {
+      "id": "cea2d039edbcec3a",
+      "type": "text",
+      "text": "# [2] Ñānaṃ bhaveyya kītaṃ, tad bhaveyya anuttaraṃ (Ngạn ngữ Anh)",
+      "styleAttributes": {},
+      "x": 500,
+      "y": 120,
+      "width": 800,
+      "height": 120
+    },
+    {
+      "id": "a5b463c1825951c2",
+      "type": "text",
+      "text": "## Nếu Trí tuệ có thể mua được, Thì trí tuệ đó là tốt nhất",
+      "styleAttributes": {},
+      "x": 500,
+      "y": 300,
+      "width": 800,
+      "height": 100
+    },
+    {
+      "id": "b5ba9c458c87e11a",
+      "type": "text",
+      "text": "# 1. Câu phức có 2 mệnh đề cầu khiến cách, có thể hàm ý Nếu - Thì mà không cần dùng đại từ quan hệ",
+      "styleAttributes": {},
+      "x": 500,
+      "y": 480,
+      "width": 800,
+      "height": 120
+    },
+    {
+      "id": "fa23c8b1ec98829b",
+      "x": 440,
+      "y": 960,
+      "width": 1404,
+      "height": 364,
+      "type": "file",
+      "file": "5. Storage/Pasted image 20241103154937.png"
+    }
+  ],
+  "edges": [
+    {
+      "id": "cefa264a61de998f",
+      "styleAttributes": {},
+      "fromNode": "5006249b009bb499",
+      "fromSide": "bottom",
+      "toNode": "b4d6327ca4593607",
+      "toSide": "left"
+    },
+    {
+      "id": "e4d0085876564b4b",
+      "styleAttributes": {},
+      "fromNode": "2346a22fc865f8ab",
+      "fromSide": "bottom",
+      "toNode": "5006249b009bb499",
+      "toSide": "left"
+    },
+    {
+      "id": "58f202b0ffa554f3",
+      "styleAttributes": {},
+      "fromNode": "bac1145df7ce6962",
+      "fromSide": "right",
+      "toNode": "2346a22fc865f8ab",
+      "toSide": "left"
+    },
+    {
+      "id": "ab1b0d4d23741246",
+      "styleAttributes": {},
+      "fromNode": "2346a22fc865f8ab",
+      "fromSide": "right",
+      "toNode": "cdac22445bebd186",
+      "toSide": "left"
+    },
+    {
+      "id": "78986ea76d576ebb",
+      "styleAttributes": {},
+      "fromNode": "6c170cd3e845e9f3",
+      "fromSide": "bottom",
+      "toNode": "e4129af0b78af3f2",
+      "toSide": "bottom"
+    }
+  ],
+  "metadata": {}
+}

@@ -23,7 +23,7 @@ Sabbe tassanti daṇdassa
 
 [27:35](https://www.youtube.com/watch?t=1655&v=1RWosW_y9aA)
 **Động từ bất biến**
-[[Động từ bất biến]]
+[[content/7. Ngữ Pháp Pāli/Động từ bất biến]]
 
 [17:29](https://www.youtube.com/watch?t=1049&v=1RWosW_y9aA)
 **SHC như Chủ từ / SHC như túc từ áp dụng khi Danh từ có ý niệm hành động.**
@@ -102,7 +102,7 @@ Sabbe tassanti daṇdassa
 
 [27:35](https://www.youtube.com/watch?t=1655&v=1RWosW_y9aA)
 **Động từ bất biến**
-[[Động từ bất biến]]
+[[content/7. Ngữ Pháp Pāli/Động từ bất biến]]
 
 [17:29](https://www.youtube.com/watch?t=1049&v=1RWosW_y9aA)
 **SHC như Chủ từ / SHC như túc từ áp dụng khi Danh từ có ý niệm hành động.**

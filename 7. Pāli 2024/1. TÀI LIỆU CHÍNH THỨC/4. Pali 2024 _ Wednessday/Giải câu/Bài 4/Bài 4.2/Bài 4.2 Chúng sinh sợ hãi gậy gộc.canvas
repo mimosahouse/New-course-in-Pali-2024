@@ -1,0 +1,1068 @@
+{
+  "nodes": [
+    {
+      "id": "6b98f958b5102013",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 1440,
+      "y": -955,
+      "width": 1460,
+      "height": 1000,
+      "color": "4",
+      "label": "SHC tổng thể"
+    },
+    {
+      "id": "7be0ed4d46d4f526",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "styleAttributes": {},
+      "x": -1920,
+      "y": -60,
+      "width": 1378,
+      "height": 775,
+      "label": "New Slide"
+    },
+    {
+      "id": "2a7eb24e211f4d58",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "styleAttributes": {},
+      "x": -320,
+      "y": 1145,
+      "width": 1323,
+      "height": 744,
+      "label": "New Slide"
+    },
+    {
+      "id": "95f9217d2473a78a",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "styleAttributes": {},
+      "x": -1920,
+      "y": 1145,
+      "width": 1205,
+      "height": 678,
+      "label": "New Slide"
+    },
+    {
+      "id": "726b57ccfcab698c",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "isStartNode": true,
+      "styleAttributes": {},
+      "x": -1920,
+      "y": -955,
+      "width": 1200,
+      "height": 675,
+      "label": "Start Slide"
+    },
+    {
+      "id": "bb14f632bd836089",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "styleAttributes": {},
+      "x": -1915,
+      "y": 2240,
+      "width": 1200,
+      "height": 675,
+      "label": "New Slide"
+    },
+    {
+      "id": "1709798a093da21c",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -4160,
+      "y": 160,
+      "width": 607,
+      "height": 420,
+      "label": "Untitled group"
+    },
+    {
+      "id": "02718567740c92f2",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -1440,
+      "y": 160,
+      "width": 340,
+      "height": 227,
+      "label": "CKC, Ngôi 3 số ít"
+    },
+    {
+      "id": "805890d78026055d",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 2380,
+      "y": -255,
+      "width": 480,
+      "height": 260,
+      "label": "Vị  ngữ"
+    },
+    {
+      "id": "7619c583e481dc05",
+      "type": "text",
+      "text": "# (họ)",
+      "styleAttributes": {},
+      "x": -4493,
+      "y": 220,
+      "width": 260,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "2c61923097b3ad07",
+      "type": "text",
+      "text": "# Thành viên (A)",
+      "styleAttributes": {},
+      "x": 2400,
+      "y": -235,
+      "width": 260,
+      "height": 100,
+      "color": "6"
+    },
+    {
+      "id": "620fa49509c75e42",
+      "type": "text",
+      "text": "# Của lớp này (B)",
+      "styleAttributes": {},
+      "x": 2580,
+      "y": -115,
+      "width": 260,
+      "height": 100,
+      "color": "6"
+    },
+    {
+      "id": "7d59f650e34c2cac",
+      "type": "text",
+      "text": "# (satto)\n",
+      "styleAttributes": {},
+      "x": -1880,
+      "y": -920,
+      "width": 250,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "9aff1dc18c9f6170",
+      "type": "text",
+      "text": "# satto\n",
+      "styleAttributes": {},
+      "x": -1880,
+      "y": -630,
+      "width": 250,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "db645be3010736ec",
+      "type": "text",
+      "text": "# sabbe tasanti daṇḍassa, sabbe bhāyanti maccuno.",
+      "styleAttributes": {},
+      "x": -1880,
+      "y": -360,
+      "width": 840,
+      "height": 70
+    },
+    {
+      "id": "597443b4276ad913",
+      "type": "text",
+      "text": "# bhāyanti",
+      "styleAttributes": {},
+      "x": -1380,
+      "y": -630,
+      "width": 250,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "f8b5c091cce718f6",
+      "type": "text",
+      "text": "# sabbesaṃ ",
+      "styleAttributes": {},
+      "x": -1745,
+      "y": 1580,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "9f585ebfac00e2c5",
+      "type": "text",
+      "text": "# Sabbe ",
+      "styleAttributes": {},
+      "x": -1745,
+      "y": 1320,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "001df5f793214c19",
+      "type": "text",
+      "text": "# Sabbe ",
+      "styleAttributes": {},
+      "x": -1755,
+      "y": -800,
+      "width": 250,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "519019866dbc58b2",
+      "type": "text",
+      "text": "# Sabbe ",
+      "styleAttributes": {},
+      "x": -1755,
+      "y": -510,
+      "width": 250,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "4b9cff7616f0c8d3",
+      "type": "text",
+      "text": "# katvā",
+      "styleAttributes": {},
+      "x": -1290,
+      "y": 433,
+      "width": 250,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "1f9a2c605dbb8a38",
+      "type": "text",
+      "text": "#  na ghātaye",
+      "styleAttributes": {},
+      "x": -1420,
+      "y": 307,
+      "width": 250,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "2078c28bbdb0fbc7",
+      "type": "text",
+      "text": "# Có 3 điều người ta không thể ngăn được",
+      "styleAttributes": {},
+      "x": 1440,
+      "y": 460,
+      "width": 660,
+      "height": 130
+    },
+    {
+      "id": "6a8c6ce4a3c6cc20",
+      "type": "text",
+      "text": "# Mặt trời mọc",
+      "styleAttributes": {},
+      "x": 1440,
+      "y": 625,
+      "width": 660,
+      "height": 130
+    },
+    {
+      "id": "43e00654a6567a9d",
+      "type": "text",
+      "text": "# Em bé sắp ra khỏi bụng mẹ",
+      "styleAttributes": {},
+      "x": 1440,
+      "y": 830,
+      "width": 660,
+      "height": 130
+    },
+    {
+      "id": "5827d57d4b51677b",
+      "type": "text",
+      "text": "# Vị tì khưu muốn xả y",
+      "styleAttributes": {},
+      "x": 1440,
+      "y": 990,
+      "width": 660,
+      "height": 130
+    },
+    {
+      "id": "c87978b3475af1a4",
+      "type": "text",
+      "text": "# katvā",
+      "styleAttributes": {},
+      "x": 240,
+      "y": 1371,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "229b342fee8f05a1",
+      "type": "text",
+      "text": "# attānaṃ",
+      "styleAttributes": {},
+      "x": 600,
+      "y": 1371,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "2d58ae9ff8fb5206",
+      "type": "text",
+      "text": "# tasanti",
+      "styleAttributes": {},
+      "x": -1370,
+      "y": 1200,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "196cb14115835817",
+      "type": "text",
+      "text": "# daṇḍassa",
+      "styleAttributes": {},
+      "x": -1010,
+      "y": 1200,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "94c2bb0ecde0b34e",
+      "type": "text",
+      "text": "# jīvitaṃ",
+      "styleAttributes": {},
+      "x": -1370,
+      "y": 1460,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "62eccf30a34849d2",
+      "type": "text",
+      "text": "# piyaṃ",
+      "styleAttributes": {},
+      "x": -1220,
+      "y": 1580,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "3a81b3008f199825",
+      "type": "text",
+      "text": "# uppanaṃ",
+      "styleAttributes": {},
+      "x": 600,
+      "y": 1511,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "9b03c3d40604e5a1",
+      "type": "text",
+      "text": "# Chủ từ ngôi 3 số ít\n- Chúng sinh\n- Nguời ta ",
+      "styleAttributes": {},
+      "x": -260,
+      "y": 1161,
+      "width": 250,
+      "height": 170
+    },
+    {
+      "id": "629fe761afed5777",
+      "type": "text",
+      "text": "Gốc karoti, có thể lấy 2 túc từ - Túc từ kép \n- làm cho A có đặc tính B \n- Lấy A làm B",
+      "styleAttributes": {},
+      "x": 600,
+      "y": 1601,
+      "width": 250,
+      "height": 230
+    },
+    {
+      "id": "cbcf7f52c25921c5",
+      "type": "text",
+      "text": "### Sau khi lấy mình làm ví dụ, người ta không nên giết , không nên xui khiến giết ",
+      "styleAttributes": {},
+      "x": -260,
+      "y": 1711,
+      "width": 750,
+      "height": 120
+    },
+    {
+      "id": "f776f85d4c3cdd35",
+      "type": "text",
+      "text": "# daṇḍassa",
+      "styleAttributes": {},
+      "x": -1020,
+      "y": -920,
+      "width": 250,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "e5af7da965a7cb73",
+      "type": "text",
+      "text": "# maccuno",
+      "styleAttributes": {},
+      "x": -1020,
+      "y": -630,
+      "width": 250,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "89631f0c2cb12d3e",
+      "type": "text",
+      "text": "## SHC - Túc từ trực tiếp cho động từ chính\n",
+      "styleAttributes": {},
+      "x": -640,
+      "y": -920,
+      "width": 250,
+      "height": 170
+    },
+    {
+      "id": "c3ad67835d1867ce",
+      "type": "text",
+      "text": "### Sợ hãi, run sợ (Công thức: tasati +\nsở hữu cách)",
+      "styleAttributes": {},
+      "x": -640,
+      "y": -715,
+      "width": 250,
+      "height": 170
+    },
+    {
+      "id": "5e42200753714862",
+      "type": "text",
+      "text": "### Cái chết (sở hữu cách số ít của\nMaccu)",
+      "styleAttributes": {},
+      "x": -640,
+      "y": -490,
+      "width": 250,
+      "height": 150
+    },
+    {
+      "id": "55d41298db2205c7",
+      "type": "text",
+      "text": "# là",
+      "styleAttributes": {},
+      "x": 2020,
+      "y": -215,
+      "width": 260,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "f6beb655de276f9c",
+      "type": "text",
+      "text": "#  na ghātaye",
+      "styleAttributes": {},
+      "x": 240,
+      "y": 1269,
+      "width": 250,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "a9655a4291e7131c",
+      "type": "text",
+      "text": "# na haneyya",
+      "styleAttributes": {},
+      "x": 240,
+      "y": 1151,
+      "width": 300,
+      "height": 80
+    },
+    {
+      "id": "44d49c8303823c01",
+      "type": "text",
+      "text": "# Tôi",
+      "styleAttributes": {},
+      "x": 1700,
+      "y": -215,
+      "width": 260,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "7ee95b0d38426e9b",
+      "type": "text",
+      "text": "# Một phần trong tổng thể ",
+      "styleAttributes": {},
+      "x": 1460,
+      "y": -935,
+      "width": 620,
+      "height": 100
+    },
+    {
+      "id": "7a5f4cfc636ba50f",
+      "type": "text",
+      "text": "# Danh từ được bổ nghĩa A",
+      "styleAttributes": {},
+      "x": 1700,
+      "y": -775,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "f0014721142944a1",
+      "type": "text",
+      "text": "# Danh từ SHC là danh từ bổ nghĩa B",
+      "styleAttributes": {},
+      "x": 1960,
+      "y": -615,
+      "width": 440,
+      "height": 100
+    },
+    {
+      "id": "c8f91cfe71a20894",
+      "type": "text",
+      "text": "# A thuộc B, là một phần trong tổng thể của B thì B được chia ở SHC",
+      "styleAttributes": {},
+      "x": 1700,
+      "y": -455,
+      "width": 700,
+      "height": 120
+    },
+    {
+      "id": "e9d3d8c92e499524",
+      "type": "text",
+      "text": "### Sau khi lấy mình làm ví dụ, người ta không nên giết , không nên xui khiến giết ",
+      "styleAttributes": {},
+      "x": -1900,
+      "y": 573,
+      "width": 750,
+      "height": 120
+    },
+    {
+      "id": "4f43ef2273671cf4",
+      "type": "text",
+      "text": "# Chủ từ ngôi 3 số ít\n- Chúng sinh\n- Nguời ta ",
+      "styleAttributes": {},
+      "x": -1860,
+      "y": 193,
+      "width": 250,
+      "height": 170,
+      "color": "1"
+    },
+    {
+      "id": "7428ec8ea6c48271",
+      "type": "text",
+      "text": "# uppanaṃ",
+      "styleAttributes": {},
+      "x": -840,
+      "y": 573,
+      "width": 250,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "3af5cee75d1b38f1",
+      "type": "text",
+      "text": "# attānaṃ",
+      "styleAttributes": {},
+      "x": -840,
+      "y": 433,
+      "width": 250,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "ae0d79cf07a352ed",
+      "type": "text",
+      "text": "# na haneyya",
+      "styleAttributes": {},
+      "x": -1420,
+      "y": 180,
+      "width": 300,
+      "height": 80,
+      "color": "3"
+    },
+    {
+      "id": "af66d2d4ef42e7bf",
+      "type": "text",
+      "text": "# attānaṃ upamaṃ katvā, na haneyya na ghātaye.",
+      "styleAttributes": {},
+      "x": -1900,
+      "y": -16,
+      "width": 800,
+      "height": 72
+    },
+    {
+      "id": "80f0625bbe7d651a",
+      "type": "text",
+      "text": "# satto\n",
+      "styleAttributes": {},
+      "x": -1870,
+      "y": 1460,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "b9eda7c053edd6af",
+      "type": "text",
+      "text": "# satto\n",
+      "styleAttributes": {},
+      "x": -1870,
+      "y": 1200,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "b5fdfac838749e92",
+      "type": "text",
+      "text": "# GIỐNG CÂU TRƯỚC",
+      "styleAttributes": {},
+      "x": -1520,
+      "y": 2420,
+      "width": 580,
+      "height": 80
+    },
+    {
+      "id": "415ce752f6b45c06",
+      "type": "text",
+      "text": "# (^_^)",
+      "styleAttributes": {},
+      "x": -1520,
+      "y": 2560,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "fae45ad8b30825ab",
+      "type": "text",
+      "text": "# GBC - thụ hưởng : Đối với tất cả chúng sinh\n## SHC đối tượng thụ hưởng",
+      "styleAttributes": {},
+      "x": -1745,
+      "y": 1655,
+      "width": 775,
+      "height": 123
+    },
+    {
+      "id": "859ad810220d8162",
+      "type": "text",
+      "text": "# Luận giải: Không chuẩn bị chu đáo dễ dẫn tới thất bại./",
+      "styleAttributes": {},
+      "x": -4140,
+      "y": 1380,
+      "width": 950,
+      "height": 100
+    },
+    {
+      "id": "d1fade8cc9606e21",
+      "type": "text",
+      "text": "# Luận giải: Dễ đến dễ đi",
+      "styleAttributes": {},
+      "x": -4140,
+      "y": 1540,
+      "width": 950,
+      "height": 100
+    },
+    {
+      "id": "c9c2ca9b3948c073",
+      "type": "text",
+      "text": "# Luận giải: Bạo phát, bạo tàn",
+      "styleAttributes": {},
+      "x": -4140,
+      "y": 1720,
+      "width": 950,
+      "height": 100
+    },
+    {
+      "id": "0c245c60fee3cded",
+      "type": "text",
+      "text": "# Sau khi leo vội vàng  người ta rơi vội vàng",
+      "styleAttributes": {},
+      "x": -4140,
+      "y": 1200,
+      "width": 950,
+      "height": 100,
+      "color": "6"
+    },
+    {
+      "id": "b013382ca3c9c97d",
+      "type": "text",
+      "text": "# Sau khi leo vội vàng họ (người ta) rơi vội vàng",
+      "styleAttributes": {},
+      "x": -4140,
+      "y": 900,
+      "width": 950,
+      "height": 100,
+      "color": "6"
+    },
+    {
+      "id": "2945caa5808109b7",
+      "type": "text",
+      "text": "# Sau khi người ta leo vội vàng rồi rơi vội vàng",
+      "styleAttributes": {},
+      "x": -4140,
+      "y": 1040,
+      "width": 950,
+      "height": 100,
+      "color": "6"
+    },
+    {
+      "id": "79e51ad13ae66021",
+      "type": "text",
+      "text": "Gốc karoti, có thể lấy 2 túc từ - Túc từ kép \nlàm cho A có đặc tính B ",
+      "styleAttributes": {},
+      "x": -2480,
+      "y": 398,
+      "width": 250,
+      "height": 130,
+      "color": "5"
+    },
+    {
+      "id": "6a7c4293d1895565",
+      "type": "text",
+      "text": "### Cầu khiến cách - thể hiện lời khuyên",
+      "styleAttributes": {},
+      "x": -2805,
+      "y": 56,
+      "width": 650,
+      "height": 75
+    },
+    {
+      "id": "f16a214609090609",
+      "type": "text",
+      "text": "# [1] Āruhitvā sahasa patanti sahasa (Ngạn ngữ Anh)",
+      "styleAttributes": {},
+      "x": -3653,
+      "y": -180,
+      "width": 654,
+      "height": 157
+    },
+    {
+      "id": "b65099e1a405b35b",
+      "type": "text",
+      "text": "# sabbe tasanti daṇḍassa, sabbesaṃ jīvitaṃ piyaṃ.\n\n# attānaṃ upamaṃ katvā, na haneyya na ghātaye.",
+      "styleAttributes": {},
+      "x": -2860,
+      "y": -590,
+      "width": 860,
+      "height": 131
+    },
+    {
+      "id": "9adf867df0ab3d7b",
+      "type": "text",
+      "text": "# Sabbesam.\nVừa là Gián bổ cách, vừa là Sở hữu cách. ",
+      "styleAttributes": {},
+      "x": -2380,
+      "y": -1180,
+      "width": 250,
+      "height": 140
+    },
+    {
+      "id": "f1d0ad3acf87682d",
+      "type": "text",
+      "text": "# patanti\nHT, CĐ, ngôi 3 số nhiều MTC (Rơi)",
+      "styleAttributes": {},
+      "x": -4140,
+      "y": 180,
+      "width": 260,
+      "height": 140,
+      "color": "4"
+    },
+    {
+      "id": "8819d263cc5187ef",
+      "type": "text",
+      "text": "# **Đoạn kinh 3.2-3.3 (Dhp)**\n\n  \n# sabbe tasanti daṇḍassa, sabbe bhāyanti maccuno.\n\n# attānaṃ upamaṃ katvā, na haneyya na ghātaye.\n\n  \n\n# sabbe tasanti daṇḍassa, sabbesaṃ jīvitaṃ piyaṃ.\n\n# attānaṃ upamaṃ katvā, na haneyya na ghātaye.",
+      "styleAttributes": {},
+      "x": -4460,
+      "y": -1040,
+      "width": 1090,
+      "height": 320,
+      "color": "6"
+    },
+    {
+      "id": "2e7cb641ba9dad70",
+      "type": "text",
+      "text": "# tasanti",
+      "styleAttributes": {},
+      "x": -1380,
+      "y": -920,
+      "width": 250,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "1ae1ce3dee464946",
+      "type": "text",
+      "text": "# sahasa\nTrạng từ",
+      "styleAttributes": {},
+      "x": -3673,
+      "y": 660,
+      "width": 260,
+      "height": 120,
+      "color": "3"
+    },
+    {
+      "id": "b73a2d18880f3efc",
+      "type": "text",
+      "text": "# sahasa\nTrạng từ",
+      "styleAttributes": {},
+      "x": -4140,
+      "y": 660,
+      "width": 260,
+      "height": 120,
+      "color": "3"
+    },
+    {
+      "id": "5330d7c79a4cf43b",
+      "type": "text",
+      "text": "# Āruhitvā\nDiễn tả hành động xảy ra trước hành động của động từ chính (Sau khi leo...)",
+      "styleAttributes": {},
+      "x": -4010,
+      "y": 420,
+      "width": 437,
+      "height": 140,
+      "color": "5"
+    }
+  ],
+  "edges": [
+    {
+      "id": "b44bfd72406ffb4b",
+      "fromNode": "b9eda7c053edd6af",
+      "fromSide": "bottom",
+      "toNode": "9f585ebfac00e2c5",
+      "toSide": "left"
+    },
+    {
+      "id": "2ee4c881dd8aa21d",
+      "fromNode": "b9eda7c053edd6af",
+      "fromSide": "right",
+      "toNode": "2d58ae9ff8fb5206",
+      "toSide": "left"
+    },
+    {
+      "id": "5fd4cbe18f291ec3",
+      "fromNode": "2d58ae9ff8fb5206",
+      "fromSide": "right",
+      "toNode": "196cb14115835817",
+      "toSide": "left"
+    },
+    {
+      "id": "af6177004738a7d2",
+      "fromNode": "80f0625bbe7d651a",
+      "fromSide": "bottom",
+      "toNode": "f8b5c091cce718f6",
+      "toSide": "left"
+    },
+    {
+      "id": "1d3a6cbbb2e9ac9a",
+      "fromNode": "80f0625bbe7d651a",
+      "fromSide": "right",
+      "toNode": "94c2bb0ecde0b34e",
+      "toSide": "left",
+      "label": "honti"
+    },
+    {
+      "id": "e669b00b17b5658e",
+      "fromNode": "9b03c3d40604e5a1",
+      "fromSide": "right",
+      "toNode": "a9655a4291e7131c",
+      "toSide": "left"
+    },
+    {
+      "id": "e7d54742e478c44c",
+      "fromNode": "c87978b3475af1a4",
+      "fromSide": "right",
+      "toNode": "229b342fee8f05a1",
+      "toSide": "left"
+    },
+    {
+      "id": "6d697e7c553b0feb",
+      "fromNode": "c87978b3475af1a4",
+      "fromSide": "right",
+      "toNode": "3a81b3008f199825",
+      "toSide": "left"
+    },
+    {
+      "id": "2dd7fab8afd61458",
+      "fromNode": "9aff1dc18c9f6170",
+      "fromSide": "bottom",
+      "toNode": "519019866dbc58b2",
+      "toSide": "left"
+    },
+    {
+      "id": "22ed69a857d834f9",
+      "fromNode": "9aff1dc18c9f6170",
+      "fromSide": "right",
+      "toNode": "597443b4276ad913",
+      "toSide": "left"
+    },
+    {
+      "id": "6020afc8b0728c56",
+      "fromNode": "4f43ef2273671cf4",
+      "fromSide": "right",
+      "toNode": "ae0d79cf07a352ed",
+      "toSide": "left"
+    },
+    {
+      "id": "a9ae5dfbbe48347e",
+      "fromNode": "7d59f650e34c2cac",
+      "fromSide": "bottom",
+      "toNode": "001df5f793214c19",
+      "toSide": "left"
+    },
+    {
+      "id": "fcc2d3d97d205a8b",
+      "fromNode": "597443b4276ad913",
+      "fromSide": "right",
+      "toNode": "e5af7da965a7cb73",
+      "toSide": "left"
+    },
+    {
+      "id": "fcff7a9405829f12",
+      "fromNode": "4b9cff7616f0c8d3",
+      "fromSide": "right",
+      "toNode": "3af5cee75d1b38f1",
+      "toSide": "left"
+    },
+    {
+      "id": "36cb9279cd42ac89",
+      "fromNode": "4b9cff7616f0c8d3",
+      "fromSide": "right",
+      "toNode": "7428ec8ea6c48271",
+      "toSide": "left"
+    },
+    {
+      "id": "c069d90463d8ca83",
+      "fromNode": "7d59f650e34c2cac",
+      "fromSide": "right",
+      "toNode": "2e7cb641ba9dad70",
+      "toSide": "left"
+    },
+    {
+      "id": "cc8fedef325f9ee8",
+      "fromNode": "2e7cb641ba9dad70",
+      "fromSide": "right",
+      "toNode": "f776f85d4c3cdd35",
+      "toSide": "left"
+    },
+    {
+      "id": "f4fa54bd12a0ffe9",
+      "fromNode": "94c2bb0ecde0b34e",
+      "fromSide": "bottom",
+      "toNode": "62eccf30a34849d2",
+      "toSide": "left"
+    },
+    {
+      "id": "4bb00b4f42c5bf59",
+      "fromNode": "4f43ef2273671cf4",
+      "fromSide": "right",
+      "toNode": "1f9a2c605dbb8a38",
+      "toSide": "left"
+    },
+    {
+      "id": "b3468bb269767107",
+      "fromNode": "02718567740c92f2",
+      "fromSide": "bottom",
+      "toNode": "4b9cff7616f0c8d3",
+      "toSide": "left"
+    },
+    {
+      "id": "b7ebb4d96c61c391",
+      "fromNode": "9b03c3d40604e5a1",
+      "fromSide": "right",
+      "toNode": "c87978b3475af1a4",
+      "toSide": "left"
+    },
+    {
+      "id": "de498486c6ef278b",
+      "fromNode": "9b03c3d40604e5a1",
+      "fromSide": "right",
+      "toNode": "f6beb655de276f9c",
+      "toSide": "left"
+    },
+    {
+      "id": "e5edb20f4a0f9b34",
+      "styleAttributes": {},
+      "fromNode": "7a5f4cfc636ba50f",
+      "fromSide": "bottom",
+      "toNode": "f0014721142944a1",
+      "toSide": "left"
+    },
+    {
+      "id": "20ec5b8fd038df10",
+      "styleAttributes": {},
+      "fromNode": "2c61923097b3ad07",
+      "fromSide": "bottom",
+      "toNode": "620fa49509c75e42",
+      "toSide": "left",
+      "color": "6"
+    },
+    {
+      "id": "051747bdc63e4387",
+      "styleAttributes": {},
+      "fromNode": "44d49c8303823c01",
+      "fromSide": "right",
+      "toNode": "55d41298db2205c7",
+      "toSide": "left",
+      "color": "1"
+    },
+    {
+      "id": "68bee388d99dc1c5",
+      "styleAttributes": {},
+      "fromNode": "55d41298db2205c7",
+      "fromSide": "right",
+      "toNode": "2c61923097b3ad07",
+      "toSide": "left",
+      "color": "4"
+    },
+    {
+      "id": "64cd3a36b8bf554d",
+      "styleAttributes": {},
+      "fromNode": "7619c583e481dc05",
+      "fromSide": "right",
+      "toNode": "f1d0ad3acf87682d",
+      "toSide": "left",
+      "color": "1"
+    },
+    {
+      "id": "8b0b0dfd474f6a22",
+      "styleAttributes": {},
+      "fromNode": "f1d0ad3acf87682d",
+      "fromSide": "bottom",
+      "toNode": "5330d7c79a4cf43b",
+      "toSide": "left"
+    },
+    {
+      "id": "b59f2e309b896084",
+      "styleAttributes": {},
+      "fromNode": "f1d0ad3acf87682d",
+      "fromSide": "bottom",
+      "toNode": "b73a2d18880f3efc",
+      "toSide": "left"
+    },
+    {
+      "id": "bd16560e368f0d1b",
+      "styleAttributes": {},
+      "fromNode": "5330d7c79a4cf43b",
+      "fromSide": "bottom",
+      "toNode": "1ae1ce3dee464946",
+      "toSide": "left"
+    },
+    {
+      "id": "8e399ccb6d346715",
+      "styleAttributes": {},
+      "fromNode": "726b57ccfcab698c",
+      "fromSide": "left",
+      "toNode": "7be0ed4d46d4f526",
+      "toSide": "left"
+    },
+    {
+      "id": "4992f8be7908c630",
+      "styleAttributes": {},
+      "fromNode": "7be0ed4d46d4f526",
+      "fromSide": "left",
+      "toNode": "95f9217d2473a78a",
+      "toSide": "left"
+    },
+    {
+      "id": "817339198f581827",
+      "styleAttributes": {},
+      "fromNode": "95f9217d2473a78a",
+      "fromSide": "left",
+      "toNode": "bb14f632bd836089",
+      "toSide": "left"
+    },
+    {
+      "id": "52596a77c8eb1cb4",
+      "styleAttributes": {},
+      "fromNode": "bb14f632bd836089",
+      "fromSide": "right",
+      "toNode": "2a7eb24e211f4d58",
+      "toSide": "bottom"
+    }
+  ],
+  "metadata": {}
+}

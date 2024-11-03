@@ -460,7 +460,7 @@ anupādiyāno idha vā huraṃ vā, sa bhāgavā sāmaññassa hoti.
 	 - đuôi -e
 	 - Đuôi -eyya
 ### 3. Động từ bất biến
-[Động từ bất biến](Động%20từ%20bất%20biến.md)
+[Động từ bất biến](content/7.%20Ngữ%20Pháp%20Pāli/Động%20từ%20bất%20biến.md)
 ### 4. [[Go - Danh từ con bò, bất quy tắc]]
 ### 5. [[Trực bổ cách kép động từ KAROTI]]
 [[Trực bổ cách kép]]

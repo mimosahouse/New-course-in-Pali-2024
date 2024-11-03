@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"id":"fbd2c47cbe16ed49","type":"text","text":"# bhiyyobhāvāya\n(n)","x":325,"y":740,"width":380,"height":122},
+		{"id":"e141931d058d9c8f","type":"text","text":"# saṃvattanti\n(v)","x":-195,"y":740,"width":380,"height":124},
+		{"id":"bcdf902a2773033a","type":"text","text":"# akusalā\n(adj)","x":-445,"y":932,"width":250,"height":89},
+		{"id":"7f43459c99bcdbe8","type":"text","text":"# dhammā\n(n)","x":-570,"y":742,"width":250,"height":120},
+		{"id":"335628f62e5493cd","type":"text","text":"# uppannā\n(adj)","x":-445,"y":1070,"width":250,"height":90},
+		{"id":"58e76fe49647bf49","type":"text","text":"### Gián bổ chỉ đích đến\n#### Kết hợp với samvattanti theo công thức \n## Samvattanti + X\n","x":545,"y":885,"width":320,"height":185},
+		{"id":"b4cf62833adb119c","type":"text","text":"# vepullāya","x":545,"y":1100,"width":320,"height":100},
+		{"id":"98932a94b67ef237","type":"text","text":"## Những bất thiện pháp đã sinh khởi","x":-570,"y":1240,"width":375,"height":74,"color":"2"},
+		{"id":"1b2d5401b9e4ab5a","type":"text","text":"## Dẫn đến trạng thái tăng trưởng, sung mãn cho (với) người có tà kiến","x":-155,"y":1240,"width":1020,"height":74,"color":"2"},
+		{"id":"6713d1dda6fe1da7","type":"text","text":"# (Micchādiṭṭhikassa)","x":-5,"y":932,"width":330,"height":89},
+		{"id":"7ca190ada5612131","type":"text","text":"# uppannā ca akusalā dhammā bhiyyobhāvāya vepullāya saṃvattanti","x":-570,"y":620,"width":1320,"height":90,"color":"4"},
+		{"id":"e8a9d8f93ff3c0fa","type":"text","text":"# yathayidaṃ, bhikkhave, sammādiṭṭhi","x":-560,"y":280,"width":1320,"height":90,"color":"4"},
+		{"id":"537842c34f2509ed","type":"text","text":"# yena anuppannā vā kusalā dhammā uppajjanti, uppannā vā kusalā dhammā bhiyyobhāvāya vepullāya saṃvattanti, yathayidaṃ, bhikkhave, sammādiṭṭhi.","x":-660,"y":-360,"width":1320,"height":140,"color":"4"},
+		{"id":"9dd2a785626e400f","type":"text","text":"# kusalā\n(adj)","x":-490,"y":12,"width":250,"height":89},
+		{"id":"22a2d9b181d46a38","type":"text","text":"# anuppannā\n(adj)","x":-490,"y":150,"width":250,"height":90},
+		{"id":"adee210841ce672c","type":"text","text":"### Dụng cụ cách chỉ nguyên nhân\n#### Do bởi pháp ấy \n","x":440,"y":35,"width":320,"height":160},
+		{"id":"86e95138c5bc1b04","type":"text","text":"# uppajjanti\n(v)","x":-240,"y":-180,"width":380,"height":124},
+		{"id":"cb295ef79466cd25","type":"text","text":"# yena\n(n)","x":280,"y":-180,"width":380,"height":122},
+		{"id":"471cd2b4b77bc0b0","type":"text","text":"# dhammā\n(n)","x":-615,"y":-178,"width":250,"height":120},
+		{"id":"303ff0bf09393e82","type":"text","text":"## Do bởi Pháp ấy, Những thiện pháp chưa sinh","x":-570,"y":420,"width":375,"height":74,"color":"1"},
+		{"id":"b4e81ae0c14074b6","type":"text","text":"## sinh khởi, này các tì-kheo, như là Chánh kiến","x":-155,"y":420,"width":1020,"height":74,"color":"1"},
+		{"id":"8aa59380e85f643d","type":"text","text":"# Nâhaṃ, bhikkhave, aññaṃ ekadhammaṃ pi samanupassāmi, yena anuppannā vā kusalā dhammā1 uppajjanti, uppannā vā kusalā dhammā bhiyyobhāvāya vepullāya saṃvattanti, yathayidaṃ, bhikkhave, sammādiṭṭhi. Sammādiṭṭhikassa, bhikkhave, anuppannā ceva kusalā dhammā uppajjanti, uppannā ca kusalā dhammā bhiyyobhāvāya vepullāya saṃvattanti.\n","x":-660,"y":-1180,"width":1320,"height":169},
+		{"id":"85c5596e369ce512","type":"text","text":"# Nâhaṃ, bhikkhave, aññaṃ ekadhammaṃ pi samanupassāmi,","x":-660,"y":-960,"width":1320,"height":100,"color":"4"}
+	],
+	"edges":[
+		{"id":"9460ac2f6789c20f","fromNode":"cb295ef79466cd25","fromSide":"bottom","toNode":"adee210841ce672c","toSide":"left"},
+		{"id":"28e1093ecd2b84ac","fromNode":"471cd2b4b77bc0b0","fromSide":"bottom","toNode":"9dd2a785626e400f","toSide":"left"},
+		{"id":"f4371da9c75c1f5c","fromNode":"471cd2b4b77bc0b0","fromSide":"right","toNode":"86e95138c5bc1b04","toSide":"left"},
+		{"id":"881080c75009a78d","fromNode":"86e95138c5bc1b04","fromSide":"right","toNode":"cb295ef79466cd25","toSide":"left"},
+		{"id":"31bf8b93389ffe04","fromNode":"471cd2b4b77bc0b0","fromSide":"bottom","toNode":"22a2d9b181d46a38","toSide":"left"},
+		{"id":"d9722756d52109c9","fromNode":"303ff0bf09393e82","fromSide":"right","toNode":"b4e81ae0c14074b6","toSide":"left"},
+		{"id":"1257b2f5796991e8","fromNode":"fbd2c47cbe16ed49","fromSide":"bottom","toNode":"58e76fe49647bf49","toSide":"left"},
+		{"id":"dcce32536cf45c08","fromNode":"e141931d058d9c8f","fromSide":"right","toNode":"fbd2c47cbe16ed49","toSide":"left"},
+		{"id":"cab129cc9ea002f1","fromNode":"7f43459c99bcdbe8","fromSide":"right","toNode":"e141931d058d9c8f","toSide":"left"},
+		{"id":"ff9c7c2ab0eeb492","fromNode":"7f43459c99bcdbe8","fromSide":"bottom","toNode":"bcdf902a2773033a","toSide":"left"},
+		{"id":"ef26023a86dc7ef9","fromNode":"7f43459c99bcdbe8","fromSide":"bottom","toNode":"335628f62e5493cd","toSide":"left"},
+		{"id":"e57705c7632a791a","fromNode":"98932a94b67ef237","fromSide":"right","toNode":"1b2d5401b9e4ab5a","toSide":"left"},
+		{"id":"3fcafa19d9f823b3","fromNode":"fbd2c47cbe16ed49","fromSide":"bottom","toNode":"b4cf62833adb119c","toSide":"left"},
+		{"id":"a5b3a062d10696e1","fromNode":"e141931d058d9c8f","fromSide":"bottom","toNode":"6713d1dda6fe1da7","toSide":"left"}
+	]
+}

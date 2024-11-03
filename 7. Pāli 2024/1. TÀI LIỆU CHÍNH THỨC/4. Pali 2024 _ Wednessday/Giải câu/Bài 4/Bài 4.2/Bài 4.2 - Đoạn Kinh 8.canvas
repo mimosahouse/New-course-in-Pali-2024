@@ -1,0 +1,961 @@
+{
+  "nodes": [
+    {
+      "id": "aff4e8045bf7258e",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "styleAttributes": {},
+      "x": 9080,
+      "y": 2360,
+      "width": 2347,
+      "height": 1320,
+      "label": "New Slide"
+    },
+    {
+      "id": "b18b6efb6be580ae",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "styleAttributes": {},
+      "x": 5920,
+      "y": 2320,
+      "width": 2338,
+      "height": 1315,
+      "label": "New Slide"
+    },
+    {
+      "id": "103ca17e05bde674",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "styleAttributes": {},
+      "x": 2720,
+      "y": -360,
+      "width": 1707,
+      "height": 960,
+      "label": "New Slide"
+    },
+    {
+      "id": "a91847823455afd1",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "styleAttributes": {},
+      "x": 5920,
+      "y": 800,
+      "width": 1561,
+      "height": 878,
+      "label": "New Slide"
+    },
+    {
+      "id": "b539c1d4a4a2321f",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "styleAttributes": {},
+      "x": 4280,
+      "y": 800,
+      "width": 1440,
+      "height": 810,
+      "label": "New Slide"
+    },
+    {
+      "id": "7b55fd3ee8630bca",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "styleAttributes": {},
+      "x": 2720,
+      "y": 800,
+      "width": 1350,
+      "height": 759,
+      "label": "New Slide"
+    },
+    {
+      "id": "508e8ff8a2df1987",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "isStartNode": true,
+      "styleAttributes": {},
+      "x": -810,
+      "y": -1760,
+      "width": 1200,
+      "height": 675,
+      "label": "Start Slide"
+    },
+    {
+      "id": "d89f5521d882d551",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "styleAttributes": {},
+      "x": -830,
+      "y": -360,
+      "width": 1200,
+      "height": 675,
+      "label": "New Slide"
+    },
+    {
+      "id": "6a01cc5826e499b7",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "styleAttributes": {},
+      "x": 920,
+      "y": -360,
+      "width": 1200,
+      "height": 675,
+      "label": "New Slide"
+    },
+    {
+      "id": "c331e89818117dc5",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 6180,
+      "y": 1180,
+      "width": 1080,
+      "height": 480,
+      "color": "4",
+      "label": "Thì người ấy chiếu sáng thế gian này"
+    },
+    {
+      "id": "3fefb3770a576b9a",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 5920,
+      "y": 1840,
+      "width": 920,
+      "height": 300,
+      "color": "1",
+      "label": "Giống như mặt trăng được thoát khỏi mây"
+    },
+    {
+      "id": "b01fc009e7f2bb8a",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 6320,
+      "y": 1340,
+      "width": 920,
+      "height": 300,
+      "color": "1",
+      "label": "Giống như mặt trăng thoát khỏi mây"
+    },
+    {
+      "id": "23729f0a104712a8",
+      "type": "text",
+      "text": "# Cấu trúc: Yo... So...\nCó thể là cấu trúc tương quan",
+      "styleAttributes": {},
+      "x": 2780,
+      "y": 380,
+      "width": 560,
+      "height": 130
+    },
+    {
+      "id": "91eee44065dc210e",
+      "type": "text",
+      "text": "# Người nào là người từng dễ duôi trong quá khứ\n## Sau đó, Người ấy KHÔNG dễ duôi",
+      "styleAttributes": {},
+      "x": 3470,
+      "y": 380,
+      "width": 810,
+      "height": 130
+    },
+    {
+      "id": "fe3856b8d21f0ebd",
+      "type": "text",
+      "text": "# pacchā\nADV. Sau đó",
+      "styleAttributes": {},
+      "x": 3636,
+      "y": 195,
+      "width": 260,
+      "height": 120
+    },
+    {
+      "id": "cc7544ee5b9c92be",
+      "type": "text",
+      "text": "# Pubbe\nADV. Trong quá khứ",
+      "styleAttributes": {},
+      "x": 3776,
+      "y": -17,
+      "width": 260,
+      "height": 100
+    },
+    {
+      "id": "1f53e2ec9d0d8f94",
+      "type": "text",
+      "text": "# Pubbe\nADV. Trong quá khứ",
+      "styleAttributes": {},
+      "x": -60,
+      "y": 40,
+      "width": 260,
+      "height": 100
+    },
+    {
+      "id": "a40b79b941f779fd",
+      "type": "text",
+      "text": "## Câu này chưa có động từ chính!! ",
+      "styleAttributes": {},
+      "x": -60,
+      "y": 207,
+      "width": 380,
+      "height": 93
+    },
+    {
+      "id": "06ce90bcaeed5457",
+      "type": "text",
+      "text": "# **Pamajjati**\nV. HT. MTC - Dễ duôi\n## pamajjitvā = Pamajja + itvā\nV. Bất biến",
+      "styleAttributes": {},
+      "x": -540,
+      "y": -60,
+      "width": 400,
+      "height": 240
+    },
+    {
+      "id": "0abaeac82d34cdb4",
+      "type": "text",
+      "text": "## Người nào từng dễ duôi trong quá khứ",
+      "styleAttributes": {},
+      "x": -820,
+      "y": 225,
+      "width": 460,
+      "height": 75
+    },
+    {
+      "id": "00cdafb973895af7",
+      "type": "text",
+      "text": "## pamajjitvā = Pamajja + itvā\nV. Bất biến",
+      "styleAttributes": {},
+      "x": 3636,
+      "y": -137,
+      "width": 400,
+      "height": 100
+    },
+    {
+      "id": "1fd4c13a64e4333e",
+      "type": "text",
+      "text": "# nappamajjati",
+      "styleAttributes": {},
+      "x": 3450,
+      "y": 83,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "fde156a953ba9ee4",
+      "type": "text",
+      "text": "# So",
+      "styleAttributes": {},
+      "x": 2990,
+      "y": 83,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "d39f8211aeb9e14e",
+      "type": "text",
+      "text": "# Cấu trúc: Yo... So...\nCó thể là cấu trúc tương quan",
+      "styleAttributes": {},
+      "x": 1040,
+      "y": 110,
+      "width": 560,
+      "height": 130
+    },
+    {
+      "id": "fc7708f3f02571ab",
+      "type": "text",
+      "text": "# Yo\nĐTQH. CC",
+      "styleAttributes": {},
+      "x": 2990,
+      "y": -203,
+      "width": 146,
+      "height": 110,
+      "color": "2"
+    },
+    {
+      "id": "4aa0b287b2ae3345",
+      "type": "text",
+      "text": "# (puriso)",
+      "styleAttributes": {},
+      "x": 3340,
+      "y": -178,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "6eea2ce9bc295b7f",
+      "type": "text",
+      "text": "#  yo ca pubbe pamajjitvā, pacchā so nappamajjati.",
+      "styleAttributes": {},
+      "x": 2750,
+      "y": -320,
+      "width": 820,
+      "height": 97
+    },
+    {
+      "id": "a30b087b712e71d9",
+      "type": "text",
+      "text": "# Ca\nPhụ. Và, Hoặc",
+      "styleAttributes": {},
+      "x": 3736,
+      "y": -312,
+      "width": 200,
+      "height": 89
+    },
+    {
+      "id": "dd7cdc20fbb50e31",
+      "type": "text",
+      "text": "#  yo ca pubbe pamajjitvā, pacchā so nappamajjati.",
+      "styleAttributes": {},
+      "x": 990,
+      "y": -320,
+      "width": 820,
+      "height": 97
+    },
+    {
+      "id": "591d9d53b35ef6f2",
+      "type": "text",
+      "text": "# So",
+      "styleAttributes": {},
+      "x": 1090,
+      "y": -120,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "b5ed45ef4b16b442",
+      "type": "text",
+      "text": "# nappamajjati\nNegleck - Sao lãng, cẩu thả, không chú ý,..",
+      "styleAttributes": {},
+      "x": 1550,
+      "y": -200,
+      "width": 260,
+      "height": 140
+    },
+    {
+      "id": "bad38810ede51184",
+      "type": "text",
+      "text": "# pacchā\nADV. Sau đó",
+      "styleAttributes": {},
+      "x": 1690,
+      "y": 20,
+      "width": 260,
+      "height": 120
+    },
+    {
+      "id": "f3f9aeb9948a778a",
+      "type": "text",
+      "text": "# **Đoạn kinh 8 (Dhp)**\n\n  \n\n# yo ca pubbe pamajjitvā, pacchā so nappamajjati.\n\n# somaṃ lokaṃ pabhāseti, abbhā muttova candimā.",
+      "styleAttributes": {},
+      "x": -600,
+      "y": -1520,
+      "width": 800,
+      "height": 240
+    },
+    {
+      "id": "9897985f32d6a2bd",
+      "type": "text",
+      "text": "# Ca\nPhụ. Và, Hoặc",
+      "styleAttributes": {},
+      "x": -820,
+      "y": -182,
+      "width": 200,
+      "height": 89
+    },
+    {
+      "id": "788c1c80e199615e",
+      "type": "text",
+      "text": "# Yo\nĐTQH. CC",
+      "styleAttributes": {},
+      "x": -560,
+      "y": -203,
+      "width": 146,
+      "height": 110,
+      "color": "2"
+    },
+    {
+      "id": "a50f1a229efa8d28",
+      "type": "text",
+      "text": "#  yo ca pubbe pamajjitvā, pacchā so nappamajjati.",
+      "styleAttributes": {},
+      "x": -800,
+      "y": -320,
+      "width": 820,
+      "height": 97
+    },
+    {
+      "id": "3e449c11b10e33f7",
+      "type": "text",
+      "text": "# Những chúng sinh nào có trí tuệ, Những chúng sinh đó thì ít ỏi",
+      "styleAttributes": {},
+      "x": -820,
+      "y": 480,
+      "width": 1190,
+      "height": 120
+    },
+    {
+      "id": "ce2f4bb64513e056",
+      "type": "text",
+      "text": "# Người ấy Giống như...",
+      "styleAttributes": {},
+      "x": 4480,
+      "y": 1406,
+      "width": 260,
+      "height": 123
+    },
+    {
+      "id": "348c8f7ebb001ebd",
+      "type": "text",
+      "text": "# Đặc tính D",
+      "styleAttributes": {},
+      "x": 4980,
+      "y": 1438,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "43e4fcf92a10b2b3",
+      "type": "text",
+      "text": "# (Thì) Người ấy",
+      "styleAttributes": {},
+      "x": 4480,
+      "y": 1227,
+      "width": 260,
+      "height": 93
+    },
+    {
+      "id": "17d73da0cc96257c",
+      "type": "text",
+      "text": "# Có đặc tính C",
+      "styleAttributes": {},
+      "x": 4980,
+      "y": 1244,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "adc3c4b2264c69d8",
+      "type": "text",
+      "text": "# Người nào",
+      "styleAttributes": {},
+      "x": 4480,
+      "y": 917,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "1111d1f5784e9b30",
+      "type": "text",
+      "text": "# Có đặc tính A",
+      "styleAttributes": {},
+      "x": 4960,
+      "y": 917,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "e54ddcde49f559f3",
+      "type": "text",
+      "text": "# Có đặc tính B",
+      "styleAttributes": {},
+      "x": 4960,
+      "y": 1077,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "5fdfe426e51df0dc",
+      "type": "text",
+      "text": "# Người ấy",
+      "styleAttributes": {},
+      "x": 4610,
+      "y": 1077,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "c037aa8ae652ab80",
+      "type": "text",
+      "text": "# Trước đây tôi đã quét rác trong lúc dễ duôi, nhưng bây giờ tôi không còn dễ duôi quét rác nữa.",
+      "styleAttributes": {},
+      "x": 7000,
+      "y": 2420,
+      "width": 260,
+      "height": 840
+    },
+    {
+      "id": "1d0ce3a90ae892c5",
+      "type": "text",
+      "text": "## Dhp 172.  \n## _Ai sống trước buông lung,_  \n## _Sau sống không phóng dật,_  \n## _Chói sáng rực đời này._  \n## _Như trăng thoát mây che._  \n|||||||||||||||||||||||||||||||\n## _Yo ca pubbe pamajjitvā,_  \n## _pacchā so nappamajjati;_  \n## _Somaṁ lokaṁ pabhāseti,_  \n## _abbhā muttova candimā._",
+      "styleAttributes": {},
+      "x": 7360,
+      "y": 2420,
+      "width": 480,
+      "height": 840
+    },
+    {
+      "id": "5fc2d61cab3e3072",
+      "type": "text",
+      "text": "### yo ca pubbe pamajjitvā,\n### pacchā so nappamajjati;\n### somaṁ lokaṁ pabhāseti,\n### abbhā muttova candimā.\n\n### He, who has been unmindful,\n### But is mindful later on;\n### Lights up the world,\n### As does the moon freed from clouds.\n\n### Dhammapada 172",
+      "styleAttributes": {},
+      "x": 6100,
+      "y": 2420,
+      "width": 580,
+      "height": 940
+    },
+    {
+      "id": "beb222b6c9ddd67c",
+      "type": "text",
+      "text": "# mutto\nThoát khỏi",
+      "styleAttributes": {},
+      "x": 6740,
+      "y": 1520,
+      "width": 160,
+      "height": 100
+    },
+    {
+      "id": "01b0f1c06b499827",
+      "type": "text",
+      "text": "# Abbhā",
+      "styleAttributes": {},
+      "x": 6940,
+      "y": 1560,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "e109ee0abdb4e76a",
+      "type": "text",
+      "text": "# iva",
+      "styleAttributes": {},
+      "x": 6360,
+      "y": 1440,
+      "width": 120,
+      "height": 60
+    },
+    {
+      "id": "c00efbea85bc9564",
+      "type": "text",
+      "text": "# Candimā",
+      "styleAttributes": {},
+      "x": 6640,
+      "y": 1440,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "7115456b98605cec",
+      "type": "text",
+      "text": "# abbhā muttova candimā.",
+      "styleAttributes": {},
+      "x": 6340,
+      "y": 1360,
+      "width": 460,
+      "height": 60
+    },
+    {
+      "id": "7f9a9a6693f85082",
+      "type": "file",
+      "file": "5. Storage/Pháp cú 170-173.png",
+      "styleAttributes": {},
+      "x": 9120,
+      "y": 2420,
+      "width": 1757,
+      "height": 1215
+    },
+    {
+      "id": "64f1b2109f042d5b",
+      "type": "text",
+      "text": "# 2. Sau đó  Người ấy KHÔNG dễ duôi ",
+      "styleAttributes": {},
+      "x": 6200,
+      "y": 980,
+      "width": 960,
+      "height": 74
+    },
+    {
+      "id": "9ee9a8a9020717ee",
+      "type": "text",
+      "text": "# 1. Người nào từng dễ duôi trong quá khứ",
+      "styleAttributes": {},
+      "x": 6200,
+      "y": 840,
+      "width": 1040,
+      "height": 94
+    },
+    {
+      "id": "1bdb139da72b8b49",
+      "type": "text",
+      "text": "# abbhā muttova candimā.",
+      "styleAttributes": {},
+      "x": 5940,
+      "y": 1860,
+      "width": 460,
+      "height": 60
+    },
+    {
+      "id": "d062ab0d840b04a3",
+      "type": "text",
+      "text": "# iva",
+      "styleAttributes": {},
+      "x": 5960,
+      "y": 1940,
+      "width": 120,
+      "height": 60
+    },
+    {
+      "id": "91bfbf8aa5994793",
+      "type": "text",
+      "text": "# Candimā",
+      "styleAttributes": {},
+      "x": 6140,
+      "y": 1940,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "120e6bb9061f79f3",
+      "type": "text",
+      "text": "# mutto\nThoát khỏi",
+      "styleAttributes": {},
+      "x": 6540,
+      "y": 1900,
+      "width": 160,
+      "height": 100
+    },
+    {
+      "id": "3c80600238e1dddb",
+      "type": "text",
+      "text": "# Abbhā",
+      "styleAttributes": {},
+      "x": 6540,
+      "y": 2060,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "5d724fc01f6afcb4",
+      "type": "text",
+      "text": "# 3. Người ấy CHIẾU SÁNG thế gian này",
+      "styleAttributes": {},
+      "x": 6200,
+      "y": 1200,
+      "width": 960,
+      "height": 79
+    },
+    {
+      "id": "a8f3045da199e9ed",
+      "type": "text",
+      "text": "# Người ấy sáng chói thế gian này",
+      "styleAttributes": {},
+      "x": 2760,
+      "y": 1377,
+      "width": 980,
+      "height": 120
+    },
+    {
+      "id": "b22fdc8ba7a1341b",
+      "type": "text",
+      "text": "# somaṃ = so + imaṃ",
+      "styleAttributes": {},
+      "x": 2760,
+      "y": 1167,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "77809e6f6ce668f5",
+      "type": "text",
+      "text": "# Imaṃ\nĐại từ nhân xưng/chỉ định",
+      "styleAttributes": {},
+      "x": 3790,
+      "y": 1137,
+      "width": 260,
+      "height": 90
+    },
+    {
+      "id": "4ed2da7582704a3a",
+      "type": "text",
+      "text": "# lokaṃ",
+      "styleAttributes": {},
+      "x": 3660,
+      "y": 977,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "fefbb64cdf94a4b7",
+      "type": "text",
+      "text": "# pabhāseti\nV. HT. MTC - Sáng chói",
+      "styleAttributes": {},
+      "x": 3200,
+      "y": 957,
+      "width": 360,
+      "height": 120
+    },
+    {
+      "id": "35a4cd332c870b6f",
+      "type": "text",
+      "text": "# So",
+      "styleAttributes": {},
+      "x": 2760,
+      "y": 967,
+      "width": 260,
+      "height": 100
+    }
+  ],
+  "edges": [
+    {
+      "id": "35d5fb84013135b6",
+      "styleAttributes": {},
+      "fromNode": "b5ed45ef4b16b442",
+      "fromSide": "bottom",
+      "toNode": "bad38810ede51184",
+      "toSide": "left"
+    },
+    {
+      "id": "9d46e34bbec155d5",
+      "styleAttributes": {},
+      "fromNode": "591d9d53b35ef6f2",
+      "fromSide": "right",
+      "toNode": "b5ed45ef4b16b442",
+      "toSide": "left"
+    },
+    {
+      "id": "2d9fa97f34a62793",
+      "styleAttributes": {},
+      "fromNode": "788c1c80e199615e",
+      "fromSide": "bottom",
+      "toNode": "06ce90bcaeed5457",
+      "toSide": "left"
+    },
+    {
+      "id": "ce69c84c882a8f99",
+      "styleAttributes": {},
+      "fromNode": "06ce90bcaeed5457",
+      "fromSide": "bottom",
+      "toNode": "1f53e2ec9d0d8f94",
+      "toSide": "left"
+    },
+    {
+      "id": "0a791f20471f1257",
+      "styleAttributes": {},
+      "fromNode": "4ed2da7582704a3a",
+      "fromSide": "bottom",
+      "toNode": "77809e6f6ce668f5",
+      "toSide": "left"
+    },
+    {
+      "id": "2faacc8b465243f5",
+      "styleAttributes": {},
+      "fromNode": "35a4cd332c870b6f",
+      "fromSide": "right",
+      "toNode": "fefbb64cdf94a4b7",
+      "toSide": "left"
+    },
+    {
+      "id": "3289db0aeb369452",
+      "styleAttributes": {},
+      "fromNode": "fefbb64cdf94a4b7",
+      "fromSide": "right",
+      "toNode": "4ed2da7582704a3a",
+      "toSide": "left"
+    },
+    {
+      "id": "7b025651f7c968ce",
+      "styleAttributes": {},
+      "fromNode": "508e8ff8a2df1987",
+      "fromSide": "left",
+      "toNode": "d89f5521d882d551",
+      "toSide": "left"
+    },
+    {
+      "id": "d26adc3c30f5fabd",
+      "styleAttributes": {},
+      "fromNode": "d89f5521d882d551",
+      "fromSide": "right",
+      "toNode": "6a01cc5826e499b7",
+      "toSide": "left"
+    },
+    {
+      "id": "d972fb197cd819db",
+      "styleAttributes": {},
+      "fromNode": "103ca17e05bde674",
+      "fromSide": "bottom",
+      "toNode": "7b55fd3ee8630bca",
+      "toSide": "top"
+    },
+    {
+      "id": "dd62c61dbb765918",
+      "styleAttributes": {},
+      "fromNode": "00cdafb973895af7",
+      "fromSide": "bottom",
+      "toNode": "cc7544ee5b9c92be",
+      "toSide": "left"
+    },
+    {
+      "id": "2d09a60218ac1fb2",
+      "styleAttributes": {},
+      "fromNode": "4aa0b287b2ae3345",
+      "fromSide": "bottom",
+      "toNode": "00cdafb973895af7",
+      "toSide": "left"
+    },
+    {
+      "id": "3d5aaa82154ebec4",
+      "styleAttributes": {},
+      "fromNode": "6a01cc5826e499b7",
+      "fromSide": "right",
+      "toNode": "103ca17e05bde674",
+      "toSide": "left"
+    },
+    {
+      "id": "62f48f5c7dc18b79",
+      "styleAttributes": {},
+      "fromNode": "fc7708f3f02571ab",
+      "fromSide": "right",
+      "toNode": "4aa0b287b2ae3345",
+      "toSide": "left",
+      "label": "hoti"
+    },
+    {
+      "id": "9b22794e75204c9e",
+      "styleAttributes": {},
+      "fromNode": "fde156a953ba9ee4",
+      "fromSide": "right",
+      "toNode": "1fd4c13a64e4333e",
+      "toSide": "left"
+    },
+    {
+      "id": "7b90f4ee0d82fa75",
+      "styleAttributes": {},
+      "fromNode": "1fd4c13a64e4333e",
+      "fromSide": "bottom",
+      "toNode": "fe3856b8d21f0ebd",
+      "toSide": "left"
+    },
+    {
+      "id": "632a0d617b34c3d6",
+      "styleAttributes": {},
+      "fromNode": "fde156a953ba9ee4",
+      "fromSide": "left",
+      "toNode": "fc7708f3f02571ab",
+      "toSide": "left"
+    },
+    {
+      "id": "b9ab1240140f66d2",
+      "styleAttributes": {},
+      "fromNode": "adc3c4b2264c69d8",
+      "fromSide": "right",
+      "toNode": "1111d1f5784e9b30",
+      "toSide": "left"
+    },
+    {
+      "id": "0b0297d8b6b45c05",
+      "styleAttributes": {},
+      "fromNode": "5fdfe426e51df0dc",
+      "fromSide": "right",
+      "toNode": "e54ddcde49f559f3",
+      "toSide": "left"
+    },
+    {
+      "id": "bb1b60098af19573",
+      "styleAttributes": {},
+      "fromNode": "43e4fcf92a10b2b3",
+      "fromSide": "right",
+      "toNode": "17d73da0cc96257c",
+      "toSide": "left"
+    },
+    {
+      "id": "9da2926b218163f2",
+      "styleAttributes": {},
+      "fromNode": "adc3c4b2264c69d8",
+      "fromSide": "bottom",
+      "toNode": "5fdfe426e51df0dc",
+      "toSide": "left",
+      "label": "Rồi"
+    },
+    {
+      "id": "0e749d90be2fc9a1",
+      "styleAttributes": {},
+      "fromNode": "7b55fd3ee8630bca",
+      "fromSide": "right",
+      "toNode": "b539c1d4a4a2321f",
+      "toSide": "left"
+    },
+    {
+      "id": "8675a05e9bbc3f65",
+      "styleAttributes": {},
+      "fromNode": "ce2f4bb64513e056",
+      "fromSide": "right",
+      "toNode": "348c8f7ebb001ebd",
+      "toSide": "left"
+    },
+    {
+      "id": "aff602e4e54c4c6e",
+      "styleAttributes": {},
+      "fromNode": "b539c1d4a4a2321f",
+      "fromSide": "right",
+      "toNode": "a91847823455afd1",
+      "toSide": "left"
+    },
+    {
+      "id": "8c3aaa066a24c899",
+      "styleAttributes": {},
+      "fromNode": "e109ee0abdb4e76a",
+      "fromSide": "right",
+      "toNode": "c00efbea85bc9564",
+      "toSide": "left"
+    },
+    {
+      "id": "19a179e2c39a7e0f",
+      "styleAttributes": {},
+      "fromNode": "c00efbea85bc9564",
+      "fromSide": "bottom",
+      "toNode": "beb222b6c9ddd67c",
+      "toSide": "left"
+    },
+    {
+      "id": "0591b0fbe95bf8b1",
+      "styleAttributes": {},
+      "fromNode": "beb222b6c9ddd67c",
+      "fromSide": "right",
+      "toNode": "01b0f1c06b499827",
+      "toSide": "left"
+    },
+    {
+      "id": "ccfa67af2a9b29e3",
+      "styleAttributes": {},
+      "fromNode": "d062ab0d840b04a3",
+      "fromSide": "right",
+      "toNode": "91bfbf8aa5994793",
+      "toSide": "left"
+    },
+    {
+      "id": "1683050aa344ef06",
+      "styleAttributes": {},
+      "fromNode": "91bfbf8aa5994793",
+      "fromSide": "bottom",
+      "toNode": "120e6bb9061f79f3",
+      "toSide": "left",
+      "label": "hoti"
+    },
+    {
+      "id": "a322d8a74bc82d1a",
+      "styleAttributes": {},
+      "fromNode": "120e6bb9061f79f3",
+      "fromSide": "bottom",
+      "toNode": "3c80600238e1dddb",
+      "toSide": "left"
+    },
+    {
+      "id": "a699fe4dc4005e14",
+      "styleAttributes": {},
+      "fromNode": "a91847823455afd1",
+      "fromSide": "right",
+      "toNode": "b18b6efb6be580ae",
+      "toSide": "top"
+    },
+    {
+      "id": "9c0ad093d1f590b2",
+      "styleAttributes": {},
+      "fromNode": "b18b6efb6be580ae",
+      "fromSide": "right",
+      "toNode": "aff4e8045bf7258e",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {}
+}
